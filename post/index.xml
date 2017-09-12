@@ -23,11 +23,53 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
+      <title>Curry</title>
+      <link>/2017/09/12/curry/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/12/curry/</guid>
+      <description>Curry &amp;lt;- read.csv(&amp;quot;https://raw.githubusercontent.com/centerandspread/centerandspread.github.io/master/data/Curry.csv&amp;quot;) A list of general descriptives.
+summary(Curry) ## PLAYER GAME_DATE W_L MIN PTS ## Stephen Curry:79 1/10/17: 1 L:14 Min. :27.00 Min. : 8.0 ## 1/12/17: 1 W:65 1st Qu.:30.00 1st Qu.:20.5 ## 1/16/17: 1 Median :34.00 Median :25.0 ## 1/18/17: 1 Mean :33.37 Mean :25.3 ## 1/2/17 : 1 3rd Qu.:36.00 3rd Qu.:29.0 ## 1/20/17: 1 Max. :42.00 Max. :46.0 ## (Other):73 ## FGM FGA FG_PCT X3PM ## Min.</description>
+    </item>
+    
+    <item>
       <title>Trial</title>
       <link>/2017/09/11/trial/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/09/11/trial/</guid>
+      <description>data &amp;lt;- read.csv(&amp;quot;https://raw.githubusercontent.com/centerandspread/centerandspread.github.io/master/data/RaceData.csv&amp;quot;) A list of general descriptives.
+summary(data) ## Place Name City State Age ## Min. : 1 Beth : 3 Winchester :49 CR: 1 Min. : 5.00 ## 1st Qu.: 46 Hannah : 3 Nortonville:30 CT: 1 1st Qu.:19.00 ## Median : 91 Aaron : 2 Atchison :21 KS:173 Median :28.00 ## Mean : 91 Derek : 2 Lawrence :11 MO: 3 Mean :32.13 ## 3rd Qu.:136 Donna : 2 Shawnee :11 MX: 2 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing</title>
+      <link>/2017/09/11/visualizing/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/11/visualizing/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+RaceData &amp;lt;- read_csv(&amp;quot;https://raw.githubusercontent.com/centerandspread/centerandspread.github.io/master/data/RaceData.csv&amp;quot;) head(RaceData) summary(RaceData) You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.</description>
+    </item>
+    
+    <item>
+      <title>show</title>
+      <link>/2017/09/11/show/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/11/show/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+library(readr) ## Warning: package &amp;#39;readr&amp;#39; was built under R version 3.3.2 RaceData &amp;lt;- read_csv(&amp;quot;https://raw.githubusercontent.com/centerandspread/centerandspread.github.io/master/data/RaceData.csv&amp;quot;) ## Parsed with column specification: ## cols( ## Place = col_integer(), ## Name = col_character(), ## City = col_character(), ## State = col_character(), ## Age = col_integer(), ## Gender = col_character(), ## Time = col_time(format = &amp;quot;&amp;quot;), ## Pace = col_time(format = &amp;quot;&amp;quot;) ## ) ## Warning in rbind(names(probs), probs_f): number of columns of result is not ## a multiple of vector length (arg 1) ## Warning: 164 parsing failures.</description>
+    </item>
+    
+    <item>
+      <title>show</title>
+      <link>/2017/09/11/show/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/11/show/</guid>
       <description></description>
     </item>
     
@@ -48,15 +90,6 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/</guid>
-      <description>Visualizing       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .</description>
     </item>
     
     <item>
