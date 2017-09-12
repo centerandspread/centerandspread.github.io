@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.26" />
+
+
+<title>show - Data Analysis: Statistics for Noobs</title>
+<meta property="og:title" content="show - Data Analysis: Statistics for Noobs">
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="https://github.com/rstudio/blogdown">GitHub</a></li>
+    
+    <li><a href="https://twitter.com/rstudio">Twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">0 min read</span>
+    
+
+    <h1 class="article-title">show</h1>
+
+    
+    <span class="article-date">2017/09/11</span>
+    
+
+    <div class="article-content">
+      
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+
+:</p>
+<pre class="r"><code>library(readr)
+## Warning: package &#39;readr&#39; was built under R version 3.3.2
+RaceData &lt;- read_csv(&quot;https://raw.githubusercontent.com/centerandspread/centerandspread.github.io/master/data/RaceData.csv&quot;)
+## Parsed with column specification:
+## cols(
+##   Place = col_integer(),
+##   Name = col_character(),
+##   City = col_character(),
+##   State = col_character(),
+##   Age = col_integer(),
+##   Gender = col_character(),
+##   Time = col_time(format = &quot;&quot;),
+##   Pace = col_time(format = &quot;&quot;)
+## )
+## Warning in rbind(names(probs), probs_f): number of columns of result is not
+## a multiple of vector length (arg 1)
+## Warning: 164 parsing failures.
+## row # A tibble: 5 x 5 col     row   col   expected   actual expected   &lt;int&gt; &lt;chr&gt;      &lt;chr&gt;    &lt;chr&gt; actual 1    18  Time valid date 24:06:00 file 2    19  Time valid date 24:26:00 row 3    20  Time valid date 24:26:00 col 4    21  Time valid date 24:26:00 expected 5    22  Time valid date 25:11:00 actual # ... with 1 more variables: file &lt;chr&gt;
+## ... ................. ... ................................. ........ ................................. ...... ................................. .... ................................. ... ................................. ... ................................. ........ ................................. ...... .......................................
+## See problems(...) for more details.
+head(RaceData)
+## # A tibble: 6 x 8
+##   Place    Name        City State   Age Gender     Time     Pace
+##   &lt;int&gt;   &lt;chr&gt;       &lt;chr&gt; &lt;chr&gt; &lt;int&gt;  &lt;chr&gt;   &lt;time&gt;   &lt;time&gt;
+## 1     1 Anthony Kansas City    KS    27      M 18:36:00 06:00:00
+## 2     2    John Leavenworth    KS    29      M 18:46:00 06:03:14
+## 3     3 Ignacio    Lawrence    KS    19      M 19:02:00 06:08:23
+## 4     4  Jeremy      Olathe    KS    27      M 19:44:00 06:21:56
+## 5     5 Spencer Nortonville    KS    18      M 19:49:00 06:23:33
+## 6     6  Thomas Nortonville    KS    26      M 20:42:00 06:40:39
+summary(RaceData)
+##      Place         Name               City              State          
+##  Min.   :  1   Length:181         Length:181         Length:181        
+##  1st Qu.: 46   Class :character   Class :character   Class :character  
+##  Median : 91   Mode  :character   Mode  :character   Mode  :character  
+##  Mean   : 91                                                           
+##  3rd Qu.:136                                                           
+##  Max.   :181                                                           
+##       Age           Gender              Time              Pace         
+##  Min.   : 5.00   Length:181         Length:181        Length:181       
+##  1st Qu.:19.00   Class :character   Class1:hms        Class1:hms       
+##  Median :28.00   Mode  :character   Class2:difftime   Class2:difftime  
+##  Mean   :32.13                      Mode  :numeric    Mode  :numeric   
+##  3rd Qu.:46.00                                                         
+##  Max.   :73.00</code></pre>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/highlight.min.js"></script>
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/r.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/yaml.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+
+    
+  </body>
+</html>
+
