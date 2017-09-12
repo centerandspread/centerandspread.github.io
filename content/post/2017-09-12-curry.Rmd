@@ -1,0 +1,34 @@
+---
+title: Curry
+author: ~
+date: '2017-09-12'
+slug: curry
+categories: []
+tags: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r}
+Curry <- read.csv("https://raw.githubusercontent.com/centerandspread/centerandspread.github.io/master/data/Curry.csv")
+```
+
+A list of general descriptives.
+
+```{r}
+summary(Curry)
+```
+
+Stephen Curry's 3-point shooting percentage for each game in the 2016-2017 season. Is he streaky, or consistent? How can you tell?
+
+```{r}
+print(Curry$X3P_PCT)
+```
+
+A histogram can help us "see" this data a whole lot better.
+
+```{r}
+hist(Curry$X3P_PCT)
+```
