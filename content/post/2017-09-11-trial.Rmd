@@ -1,0 +1,9 @@
+---
+title: Trial
+author: Derek Hanson
+date: '2017-09-11'
+slug: trial
+categories: []
+tags: []
+---
+
