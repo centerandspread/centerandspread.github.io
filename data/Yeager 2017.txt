@@ -1,0 +1,711 @@
+See	discussions,	stats,	and	author	profiles	for	this	publication	at:	https://www.researchgate.net/publication/316049019
+
+Dealing	With	Social	Difficulty	During
+Adolescence:	The	Role	of	Implicit	Theories	of
+Personality
+Article		in		Child	Development	Perspectives	·	April	2017
+DOI:	10.1111/cdep.12234
+
+CITATION
+
+READS
+
+1
+
+202
+
+1	author:
+David	S.	Yeager
+University	of	Texas	at	Austin
+41	PUBLICATIONS			1,482	CITATIONS			
+SEE	PROFILE
+
+Some	of	the	authors	of	this	publication	are	also	working	on	these	related	projects:
+
+Online	panels	data	quality	View	project
+
+All	content	following	this	page	was	uploaded	by	David	S.	Yeager	on	13	April	2017.
+The	user	has	requested	enhancement	of	the	downloaded	file.
+
+CHILD DEVELOPMENT PERSPECTIVES
+
+Dealing With Social Difficulty During Adolescence:
+The Role of Implicit Theories of Personality
+David S. Yeager
+University of Texas at Austin
+
+ABSTRACT—Social
+
+difficulty during adolescence contributes to internalizing problems (e.g., depression, stress)
+and spurs cycles of aggression and retaliation. In this article, I review how implicit theories of personality—beliefs
+about whether people can change their socially relevant
+characteristics—cause some adolescents to respond to
+social difficulty in these ways while others do not. Believing an entity theory of personality—the belief that people
+cannot change—causes people to blame their own and
+others’ traits for social difficulty, and predicts more
+extreme affective, physiological, and behavioral responses
+(e.g., depression, aggression). Interventions that teach an
+incremental theory of personality—the belief that people
+can change—can reduce problematic reactions to social
+difficulty. I discuss why interventions to alter implicit
+theories improve adolescents’ responses to conflict, and I
+propose suggestions for research.
+
+David S. Yeager, University of Texas at Austin Department of
+Psychology.
+Work on this article was supported by the Thrive Foundation for
+Youth, the Spencer Foundation, the Raikes Foundation, the William
+T. Grant Foundation, the Eunice Kennedy Shriver National Institute
+of Child Health and Human Development (award number
+R01HD084772), and a fellowship from the Center for Advanced
+Study in the Behavioral Sciences. The content does not necessarily
+represent the official view of the National Institutes of Health. I am
+grateful to Carol Dweck for her feedback on an earlier draft of the
+article, and to James Gross for suggesting the connections with the
+emotion-regulation process model. I also appreciate the contributions of all the students and teachers who participated in this
+research.
+Correspondence concerning this article should be addressed to
+David S. Yeager, University of Texas at Austin, 108 E. Dean Keeton
+Stop A8000, Austin, TX 78712-1043; e-mail: dyeager@utexas.edu.
+
+KEYWORDS—implicit
+
+theories; coping; adolescence; mental
+representations; social-cognitive development; psychological
+intervention
+
+Why do some young people respond to social difficulties such
+as peer victimization and exclusion with despair or a thirst for
+revenge, while others find more productive ways of coping?1
+Adolescents suffer more when they blame their social difficulties
+on their flawed traits (3), and they want to lash out more when
+they conclude their peers are fundamentally bad people who
+deserve to suffer (4). These fixed-trait attributions are problematic in part because of what they portend. Illustrating this, a
+ninth-grade student once asked me, “If my friends make fun of
+me or don’t ask me to sit with them at lunch, does that mean I’ll
+have no friends for life? That they’ll make fun of me forever?”
+This is a stressful thought that might elicit extreme emotion or
+action.
+Our research has identified the mindsets, or implicit theories
+of personality, that can underlie such thoughts. Because implicit
+theories can be altered through intervention (and perhaps socialization), they represent one way to help adolescents deal more
+effectively with social difficulty. In this article, I review basic
+processes through which implicit theories shape responses to
+social difficulty, using the process model of emotion regulation
+(5) as an organizing framework. Next, I examine intervention
+studies that demonstrate causality and practical impact, followed
+by a discussion of promising areas for research.
+IMPLICIT THEORIES: HIGH SCHOOL SOCIAL LIFE
+FROM TWO PERSPECTIVES
+
+Implicit theories are beliefs about the malleability of human
+characteristics (6). According to an entity theory of personality,
+people’s socially relevant traits (e.g., whether they are mean or
+nice people, whether they are likable or not) are fixed and
+
+© 2017 The Authors
+Child Development Perspectives © 2017 The Society for Research in Child Development
+DOI: 10.1111/cdep.12234
+
+1
+For evidence that some adolescents develop internalizing and externalizing
+symptoms when they are victimized, see (1, 2).
+
+Volume 0, Number 0, 2017, Pages 1–6
+
+2
+
+David S. Yeager
+
+unchangeable. According to an incremental theory of personality, people can change their socially relevant traits. These
+implicit theories of personality—entity and incremental—can
+create different worldviews through which people interpret and
+respond to social conflicts with peers (e.g., victimization and
+exclusion; 7).2
+
+Table 1
+The Experience of Being Subjected to High School Social Conflict
+from Two Worldviews: Entity and Incremental Theories of
+Personality.
+
+Worldview
+The different implicit theories imply worldviews that shape the
+way we strive for goals. Adolescents who ascribe to an entity
+theory tend to endorse the goal of demonstrating social success
+or avoiding demonstrating social ineptitude (i.e., a performance
+approach or avoidance goal; 9, 10). This is because, if traits are
+fixed, it is threatening to be identified as lacking in social status
+or competence. However, those who ascribe to an incremental
+theory tend to endorse the goal of learning how to develop social
+competence or relationships (11). Often, adolescents pursue this
+goal by putting themselves in socially challenging situations
+where they can acquire more friendship skills or repair relationships with others (10, 12).
+The entity and incremental theories—and the social goals that
+emanate from them (13)—shape reactions to social difficulties
+like bullying, victimization, and exclusion. Consider how implicit theories affect each step in the process model of coping (5):
+Depending on what implicit theories of personality people
+believe, they may show different patterns of attention, appraisal,
+and responses when they face socially difficult situations (see
+Table 1 and Figure 1).
+
+Worldview
+Beliefs
+Goals
+
+Attention and Information-Seeking
+Implicit theories affect the kinds of information people think is
+relevant to their social conflict. A person who ascribes to an
+incremental theory might ask: What was the person’s psychology
+—the person’s motivations, beliefs, thoughts, or feelings? By
+contrast, someone who ascribes to an entity theory might ask:
+What kind of person would do this (14, 15)?
+Moreover, for someone who ascribes to more of an entity theory and prioritizes the goal of demonstrating social competence
+or status, attention is allocated more toward peers’ status and
+social rank or underlying traits (16; see Table 1, row 3). For
+instance, in one study, adolescents who believed in an entity
+theory more readily sorted the social world in terms of who was
+popular or unpopular rather than in terms of qualities like personal interests (17). Furthermore, when judging a person who
+harmed others, adolescents who believed in an entity theory
+
+2
+For this review, I do not differentiate implicit theories about the malleability of
+one’s own versus others’ traits. In our experience, the two go hand in hand. When
+we feel our own traits are fixed, we expect that others will treat us the same way
+forever. When we feel others’ traits are fixed, it can lead to the same conclusion.
+Although in general, the closer an implicit theory is to the domain of the outcome,
+the more predictive it will be (8), we have not yet found different associations for
+self theories of personality versus other theories. To reflect the state of the evidence so far, I discuss them jointly.
+
+Entity theory of
+personality
+
+Attention
+
+Appraisal
+Attributions
+
+Predictions
+Resource
+appraisal
+
+Response
+Physiology
+
+Emotion
+Internalizing
+
+Externalizing
+
+Incremental
+theory of
+personality
+
+People cannot change
+Demonstrate social
+competence (or avoid
+social catastrophe)
+Status and social rank;
+trait-revealing
+information
+
+People can change
+Develop social
+relationships
+
+Perpetrator was “mean
+on purpose” due to
+fixed traits of the self
+(“I’m not likable”) and
+of the perpetrator
+(“he’s a bad person”)
+
+The perpetrator
+had psychological
+reasons, or
+extenuating
+circumstances,
+for his or her
+behavior
+Negative events
+can improve
+Challenge: I have
+or can acquire
+the resources to
+overcome
+a difficult situation
+
+Negative events will
+always stay this way
+Threat: No amount of
+resources can help me
+overcome a difficult
+situation
+
+Threat: Constriction of
+blood vessels, less
+efficient heart,
+greater cortisol
+Shame, humiliation,
+hatred
+Depression, stress,
+and hopelessness
+Aggression and
+desire for revenge
+
+Personal interests
+and values;
+psychological and
+situational
+information
+
+Challenge: Less
+constriction of
+blood vessels,
+more efficient
+heart, less cortisol
+Sadness, anger
+Active problem
+solving and
+optimism
+Confrontation
+(with intent to
+change),
+reconciliation,
+or moving on
+
+expressed a desire to know more about the person’s traits, while
+those who ascribed to an incremental theory wanted to know
+more about the situation in which the harm occurred (15).
+Appraisal
+Implicit theories affect appraisals at several levels of analysis
+(see Table 1, row 4, and Figure 1). They shape attributions for
+cause and effect, and these attributions can affect judgments of
+
+Child Development Perspectives, Volume 0, Number 0, 2017, Pages 1–6
+
+Implicit Theories of Personality
+
+A High School Transition Linear Model
+Uncertain
+hierarchy +
+drive for status
+Situation (S):
+Social exclusion,
+insults, rumors, or
+reputational aggression
+
+3
+
+Belief that
+people cannot
+change
++
++
+
+Appraisal (Ap):
+Attention (At):
+Response (R):
+Attributing
+Anticipating
+Aggression or
+to fixed traits
+and noticing
+helplessness
+status threats (demands > resources)
+
+B High School Transition Developmental Process Model
+Belief that
+people cannot
+change
+(S)Popular peers (At)Notice that (Ap)Wonder if
+laugh at
+they are laughing they think you
+what you wear
+at you
+are a "loser"
+
+Uncertain
+hierarchy in
+high school +
+adolescent
+drive for
+status
+
+Acquaintances
+do not invite
+you to a party
+
+e
+Tim
+
+Wariness in taking
+risks to make
+friends
+
+(R)Feel
+ashamed,
+hate them
+
+Belief that
+people cannot
+change
+Notice that
+you were
+"left out"
+
+Worry that
+you are
+"not likable"
+
+Reduced social
+motivation
+
+Feel anxious
+and
+"stressed out"
+
+Belief that
+people cannot
+change
+
+People make
+fun of you for
+being a "loner"
+
+Notice
+the
+insults
+
+They are "bad people" Despair
+or desire
+who will always
+for revenge
+make fun of you
+
+Figure 1. A hypothesized recursive process model illustrating how an entity theory of personality (“belief that people cannot change”) could relate to less
+effective coping outcomes in response to peer social conflict during the transition to high school. Model based on (5).
+
+how demanding a stressor seems and whether one has the
+resources to deal with it. In a study, participants who ascribed
+to an entity theory were more likely to view an accidental conflict (e.g., a peer bumping into you in the hallway) as having
+been done intentionally to be mean (i.e., the hostile attributional
+bias; 18, 19). The same was true for participants who had a negative experience where hostile intent was unclear, such as ostracism during an online game of catch with two peers (i.e.,
+Cyberball; 19, 20). Ascribing to an entity theory also predicts
+trait-relevant attributions for both accidental and obviously
+intended conflicts. High school students who believed in an
+entity theory were more likely to say a peer who made fun of
+and embarrassed them was a bad person (4), and fifth-graders
+were more likely to wonder if failing socially with peers meant
+they were not likable (10). These kinds of fixed-trait attributions,
+in turn, create the perception that the bad things happening now
+can never change (see Table 1, row 5).
+New research has moved from intent and trait attributions to
+the appraisal processes commonly studied in the biopsychosocial model of challenge and threat (21, 22; see Table 1, row 6).
+Physiological responses to a stressor are shaped by whether
+individuals feel they have the resources to cope with the
+
+demands facing them (i.e., the ratio of perceived resources to
+perceived demand; 21, 22). Individuals experience threat when
+they appraise the demand as greater than the resources and
+challenge when they appraise the resources as sufficient to meet
+the demand.
+Belief in an entity theory predicts more of a threat appraisal
+to stressors—that is, it calls into question whether fixed traits
+are up to the task of social success. In two studies (23), an
+incremental theory of personality created less of a threat appraisal and more of a challenge appraisal, both in response to a
+stressor (having to give a speech to upperclass students about
+what makes someone popular) and to typical events in high
+school (as reported in a daily diary).
+Responses
+These different appraisals give rise to different responses
+depending on one’s implicit theory, again at many levels of analysis (see Table 1, rows 7–10). Physiologically, threat-type
+appraisals lead to cardiovascular and hormonal responses that
+prepare the body for damage and defeat: constricted blood vessels and secretion of cortisol (activation of the HPA axis; 21,
+22). Ascribing to an incremental theory, which promotes more
+
+Child Development Perspectives, Volume 0, Number 0, 2017, Pages 1–6
+
+4
+
+David S. Yeager
+
+challenge-type appraisals, reduces adolescents’ threat-type
+physiological responses when they are evaluated negatively by a
+peer (23; see also 24 for a replication).
+Furthermore, adolescents report different emotions after being
+victimized and excluded by peers, depending on the implicit
+theories to which they ascribe. Those with an entity theory of
+personality are more likely to report self-relevant emotions such
+as shame, humiliation, and hatred (4). These emotions differ
+from more situation-focused emotions such as anger or sadness
+because they stem from the judgment that a person’s core is
+flawed; with shame, the emotion stems from the belief that the
+self is bad (25), and with hatred, that another person’s core self
+is bad or evil (26). In one study, ascribing to an incremental theory reduced shame and hatred after serious bullying, but did not
+reduce anger or sadness (4). Thus, believing in an incremental
+theory does not make someone oblivious to the injustice of being
+victimized; victims are still sad and angry. However, believing
+in an incremental theory helps adolescents avoid destructive
+emotions like shame and hatred (26).
+Finally, the different coping processes created by implicit theories of personality sometimes translate into different overall
+levels of internalizing or externalizing responses (see Table 1,
+rows 7–10 and the bottom of Figure 1). In a meta-analysis,
+ascribing to an entity theory of personality predicted both
+depression and aggression in adolescence (27). In our studies,
+we gave adolescents hypothetical scenarios of bullying or victimization or put them in experimental situations in which they
+were excluded by peers (i.e. Cyberball; 20). In response to either
+situation, adolescents who ascribed to an entity theory expressed
+greater desire to retaliate and get revenge (4). Those who
+believed in an entity theory expected that getting revenge would
+make them feel better. In contrast, adolescents who believed in
+an incremental theory had less desire for aggression and less of
+an expectation that revenge would improve their mood (4).
+CHANGING IMPLICIT THEORIES THROUGH
+PSYCHOLOGICAL INTERVENTION
+
+Implicit theories of personality are typically stable because
+adults rarely teach such theories explicitly to young people.
+However, adolescents can be redirected toward more of an
+incremental theory with targeted interventions. When this happens, adolescents cope more effectively. Interventions designed
+to encourage adolescents to adopt an incremental theory of personality illustrate that people can change their socially relevant
+characteristics at any age, under the right conditions, and with
+the right support. The interventions contain three messages.
+First, they teach that people do not do things because of their
+labels (e.g., bully, jerk), but because of their thoughts and feelings, which are located in the brain. Second, an individual’s
+thoughts and feelings can change when the brain learns new
+ways to view and deal with the social world. Third, this potential
+for change means that people are not stuck being one way—that
+
+people who are mean, who bully, or who exclude are not going
+to act that way forever but, with the right support, can see that
+what they are doing is harmful, and then change. This can provide a basis for hope.
+In the interventions, these messages are wrapped in now-standard tactics for wise interventions—that is, ways to produce
+internalization of novel worldviews (28). The interventions use
+scientific authority (by summarizing neuroscientific findings),
+align the message with descriptive social norms (by presenting
+statistical information and narrative summaries of older students
+who endorse the view that people can change; 29), and implement saying-is-believing activities (by inviting participants to
+write a persuasive, comforting letter to a future, excluded student who might be bullied but not yet know that people can
+change; 30). The interventions are not passive (they do not tell
+adolescents what to think) but active (they ask adolescents to
+draw on personal wisdom and pass it on to others).
+The first intervention my colleagues and I conducted to introduce youth to the incremental theory of personality was a sixsession workshop in high school science classes at a low-income
+school (31). Our study featured two control groups—a group that
+took part in a six-session intervention that taught social-emotional coping skills (but no incremental theory) and a group that
+received no lessons on these topics. A month after the intervention, students who participated in the classroom workshops on
+incremental theory retaliated less toward a peer who excluded
+them (via Cyberball). Three and a half months later, those who
+took part in the workshop were nominated by their teachers (who
+were blind to condition) for having fewer conduct problems than
+students in the control groups (31). Students who were taught
+social-emotional coping skills showed no change in social behavior compared to the group that received no lessons (32). Critical
+for our theory, in the group that was taught the incremental theory of personality, the long-term effects were greatest among
+those who had the most social difficulty. That is, students’ conduct problems were reduced the most among those who reported
+they had been chronically victimized by peers (31).
+Subsequent interventions to promote an incremental theory
+have been more compact, involving a 30- to 45-minute selfadministered reading and writing exercise delivered on paper or
+via the Internet. In experiments in high schools, adolescents
+who received the incremental theory intervention coped with the
+social difficulties of moving to high school more productively
+than students who received a parallel control exercise. Treated
+adolescents reported less overall stress and earned higher grades
+during freshman year of high school, which can be a difficult
+time socially (23, 33). In another study, entering ninth-graders
+who took part in the incremental theory intervention showed
+40% fewer depressive symptoms 8–9 months after the intervention, and the effect was more prominent for those who started
+the year ascribing to an entity theory of personality (34, 35). In
+a replication study, this effect on internalizing symptoms did not
+generalize to a group of entering college students a month later
+
+Child Development Perspectives, Volume 0, Number 0, 2017, Pages 1–6
+
+Implicit Theories of Personality
+
+(34), but in a different replication study, the effect on physiological reactivity that precedes internalizing symptoms generalized
+to clinically referred adolescents (24). These initial results are
+encouraging enough to continue replications, but the intervention is not ready to be implemented at full scale.
+LOOKING AHEAD
+
+Researchers can continue this work by focusing on several areas
+and building on the unknown areas in the process model in Figure 1. First, can incremental theories of personality reduce bullying, not just responses to victimization and exclusion? Perhaps
+those who ascribe to an entity theory—believing that any instance
+of social failure would label them a loser forever—maintain a
+keen vigilance to threats to status, and then attack others’ status
+strategically and preemptively to preserve their own. If this is the
+case, an incremental theory intervention might dampen adolescents’ urges to harm others’ reputations by bullying them.
+Second, and relatedly, we know little about the behavioral and
+environmental mediators of treatments involving the incremental
+theory of personality. Do youth who take part in such interventions start making more friends, and do these stronger relationships with peers sustain the effects of the intervention (as
+suggested in Figure 1; also cf. 36)? Or are the relevant mediators solely internal to a young person’s psychology? Schoolbased research that replicates implicit theories interventions
+and assesses personal and situational moderators could address
+these and other possibilities outlined in Figure 1.
+Third, how can adults socialize young people to believe an
+incremental theory of personality? In the intelligence domain,
+telling children “You must be smart at that” communicated an
+entity theory of intelligence (37). Providing comforting words
+such as “It’s okay, not everybody can be good at math” encouraged hopelessness (38). In the personality domain, parents
+sometimes use phrases that invite fixed explanations for differences among people (39, 40), such as “Don’t worry, they’re just
+bullies” or “You’re a good person, they’re not.” This language
+may not provide relief if it promotes fixed-trait thinking. Indeed,
+in one study (41), a common message for LGBTQ youth who
+were bullied—the “It gets better” social media campaign—was
+that life improves because you can escape your hometown and
+move to San Francisco or New York, cities with more tolerant
+views of the LGBTQ community. This message increased despair for LGBTQ youth by implying that bullies can never
+change. It was only when youth were told that “it gets better”
+because society’s views can change over time and peer tormenters might become enlightened one day that LGBTQ youth
+felt comforted (41).
+CONCLUSION
+
+Research on implicit theories, applied to the social lives of
+adolescents, has helped explain differences in how adolescents
+
+5
+
+deal with peer victimization and exclusion, and has informed
+interventions. The next phase of research will investigate additional mechanisms, antecedents, and effects at scale across
+social contexts. Measures will hopefully improve. After this
+research, interventions involving the incremental theory of personality may help ameliorate some of the internalizing and
+externalizing consequences of social difficulty in adolescents.
+REFERENCES
+1. Reijntjes, A., Kamphuis, J. H., Prinzie, P., Boelen, P. A., Van
+der Schoot, M., & Telch, M. J. (2011). Prospective linkages
+between peer victimization and externalizing problems in children: A meta-analysis. Aggressive Behavior, 37, 215–222. doi:10.
+1002/ab.20374
+2. Reijntjes, A., Kamphuis, J. H., Prinzie, P., & Telch, M. J. (2010).
+Peer victimization and internalizing problems in children: A metaanalysis of longitudinal studies. Child Abuse & Neglect, 34, 244–
+252. doi:10.1016/j.chiabu.2009.07.009
+3. Graham, S., & Juvonen, J. (1998). Self-blame and peer victimization
+in middle school: An attributional analysis. Developmental Psychology, 34, 587–599. doi:10.1037/0012-1649.34.3.587
+4. Yeager, D. S., Trzesniewski, K. H., Tirri, K., Nokelainen, P., &
+Dweck, C. S. (2011). Adolescents’ implicit theories predict desire
+for vengeance after peer conflicts: Correlational and experimental
+evidence. Developmental Psychology, 47, 1090–1107. doi:10.1037/
+a0023769
+5. Gross, J. J. (2015). Emotion regulation: Current status and future
+prospects. Psychological Inquiry, 26, 1–26. doi:10.1080/1047840X.
+2014.940781
+6. Dweck, C. S., Chiu, C., & Hong, Y. (1995). Implicit theories and
+their role in judgments and reactions: A world from two perspectives. Psychological Inquiry, 6, 267–285. doi:10.1207/s15327965
+pli0604_1
+7. Molden, D. C., & Dweck, C. S. (2006). Finding “meaning” in psychology: A lay theories approach to self-regulation, social perception, and social development. American Psychologist, 61, 192–203.
+doi:10.1037/0003-066X.61.3.192
+8. Schroder, H. S., Dawood, S., Yalch, M. M., Donnellan, M. B., &
+Moser, J. S. (2016). Evaluating the domain specificity of mental
+health-related mind-sets. Social Psychological and Personality
+Science, 7, 508–520. doi:10.1177/1948550616644657
+9. Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach
+to motivation and personality. Psychological Review, 95, 256–273.
+doi:10.1037/0033-295X.95.2.256
+10. Erdley, C. A., Loomis, C. C., Cain, K. M., & Dumas-Hines, F.
+(1997). Relations among children’s social goals, implicit personality
+theories, and responses to social failure. Developmental Psychology,
+33, 263–272. doi:10.1037/0012-1649.33.2.263
+11. Rudolph, K. D. (2010). Implicit theories of peer relationships. Social
+Development, 19, 113–129. doi:10.1111/j.1467-9507.2008.00534.x
+12. Beer, J. S. (2002). Implicit self-theories of shyness. Journal of Personality and Social Psychology, 83, 1009–1024. doi:10.1037/00223514.83.4.1009
+13. Rudolph, K. D., Abaied, J. L., Flynn, M., Sugimura, N., & Agoston,
+A. M. (2011). Developing relationships, being cool, and not looking
+like a loser: Social goal orientation predicts children’s responses to
+peer aggression. Child Development, 82, 1518–1530. doi:10.1111/j.
+1467-8624.2011.01631.x
+
+Child Development Perspectives, Volume 0, Number 0, 2017, Pages 1–6
+
+6
+
+David S. Yeager
+
+14. Chiu, C., Hong, Y., & Dweck, C. S. (1997). Lay dispositionism and
+implicit theories of personality. Journal of Personality and Social
+Psychology, 73, 19–30. doi:10.1037/0022-3514.73.1.19
+15. Gervey, B. M., Chiu, C. Y., Hong, Y. Y., & Dweck, C. S. (1999).
+Differential use of person information in decisions about guilt versus
+innocence: The role of implicit theories. Personality and Social Psychology Bulletin, 25, 17–27. doi:10.1177/0146167299025001002
+16. Plaks, J. E., Stroessner, S. J., Dweck, C. S., & Sherman, J. W.
+(2001). Person theories and attention allocation: Preferences for
+stereotypic versus counterstereotypic information. Journal of Personality and Social Psychology, 80, 876–893. doi:10.1037/0022-3514.
+80.6.876
+17. Lee, H. Y., Hooper, S. Y., & Yeager, D. S. (2017). Understanding
+high school social aggression: Sensitivity to social status and the
+beliefs that create it. Unpublished manuscript. University of Texas at
+Austin.
+18. Dodge, K. A., & Frame, C. L. (1982). Social cognitive biases and
+deficits in aggressive boys. Child Development, 53, 620–635. doi:10.
+2307/1129373
+19. Yeager, D. S., Miu, A. S., Powers, J., & Dweck, C. S. (2013). Implicit theories of personality and attributions of hostile intent: A metaanalysis, an experiment, and a longitudinal intervention. Child
+Development, 84, 1651–1667. doi:10.1111/cdev.12062
+20. Williams, K. D., & Jarvis, B. (2006). Cyberball: A program for use
+in research on interpersonal ostracism and acceptance. Behavior
+Research Methods, 38, 174–180. doi:10.3758/BF03192765
+21. Blascovich, J., & Mendes, W. B. (2010). Social psychophysiology
+and embodiment. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.),
+Handbook of social psychology (pp. 194–227). New York, NY:
+Wiley.
+22. Jamieson, J. P., Hangen, E. J., Lee, H. Y., & Yeager, D. S. (in
+press). Capitalizing on appraisal processes to improve affective
+responses to social stress. Emotion Review. Advance online publication.
+23. Yeager, D. S., Lee, H. Y., & Jamieson, J. P. (2016). How to improve
+adolescent stress responses: Insights from integrating implicit theories of personality and biopsychosocial models. Psychological
+Science, 27, 1078–1091. doi:10.1177/0956797616649604
+24. Schleider, J. L., & Weisz, J. R. (2016). Reducing risk for anxiety
+and depression in adolescents: Effects of a single-session intervention teaching that personality can change. Behaviour Research and
+Therapy, 87, 170–181. doi:10.1016/j.brat.2016.09.011
+25. Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions
+and moral behavior. Annual Review of Psychology, 58, 345–372.
+doi:10.1146/annurev.psych.56.091103.070145
+26. Halperin, E., Russell, A. G., Trzesniewski, K. H., Gross, J. J., &
+Dweck, C. S. (2011). Promoting the Middle East peace process by
+changing beliefs about group malleability. Science, 333, 1767–1769.
+doi:10.1126/science.1202925
+27. Schleider, J. L., Abel, M. R., & Weisz, J. R. (2015). Implicit theories and youth mental health problems: A random-effects meta-analysis. Clinical Psychology Review, 35, 1–9. doi:10.1016/j.cpr.2014.
+11.001
+
+28. Walton, G. M. (2014). The new science of wise psychological interventions. Current Directions in Psychological Science, 23, 73–82.
+doi:10.1177/0963721413512856
+29. Cialdini, R. B. (2003). Crafting normative messages to protect the
+environment. Current Directions in Psychological Science, 12, 105–
+109. doi:10.1111/1467-8721.01242
+30. Aronson, E. (1999). The power of self-persuasion. American Psychologist, 54, 875–884. doi:10.1037/h0088188
+31. Yeager, D. S., Trzesniewski, K. H., & Dweck, C. S. (2013). An
+implicit theories of personality intervention reduces adolescent
+aggression in response to victimization and exclusion. Child Development, 84, 970–988. doi:10.1111/cdev12003
+32. Yeager, D. S., Fong, C. J., Lee, H. Y., & Espelage, D. L. (2015).
+Declines in efficacy of anti-bullying programs among older adolescents: Theory and a three-level meta-analysis. Journal of Applied
+Developmental Psychology, 37, 36–51. doi:10.1016/j.appdev.2014.
+11.005
+33. Yeager, D. S., Johnson, R., Spitzer, B. J., Trzesniewski, J. H., Powers, J., & Dweck, C. S. (2014). The far-reaching effects of believing
+people can change: Implicit theories of personality shape stress,
+health, and achievement during adolescence. Journal of Personality
+and Social Psychology, 106, 867–884. doi:10.1037/a0036335
+34. Miu, A. S. (2016). The effects of mindsets on depression. Doctoral dissertation. Department of Psychology, Emory University. Retrieved
+from ProQuest Dissertations & Theses Database.
+35. Miu, A. S., & Yeager, D. S. (2015). Preventing symptoms of depression by teaching adolescents that people can change: Effects of a
+brief incremental theory of personality intervention at 9-month follow-up. Clinical Psychological Science, 3, 726–743. doi:10.1177/
+2167702614548317
+36. Yeager, D. S., Walton, G. M., Brady, S. T., Akcinar, E. N., Paunesku, D., Keane, L., . . . Dweck, C. S. (2016). Teaching a lay theory
+before college narrows achievement gaps at scale. Proceedings of
+the National Academy of Sciences of the United States of America,
+113, E3341–E3348. doi:10.1073/pnas.1524360113
+37. Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can
+undermine children’s motivation and performance. Journal of Personality and Social Psychology, 75, 33–52. doi:10.1037/0022-3514.
+75.1.33
+38. Rattan, A., Good, C., & Dweck, C. S. (2012). “It’s ok—not everyone
+can be good at math”: Instructors with an entity theory comfort (and
+demotivate) students. Journal of Experimental Social Psychology,
+48, 731–737. doi:10.1016/j.jesp.2011.12.012
+39. Cimpian, A., & Markman, E. M. (2011). The generic/nongeneric
+distinction influences how children interpret new information about
+social others. Child Development, 82, 471–492. doi:10.1111/j.14678624.2010.01525.x
+40. Gelman, S. A. (2004). Psychological essentialism in children. Trends
+in Cognitive Sciences, 8, 404–409. doi:10.1016/j.tics.2004.07.001
+41. Rattan, A., & Ambady, N. (2014). How “it gets better:” Effectively
+communicating support to targets of prejudice. Personality and
+Social Psychology Bulletin, 40, 555–566. doi:10.1177/
+0146167213519480
+
+Child Development Perspectives, Volume 0, Number 0, 2017, Pages 1–6
+
+View publication stats
+
+

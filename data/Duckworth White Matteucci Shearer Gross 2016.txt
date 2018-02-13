@@ -1,0 +1,1325 @@
+Journal of Educational Psychology
+2016, Vol. 108, No. 3, 329 –341
+
+© 2016 American Psychological Association
+0022-0663/16/$12.00 http://dx.doi.org/10.1037/edu0000062
+
+A Stitch in Time: Strategic Self-Control in High School
+and College Students
+Angela L. Duckworth, Rachel E. White,
+Alyssa J. Matteucci, and Annie Shearer
+
+James J. Gross
+Stanford University
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+University of Pennsylvania
+
+A growing body of research indicates that self-control is critical to academic success. Surprisingly little
+is known, however, about the diverse strategies students use to implement self-control or how well these
+strategies work. To address these issues, the author conducted a naturalistic investigation of self-control
+strategies (Study 1) and 2 field experiments (Studies 2 and 3). In Study 1, high school students described
+the strategies they use to manage interpersonal conflicts, get academic work done, eat healthfully, and
+manage other everyday self-control challenges. The majority of strategies in these self-nominated
+incidents as well as in 3 hypothetical academic scenarios (e.g., studying instead of texting friends) were
+reliably classified using the process model of self-control. As predicted by the process model, students
+rated strategies deployed early in the impulse-generation process (situation selection, situation modification) as being dramatically more effective than strategies deployed later (attentional deployment,
+cognitive change, response modulation). In Study 2, high school students randomly assigned to implement situation modification were more likely to meet their academic goals during the following week
+than students assigned either to implement response modulation or no strategy at all. In Study 3, college
+students randomly assigned to implement situation modification were also more successful in meeting
+their academic goals, and this effect was partially mediated by decreased feelings of temptation
+throughout the week. Collectively, these findings suggest that students might benefit from learning to
+initiate self-control when their impulses are still nascent.
+Keywords: self-control, self-regulated learning, metacognition, metacognitive skills, character
+
+Moffitt et al., 2011), affirming age-old speculation that the ability
+to manage conflicting desires may be at least as critical to psychosocial development as any other competency (Aristotle, 350
+BCE/1999; Freud, 1977; James, 1899). In the current investigation, we systematically examine how high school and college
+students exercise self-control in their everyday lives and test the
+relative effectiveness of strategies deployed earlier, when impulses
+are still nascent, rather than later, when impulses have grown in
+strength.
+
+A burgeoning research literature shows that students who can
+resist momentarily rewarding temptations in the service of more
+enduringly valued goals excel academically (Duckworth & Carlson, 2013; Mischel, Shoda, & Rodriguez, 1989; Véronneau, HiattRacer, Fosco, & Dishion, 2014), thrive socially (Eisenberg, Hofer,
+Sulik, & Spinrad, 2014), and flourish physically (Tsukayama,
+Toomey, Faith, & Duckworth, 2010). Remarkably, the predictive
+power of self-control for consequential life outcomes rivals that of
+family socioeconomic status and general intelligence (Daly, Delaney, Egan, & Baumeister, 2015; Duckworth & Seligman, 2005;
+
+Defining and Describing Self-Control
+Self-control refers to the voluntary regulation of conflicting
+thoughts, feelings, and actions in accordance with long-term goals.
+In a self-control dilemma, the individual wants to do something
+that is immediately rewarding and, in addition, wants to do something else that has more enduring personal value. For example,
+students are often confronted with choosing between engaging
+diversions (e.g., texting friends) and academic work (e.g., doing
+algebra homework) whose benefits are recognizably greater but,
+alas, redound in the distant future. Although middle and high
+school students say that academic work is more important to their
+personal futures than any other waking activity, they also experience it as dramatically less enjoyable (Galla, Duckworth, Rikoon,
+& Haimm, 2014). Likewise, holding one’s temper in a heated
+argument and eating healthfully rather than snacking on junk food
+are more beneficial in the long-run than they are gratifying in the
+moment.
+
+Angela L. Duckworth, Rachel E. White, Alyssa J. Matteucci, and Annie
+Shearer, Department of Psychology, University of Pennsylvania; James J.
+Gross, Department of Psychology, Stanford University.
+Annie Shearer is now at the Center for Family Intervention Science,
+Drexel University. The writing of this article was supported by the Character Lab, the Templeton Foundation, the National Institute on Aging grant
+5-K01-AG033182-02, the National Institute on Aging grant R24
+AG048081-01, and the Robert Wood Johnson Foundation. The content is
+solely the responsibility of the authors and does not necessarily represent
+the official views of the funding agencies.
+We gratefully acknowledge the research assistance of Leigh Andrews,
+Ihno Lee, Katherine Loboda, Adam Millar, Ashleigh Seely, and Arianna
+Ulloa in the preparation of this article.
+Correspondence concerning this article should be addressed to Angela L.
+Duckworth, Department of Psychology, University of Pennsylvania, 3701
+Market Street, Philadelphia, PA 19104. E-mail: duckwort@psych.upenn.edu
+329
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+330
+
+DUCKWORTH, WHITE, MATTEUCCI, SHEARER, AND GROSS
+
+As we have defined it, self-control is an aspect of motivated
+behavior, a term that in its broadest sense encompasses all intentional, goal-directed behavior. The term motivation can also be
+used more specifically to refer to setting goals and evaluating their
+desirability and feasibility; when used in this narrower sense,
+motivation can be distinguished from volition (i.e., how effectively
+students strive toward their goals once they are committed to them;
+Achtziger & Gollwitzer, 2008). This distinction is important because committing to goals does not guarantee subsequently taking
+steps toward their realization (Kuhl, 1984). For example, some
+students genuinely want to do well in school but are unable to
+autonomously regulate their behavior in ways that effectively
+advance them toward that aim (Corno & Mandinach, 2004; Zimmerman & Martinez-Pons, 1990). It is exactly this gap— between
+intention and striving—that interests us here.
+A popular view of self-control equates the capacity to resist
+temptation with internal fortitude. Indeed, lay language—willpower, force of will, just do it, just say no—implies that we
+necessarily use a great deal of energy to suppress an undesirable
+impulse or elevate a desirable one. Accordingly, in the social
+psychology literature, the ego depletion model suggests that resolving self-control conflicts exhausts a finite energy resource,
+leading to subsequent failures of self-control (Baumeister, 2014)
+and a subjective sense of strain (Inzlicht, Legault, & Teper, 2014;
+Kurzban, Duckworth, Kable, & Myers, 2013). Likewise, in the
+developmental literature, self-control is commonly referred to as
+effortful control (Rothbart & Rueda, 2005). Not surprisingly, much
+of the research on mechanisms of self-control has focused on
+top-down cognitive processes that inhibit lower-level impulses and
+support goal-directed behavior.
+Whereas effortfully modulating responses in the heat of the
+moment is the most obvious way individuals exercise self-control,
+it may be the least effective. It turns out that even young children
+have less obvious but more artful means of manipulating their own
+behavior. For instance, preschoolers forgoing immediate gratification (e.g., one marshmallow) for larger, delayed rewards (e.g., two
+marshmallows) can wait significantly longer when they cover their
+eyes or stare at the ceiling, when the treats are hidden from view
+by an opaque cover, or when they imagine them to be fluffy, white,
+and inedible clouds (Carlson & Beck, 2009; Mischel, 2014). Outside of the laboratory, there are many more “tricks,” as the economist Schelling (1984) put it, by which our future self can outmaneuver its myopic present self (p. 290).
+
+The Process Model of Self-Control
+We have recently proposed that self-control strategies—whether
+obvious or less obvious— can be organized according to their
+underlying mechanism and the stage at which they are used (Duckworth, Gendler, & Gross, 2014). Specifically, the process model
+of self-control begins with the premise that impulses are response tendencies to think, feel, or act that develop over time.
+As shown in the bottom part of Figure 1, impulses come into
+being and either increase or decrease in intensity through a
+recursive situation-attention-appraisal-response sequence. Impulses of sufficient strength are enacted; those that fail to reach
+threshold are not. Often, impulses do not conflict. However, we
+sometimes experience conflicting impulses. When an immedi-
+
+Figure 1. The process model of self-control (adapted from Duckworth,
+Gendler, and Gross (2014).
+
+ately rewarding impulse is at odds with an impulse of greater
+value to us in the long-run, we need to intervene.
+This conception of impulse generation suggests that five categories of self-control strategies can be identified, corresponding to
+distinct stages of impulse generation. These categories are shown
+in the top portion of Figure 1. To illustrate, consider a student who
+first encounters a particular situation (e.g., walks into his bedroom)
+and decides whether to modify it (e.g., turning off his cell phone).
+Next, he pays attention to particular features of the situation (e.g.,
+looks at his textbooks), and appraises the situation (e.g., “I should
+get my homework out of the way before dinner”) in a way that,
+finally, gives rise to the generation of an impulse (e.g., starting his
+homework). As we elaborate below, all strategies work by diminishing the strength of momentarily rewarding but ultimately undesirable impulses or, alternatively, amplifying the strength of
+enduringly beneficial but relatively less enjoyable ones. The most
+important prediction of the process model is that intervening
+earlier in the cycle of impulse generation, when impulses are still
+developing, is more effective than intervening later.
+
+Situational Strategies
+Situation selection strategies are the most forward-looking and
+involve intentionally choosing to be in places or with people that
+facilitate self-control. For example, in a recent mixed-age focus
+group on academic success, we listened to a tenth-grade student
+sagely advise a fifth grader in the same school: “If I knew at your
+age what I know now, I would have chosen different friends. Your
+friends really influence you. I got into the wrong crowd. It was
+really hard to get back on track.” Although direct empirical evidence on situation selection in adolescent students is lacking, it has
+recently been established that in adulthood, adults who are more
+self-controlled report intentionally avoiding situations replete with
+temptation (Ent, Baumeister, & Tice, 2015; Imhoff, Schmidt, &
+Gerstenberg, 2014). Relatedly, for drug addicts, encounters with
+trigger cues are perhaps the strongest predictor of recidivism, and
+treatment programs invariably advise deliberately avoiding people,
+places, and objects that induce craving (Bonson et al., 2002;
+Doyle, Friedmann, & Zywiak, 2013; Goldstein, 1994; Kelley,
+2004; O’Brien, 1976; Osgood, Wilson, O’Malley, Bachman, &
+Johnston, 1996; Schroeder et al., 2001; Weiss, 2005).
+As a practical matter, unfortunately, students cannot always
+transport themselves to different locations, nor can they easily
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRATEGIC SELF-CONTROL
+
+“switch their friends,” even if they know that doing so would help
+them realize their long-term goals. What else can students do?
+Situation modification strategies entail purposefully changing
+physical or social circumstances in ways that facilitate self-control.
+For example, adults eat less when using smaller plates and drink
+less when using taller, skinnier cups (Wansink, 2004; Wansink &
+Van Ittersum, 2003; Wansink, Van Ittersum, & Painter, 2006).
+Recovering alcoholics can take Antabuse to dissuade themselves
+from drinking (Banys, 1988). As early as 6 years old, children
+know that it is easier to resist treats when they are hidden from
+view (Mischel & Mischel, 1983). More relevant to the self-control
+problems of students, a few studies have linked situation modification with academic performance. In one study, college students
+who voluntarily self-imposed deadlines for long-term projects
+turned in better work than students who were able to turn in their
+work anytime during the semester (Ariely & Wertenbroch, 2002).
+Likewise, Zimmerman (1989) and Marcus (1988) found that successful students manipulate their environments (e.g., turned off the
+TV) to facilitate concentration.
+
+Cognitive Strategies
+Next, there are three cognitive strategies, beginning with attentional deployment strategies. These entail directing our focus to
+features of the situation which strengthen desirable impulses or
+diminish undesirable impulses. Without direct tutelage, children
+learn this cognitive skill fairly early in life (Carlson & Beck, 2009;
+Peake, Hebl, & Mischel, 2002), but more recently Sesame Street’s
+Cookie Monster has been providing direct instruction. In one
+episode, after learning how to pronounce “delayed gratification,”
+he models looking away from a cookie he is trying not to eat. “Me
+going to look away from cookie,” he declares, turning his back.
+“Me not going to look at . . .” Soon, his attention is recaptured:
+Sniff, sniff. He turns to glance in the cookie’s direction, then turns
+away again, underscoring that attention deployment is far from
+effortless: “Oooh! This hard! This hard for monster!” (PBS, 2013).
+Once we have chosen where to place our attention, we can use
+cognitive change strategies to diminish our undesired impulses and
+amplify our desired ones. Cognitive change strategies entail thinking about our situation differently. For example, we can reappraise
+an argument by imagining ourselves as a third-party spectator to
+the conflict (Finkel, Slotter, Luchies, Walton, & Gross, 2013;
+White, Kross, & Duckworth, 2015) a technique called “going to
+the balcony” in the field of negotiations (Ury, 2007). It is likewise
+possible for preschool children to pretend that a marshmallow is
+“just a picture” and for adults to mentally recast cigarettes as
+poison (Mischel, 2014). Still, it’s not easy to change our thoughts.
+Indeed, while more effective than response modulation, intentionally changing the way we appraise our situation is far from
+effortless (Sheppes & Gross, 2011).
+Of all the self-control strategies, response modulation is the
+most straightforward. In the “heat of the moment,” we can voluntarily suppress an undesirable impulse (e.g., to reach for a cookie)
+or amplify a desirable one (e.g., to eat the apple that came with the
+school lunch). Unfortunately, the human capacity to exert cognitive control over goal-incongruent impulses is far from perfect. For
+example, hiding our emotions (e.g., trying not to cry when sad or
+trying not to smile when amused) sometimes works but often
+doesn’t, and even when successful, takes a physiological toll
+
+331
+
+(Gross & Levenson, 1993). The cost of waiting until the last
+opportunity to modulate conflicting impulses is also phenomenological; it feels awful to deny oneself a momentary pleasure or to
+enforce an action whose benefits lie entirely in the distant future.
+
+The Current Investigation
+Given the importance of self-control to successful “studenting”
+(Corno & Mandinach, 2004) and other aspects of healthy development, two urgent unanswered questions concern the strategies
+that students use to navigate everyday self-control dilemmas and
+their relative effectiveness. The first question is descriptive and is
+concerned with whether the process model of self-control can
+organize students’ diverse self-control efforts into theoretically
+coherent categories. The second question is normative and addresses the important question of which self-control tactics are
+most effective. The process model predicts that the earlier students
+attempt to turn the tide of their own conflicting impulses in favor
+of their long-term objectives, the better. As noted above, there is
+some empirical evidence supporting this supposition, but to date,
+research has focused on other age groups (e.g., preschool children,
+mature adults) or life domains (e.g., dieting, addiction, emotion
+regulation).
+We focused our investigation on high school and college students, rather than younger learners, for several reasons. First,
+students are accorded increasing independence from parents,
+teachers, and other adults as they grow older (Steinberg, 2013). In
+tandem, brain areas subserving self-control mature with age (Carlson, Zelazo, & Faja, 2013), and generally, older students are more
+autonomous learners than younger students (Zimmerman &
+Martinez-Pons, 1990). It is therefore not surprising that relative to
+other personality traits and IQ, Big Five conscientiousness—which
+encompasses self-control and closely related traits (Eisenberg,
+Duckworth, Spinrad, & Valiente, 2014)—is more strongly related
+to academic performance in secondary and postsecondary schooling than in earlier grades (Poropat, 2009). Another reason for
+focusing on adolescents is that decisions and outcomes during this
+transitional stage have long-term implications for adult development (Moffitt et al., 2011).
+We began with a naturalistic investigation of high school students (Study 1), who described self-control dilemmas they had
+experienced and told us how they dealt with them. We also asked
+students to indicate how they would respond to hypothetical scenarios in which the impulse to do academic work conflicted with
+diversions like texting or videogames. We expected that the majority of self-control attempts would be classifiable using the
+process model, that all five stages of the process model would be
+represented in their responses, and, further, that when asked to
+consider exemplar strategies, they would rate strategies deployed
+earlier in the process of impulse generation as more effective than
+those deployed later.
+Next, in Study 2, we conducted a random-assignment field
+experiment to more confidently establish the relative effectiveness
+of earlier versus later strategies. Specifically, we asked high school
+students to set a specific study goal for the following week and
+then instructed them to use either situation modification, response
+modulation, or no particular strategy at all. As noted above, we
+chose to examine situation modification rather than situation selection because we assumed that some students might not be able
+
+332
+
+DUCKWORTH, WHITE, MATTEUCCI, SHEARER, AND GROSS
+
+In Study 1, we asked high school students to describe incidents
+from their personal lives in which they needed self-control and,
+next, to indicate what they actually did. Prior research with middle
+school students suggests that self-control is called for primarily in
+the domains of academic work and interpersonal conflict (Tsukayama, Duckworth, & Kim, 2013), but we expected older students to grapple with additional dilemmas more common in adulthood (e.g., saving money, exercising; Tsukayama, Duckworth, &
+Kim, 2012). Next, we asked students how they might handle three
+hypothetical academic self-control dilemmas (e.g., studying vs.
+playing videogames). To determine the utility of the process model
+for organizing self-control strategies for this age group, two trained
+coders classified these four open-ended responses according to the
+model’s five categories. Finally, to test the prediction that early
+deployed strategies are more effective than later-deployed strategies, we asked students to rate the effectiveness of specific responses to these three hypothetical scenarios, each designed to
+represent one of the model’s categories.
+
+Internet (e.g., watch YouTube videos, check your Instagram feed,
+etc.) or play video games.” And, finally, the procrastination scenario read: “You have a long-term project due and don’t want to
+wait until the last minute to get it done. But there are a lot of more
+fun things to do, like playing video games and watching TV.”
+After telling us what they would do in these three hypothetical
+academic scenarios, students were asked to judge the effectiveness
+of self-control responses we provided that represented each of the
+five strategies defined by the process model of self-control. The
+instructions were as follows: “We’ve talked to a lot of other
+students about this situation. We find that five kinds of responses
+are really common. Now that you’ve seen these options, rate how
+effective you think each strategy would be for each of the three
+hypothetical scenarios on a scale from 0 to 100 (0 ⫽ least effective,
+100 ⫽ most effective)”. For example, students read and then rated
+five different approaches to the texting scenario corresponding to
+strategies in the process model. In this context, “I would move to
+a different location to avoid being near my phone” represented
+situation selection; “I would change something about my phone
+like turn off the volume or put it face down” represented situation
+modification; “I would not look directly at my phone. I would
+instead look directly at my academic work” represented attentional
+deployment; “I would change the way I think about this situation.
+For example, I would change the way I think about texting or
+change the way I think about the assignment” represented cognitive change; and “I would force myself not to use the phone. I
+would try to use willpower to overcome that urge” represented
+response modulation.
+
+Method
+
+Data Analysis and Coding
+
+Participants. Participants were students from a suburban high
+school in the Northeast United States. This study was added to a
+survey of students enrolled in a foreign language course. Opt-in
+parental consent and student assent were obtained for N ⫽ 577
+students enrolled in Grades 9 through 12. Participants ranged in
+age from 13 to 19 years (M ⫽ 15.49, SD ⫽ 1.13). Approximately
+70% of the students were White, 15% were Hispanic, 8% were
+Black, 7% were Asian, 1% were of other ethnic backgrounds; 58%
+were female, and 14% were from low-income families, as indicated by eligibility for free or reduced-price meals.
+Procedure and measures. Students in Grades 9 through 12
+were asked to complete surveys in a single 45-min session during
+the school day. In the first part of the session, they were asked to
+“tell a story of a specific incident where you used self-control
+when you really needed it. What were you trying to do and what
+actually happened? What did you try to do to be self-controlled in
+this situation?”
+In the second part of the session, we described three common
+academic self-control dilemmas based on pilot interviews. These
+hypothetical scenarios were presented in random order, and each
+was followed by an open-ended question: “What would you do to
+get your studying done?” The texting scenario read, “You have set
+a goal of getting better grades this year than last year. Unfortunately, you’re having difficulty staying focused on your studying
+for long periods of time because you keep texting with your
+friends.” The Internet/videogame scenario read, “You have to
+study for a big exam but the class is a really boring one. Every time
+you sit down to study, you find yourself tempted to surf the
+
+Two trained coders categorized students’ descriptions of selfcontrol incidents in their own lives using domains (e.g., work,
+interpersonal conflict, eating, physical exercise) identified by Tsukayama, Duckworth, and Kim (2012). Less than 1% of responses
+could not be coded because they were blank or incomprehensible.
+The remaining valid responses were coded, and there were no
+disagreements on how to categorize dilemmas.
+The same coders then categorized open-ended responses to this
+prompt according to the five strategy types in the process model of
+self-control (i.e., situation selection, situation modification, attentional deployment, cognitive change, and response modulation).
+About 4% of responses could not be categorized because they did
+not provide sufficient information, 2% indicated planning, but
+did not indicate what action was being planned, 2% of responses could not be classified because students said they failed
+to exercise self-control, and 2% were not categorized because
+they named a variety of strategies that spanned multiple categories in the process model. Coders concurred on how to
+categorize 81% of valid responses (␬ ⫽ .57, p ⬍ .001) and,
+through discussion, arrived at a consensus for the remainder.
+Likewise, the coders categorized open-ended responses to the
+three hypothetical academic self-control scenarios according to the
+five strategy types in the process model of self-control. About 6%
+of responses could not be coded because they did not provide
+sufficient information, 4% were not coded because they included
+strategies that spanned multiple categories in the process model,
+and 3% of responses could not be classified because they described
+failures of self-control. Coders concurred on how to categorize
+
+to choose their situations. As a comparison, we used the most
+obvious cognitive strategy: response modulation. In Study 3, we
+replicated these findings with college students and, in addition,
+tested the process model’s prediction that undesirable impulses
+curtailed at the situation modification stage would be weaker than
+those countered at the response modulation stage.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Study 1: A Naturalistic Investigation of
+Self-Control Strategies
+
+STRATEGIC SELF-CONTROL
+
+87% of the valid responses (␬ ⫽ .58, p ⬍ .001) and, through
+discussion, arrived at a consensus on the type of strategy used for
+the remainder.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Results
+As illustrated in Table 1, students described a wide range of
+self-control incidents in their own lives. Most concerned interpersonal (42%) or academic (27%) situations; a smaller proportion of
+students described using self-control to regulate their eating (14%),
+physical exercise (6%), or behavior in sundry other (11%) domains. Age did not moderate these or any other analyses.
+In response to these everyday dilemmas, students said they
+deployed a variety of strategies, examples of which are provided in
+Table 1. Notably, the majority (90%) of these open-ended responses could be categorized using the process model, and all five
+types of strategies were represented. They were not, however,
+equally popular, ␹2(4, N ⫽ 522) ⫽ 135.99, p ⬍ .001. As shown in
+Figure 2, the most commonly nominated strategy was cognitive
+change (38%), followed by response modulation (24%), situation
+modification (16%), situation selection (12%), and, finally, attentional deployment (10%).
+Taking a closer look at the strategies nominated in the two
+most commonly described self-control dilemmas, we found that
+students used situation modification more often in academic
+situations (29%) than in interpersonal conflicts (6%), ␹2(1, N ⫽
+371) ⫽ 37.28, p ⬍ .001. Conversely, students relied on response modulation more often in interpersonal conflicts (35%)
+than they did in academic situations (17%), ␹2(1, N ⫽ 371) ⫽
+13.42, p ⬍ .001.
+As shown in Figure 2 and Table 2, students likewise suggested
+a variety of strategies for exercising self-control in three hypothetical academic dilemmas. These hypothetical scenarios pitted academic goals against texting, videogames/Internet, and procrastinating, respectively. The majority (87%) of these responses could
+be categorized using the process model. Students were more likely
+to recommended situation modification strategies (58%) than cognitive change (17%), situation selection (12%), response modulation (11%), or attentional deployment (1%).
+Considering that what students think they should do may differ
+from what they actually do, we took a closer look at (n ⫽ 156)
+students who elected to describe an everyday self-control incident
+that involved academic work (vs. interpersonal conflict, food, etc.).
+
+333
+
+Comparing hypothetical and “real-world” everyday dilemmas in
+this subsample, we found no reliable differences in the popularity
+of situation selection strategies. Interestingly, students were twice
+as likely to suggest situation modification when recommending
+what to do in hypothetical academic scenarios (58%) than when
+describing what they actually did in similar situations (29%). In
+contrast, students used cognitive change more often in their everyday academic lives (32%) than they recommended doing in
+hypothetical scenarios (17%). Students used attentional deployment more often in their everyday academic lives (8%) than they
+recommended doing in hypothetical scenarios (1%). Finally, students recommended response modulation more often in hypothetical scenarios (28%) than they mentioned using it in their everyday
+academic lives (12%). One-sample nonparametric tests confirmed
+that these four comparisons were reliable, ps ⬍ .001.
+When asked to rate the effectiveness of exemplar strategies from
+each of the five categories of the process model, students rated
+some strategies as much more effective than others. Effectiveness
+ratings were approximately normally distributed, with alphas ranging from .67 to .86 (M ⫽ .79). In a repeated-measures analysis of
+variance (ANOVA), effectiveness ratings varied by strategy type,
+F(4, 2216) ⫽ 436.94, p ⬍ .001, ␩p2 ⫽ .44. As illustrated in Figure 3,
+post hoc pairwise comparisons using a Bonferroni correction
+showed that situation selection strategies were rated as more
+effective than situation modification strategies, p ⬍ .001, d ⫽ 0.47,
+which, in turn, were rated as more effective than attention deployment, cognitive change, or response modulation strategies (ps ⬍
+.001 and ds from 1.05 to 1.23). The latter three strategies did not
+differ in student-rated effectiveness.
+
+Discussion
+To our knowledge, Study 1 is the first naturalistic study of
+self-control in the everyday lives of high school students. When
+asked about a self-control incident from their own recent experience, most students described managing interpersonal conflicts or
+meeting academic work responsibilities. The same domains have
+been identified as centrally important in the lives of middle school
+students (Tsukayama et al., 2013), though some high school students in Study 1 mentioned self-control goals common in adulthood, including eating healthfully and getting physical exercise.
+The process model proved a useful taxonomy for categorizing
+the many strategies that students used in the self-control incidents
+
+Table 1
+Examples of Self-Control Challenges and Responses in the Everyday Lives of High School Students in Study 1
+Type of strategy
+Situation selection
+Situation modification
+Attentional deployment
+Cognitive change
+Response modulation
+
+Self-control challenge
+
+Self-control response
+
+“I really needed to study for a test and I used self-control to
+resist taking a nap and playing on my phone to study.”
+“I knew I needed to study to get a good grade because I
+needed the A.”
+“At around 6pm I start to get hungry. Knowing that dinner is
+around 7, I use self-control to stay away from snacks for
+that hour. I do this so I still have an appetite for dinner.”
+“When doing homework I usually get lazy and go on to
+doing other useless things. Lately, I have been using selfcontrol to focus on homework. ”
+“I was in a soccer game and a kid continuously fouled me
+and was harassing me.”
+
+“I locked myself in my room without my phone and sat
+in a desk so I couldn’t fall asleep.”
+“I put away all devices that hindered my ability to
+focus on my task.”
+“I occupied myself with other activities.”
+“I simply laid out the cons of what would happen if I
+didn’t do my homework, and was motivated to do
+it.”
+“Instead of retaliating, I used self-control and controlled
+my anger and the kid eventually got a yellow card.”
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+334
+
+DUCKWORTH, WHITE, MATTEUCCI, SHEARER, AND GROSS
+
+Figure 2. Categories of self-control strategies suggested by high school
+students in Study 1.
+
+from their own lives. Although some of the open-ended responses
+required discussion, most were agreed upon by two coders whose
+initial categorizations were made independently. Likewise, when
+considering three hypothetical academic scenarios, students recommended a heterogeneous array of strategies which, again, were
+mostly captured in the process model and were by no means
+limited to the most obvious tactic: response modulation. Interestingly, students used situation modification more often to get their
+academic work done than to navigate interpersonal conflicts. This
+finding suggests that certain contexts lend themselves to particular
+self-control strategies, and that situation modification may be more
+apt for physical temptations (e.g., a computer or cell phone, either
+of which can be turned off) than emotional ones (e.g., losing one’s
+temper at a classmate).
+Because many students in our sample elected to tell us about an
+academic situation (as opposed to an interpersonal conflict or other
+type of situation) in which they recalled exercising self-control, we
+were able to use this subsample to compare “real world” strategies
+with those students suggested in response to hypothetical dilem-
+
+Figure 3. Mean effectiveness ratings of example self-control strategies
+by high school students in Study 1. Error bars represent 95% confidence
+intervals.
+
+mas. It turns out that when considering hypothetical academic
+scenarios, as opposed to recounting what they did in their own
+lives, students were more likely to suggest situation modification
+and less likely to suggest cognitive change, attentional deployment
+and response modulation strategies. This unexpected finding requires further research for a complete explanation. One possibility
+is that by explicitly mentioning physical temptations (e.g., cell
+phones) in the hypothetical scenarios, we biased students toward
+situation modification strategies (e.g., turning off the cell phone).
+Alternatively, it may be that when considering a hypothetical
+situation, students were able to think more objectively about how
+best to act. The later explanation is consistent with a large literature on construal level theory, which has established that mental
+representations of hypothetical (vs. actual) situations facilitate
+psychological distance, enabling proper consideration of their
+goal-relevant and essential features (Fujita, 2011; Fujita, Trope,
+Liberman, & Levin-Sagi, 2006).
+
+Table 2
+Examples of Responses to Hypothetical Academic Self-Control Challenges by High School Students in Study 1
+Type of strategy
+
+Studying vs. texting
+
+Situation selection
+
+“Lock myself in a room without my
+phone so that it doesn’t become a
+distraction.”
+
+Situation modification
+
+“I would shut off my phone and put it
+under my pillow so I wouldn’t be
+tempted to touch it.”
+
+Attentional deployment
+
+“Ease off the texting by ignoring my
+phone.”
+
+Cognitive change
+
+“I would set up a reward for myself . . .
+I would plan something for myself
+that I would only do if I got straight
+A’s.”
+“Not be a baby and just study.”
+
+Response modulation
+
+Studying vs. internet/videogames
+
+Procrastination
+
+“I would go to the library as being
+in a quiet and controlled
+environment would make me
+focus.”
+“Remove all distractions and tell one
+of my parents I had a big exam so
+they would check in on me and
+I’d be forced to stay on task.”
+“Remind myself that even the most
+boring classes count towards my
+GPA which will affect my future.”
+“I would tell myself that if I study
+for an hour, I can reward myself
+by playing video games later.”
+
+“Lock myself in my room until it’s done,
+because I don’t have a T.V. let alone a
+game console in my room.”
+
+“Just deal with it and study.”
+
+“Just do it . . . I just focus and get my
+work done.”
+
+“I would ask my mom to take away my
+phone and other distractions to make
+sure I can get it done on time.”
+“Think about the consequences and try
+my best to close everything else out”
+“Set goals, break the project up into
+pieces.”
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRATEGIC SELF-CONTROL
+
+When asked to consider self-control strategies that we constructed to represent the five stages in the process model, students
+overwhelmingly identified situation selection to be most effective,
+followed by situation modification. Rated far less effective than
+either of these two situational strategies were the later-deployed
+cognitive strategies. Notably, the absence of significant differences
+in the perceived effectiveness among the three cognitive strategies
+(i.e., attentional deployment, cognitive change, and response modulation) is at odds with empirical evidence that attentional deployment and cognitive change strategies are both more effective than
+response modulation (Mischel, 2014; Webb, Miles, & Sheeran,
+2012). We discuss possible explanations in the General Discussion
+section.
+
+Study 2: A Self-Control Intervention Study
+in High School
+The self-reported ratings of effectiveness provided by students
+in Study 1 support the most direct claim of the process model
+regarding the superior effectiveness of earlier deployed strategies.
+As a more rigorous test, we conducted Study 2, a field experiment
+with high school students. Consistent with our initial intuition that
+young people might lack the freedom to choose where and with
+whom they would be, students considering both real-life and
+hypothetical academic dilemmas in Study 1 nominated situation
+modification strategies at least twice as often as situation selection
+strategies. As a foil to situation modification, we considered the
+most obvious cognitive strategy: response modulation. We did so
+in part because there is a long tradition of admonishing students to
+“just pay attention!” or “just control yourself!” as an encouragement to their self-control. Thus, although the least sophisticated of
+cognitive self-control strategies, response modulation is also the
+most straightforward. Accordingly, in Study 2, we randomly assigned students to implement either situation modification, response modulation, or no particular strategy in order to attain
+self-identified study goals. One week later, students in all three
+conditions reported the extent to which they had accomplished
+their goals and the general quality of their studying during the prior
+week.
+
+Method
+Participants. Participants were students attending a boarding
+high school in the Northeast United States. Opt-out parental consent and student assent were obtained for 250 students enrolled in
+Grades 9 through 12, but half of students did not complete the
+follow-up survey. After confirming that attrition was not related to
+treatment condition, these students were excluded from further
+analyses, leaving a final sample of N ⫽ 126. Participants ranged in
+age from 14 to 19 (Mage ⫽ 16.4, SD ⫽ 1.27). About 58% were
+White, 24% Asian, 8% multiracial, 6% African American, 3% of
+other ethnic backgrounds, and 1% Hispanic; 57% were female.
+Procedure. Students were randomly assigned to one of three
+conditions: situation modification (n ⫽ 44), response modulation
+(n ⫽ 35), or no-treatment control (n ⫽ 47). All interventions were
+introduced as trying to help “students stick to study goals that they
+set for themselves.”
+All students were first asked to set a study goal that they would
+like to accomplish over the coming week. They were then asked to
+
+335
+
+answer two questions about their study habits: “How many days
+over the past week did you study?” and “On average, how many
+hours per day did you study on the days that you studied last
+week?” At the end of the first session, all students provided
+demographic information and, in addition, were asked, “How
+much do you believe this strategy would work?” (1 ⫽ do not
+believe at all to 5 ⫽ strongly believe).
+In the situation modification condition, students were instructed
+to remove temptations that might distract them from reaching an
+academic goal. Following a brief introduction, which introduced
+them to the idea of “removing temptations from sight rather than
+trying to resist them directly,” they watched an animated video
+about relevant research. Specifically, students learned about a
+study in which secretaries ate less candy when candy was kept in
+bowls placed more than an arm’s reach away (Wansink, Painter, &
+Lee, 2006). Next, they watched an expert endorse this strategy in
+a clip taken from a media interview (Duckworth, 2013, October 7).
+Finally, they were asked to modify their environment to minimize
+temptations (e.g., setting reminders or alarms, installing online
+apps to block online temptations such as Facebook). We emphasized that students should make any modification they thought
+would be useful and asked them to repeat any “temporary”
+changes (e.g., turning off the cell phone) as necessary.
+Students assigned to the response modulation group were instructed to exert willpower whenever they were faced with temptation. Following a brief introduction, which introduced them to
+the idea that “people can actually strengthen their self-control
+muscle with repeated practice that consists of actively resisting
+immediate temptations (rather than simply avoiding them),” they
+watched an animated video about relevant research. Specifically,
+students learned about a study in which individuals who practiced
+exerting willpower later exhibited increases in healthy eating,
+exercise, emotional control, and improvement in study habits
+(Oaten & Cheng, 2006). Next, they watched an expert endorse the
+concept of strengthening willpower in a media clip (McGonigal,
+2012). Finally, they were asked to “practice resisting temptations
+when you encounter them.” We emphasized that students should
+use willpower whenever they experienced an impulse to indulge in
+a temptation that conflicted with their academic goals.
+In the no-treatment control condition, students were simply
+asked to set a study goal. They were not given any explicit
+information about how to achieve this goal.
+One week later, all students were asked to report on their
+progress toward the goal they had previously identified. Students
+reported on the quality of their studying compared to prior weeks
+(1 ⫽ a lot worse to 5 ⫽ a lot better) and how well they felt they
+accomplished their goal (1 ⫽ extremely poorly to 5 ⫽ extremely
+well). As a manipulation check, they were also asked an openended question, “What strategies did you actually use to deal with
+temptations over the last week? Be as detailed as possible.” Two
+trained coders categorized responses according to the five categories of the process model. About 14% of students did not answer
+this question, which was the very last part of the follow-up survey.
+An additional 7% could not be categorized because they did not
+provide sufficient information; 1% could not be categorized because students named a variety of strategies that spanned multiple
+categories in the process model. Coders disagreed about 2% of the
+remaining 98 valid responses and resolved these discrepancies
+through discussion.
+
+336
+
+DUCKWORTH, WHITE, MATTEUCCI, SHEARER, AND GROSS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Results
+Preliminary analyses. Randomization was successful. There
+were no differences across condition in gender, age, or baseline
+study habits, nor did any of these variables moderate analyses.
+Therefore, these variables were not included in subsequent analyses.
+We found a marginally significant effect of group on how much
+students believed their strategy would help them at baseline, F(2,
+126) ⫽ 2.96, p ⫽ .06, ␩p2 ⫽ .05. However, post hoc pairwise
+comparisons showed that anticipated helpfulness of the situation
+modification activity was not higher than either the response
+modulation activity or no-treatment condition, ns. Indeed, the only
+reliable pairwise difference was that the response modulation
+group (M ⫽ 3.80, SD ⫽ 0.99) believed in the helpfulness of their
+strategy more than the no-treatment group (M ⫽ 3.26, SD ⫽ 1.05),
+p ⫽ .04, d ⫽ .50. Including anticipated helpfulness as a covariate
+did not affect any results (results available upon request).
+At follow-up, participants reported using different self-control
+strategies as a function of condition, ␹2(8, N ⫽ 98) ⫽ 20.8, p ⬍
+.01. Specifically, participants in the situation modification condition more frequently used situation modification strategies than
+participants in the response modulation, ␹2(1, N ⫽ 63) ⫽ 10.5, p ⬍
+.001, or no-treatment control conditions, ␹2(1, N ⫽ 71) ⫽ 15.85,
+p ⬍ .001. Likewise, participants in the response modulation condition used response modulation more frequently than participants
+in the situation modification condition, ␹2(1, N ⫽ 63) ⫽ 5.22, p ⫽
+.02. Reported use of response modulation strategies in the response
+modulation condition did not significantly differ from the notreatment control condition, ␹2(1, N ⫽ 62) ⫽ 0.88, p ⫽ .35.
+Primary analyses. We first ran a one-way ANOVA to compare students’ goal accomplishment across conditions (situation
+modification, response modulation, no-treatment control). As illustrated in Figure 4a, there was a significant effect of condition on
+goal accomplishment, Welch F(2, 73.24) ⫽ 4.35, p ⫽ .016, ␩p2 ⫽
+.06. Planned contrasts accounting for unequal variances revealed
+that students in the situation modification condition (M ⫽ 3.39,
+SD ⫽ 0.83) better accomplished their goals than students in other
+conditions (response modulation control: M ⫽ 2.86, SD ⫽ 1.14;
+no-treatment control: M ⫽ 2.91, SD ⫽ 0.85), t(90.72) ⫽ 2.91, p ⬍
+.01, d ⫽ 0.56. The no-treatment control and response modulation
+control conditions did not differ from one another, t(60.81) ⫽ ⫺0.23,
+p ⫽ .82.
+Similarly, a one-way ANOVA revealed that study quality also
+differed by condition, F(2, 119) ⫽ 5.49, p ⬍ .01, ␩p2 ⫽ .08 (see
+
+Figure 4b). Planned contrasts confirmed that students in the situation modification condition (M ⫽ 3.34, SD ⫽ 0.79) reported
+better study quality than students in other conditions (response
+modulation control: M ⫽ 3.00, SD ⫽ 0.77; no-treatment control:
+M ⫽ 2.76, SD ⫽ 0.87), t(119) ⫽ 2.93, p ⬍ .01, d ⫽ 0.57. The
+no-treatment control and response modulation control conditions
+did not differ from one another, t(119) ⫽ 1.30, p ⫽ .20.
+
+Discussion
+The experimental findings in Study 2 were consistent with our
+naturalistic investigation in Study 1. Specifically, high school
+students randomly assigned to implement situation modification
+were better able to accomplish their study goals the following
+week and, in addition, reported their studying that week to be
+higher in quality than students randomly assigned to implement
+response modulation or no particular strategy. These differences
+were large in size and reliable, whereas there were no reliable
+differences between the response modulation and no-treatment
+conditions.
+
+Study 3: A Self-Control Intervention Study in College
+In Study 3, we sought to replicate the findings of Study 2 in a
+sample of college students and, further, test the hypothesis that
+situation modification would diminish the aversive feelings of
+temptation associated with directly modulating impulses. By doing
+so, we tested the prediction that impulses addressed earlier in their
+gestation would be weaker than those addressed later. Although we
+bore no illusions that manipulating the physical surroundings
+would make studying especially pleasurable, we did imagine it
+might make it relatively less unpleasant. We conjectured that
+reduced feelings of temptation might, therefore, mediate the effects of situation modification on goal attainment.
+
+Method
+Participants. Participants were undergraduate students recruited from psychology courses at the University of Pennsylvania.
+A sample of 159 students (Mage ⫽ 20.4, SD ⫽ 1.09) completed all
+study requirements and received course credit for completing the
+survey. Participants were 54% Caucasian, 25% Asian, 8% of other
+ethnic backgrounds, 7% Hispanic, and 6% African American; 65%
+were female.
+
+Figure 4. High school students rating of (a) goal accomplishment and (b) study quality in Study 2. Error bars
+represent 95% confidence intervals.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRATEGIC SELF-CONTROL
+
+Procedure. Students were randomly assigned to one of three
+conditions: situation modification (n ⫽ 52), response modulation
+(n ⫽ 52), or no-treatment control (n ⫽ 55). Similar to Study 2, all
+interventions were introduced as trying to help “students stick to
+study goals that they set for themselves.”
+The instructions and activities for the three conditions were
+similar to those used in Study 2. Students were asked one question
+about their study habits: “On average, how many hours do you
+study per day?” All students were also asked to set a study goal
+that they would like to accomplish over the coming week. One
+important difference is that participants in the situation modification condition used their cell phone cameras to document changes
+to their environment, a manipulation check we were not able to
+apply in Study 2 given the younger age and associated confidentiality concerns of those participants.
+One week later, all students were asked to report on their
+progress toward their goal. Specifically, they reported how well
+they felt they accomplished their goal (1 ⫽ extremely poorly to
+5 ⫽ extremely well), and how tempted they felt by distractions in
+their environment over the past week (1 ⫽ not at all tempted to
+5 ⫽ extremely tempted). Finally, we asked students to complete a
+checklist of five strategies, indicating any and all they had used in
+the past week. The five strategies were described without naming
+them categorically. For example, students who indicated they had
+“changed my surroundings so that the temptation was out of reach
+or not easily accessible” were considered having used situation
+modification. Students who indicated, “I told myself, I will not
+give in to temptation” were considered having used response
+modulation.
+
+Results
+Preliminary analyses. There were no differences across condition in gender, or age, and these variables did not moderate any
+of the subsequent analyses.
+However, there was a significant effect of group on the number
+of hours studied per day at baseline, F(2, 161) ⫽ 6.44, p ⬍ .01,
+␩p2 ⫽ .07. Pairwise comparisons showed that the response modulation group (M ⫽ 4.13, SD ⫽ 1.67) studied more than the
+situation modification group (M ⫽ 3.04, SD ⫽ 1.60), p ⬍ .001,
+d ⫽ 0.70. There were no differences between either situation
+modification or response modulation and the no-treatment group
+(M ⫽ 3.54, SD ⫽ 1.48), ps ⬍ .15. Given these differences at
+baseline, hours studied was included as a covariate in subsequent
+analyses.
+
+337
+
+As a manipulation check, we fit two binary logistic regression
+models predicting use of situation modification and response modulation strategies, respectively, from condition and controlling for
+hours studied. As expected, participants in the situation modification condition were more likely to use situation modification
+strategies than participants in the response modulation condition,
+Wald ⫽ 7.53, p ⬍ .01, or the no-treatment control condition,
+Wald ⫽ 7.53, p ⬍ .01. Relative to the response modulation group,
+participants in the no-treatment control group were equally likely
+to use response modulation strategies, Wald ⫽ 1.03, p ⫽ .31, but
+participants in the situation modification condition were marginally less likely to use response modulation, Wald ⫽ 2.62, p ⫽ .10.
+Primary analyses. A one-way analysis of covariance (ANCOVA)
+revealed that students’ success at achieving their goals differed by
+condition, F(2, 155) ⫽ 6.48, p ⬍ .01, ␩p2 ⫽ .08. As shown in
+Figure 5a, pairwise comparisons revealed that participants in the
+situation modification group (M ⫽ 3.56, SD ⫽ 1.05) accomplished
+their goal more often than participants in either the response
+modulation (M ⫽ 3.06, SD ⫽ 1.04), p ⬍ .01, d ⫽ 0.60, or the
+no-treatment group (M ⫽ 2.98, SD ⫽ 1.13), p ⬍ .01, d ⫽ 0.63. The
+response modulation group, however, did not differ from the
+no-treatment group, p ⫽ .97, d ⫽ 0.01.
+Similarly, a separate one-way ANCOVA showed that the level
+of temptation students faced over the previous week (M ⫽ 3.77,
+SD ⫽ .85) also differed by condition, F(2, 155) ⫽ 5.44, p ⬍ .01,
+␩p2 ⫽ .07 (Figure 5b). Participants in the situation modification
+group (M ⫽ 3.46, SD ⫽ 0.83) reported having experienced less
+temptation over the previous week than participants in either the
+response modulation group (M ⫽ 3.97, SD ⫽ 0.83), p ⬍ .01, d ⫽
+0.61, or the no-treatment control group (M ⫽ 3.87, SD ⫽ 0.82),
+p ⬍ .01, d ⫽ 0.50, but the response modulation group was not
+significantly different from the no-treatment group, p ⫽ .54, d ⫽
+0.12.
+Finally, to test the hypothesis that situation modification could
+increase self-reported goal attainment, at least in part, by reducing
+temptation, we used Hayes and Preacher’s (2014) Mediate Macro
+for SPSS to test whether self-report of overall temptation mediated
+the effect of condition on goal accomplishment. Two dummy
+codes were created for the two treatment groups (coded as 1) with
+the no-treatment group serving as the reference group (coded as 0).
+We found that temptation partially mediated goal accomplishment
+for the situation modification group (indirect effect ⫽ 0.22; 95%
+bootstrapped confidence interval, CI: [0.05, 0.43]), but not for the
+response modulation group (indirect effect ⫽ ⫺0.05; 95% boot-
+
+Figure 5. College students rating of (a) goal accomplishment (b) level of temptation in Study 3. Estimated
+marginal means controlling for number of hours studied at baseline. Error bars represent 95% confidence
+intervals.
+
+338
+
+DUCKWORTH, WHITE, MATTEUCCI, SHEARER, AND GROSS
+
+strapped confidence interval [CI]: ⫺0.22, 0.10), relative to the
+no-treatment condition (see Figure 6). This supports our hypothesis that situation modification may be an effective self-control
+strategy partly because it reduces the degree to which participants
+felt tempted when trying to accomplish their goals during the
+week.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Discussion
+Study 3 confirmed the findings of Study 2. College students
+encouraged to change their physical surroundings in ways that
+would help them achieve their study goals were more successful in
+actually accomplishing these goals in the following week. As
+predicted by the process model, they reported having experienced
+less temptation during the same period, and reduced feelings of
+temptation partially mediated the effect of condition on selfreported goal attainment.
+The contribution of Study 3 to the overall investigation was
+several-fold. First, the effect of condition on study goal attainment
+replicated findings of Study 2, strengthening the inference that
+situation modification strategies are more effective than response
+modulation strategies. Second, the mediation results supported the
+process model insofar as they indicated that students who used
+situation modification strategies were able to curtail the strengthening of undesirable impulses, compared to students who used
+response modulation strategies or no particular assigned selfcontrol strategy. Although strong claims about the mediational role
+of temptation are inappropriate given our study design (Bullock,
+Green, & Ha, 2010), we are encouraged by this preliminary evidence to more rigorously test the extent to which situation modification makes self-control “easier.” Third, whereas Study 1 and
+Study 2 involved high school students, Study 3 involved college
+students, thus extending the external validity of our investigation
+to older students accorded relatively greater autonomy in their
+everyday decision making.
+
+Figure 6. The effect of condition on goal accomplishment is partially
+mediated by temptation experienced by college students in Study 3. The
+coefficients shown are unstandardized. Condition effects are relative to
+control (dummy coded as 0). ⴱ p ⬍ .05. ⴱⴱ p ⬍ .001.
+
+General Discussion
+Across three studies, we examined how high school and college
+students exercise self-control and assessed the relative efficacy of
+their efforts to do so. In Study 1, we found that high school
+students use self-control in a variety of everyday situations but
+most commonly to navigate interpersonal conflicts and to get their
+academic work done. When asked how they handled these incidents, students named strategies that could be reliably classified
+using the process model of self-control. In response to three
+hypothetical academic scenarios (e.g., studying vs. texting friends),
+students likewise suggested diverse means of exerting self-control,
+but when asked to consider strategies we had written to represent each
+of the five strategy types in the process model, they overwhelmingly
+rated situation selection as most effective, followed by situation modification, and finally all three later-deployed cognitive strategies (i.e.,
+attentional deployment, cognitive change, and response modulation).
+We were surprised that students judged response modulation to
+be as effective as attentional deployment and cognitive change
+strategies. This finding is at odds with theoretical predictions from
+the process model as well as empirical research showing that
+preschoolers encouraged to direct attention away from tempting
+treats or to think about them in “cooler,” less consummatory terms,
+are better able to delay gratification (Mischel, 2014; Mischel et al.,
+1989). One possibility is that young children benefit more from
+these more sophisticated cognitive strategies than do adolescents,
+but this explanation is hard to square with evidence that adults
+more effectively regulate their emotion when using cognitive
+change than when using response modulation (Gross, 2014). Alternatively, differences in effectiveness among these laterdeployed strategies might be real but too small in size for students
+in our study to recognize. Relatedly, it may be that any of these
+cognitive strategies is more easily reversed than situational strategies, and therefore comparably less effective. For example, when
+trying to study rather than spend time on social media, students
+might look away or mentally recast that pastime as a threat to their
+grade point average— but, alas, it is just as easy to glance back, or
+to think instead about how many “likes” you’ve garnered in the
+last few minutes. In contrast, it takes effort to reverse the decision
+to close the Internet browser, shut down the laptop, or find a
+distraction-free room in which to study. All of these possibilities
+merit further investigation.
+In Studies 2 and 3, high school and college students randomly
+assigned to implement situation modification strategies reported
+being better able to accomplish their study goals the following
+week than were students assigned to implement response modulation or given no explicit self-control strategy at all. We found
+evidence in Study 3 that reduced feelings of temptation partially
+mediated the effect of condition on goal attainment. These experimental results suggest that students might benefit from direct
+instruction in modifying their situations to advantage. Perhaps the
+activity we developed merely reminded them of the helpfulness of
+situation modification. If so, one can imagine that a comparable
+benefit might be realized if the content included in our intervention
+was shared with students. For example, instead of simply exhorting students to rely on their willpower, teachers and professors
+might instead explain that removing temptations from their surroundings makes staying on task easier.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRATEGIC SELF-CONTROL
+
+Collectively, these findings suggest that intervening early in the
+development of an impulse may be more effective than intervening
+later. Probing how students think about various self-control tactics,
+we discovered that they largely recognize that when it comes to
+self-control, a stitch in time saves nine. In particular, when presented with hypothetical academic self-control dilemmas, they
+recommended situation modification more than any other strategy.
+However, situation modification was mentioned less than twice as
+often when students told us what they did to manage their academic responsibilities in their own everyday lives. Given how
+much more effective students rated situation modification than any
+cognitive strategy (ds ⬎ 1), an intriguing possibility, to be pursued
+in further research, is that students already recognize what they
+“should” do to effectively exercise self-control but do not always
+act accordingly.
+
+Limitations and Future Directions
+The current investigation had several limitations that should be
+addressed in future research. Most importantly, in the interventions
+presented in Studies 2 and 3, we relied upon self-reported, rather
+than behavioral, measures of goal attainment. We did so in order
+to allow students to set personally relevant and feasible academic
+goals. As expected, these goals were extremely diverse: Some
+students resolved to “finish all of [their] homework the day before
+it is due,” others aimed to “study French for one hour each night
+before [they] sleep, and still others hoped to “not go on Facebook
+while completing [their] research paper.” Using self-reported outcomes made it possible to tailor our assessments to each participant’s goals. However, our reliance on self-reported outcomes
+means that demand effects may have contributed to the superior
+efficacy of the situation modification activity. We think this is
+unlikely, given that Study 2 participants in the situation modification condition, at baseline, rated their activity as no different in
+helpfulness than students in the other two conditions. (Unfortunately, no such manipulation check was administered in Study 3.)
+Nonetheless, one important direction for future research is to
+replicate and extend present findings using behavioral outcomes.
+Relatedly, participants in Studies 2 and 3 reported on their goal
+attainment during the prior week using single-item questions.
+Measurement error on predictor variables inflates standard errors.
+Thus, longer multi-item questionnaires of goal attainment, rather
+than single-item measures thereof, might have provided more
+precise estimates of the benefits of situation modification across
+these two studies.
+Future research is also needed to determine the durability of
+situation modification interventions. We documented large-sized
+effects on attainment of study goals one week later, but we did not
+measure the effects of our manipulation beyond that time point.
+Common sense suggests that an intervention lasting less than half
+an hour would soon be forgotten or displaced by prior habits, but
+recent research on “psychologically wise” interventions pinpointing theoretically precise targets has shown enduring effects of very
+brief interventions on academic outcomes (Walton, 2014; Yeager
+& Walton, 2011). Such interventions seem to work, at least in part,
+by changing a recursive process (e.g., improving behavior, leading
+to improvements in outcomes, thereby reinforcing motivation to
+continue improving behavior). The mediation results in Study 3
+give us some hope for just such a possibility. In particular, we
+
+339
+
+speculate that students who change their situations to their advantage experience less temptation as a result, which helps them
+accomplish their study goals, leading to better academic performance, and reinforcing their motivation to continue modifying
+their situations. Longitudinal experiments with a more extended
+time frame are needed to test this possibility.
+Finally, the random-assignment experiments in Studies 2 and 3
+contrasted situation modification and response modulation as exemplar earlier versus later self-control strategies. A complete test
+of the process model would ideally entail a simultaneous comparison of all five self-control strategies and a no-treatment control.
+With adequate statistical power, such a study design could unambiguously establish the efficacy of strategies as a function of the
+stage in process of impulse generation at which they are deployed.
+
+Conclusion
+The current investigation reveals high school and college students to have in their arsenals many more means of exercising
+self-control than direct effortful inhibition of undesirable impulses.
+Unfortunately, although they seem to recognize the utility of
+choosing where and with whom to be, and subsequently modifying
+these physical and social circumstances to advantage, they do not
+always do so. Why not? Perhaps students lack the future orientation to spontaneously anticipate temptations far enough in advance
+to take appropriate preemptive measures. Or perhaps they assume
+that the inherently cognitive conflict between conflicting impulses
+should be resolved with similarly cognitive tactics. In other words,
+remedies that are qualitatively different from the problem itself
+are, perhaps, less obvious, even if they are ultimately more effective. Given the importance of self-control to success in school and
+beyond, the questions raised by our current findings bear special
+urgency. Why don’t students capitalize on forward-looking, situational solutions to self-control dilemmas? What “psychologically
+wise” interventions might equip them with these skills? How
+might this broadened conception of what it means to exercise
+self-control benefit “studenting” and other life responsibilities?
+Answers to these questions promise both theoretical insights and
+practical tools for managing the many self-control dilemmas that
+characterize the human condition.
+
+References
+Achtziger, A., & Gollwitzer, P. M. (2008). Motivation and volition in the
+course of action. In J. Heckhausen & H. Heckhausen (Eds.), Motivation
+and action (pp. 273–295). Cambridge, England: Cambridge University
+Press.
+Ariely, D., & Wertenbroch, K. (2002). Procrastination, deadlines, and
+performance: Self-control by precommitment. Psychological Science,
+13, 219 –224. http://dx.doi.org/10.1111/1467-9280.00441
+Aristotle. (350 BCE/1999). Nicomachean ethics (T. Irwin, Trans.) (2nd
+ed.). Indianapolis, IN: Hackett Publishing Company.
+Banys, P. (1988). The clinical use of disulfiram (Antabuse): A review.
+Journal of Psychoactive Drugs, 20, 243–261. http://dx.doi.org/10.1080/
+02791072.1988.10472495
+Baumeister, R. F. (2014). Self-regulation, ego depletion, and inhibition.
+Neuropsychologia, 65, 313–319. http://dx.doi.org/10.1016/j.neuro
+psychologia.2014.08.012
+Bonson, K. R., Grant, S. J., Contoreggi, C. S., Links, J. M., Metcalfe, J.,
+Weyl, H. L., . . . London, E. D. (2002). Neural systems and cue-induced
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+340
+
+DUCKWORTH, WHITE, MATTEUCCI, SHEARER, AND GROSS
+
+cocaine craving. Neuropsychopharmacology, 26, 376 –386. http://dx.doi
+.org/10.1016/S0893-133X(01)00371-2
+Bullock, J. G., Green, D. P., & Ha, S. E. (2010). Yes, but what’s the
+mechanism? (don’t expect an easy answer). Journal of Personality and
+Social Psychology, 98, 550.
+Carlson, S. M., & Beck, D. M. (2009). Symbols as tools in the development
+of executive function. In A. Winsler, C. Fernyhough, & I. Montero
+(Eds.), Private speech, executive functioning, and the development of
+verbal self-regulation (pp. 163–175). New York, NY: Cambridge University Press.
+Carlson, S. M., Zelazo, P. D., & Faja, S. (2013). Executive function. In
+P. D. Zelazo (Ed.), The Oxford handbook of developmental psychology:
+Vol. 1. Body and mind (pp. 706 –742). New York, NY: Oxford University Press.
+Corno, L., & Mandinach, E. B. (2004). What we have learned about student
+engagement in the past twenty years. Big Theories Revisited, 4, 299 –
+328.
+Daly, M., Delaney, L., Egan, M., & Baumeister, R. F. (2015). Childhood
+self-control and unemployment throughout the life span: Evidence from
+two British cohort studies. Psychological Science, 26, 709 –723. http://
+dx.doi.org/10.1177/0956797615569001
+Doyle, T. J., Friedmann, P. D., & Zywiak, W. H. (2013). Management of
+patients with alcohol dependence in recovery: Options for maintenance
+and anticipating and managing relapse in primary care. In R. Saitz (Ed.),
+Addressing unhealthy alcohol use in primary care (pp. 85–92). New
+York, NY: Springer. http://dx.doi.org/10.1007/978-1-4614-4779-5_8
+Duckworth, A. (2013, October 7). Facebook or homework? How to resist
+distractions. Interview by H. Kotb & K. L. Gifford. The Today Show.
+[Television broadcast]. New York: NBC.
+Duckworth, A. L., & Carlson, S. M. (2013). Self-regulation and school
+success. In B. W. Sokol, F. M. E. Grouzet, & U. Muller (Eds.), Selfregulation and autonomy: Social and developmental dimensions of
+human conduct (pp. 208 –230). New York, NY: Cambridge University
+Press. http://dx.doi.org/10.1017/CBO9781139152198.015
+Duckworth, A., Gendler, T. S., & Gross, J. J. (2014). Self-control in
+school-age children. Educational Psychologist, 49, 199 –217. http://dx
+.doi.org/10.1080/00461520.2014.926225
+Duckworth, A. L., & Seligman, M. E. P. (2005). Self-discipline outdoes IQ
+in predicting academic performance of adolescents. Psychological Science, 16, 939 –944. http://dx.doi.org/10.1111/j.1467-9280.2005.01641.x
+Eisenberg, N., Duckworth, A. L., Spinrad, T. L., & Valiente, C. (2014).
+Conscientiousness: Origins in childhood? Developmental Psychology,
+50, 1331–1349. http://dx.doi.org/10.1037/a0030977
+Eisenberg, N., Hofer, C., Sulik, M. J., & Spinrad, T. L. (2014). Selfregulation, effortful control, and their socioemotional correlates. In J. J.
+Gross (Ed.), Handbook of Emotion regulation (pp. 157–172). New York,
+NY: Guilford Press.
+Ent, M. R., Baumeister, R. F., & Tice, D. M. (2015). Trait self-control and
+the avoidance of temptation. Personality and Individual Differences, 74,
+12–15. http://dx.doi.org/10.1016/j.paid.2014.09.031
+Finkel, E. J., Slotter, E. B., Luchies, L. B., Walton, G. M., & Gross, J. J.
+(2013). A brief intervention to promote conflict reappraisal preserves
+marital quality over time. Psychological Science, 24, 1595–1601. http://
+dx.doi.org/10.1177/0956797612474938
+Freud, S. (1977). Introductory lectures on psychoanalysis (pp. 1916 –
+1917). New York, NY: Norton.
+Fujita, K. (2011). On conceptualizing self-control as more than the effortful
+inhibition of impulses. Personality and Social Psychology Review, 15,
+352–366. http://dx.doi.org/10.1177/1088868311411165
+Fujita, K., Trope, Y., Liberman, N., & Levin-Sagi, M. (2006). Construal
+levels and self-control. Journal of Personality and Social Psychology,
+90, 351–367.
+Galla, B. M., Duckworth, A. L., Rikoon, S. H., & Haimm, C. A. (2014).
+Academic work is unpleasant but important: Reports of momentary
+
+subjective experience in a national sample of adolescents. Manuscript in
+preparation.
+Goldstein, A. (1994). Addiction: From biology to drug policy. New York,
+NY: Freeman/Times Books/Henry Holt & Co.
+Gross, J. J. (2014). Emotion regulation: Conceptual and empirical foundations. In J. J. Gross (Ed.), Handbook of emotion regulation (2nd ed., pp.
+3–20). New York, NY: Guilford Press.
+Gross, J. J., & Levenson, R. W. (1993). Emotional suppression: Physiology, self-report, and expressive behavior. Journal of Personality and
+Social Psychology, 64, 970 –986. http://dx.doi.org/10.1037/0022-3514
+.64.6.970
+Hayes, A. F., & Preacher, K. J. (2014). Statistical mediation analysis with
+a multicategorical independent variable. British Journal of Mathematical and Statistical Psychology, 67, 451– 470. http://dx.doi.org/10.1111/
+bmsp.12028
+Imhoff, R., Schmidt, A. F., & Gerstenberg, F. (2014). Exploring the
+interplay of trait self-control and ego depletion: Empirical evidence for
+ironic effects. European Journal of Personality, 28, 413– 424. http://dx
+.doi.org/10.1002/per.1899
+Inzlicht, M., Legault, L., & Teper, R. (2014). Exploring the mechanisms of
+self-control improvement. Current Directions in Psychological Science,
+23, 302–307. http://dx.doi.org/10.1177/0963721414534256
+James, W. (1899). Talks to teachers on psychology and to students on some
+of life’s ideals. New York, NY: Holt and Company. http://dx.doi.org/
+10.1037/10814-000
+Kelley, A. E. (2004). Memory and addiction: Shared neural circuitry and
+molecular mechanisms. Neuron, 44, 161–179. http://dx.doi.org/10.1016/
+j.neuron.2004.09.016
+Kuhl, J. (1984). Volitional aspects of achievement motivation and learned
+helplessness: Toward a comprehensive theory of action control. Progress In Experimental Personality Research, 13, 99 –171.
+Kurzban, R., Duckworth, A., Kable, J. W., & Myers, J. (2013). An
+opportunity cost model of subjective effort and task performance. Behavioral and Brain Sciences, 36, 661– 679. http://dx.doi.org/10.1017/
+S0140525X12003196
+Marcus, M. (1988). Self-regulation in expository writing. Unpublished
+doctoral dissertation, Graduate School of the City University of New
+York, New York, NY.
+McGonigal, K. (2012, July 22). The willpower instinct. Interview by P.
+Chattopadhyay. The Agenda with Steve Paikin. [Television broadcast].
+Toronto, Canada: TVO.
+Mischel, H. N., & Mischel, W. (1983). The development of children’s
+knowledge of self-control strategies. Child Development, 54, 603– 619.
+http://dx.doi.org/10.2307/1130047
+Mischel, W. (2014). The marshmallow test: Mastering self-control. New
+York, NY: Little, Brown, and Company.
+Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification
+in children. Science, 244, 933–938. http://dx.doi.org/10.1126/science
+.2658056
+Moffitt, T. E., Arseneault, L., Belsky, D., Dickson, N., Hancox, R. J.,
+Harrington, H., . . . Caspi, A. (2011). A gradient of childhood selfcontrol predicts health, wealth, and public safety. Proceedings of the
+National Academy of Sciences of the United States of America, 108,
+2693–2698. http://dx.doi.org/10.1073/pnas.1010076108
+Oaten, M., & Cheng, K. (2006). Longitudinal gains in self-regulation from
+regular physical exercise. British Journal of Health Psychology, 11,
+717–733. http://dx.doi.org/10.1348/135910706X96481
+O’Brien, C. P. (1976). Experimental analysis of conditioning factors in
+human narcotic addiction. Pharmacological Reviews, 27, 533–543.
+Osgood, D. W., Wilson, J. K., O’Malley, P. M., Bachman, J. G., &
+Johnston, L. D. (1996). Routine activities and individual deviant behavior. American Sociological Review, 61, 635– 655. http://dx.doi.org/
+10.2307/2096397
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+STRATEGIC SELF-CONTROL
+PBS. (2013, September 4). Cookie Monster learns a lesson from Tom
+Hiddleston [Video file]. Retrieved from https://www.youtube.com/
+watch?v⫽b_ubVVnWglk
+Peake, P. K., Hebl, M., & Mischel, W. (2002). Strategic attention deployment for delay of gratification in working and waiting situations. Developmental Psychology, 38, 313–326. http://dx.doi.org/10.1037/00121649.38.2.313
+Poropat, A. E. (2009). A meta-analysis of the five-factor model of personality and academic performance. Psychological Bulletin, 135, 322–338.
+http://dx.doi.org/10.1037/a0014996
+Rothbart, M. K., & Rueda, M. R. (2005). The development of effortful
+control. In U. Mayr, E. Awh, & S. W. Keele (Eds.), Developing individuality in the human brain (pp. 167–188). Washington, DC: American
+Psychological Association.
+Schelling, T. C. (1984). Choice and consequence: Perspectives of an
+errant economist. Cambridge, MA: Harvard University Press.
+Schroeder, J. R., Latkin, C. A., Hoover, D. R., Curry, A. D., Knowlton,
+A. R., & Celentano, D. D. (2001). Illicit drug use in one’s social network
+and in one’s neighborhood predicts individual heroin and cocaine use.
+Annals of Epidemiology, 11, 389 –394. http://dx.doi.org/10.1016/S10472797(01)00225-3
+Sheppes, G., & Gross, J. J. (2011). Is timing everything? Temporal considerations in emotion regulation. Personality and Social Psychology
+Review, 15, 319 –331. http://dx.doi.org/10.1177/1088868310395778
+Steinberg, L. (2013). Adolescence. New York, NY: McGraw-Hill.
+Tsukayama, E., Duckworth, A. L., & Kim, B. E. (2012). Resisting everything except temptation: Evidence and an explanation for domainspecific impulsivity. European Journal of Personality, 26, 318 –334.
+http://dx.doi.org/10.1002/per.841
+Tsukayama, E., Duckworth, A. L., & Kim, B. (2013). Domain-specific
+impulsivity in school-age children. Developmental Science, 16, 879 –
+893.
+Tsukayama, E., Toomey, S. L., Faith, M. S., & Duckworth, A. L. (2010).
+Self-control as a protective factor against overweight status in the
+transition from childhood to adolescence. Archives of Pediatrics &
+Adolescent Medicine, 164, 631– 635. http://dx.doi.org/10.1001/
+archpediatrics.2010.97
+Ury, W. (2007). Getting past no: Negotiating in difficult situations. New
+York, NY: Random House.
+Véronneau, M.-H., Hiatt-Racer, K., Fosco, G. M., & Dishion, T. J. (2014).
+The contribution of adolescent effortful control to early adult educational attainment. Journal of Educational Psychology, 106, 730 –743.
+http://dx.doi.org/10.1037/a0035831
+
+341
+
+Walton, G. M. (2014). The new science of wise psychological interventions. Current Directions in Psychological Science, 23, 73– 82. http://
+dx.doi.org/10.1177/0963721413512856
+Wansink, B. (2004). Environmental factors that increase the food intake
+and consumption volume of unknowing consumers. Annual Review of
+Nutrition, 24, 455– 479. http://dx.doi.org/10.1146/annurev.nutr.24
+.012003.132140
+Wansink, B., Painter, J. E., & Lee, Y. K. (2006). The office candy dish:
+Proximity’s influence on estimated and actual consumption. International Journal of Obesity, 30, 871– 875. http://dx.doi.org/10.1038/sj.ijo
+.0803217
+Wansink, B., & Van Ittersum, K. (2003). Bottoms up! The influence of
+elongation on pouring and consumption volume. Journal of Consumer
+Research, 30, 455– 463. http://dx.doi.org/10.1086/378621
+Wansink, B., Van Ittersum, K., & Painter, J. E. (2006). Ice cream illusions
+bowls, spoons, and self-served portion sizes. American Journal of Preventive Medicine, 31, 240 –243. http://dx.doi.org/10.1016/j.amepre.2006
+.04.003
+Webb, T. L., Miles, E., & Sheeran, P. (2012). Dealing with feeling: A
+meta-analysis of the effectiveness of strategies derived from the process
+model of emotion regulation. Psychological Bulletin, 138, 775– 808.
+http://dx.doi.org/10.1037/a0027600
+Weiss, F. (2005). Neurobiology of craving, conditioned reward and relapse. Current Opinion in Pharmacology, 5, 9 –19. http://dx.doi.org/
+10.1016/j.coph.2004.11.001
+White, R. E., Kross, E., & Duckworth, A. L. (2015). Spontaneous selfdistancing and adaptive self-reflection across adolescence. Child Development. http://dx.doi.org/10.1111/cdev.12370
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions
+in education: They’re not magic. Review of Educational Research, 81,
+267–301. http://dx.doi.org/10.3102/0034654311405999
+Zimmerman, B. J. (1989). A social cognitive view of self-regulated academic learning. Journal of Educational Psychology, 81, 329 –339. http://
+dx.doi.org/10.1037/0022-0663.81.3.329
+Zimmerman, B. J., & Martinez-Pons, M. (1990). Student differences in
+self-regulated learning: Relating grade, sex, and giftedness to selfefficacy and strategy use. Journal of Educational Psychology, 82, 51–
+59. http://dx.doi.org/10.1037/0022-0663.82.1.51
+
+Received January 27, 2015
+Revision received May 15, 2015
+Accepted May 26, 2015 䡲
+
+E-Mail Notification of Your Latest Issue Online!
+Would you like to know when the next issue of your favorite APA journal will be available
+online? This service is now available to you. Sign up at http://notify.apa.org/ and you will be
+notified by e-mail when issues of interest to you become available!
+
+

@@ -1,0 +1,1835 @@
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+ANNUAL
+REVIEWS
+
+Further
+
+Click here for quick links to
+Annual Reviews content online,
+including:
+• Other articles in this volume
+• Top cited articles
+• Top downloaded articles
+• Our comprehensive search
+
+Stereotype Threat in
+Organizations: Implications
+for Equity and Performance
+Gregory M. Walton,1, Mary C. Murphy,2, and
+Ann Marie Ryan3,
+1
+
+Department of Psychology, Stanford University, Stanford, California 94305;
+email: gwalton@stanford.edu
+
+2
+
+Department of Psychological and Brain Sciences, Indiana University, Bloomington,
+Indiana 47405
+
+3
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.
+2:523–50
+First published online as a Review in Advance on
+January 30, 2015
+The Annual Review of Organizational Psychology
+and Organizational Behavior is online at
+orgpsych.annualreviews.org
+This article’s doi:
+10.1146/annurev-orgpsych-032414-111322
+Copyright © 2015 by Annual Reviews.
+All rights reserved
+
+
+All three authors contributed equally to this work.
+
+Department of Psychology, Michigan State University, East Lansing, Michigan 48824
+
+Keywords
+stereotype threat, gender, race, performance
+
+Abstract
+Over the past 20 years, a large body of laboratory and field research
+has shown that, when people perform in settings in which their group
+is negatively stereotyped, they may experience a phenomenon called
+stereotype threat that can undermine motivation and trust and cause
+underperformance. This review describes that research and places it
+into an organizational context. First, we describe the processes by
+which stereotype threat can impair outcomes among people in the
+workplace. Next, we delineate the situational cues in organizational
+settings that can exacerbate stereotype threat, and explain how and
+why these cues affect stereotyped individuals. Finally, we discuss relatively simple empirically based strategies that organizations can implement to reduce stereotype threat and create conditions in which
+employees and applicants from all groups can succeed.
+
+523
+
+INTRODUCTION
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Stereotype threat is a situational phenomenon that arises when people face the prospect of being
+viewed or evaluated in light of a negative stereotype about a group they belong to (Steele &
+Aronson 1995). When a woman performs in a technology setting, for instance, she may know that,
+if she performs poorly, other people could view her performance as confirming a negative stereotype about women and technology. This prospect is psychologically threatening. A significant
+body of research demonstrates that, under certain boundary conditions—especially when the
+person believes that his or her ability is being evaluated and when he or she is “identified with”
+(i.e., cares about) the domain of evaluation (Steele 1997, 2010)—stereotype threat can cause
+people to perform less well than they are capable of performing (Inzlicht & Schmader 2012,
+Walton & Spencer 2009).
+The situational nature of stereotype threat means that anyone can experience stereotype threat
+if a group they belong to faces a negative stereotype in the situation at hand. It is not an experience
+restricted to members of minority or chronically low-status groups. In the workplace, stereotype
+threat can occur in the context of (a) preemployment assessments of constructs associated with
+group differences in performance, such as women taking math, science, or technology tests; ethnic
+minorities taking cognitive ability tests; older workers applying for jobs in innovative, fast-paced
+organizations (e.g., technology); and White men in math contexts where Asians are stereotyped as
+superior; (b) performance evaluations for promotion, salary raises, and other decisions, such as when
+women are considered for senior leadership positions in male-dominated fields; and (c) everyday
+workplace exchanges, such as when minority-group members share ideas at a team meeting. Because
+evaluative contexts are ubiquitous in the workplace and because individuals’ livelihoods and often
+their self-concepts are inextricably affected by being valued and respected in the workplace (Kray &
+Shirako 2012), the potential for stereotype threat effects in work contexts is great.
+Before reviewing evidence about stereotype threat in the workplace and potential remedies for
+it, we review the basic tenets of stereotype threat theory and key findings in other contexts. Our
+review focuses on stereotype threat as well as social identity threat more broadly. The former refers
+to the worry that one could confirm or be seen as confirming a negative stereotype about his or her
+group (Steele 1997, 2010). The latter refers to broader situational cues that signal that one’s
+identity may be devalued in a setting (Murphy & Taylor 2012, Purdie-Vaughns et al. 2008,
+Steele et al. 2002).
+
+What Affects Whether and When Stereotype Threat Will Occur?
+In general, stereotype threat occurs when a negative stereotype about a group one belongs to exists
+in a context or setting and when cues elicit or fail to remove this threat. Basic theory put forth by
+Steele (1997, 2010) highlights the conditions that create the risk of stereotype threat: (a) A
+consistent stereotype exists that group members are aware of (e.g., that alleges that women are bad
+at math), (b) a task one is engaged in is viewed as diagnostic or evaluative of the skill or ability that
+is negatively stereotyped (e.g., of math ability), (c) the task is difficult (“at the frontier of one’s
+skills,” p. 108; Steele 2010), and (d) the individual cares about performing well and identifies with
+the stereotyped group to some extent. These factors, which may vary in degrees of magnitude, help
+determine whether stereotype threat arises in a given context.
+In workplace contexts, these conditions are often, although not always, present, as many work
+tasks and interactions contain some level of evaluation and individuals in general care about being
+seen as competent and effective workers (Roberson & Kulik 2007, Ryan & Sackett 2013). Perhaps
+the one boundary condition that sometimes goes unmet in the workplace is that of task difficulty. If
+
+524
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+individuals perform familiar and routine work or are placed in jobs that contain little challenge,
+stereotype threat may be less likely to affect their performance. However, many jobs in today’s
+workplace not only involve challenging tasks but have demands related to the rapidly changing
+environment, which makes work less likely to be routine or easy (Roberson & Kulik 2007).
+When people enter settings in which a group to which they belong faces a negative stereotype,
+they tend to be vigilant for cues indicating that others may view them through the lens of a negative
+stereotype (see Garcia & Cohen 2012). This vigilance does not necessarily translate into stereotype
+threat. It rather sensitizes people to cues about whether their identity is at risk. If cues effectively
+take the stereotype off the table, conveying a sense of identity safety, people may not experience
+threat (Steele & Cohn-Vargas 2013). But as we describe below, many common cues in workplace
+contexts can signal to people that they could be evaluated negatively or marginalized because of
+a group they belong to. Exposure to these identity contingency cues makes stereotype threat
+more likely.
+
+Who Experiences Stereotype Threat?
+As noted above, stereotype threat is a general phenomenon; it is not simply a consequence of low
+social status but rather an experience that can be felt by anyone in a circumstance in which a group
+the person belongs to faces a negative stereotype. Thus, although past stereotype threat research
+has focused primarily on women in math, science, and engineering settings and on African
+American and Hispanic students in academics generally, researchers have also shown that stereotype threat can arise in other contexts. For example, it can undermine memory performance
+among the elderly (Hess et al. 2003), verbal test performance among people from low social-class
+backgrounds (Croizet & Claire 1998), the quality of gay men’s interactions with preschool-aged
+children (Bosson et al. 2004), and the performance of White men on a math test said to assess why
+Asians are so good at math (Aronson et al. 1999). It has even been shown to weaken the golf
+performance of Whites on a putt-putt task said to assess “natural athletic ability” and that of
+Blacks on the same task when it was said to assess “sports intelligence” (Stone et al. 1999).
+In diverse work settings, then, employees with specific group identities, including racial-ethnic
+and gender identities as well as other identities (e.g., nationality; language; work status, such as
+expatriate, temporary work visa, or permanent resident; religion) may experience stereotype
+threat if a particular identity of theirs is associated with a negative stereotype in that environment.
+Further exploring how different groups experience stereotype threat in diverse work settings is an
+important direction for future research.
+
+What Processes Underlie Stereotype Threat?
+Summarizing dozens of laboratory experiments conducted by researchers around the world,
+Schmader & Beilock (2012; see also Schmader et al. 2008) describe a model by which stereotype
+threat triggers a network of affective and cognitive processes to undermine performance on
+challenging cognitive and social tasks. The model highlights both the physiological stress that
+results from stereotype threat and a process by which people closely monitor their task performance. In this process, people experience a cycle—perhaps better termed a cyclone—of negative
+thoughts, emotions, and appraisal processes (e.g., if I do poorly, will they think people like me can’t
+do this; I’ll show them we can do it; am I doing well enough?). To focus on the task at hand, people
+try to suppress this monitoring process and emotional response. This suppression itself, however,
+takes up needed working-memory resources and undermines executive functioning, which ultimately weakens performance on challenging tasks.
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+525
+
+What Are the Effects of Stereotype Threat?
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+The primary consequence of stereotype threat investigated in the literature is underperformance
+on diverse challenging tasks, including on tests adapted from standardized tests (e.g., GRE,
+GMAT, and SAT), intelligence tests, subject-specific tests (e.g., engineering tests), memory tests,
+emotional-sensitivity tests, and physical (e.g., athletic) tasks (for reviews, see Steele 2010, Steele
+et al. 2002). More than 400 studies have found that stereotype threat can cause people to
+underperform relative to their ability; correspondingly, cues that remove stereotype threat can
+cause members of stereotyped groups to perform better, often significantly so (e.g., Spencer et al.
+1999, Steele & Aronson 1995). How large is the stereotype threat effect? Four meta-analyses
+suggest that, on average, it is moderate in size. First, in the context of examining other questions
+within portions of the literature, two meta-analyses estimated the stereotype threat effect as approximately one-half of a standard deviation (g ¼ 0.45 and 0.64 with 28 and 39 studies; Walton &
+Cohen 2003 and Walton & Spencer 2009, respectively). A larger meta-analysis (116 studies)
+found an effect size of d ¼ 0.26 (Nguyen & Ryan 2008). (Hedge’s g and Cohen’s d are different
+effect-size indicators, but they are highly correlated.) A fourth meta-analysis of 259 experiments
+again found a one-half-standard-deviation effect (g ¼ 0.54) (V.J. Taylor & G.M. Walton, unpublished manuscript). This effect is relatively robust across the wide range of populations and
+contexts represented in the literature; however, the relative effect of stereotype threat as compared
+to other factors will vary in different settings. Regardless of its specific magnitude, this range of
+effect-size estimates suggests that stereotype threat can have a significant impact in the lives and
+outcomes of individuals and the organizations in which they work.
+In addition to task performance, stereotype threat can affect other outcomes of importance in
+organizational contexts. When people attempt to learn in stereotype threat circumstances, they
+tend to learn less effectively and efficiently (Grand 2012, Rydell et al. 2010, Taylor & Walton
+2011). Other behaviors affected by stereotype threat include how people seek out and respond to
+feedback (Cohen et al. 1999, Roberson et al. 2003), negotiate (e.g., Kray et al. 2001), and interact
+with others (Goff et al. 2008, Richeson & Shelton 2012).
+In the original theoretical description of stereotype threat, Steele (1997) hypothesized that, in
+addition to task underperformance, repeated exposure to stereotype threat can lead to disidentification and disengagement over time (for related evidence, see Woodcock et al. 2012). In the
+workplace, this could include outcomes such as job dissatisfaction, a lack of organizational
+commitment, absenteeism, less engagement in organizational citizenship behaviors, counterproductive behavior, and turnover.
+
+What Is the Evidence for Stereotype Threat Effects in the Workplace?
+Although research on the effects of stereotype threat on performance are well established in the
+laboratory and in educational contexts (Massey & Fischer 2005, Nguyen & Ryan 2008, Walton &
+Spencer 2009), they have been investigated to a lesser extent in employment-testing contexts (see
+Sackett & Ryan 2012 for a review). Given the sizeable body of research on group differences in
+employment testing (Hough et al. 2001), the role of stereotype threat as a contributing factor to
+such differences has been a subject of considerable speculation but relatively little direct empirical
+investigation in actual hiring contexts (see Chung et al. 2010; Kirnan et al. 2009 for exceptions).
+Interestingly, stereotype threat has also been relatively unexplored in actual employee performance
+evaluation contexts, although evidence of ethnic-group differences in performance ratings provides a rationale for investigating stereotype threat as a possible contributor (see Roberson et al.
+2007 for a review on bias in performance appraisal). As we describe below, there is a considerable
+
+526
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+body of evidence regarding cues in the workplace that signal identity threat, so, despite a lack of
+direct evidence testing the contribution of stereotype threat to underperformance in job contexts,
+the likelihood of such effects is high.
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Antecedents of Threat in the Workplace: Identity Contingency Cues
+Stereotype threat and social identity threat heighten vigilance to situational cues in the local environment as members of stereotyped groups seek information about whether their group is
+valued and accepted there (Garcia & Cohen 2012, Murphy & Taylor 2012, Murphy et al. 2007,
+Steele et al. 2002) (see Table 1). Some situational cues—like the numeric underrepresentation of
+a negatively stereotyped group—evoke identity threat by suggesting that one’s group membership
+may be a source of stigma or marginalization. Environments that contain cues like these are
+considered identity threatening (Cohen & Garcia 2008, Murphy et al. 2007). Notably, such cues
+can cause threat even in settings in which people are generally nonprejudiced and well intentioned
+(Murphy & Walton 2013), as cues can have negative meanings even when such meanings are not
+intended. Other cues, by contrast, signal identity safety by suggesting that group membership is not
+a barrier to inclusion or success. These identity safety cues suggest to individuals that their social
+group is welcomed and respected and not a barrier to advancement (Davies et al. 2005, Singh et al.
+2013, Steele & Cohn-Vargas 2013). In the organizational literature, positive climates for diversity
+or inclusive workplace climates (Herdman & McMillan-Capehart 2010, McKay et al. 2007)
+would be considered identity safe. In these settings, people who face negative stereotypes may be
+able to relax their psychological and physiological vigilance and perform without the impediment
+of identity threat (Cohen & Garcia 2008, Murphy et al. 2007).
+Research and theory on identity contingency cues draw directly on a basic lesson of social
+psychology: the importance of subjective construal. As Ross & Nisbett (1991, p. 12) write, “The
+impact of any ‘objective’ stimulus situation depends upon the personal and subjective meaning that
+the actor attaches to that situation. To predict the behavior of a given person successfully, we must
+be able to appreciate the actor’s construal of the situation—that is, the manner in which the person
+understands the situation as a whole.” As with all social-information processing and all objects of
+judgment, identity contingency cues gain meaning in part from the perspective from which they are
+viewed. For members of stereotyped groups, this perspective includes the risk of devaluation in
+a setting as a consequence of a widely known stereotype. Women know that in math contexts
+people could judge their gender group negatively should they perform poorly; as a result, evaluative math tasks can be threatening for women. Men do not face this risk, so they do not experience the same threat (Spencer et al. 1999). When an African American person receives critical
+feedback on his work, he faces the possibility that this feedback could result from bias or reflect
+a stereotypical judgment; a White person does not face this possibility, so the event, even if
+negative, does not have the same identity-threatening meaning for him (Cohen et al. 1999).
+Because the meaning of cues depends on the vantage point of perceivers, cues that seem insignificant to a majority-group person can nonetheless have strong meanings and large effects if
+they tap into the concerns of people who face the possibility of group-based devaluation (e.g.,
+Cheryan et al. 2009, Walton & Cohen 2007). Consider a recent reflection from Michelle Obama
+about her experience entering college:
+When I first arrived at school as a first-generation college student, I didn’t know anyone on campus
+except my brother. I didn’t know how to pick the right classes or find the right buildings. I didn’t even
+bring the right size sheets for my dorm room bed. I didn’t realize those beds were so long. So I was
+a little overwhelmed and a little isolated. (Obama & Obama 2014)
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+527
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Table 1 Identity contingency cues
+Identity-threatening
+
+Psychological concern
+
+situational cue
+
+engendered by the cue
+
+Outcomes examined
+
+Numeric
+underrepresentation
+
+Will I represent my group well?
+Will I be able to disprove
+negative stereotypes?
+
+Motivation, executive
+functioning,
+physiological
+responding, belonging,
+performance
+
+Cultivate critical mass throughout
+the organization’s ranks; provide
+same-group mentors and
+sponsors.
+
+Interpersonal cues,
+including incivility and
+negative nonverbal
+behavior and treatment
+
+Am I respected and valued in this
+organization?
+
+Motivation, belonging,
+performance
+
+Develop clear and consistent
+policies and consequences of this
+behavior.
+
+Critical feedback
+
+Is the supervisor biased and
+applying stereotypes to me?
+
+Motivation, belonging,
+performance
+
+Explicitly convey that critical
+feedback reflects the
+organization’s high standards
+coupled with a statement
+expressing confidence that, with
+revision, the employee can meet
+this standard.
+
+Color-blind diversity
+statements and policies
+
+Does the organization value me
+and my group’s cultural
+background and respect ways
+we may be different?
+
+Belonging, performance
+
+Value diversity; use all-inclusive
+multicultural statements and
+policies.
+
+Fixed-ability beliefs and
+messages
+
+Does the organization believe I
+(and my group) have (has) what
+it takes to be successful?
+
+Motivation, belonging,
+performance
+
+Encourage growth-mindset beliefs
+and messages.
+
+Ambient cues, including
+stereotypical objects and
+depictions in the physical
+environment
+
+Do I (and my group) belong here?
+Am I (are we) valued by the
+organization?
+
+Motivation, belonging,
+performance
+
+Incorporate diverse, inclusive
+images and nonstereotypical
+objects in the physical
+environment.
+
+Ambiguous hiring and
+promotion practices and
+procedures
+
+Will this company discriminate
+against me? Will my group
+membership impede my
+progress in the organization?
+
+Interest, motivation,
+belonging
+
+Provide clear, unambiguous
+guidelines for hiring and
+promotion.
+
+Selection tests
+
+Are these tests fair to me and my
+group?
+
+Motivation,
+performance
+
+Place identity questions (e.g., race,
+gender) at the end of the test;
+represent such tests in ways that
+assure test takers that their
+performance will not be viewed as
+evidence for a negative group
+stereotype; conduct itemsensitivity analysis and remove
+problematic items.
+
+Ways to mitigate threat
+
+It is striking that three decades later, after enormous personal success, the First Lady still
+remembers the feeling of isolation she experienced when she found that her sheets did not fit her
+college dorm room bed. Would misfitting sheets have carried the same meaning to a continuing528
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+generation, majority group student? Presumably not. When people enter settings that feel foreign,
+places where they might be judged or treated negatively or where they might not belong, they can be
+highly attentive to even subtle cues relevant to these concerns. A primary goal of research on
+stereotype and social identity threat is to map the subjective construals that common events in school
+and work contexts hold for members of stereotyped groups. Understanding these construals informs
+ways to structure environments so as to mitigate people’s experience of threat and improve outcomes.
+When people feel threatened in a setting, a host of problematic psychological and performance
+outcomes follow: They may conclude that they do not belong or fit there (e.g., Cheryan et al. 2009,
+Walton & Cohen 2007) or feel less trust and motivation and greater anxiety (e.g., Bosson et al.
+2004, Emerson & Murphy 2015, Johns et al. 2008), and their executive functioning—critical for
+optimal performance—can be impaired (e.g., Beilock et al. 2007, Johns et al. 2008, Schmader &
+Johns 2003). In the workplace, experiences of identity threat produce gender and racial disparities
+in job and career aspirations (e.g., Cheryan et al. 2009, Correll 2004, Davies et al. 2005,
+Greenhaus et al. 1990, Niemann & Dovidio 1998). Employees who report greater levels of identity
+threat are perceived by supervisors as poor performers and as less suitable for promotion; they also
+show higher levels of turnover and absenteeism (Avery et al. 2007, Browne 1999, Greenhaus et al.
+1990, Ilgen & Youtz 1986, James 2000, Kanter 1979, Landau 1995).
+Given the importance of these outcomes, it is essential to understand how cues give rise to
+identity threat in workplace settings.
+
+THREATENING CUES IN WORKPLACE SETTINGS
+This section reviews the kinds of situational cues that can trigger identity threat. These include cues
+in the physical environment, such as numeric underrepresentation; interpersonal cues, such as
+incivility and critical feedback; and organizational policies and practices that signal the value the
+organization places on diversity, such as in diversity messages, and how the organization views
+intelligence and effort, such as in recruitment materials and hiring and promotion practices. The
+vast majority of this research is experimental; it randomly exposes a group of students to either one
+cue or another and assesses the causal effects.
+As noted above, many identity contingency cues can be subtle—they need not overtly impugn
+the competence of stereotyped-group members or reflect bias or animus. Suppose a White supervisor provides substantive critical feedback to a Black employee with the best of intentions—
+say, to help the employee improve and become eligible for a promotion. Yet to the employee,
+unvarnished criticism could seem threatening—it could seem an indication that the supervisor
+views him or her as incapable of improvement. If, as a consequence, the employee responds poorly
+to the feedback, this may surprise and disappoint the supervisor. In some cases, the very subtlety
+and ambiguity of potentially threatening cues can make them especially taxing for people from
+stereotyped groups. Because subtle cues are harder to decipher than overt expressions of animus or
+bias, they require more cognitive labor to make sense of and can thus be more cognitively disruptive for recipients (Salvatore & Shelton 2007).
+
+Cues in the Physical Environment
+Both numerical underrepresentation and ambient cues in the physical environment signal to stereotyped individuals whether their identity is valued by an organization. Here, we describe research that demonstrates the effects of these cues on people’s experiences of identity threat,
+motivation, physiology, and performance.
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+529
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Underrepresentation. A primary trigger of identity threat is when stereotyped-group members
+lack critical mass in a setting. Critical mass refers to “the point at which there are enough minorities
+in a setting, like a school or workplace, that individual minorities no longer feel uncomfortable
+there because they are minorities” (Steele 2010, p. 135; see also Avery 2003, Cohen & Swim 1995,
+Duguid 2011, Ely 1995, Inzlicht & Ben-Zeev 2000, Kanter 1979, Niemann & Dovidio 1998,
+Roberson et al. 2003, Sekaquaptewa & Thompson 2002, Stoker et al. 2012). Underrepresentation
+can cause a host of negative psychological, motivational, and physiological outcomes. In one
+study, science, technology, engineering, and math (STEM) college students watched one of two
+videos for a summer science conference (Murphy et al. 2007). In one video, the gender representation of conference attendees reflected the ratio typically found in STEM disciplines—
+approximately three men to every woman. In the other video, gender representation was balanced
+(1:1). The results of the study revealed that women’s outcomes were significantly influenced by the
+representation, whereas men’s were not. In response to the gender-unbalanced video, women
+reported feeling as though they would belong less at the conference, expressed less interest in
+attending the conference, and showed a physiological stress response characterized by increased
+cardiovascular reactivity (Murphy et al. 2007). Other studies have further illuminated the harmful
+effects of performing in settings in which one’s group is underrepresented. These include higher
+blood pressure, anxiety, and depression (e.g., Blascovich et al. 2001, Jackson et al. 1995, Murphy
+et al. 2007, Osborne 2006). Underrepresentation also leads stereotyped-group members to discount critical feedback (Roberson et al. 2003), to expect to perform worse (Stangor et al. 1998),
+and to actually perform worse (e.g., Inzlicht & Ben-Zeev 2000). Finally, it undermines people’s
+trust and commitment to their organizations (Purdie-Vaughns et al. 2008).
+One of the main problems with underrepresentation in organizations—both at peer and supervisor levels—is that it creates ambiguity that risks negative interpretation and construal. Why
+are there few employees like me here? Why are there few supervisors from my group? Does this
+mean that people like me cannot advance? Another problem stemming from underrepresentation
+is that it places undue, disproportionate pressure on individuals to disprove stereotypes and
+positively “represent” their group (Saenz & Lord 1989, Sekaquaptewa & Thompson 2003). Although individuals may try to cope with identity threat by behaving counter-stereotypically, research
+reveals that perceivers often attribute both stereotype-consistent and -inconsistent behaviors to
+factors that ultimately confirm and maintain group-based stereotypes (Sekaquaptewa et al. 2003).
+For example, a human resources officer may believe that a Black woman scored high on a cognitive
+ability test because she took a test-prep course, not because she is competent. Such patterns of
+attributions make stereotypes sticky. By contrast, nonstereotyped individuals are more often given
+the benefit of the doubt; their behavior is attributed to them as individuals (Sekaquaptewa et al.
+2003).
+Ambient cues. Another set of cues that can engender identity threat involves the physical makeup
+of the local environment. Walls lined with photos of senior executives that exclude women and
+people of color may cause members of underrepresented groups to doubt their prospects in the
+organization. Even more subtle ambient cues can evoke identity threat when they seem to confirm
+stereotypes about the setting and the kinds of people who succeed in it. Several studies found that
+when undergraduates completed questionnaires in a computer science room containing objects
+associated with a masculine, geeky stereotype of the field (e.g., Star Trek posters, video games,
+comics), women’s interest in computer science was lower than men’s. However, when these objects
+were replaced with neutral objects (e.g., nature posters, art, general interest books), women’s
+interest matched men’s (Cheryan et al. 2009). Women also expressed less interest in working at
+a technology company that projected a stereotypical physical environment, preferring a company
+530
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+without stereotypical objects. Why do such physical cues have a large effect on women’s professional motivations? Further studies showed that stereotypical objects signal to women that
+technology companies value men and masculinity—so women inferred that they would not fit in.
+Related research examined gender cues in job advertisements. This research found that online job
+advertisements for male-dominated areas used more words associated with male stereotypes (e.g.,
+leader, dominant); in turn, the use of such words led people to view men as predominant in these
+work settings. This undermined women’s anticipated sense of belonging and motivation to pursue
+these opportunities (Gaucher et al. 2011).
+If organizations wish to attract and retain members of stereotyped groups, they should attend
+to their physical environments and the subtle messages they send about who belongs, is valued,
+and can succeed.
+
+Interpersonal Cues
+Many studies have found that stereotyped individuals are particularly attuned to the verbal and
+nonverbal behavior of dominant-group members because these behaviors communicate how
+stereotyped individuals are perceived (e.g., Dovidio et al. 2006, Hebl et al. 2002, Murphy et al.
+2013). In modern society, the expression of prejudice has largely shifted from negative explicit
+attitudes—such as endorsements of racial inferiority and de jure segregation—to negative implicit
+attitudes and associations with stereotyped groups. These implicit attitudes predict relevant
+preferences and behaviors, such as the preference to associate with in-group members more than
+with out-group members (Dovidio & Gaertner 2004, Dovidio et al. 2002). Importantly, these
+different types of attitudes are reflected in people’s verbal and nonverbal behaviors. For instance,
+explicit attitudes—the kinds of attitudes people self-report on questionnaires—are reflected in
+verbal behavior. Thus, people’s explicit, largely egalitarian attitudes predict what people say to
+members of stereotyped groups. But their implicit attitudes and associations, which are often
+negative, tend to predict how they behave toward members of stereotyped groups (Dovidio et al.
+2002, Hebl et al. 2002, McConnell & Leibold 2001). Thus, from the perspective of stereotyped
+individuals, modern prejudice is often communicated by a mismatch between positive verbal
+behavior (“You did great!”) and negative nonverbal behavior (e.g., sitting far away in the
+workplace cafeteria; leering at women). In the workplace, stereotyped individuals often attend to
+interpersonal behavior—people’s verbal and nonverbal behaviors—to determine whether they
+will be valued and respected.
+Subtle harassment and sexist treatment. Overt harassment and sexist treatment are clear signals
+that an environment is rife with prejudice and stereotyping—an unequivocal trigger of stereotype
+threat. Research over several decades has shown that when these interpersonal behaviors are
+present in the workplace, members of stereotyped groups suffer (e.g., Mueller et al. 2001,
+Schneider et al. 1997). This is the case for many stereotyped groups, including women, racial and
+ethnic minorities, and gay individuals (e.g., Bruce 2013, Kabat-Farr & Cortina 2014, Karsten
+2006, Raeburn 2004, Schneider et al. 1997). However, harassment and sexist treatment in the
+workplace is not always blatant—expressed by catcalls, lewd jokes, or offensive posters in
+a cubical (e.g., Leskinen & Cortina 2014). It can also be expressed by more subtle nonverbal
+behavior, which simply conveys to recipients that they are not fully respected as work partners. In
+a series of studies, Logel and colleagues (2009b) found that male engineering students who scored
+high on a subtle measure of sexism made no overtly sexist, demeaning, or stereotypical verbal
+statements during a conversation with a female peer about engineering. However, their nonverbal
+behavior exhibited dominance and sexual interest. They sat closer to the woman than less sexist
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+531
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+men did, displayed a more open body posture (shoulders back, knees apart), and gazed more at her
+body. Women exposed to these behaviors performed worse on a subsequent engineering test than
+did women who interacted with nonsexist men. This was despite the fact that women liked the
+subtly sexist man more. He paid them more attention, after all, and this attention was not overtly
+hostile. However, his behavior put women in a role that undermined their task performance.
+Logel and colleagues’ (2009b) research was experimental and conducted in a laboratory.
+However, field studies show that interpersonal interactions can be threatening for women in
+professional environments, too. One experience-sampling study with STEM faculty members
+found that talking with male colleagues about research predicted greater work engagement among
+men; for women, by contrast, shoptalk with men predicted disengagement (Holleran et al. 2011).
+Critical feedback. Workplaces thrive when people feel comfortable giving and receiving specific,
+critical feedback about how to improve. Indeed, substantive critical feedback is one of the most
+valuable resources for growth and improvement. However, the receipt of critical feedback is often
+marked by defensiveness and a loss of motivation. How can supervisors and mentors provide
+feedback in a way that sustains recipients’ motivation? This problem, known as “the mentor’s
+dilemma” (Cohen et al. 1999, Cohen & Steele 2002), is especially acute when people from majority
+groups give critical feedback to people from negatively stereotyped groups (e.g., men to women,
+Whites to people of color). Majority-group members generally want to avoid appearing prejudiced; as a consequence, they may withhold criticism from stereotyped individuals (Harber 1998).
+Stereotyped individuals are vigilant for potential instances of bias and may thus discount both
+positive and negative feedback when their group membership is known and could thus bias any
+feedback they receive (Crocker et al. 1991). Indeed, African American professionals are more likely
+to discount feedback in contexts in which they report experiencing stereotype threat (Roberson
+et al. 2003), and they may not seek out such feedback either, concerned that it may be taken as
+a sign of low ability or insecurity (Roberson et al. 2003, Williams et al. 1999). The mentor’s
+dilemma thus doubly disadvantages members of lower status groups: It denies them access to
+potentially valuable critical feedback, and it creates an attributional context that leads them to
+discount feedback they receive.
+
+Organizational Policies and Practices
+An organization communicates its views about diversity through its policies, practices, and
+characterization of the skills and abilities required to do well and advance in the organization. An
+organization’s diversity philosophy as well as the mindset about ability it conveys can signal to
+members of negatively stereotyped groups whether they are included and respected and thus
+influence people’s experience of identity threat or safety.
+Diversity philosophies. One way that organizations signal their support of racial and ethnic
+minorities in the workplace is through diversity philosophies included in company materials—on
+websites, in recruiting brochures, and in mission statements (e.g., Avery et al. 2007). Two diversity
+philosophies are among the most studied by social scientists: the color-blind philosophy and the
+multicultural philosophy (e.g., Ely & Thomas 2001).
+A colorblind philosophy is the dominant philosophy in American workplaces, rooted in
+egalitarian norms and the protestant work ethic. It maintains that hard work and merit should be
+the primary metric of success at work and that differences in social status or group membership
+(e.g., race, gender, class, and sexuality differences) should not affect people’s success or failure
+(Plaut et al. 2009). The goal of the color-blind philosophy is to unite people in an organization
+532
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+regardless of their social group membership; it is therefore characterized by messages that emphasize commonalities and similarities between employees (Ely & Thomas 2001). Despite these
+well-meaning goals, research suggests that Black and Latino individuals often experience colorblind messages as exclusionary attempts to conceal important group differences (Bonilla-Silva
+2006, Markus et al. 2000, Ryan et al. 2007), especially when such messages seem insincere (e.g., if
+promulgated by an organization that is not diverse; Avery et al. 2013, Purdie-Vaughns et al. 2008).
+Thus, color-blind messages can reduce trust and task engagement and undermine cognitive
+performance among stereotyped individuals (Holoien & Shelton 2012, Plaut et al. 2009).
+A multicultural philosophy, by contrast, explicitly acknowledges that people from different social
+groups bring with them social and cultural differences and, further, represents these differences as
+a source of value and strength (Ely & Thomas 2001, Homan et al. 2007, Wolsko et al. 2000). Racial
+and ethnic minorities generally perceive multicultural philosophies more favorably because they
+welcome group differences (e.g., Bonilla-Silva 2006, Markus et al. 2000, Ryan et al. 2007). Yet, when
+organizations endorse this approach, majority-group members can feel excluded if they see their
+group left out of celebrations and events that value diversity (Brief et al. 2005, Kalev et al. 2006,
+Mannix & Neale 2006, Thomas 2008).
+Most recently, a new diversity philosophy has been gaining attention. Termed all-inclusive
+multiculturalism (AIM), this philosophy explicitly stresses that diversity includes everyone—
+majority and minority groups alike (Plaut et al. 2011, Stevens et al. 2008). Organizations signal
+this message by including both majority and minority groups in images of company diversity and
+by inviting cross-group dialogue that acknowledges and respects the perspectives of both groups
+(Stevens et al. 2008). So far, research on AIM suggests that it reduces identity threat among
+minority- and majority-group members and that majority-group members feel more included in
+organizations that endorse this approach, relative to those that endorse the multicultural philosophy (Plaut et al. 2011).
+Organizational mindsets about ability. Another identity-threatening message that organizations
+may communicate to employees is the idea that ability and talent is fixed—you either have it or you
+don’t—and, moreover, that ability is held by only a select few (Murphy & Dweck 2010). This fixed
+organizational mindset can become part of an organization’s culture in which some groups or
+divisions are thought to “have it,” whereas others do not. Fixed mindset companies emphasize
+high performance over growth and learning, and employees feel they must constantly prove their
+ability and worth. Alternatively, companies can endorse a mindset that emphasizes personal
+growth and development through effort and hard work. This growth organizational mindset
+suggests that all employees are capable of succeeding if they apply themselves, seek ways to
+improve and develop, and receive appropriate training and support. Organizational mindsets can
+be communicated through mission statements that profess companies’ values (e.g., smarts, intelligence, and innate talent versus growth, development, and motivation) and through evaluation
+and promotion metrics that assess and reward talent and performance over development and
+improvement. A prototypical example of a fixed organizational mindset is that of Enron. Enron was,
+according to McLean & Elkind (2003, p. 36), a company that prized “sheer brainpower” above all
+else, where the task of sorting out intellectual “stars” from the “merely superbright” was the top
+priority when making hires and promotions. It was an environment in which one of the most
+powerful executives was described as being “so sure that he was the smartest guy in the room that
+anyone who disagreed with him was summarily dismissed as just not bright enough to ‘get it’” (p. 33).
+Organizational mindsets are also conveyed by design elements of performance management
+and compensation systems that convey to employees how behaviors and results are valued. For
+example, forced-distribution performance evaluation systems clearly convey that not all can
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+533
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+succeed (i.e., some people are rated in the bottom 10%) and often set up an environment in which
+people feel the need to continually prove their worth (Blume et al. 2009, Schleicher et al. 2009).
+Similarly, performance management systems that are not well connected to employee development
+processes may convey a fixed mindset (Frear & Paustian-Underdahl 2011). Indeed, simulation
+research has shown that “rank and yank” systems such as forced distribution can be associated
+with disproportionate numbers of minority-group members receiving lower evaluations under
+certain conditions (Giumetti et al. 2014).
+Although organizational mindsets do not explicitly reference social group differences, the
+exclusionary message of the fixed mindset can trigger identity threat for people who belong to
+groups whose ability is impugned by negative stereotypes. When only “some” people are thought
+to have the smarts and talent to succeed in a professional setting, people who belong to negatively
+stereotyped groups may well worry that others will view them as lacking. For example, in several
+studies, Emerson & Murphy (2015) found that women showed worse outcomes in business
+settings that endorsed a fixed rather than a growth organizational mindset. They reported less trust
+and commitment to the organization, were more likely to worry that they would be negatively
+stereotyped by company management, and, when attempting a performance task, disengaged
+more and performed worse (Emerson & Murphy 2014; M.C. Murphy, J.A. Garcia & S. Zirkel,
+unpublished manuscript). Similar performance effects have been found for Black and Latino
+individuals when they expect to be evaluated by a fixed versus growth mindset organization
+(K.T.U. Emerson & M.C. Murphy, unpublished manuscript).
+Hiring, promotion, and referral policies. Lastly, some hiring, promotion, and referral policies and
+procedures can foster stereotype and social identity threat in the workplace. For example, subjective and unstructured evaluations are often used to assess employee performance (e.g., Bommer
+et al. 1995, Ford et al. 1986). Members of stereotyped groups might worry that such assessments
+will be tainted by subtle and implicit biases or that they could be overlooked for promotion because
+they do not fit the prototypical image of a leader or supervisor, especially if their group is underrepresented in management positions (e.g., Eagly & Karau 2002). These concerns are warranted, as research shows that subjective, unstructured evaluations are indeed more vulnerable to
+bias and often disadvantage stigmatized individuals (Arvey & Faley 1988, Huffcutt & Roth 1998,
+Madera & Hebl 2013).
+Notably, “objective” criteria also raise problems. Simply treating a test as a valid indicator of
+merit can cause test takers who face a negative stereotype in that context to view the test as unfair
+for their group and to underperform (Autin et al. 2014). Indeed, simply representing cognitive
+performance and intelligence (IQ) tests as evaluative, as is typical, evokes stereotype threat, causing
+members of stereotyped groups to underperform (Steele & Aronson 1995; see also Brown & Day
+2006). As we discuss below, evidence suggests that, as a result, such tests show a systematic predictive
+bias: They underestimate the ability and potential of people from negatively stereotyped groups to
+succeed in contexts in which stereotype threat has been reduced (Walton & Spencer 2009).
+As a result, some organizations may wish to subject people from stereotyped groups to a lower
+threshold score on important tests. However, such policies may themselves seem to confirm
+a negative stereotype and can thus evoke identity threat (Autin et al. 2014; see also Brown et al.
+2000; see Turner & Pratkanis 1994 for a review). However, the consideration of group identity
+may not be threatening when this consideration challenges the stereotype. Autin and colleagues
+(2014) showed that when women believed that gender would be taken into account in the interpretation of test scores to mitigate bias in the measurement of merit—the bias actually observed
+(Walton & Spencer 2009)—women performed significantly better. This message, however, tended
+to undermine men’s outcomes.
+534
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Lastly, employee referral policies can exacerbate gender and racial gaps in hiring by drawing
+from current employees’ friendship and social networks, which tend to be relatively homogenous
+(DiTomaso 2012, McDonald 2011). Many organizations heavily rely on referrals to identify
+potential employees (Breaugh 2013, Breaugh et al. 2003, Ioannides & Loury 2004, Marsden &
+Gorman 2001, Topa 2011). However, in practice, these recommendations are largely for samegender and same-race/ethnicity candidates (e.g., 63.5% and 71.5%, respectively, in one large US
+corporation; Brown et al. 2012) and thus reproduce the demographics of the current employee
+pool while limiting access to underrepresented groups (Bielby 2008, Kasinitz & Rosenberg 1996,
+Moss & Tilly 2001). From the perspective of underrepresented groups, referral policies may
+suggest that organizations are uninterested in recruiting a diverse workforce, preferring to
+maintain a status quo that disadvantages their group.
+
+WAYS TO REDUCE STEREOTYPE AND SOCIAL IDENTITY THREAT IN
+ORGANIZATIONAL CONTEXTS
+High levels of stereotype and social identity threat can undermine people’s performance and thus
+an organization’s success. Organizations may aim to reduce threat to ensure that all members can
+perform their jobs well and learn and grow unhampered by threat. In addition, organizations may
+wish to ensure that selection and promotion decisions are not biased by stereotype threat but
+identify and advance the most promising candidates. This section reviews strategies to address
+these goals.
+In general, to reduce threat, organizations can pursue one or both of two complementary
+strategies: They can either change cues present in the environment, removing and replacing cues
+that reliably signal threat, or they can change how people interpret or construe such cues—that is,
+the meaning they draw from them. The first strategy is often preferable but is not always possible;
+for instance, a nondiverse organization may not be able to quickly become diverse. However, at
+least in education contexts, even brief interventions that encourage people to construe important
+aspects of the environment in nonthreatening ways can cause large and lasting improvements in
+performance and achievement (for reviews, see Garcia & Cohen 2012, Walton et al. 2013, Yeager &
+Walton 2011). For instance, the social-belonging intervention—a 30–60-min exercise to encourage students to view adversities in school as normal and temporary—raised African American
+college students’ GPAs over the next three years, halving the achievement gap (Walton & Cohen
+2011), and, in another trial, eliminated the gender gap in grades in engineering over an academic
+year (Walton et al. 2014). How are such effects possible? In general, a change in how people
+construe a setting can become self-reinforcing—people who see threat in a setting may avoid others
+or interact with others in ways that do not build better relationships; people who feel comfortable
+may be better positioned to learn and grow. Thus, brief interventions that target people’s construals of an environment, when implemented effectively and at an appropriate time, can set in
+motion cycles that improve outcomes long into the future. Such interventions have generally not
+yet been carried out in work contexts. However, the results from education contexts suggest that
+significant gains may be possible.
+In this section, we review how organizations can reduce stereotype threat in four key contexts:
+recruiting, selecting and promoting, socializing and onboarding, and training employees.
+
+Recruiting Employees
+To signal to potential employees that they have an identity-safe environment, organizations can replace cues liable to signal threat with cues that allay such concerns. For instance, when possible,
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+535
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+organizations can become diverse and promote their diversity (Murphy et al. 2007); they can ensure
+that their physical environments and job advertisements signal the inclusion and valuing of people
+from diverse backgrounds (Cheryan et al. 2009, Gaucher et al. 2011); they can articulate their
+commitment to diversity and valuing of diverse groups in mission statements, recruiting materials,
+and elsewhere (Purdie-Vaughns et al. 2008); and they can promulgate and advertise a culture that
+values growth and improvement, not the identification of who “has it” and who does not (Murphy &
+Dweck 2010). These steps can lead ethnic minorities and women to anticipate greater belonging in
+work settings, to trust companies more, to feel less identity threat, and to be more motivated to pursue
+professional opportunities (Avery et al. 2013). Notably, it is essential that companies back up
+words with deeds. For instance, African American professionals may express trust in companies that
+articulate a goal to treat all people in similar ways regardless of background (a color-blind philosophy) but only insofar as the company employs people from diverse backgrounds (Purdie-Vaughns
+et al. 2008; see also Shih et al. 2013). Similar to companies engaged in practices like greenwashing who
+mislead consumers about environmental practices, companies that make disingenuous statements
+about their values and practices regarding diversity are likely viewed with skepticism.
+
+Selecting and Promoting Employees
+In addition to creating and representing a positive climate, organizations may attend to specific
+contexts in which threat is likely to arise and where relatively straightforward steps may improve
+outcomes. One such context involves selection tests used to hire and promote employees. Tests are
+generally viewed as evaluative of ability, a powerful cue of stereotype threat. In addition, the
+salience of people’s group identity in a testing setting can cause threat (Steele & Aronson 1995)
+Reducing threat on selection tests. How can organizations reduce stereotype threat on selection
+tests? In some cases, it may be difficult or inappropriate (e.g., inaccurate) to represent such tests as
+not evaluative of ability. However, it may be possible to reduce the salience of test takers’ group
+identity. In this way, recruiting and evaluation contexts differ to some extent. In general, in
+recruiting employees, organizations may wish to highlight their commitment to and valuing of
+diversity (Avery & McKay 2006, Purdie-Vaughns et al. 2008). However, if group identity is salient
+when people take tests, it may risk evoking the worry that group identity could be a basis for
+negative evaluation or treatment. For instance, when test takers are asked to report their race/
+ethnicity and gender before a test, this may trigger identity threat and undermine performance.
+Indeed, research in laboratory (e.g., Steele & Aronson 1995), educational (Danaher & Crandall
+2008), and work settings (Kirnan et al. 2009) shows that moving demographic queries to after
+instead of before a test can improve performance, especially among people who face negative
+stereotypes in the setting at hand. An important, ongoing question involves the effectiveness of this
+approach in mitigating stereotype threat when other potent threat-inducing cues are present (e.g.,
+when the test is seen as evaluative); however, insofar as this strategy is often relatively cost free and
+can be effective even in such contexts, it is advisable. Although more research is needed, the use of
+Internet assessments may provide a further opportunity to reduce the salience of group identity in
+testing situations, as individuals can perform in relative privacy.
+Research has explored the effectiveness of a variety of additional strategies to help people cope
+with stereotype threat on evaluative tests. One strategy is to reduce people’s apprehension that
+their group identity will be a source of negative judgment. For instance, threat is less likely when
+people take tests among a critical mass of in-group members (Inzlicht & Ben-Zeev 2000), when
+positive in-group role models are salient (e.g., Marx & Goff 2005, McIntyre et al. 2003),
+when people are treated by majority-group members as partners in working on challenging
+536
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+material (L.J. Aguilar, P.B. Carr & G.M. Walton, unpublished manuscript; see also Walton &
+Carr 2012) rather than in disrespectful ways (Logel et al. 2009b), and when tests are represented in
+ways that assure test takers that performance will not be viewed as evidence for a negative group
+stereotype (e.g., Good et al. 2008). Another strategy is to help people manage negative thoughts
+and feelings that can arise from threat and undermine performance. For instance, performance
+improves when people learn about stereotype threat and thus that negative thoughts and feelings
+may be due to threat, not a cue of poor performance (Johns et al. 2005); when people learn that
+arousal and anxiety can promote not hinder success (Johns et al. 2008; see also Jamieson et al.
+2010); when they learn to displace negative thoughts with neutral thoughts (Logel et al. 2009a);
+and when they reflect on important personal values and other sources of identity unrelated to the
+threat (Martens et al. 2006; see also Cohen et al. 2009). This past research has been conducted
+primarily (but not exclusively) in laboratory settings and in education contexts. An important
+direction for future research involves evaluating the potential of these techniques in field-settings
+and in organizational contexts.
+These approaches complement revisions to test materials themselves. Sensitivity reviews are
+designed to remove items that are offensive or unfamiliar to people from a particular background
+(Golubovich et al. 2014). Although a few studies have directly investigated the effects of cues
+within prototypical items that might trigger identity threat (e.g., the use of gendered names in word
+problems, Hmurovic et al. 2009; the use of gender-stereotyped activities or gendered occupational
+references, Grand et al. 2011), there is surprisingly little empirical investigation of how item
+content might increase the salience of group membership and/or stereotypes about one’s group.
+Further, newer forms of tests (e.g., situational judgment tests employing avatars or videos) often
+depict diverse individuals in scenarios; however, there is some evidence that the performance of
+members of stereotyped groups might be affected by the demographic characteristics of those
+depicted in such test items (Golubovich & Ryan 2012).
+Interpreting and using test scores and other indicators of ability and potential: test bias. Even
+when an organization takes steps to reduce stereotype threat on selection tests, the mere evaluative
+nature of such tests can cause some threat to remain (Steele & Aronson 1995). More broadly, given
+the ubiquity of evaluative cues that can cause stereotype threat, typical circumstances in which
+standardized tests and other indicators of ability are administered may induce stereotype threat. As
+a consequence, researchers have hypothesized that such indicators may, on average, underestimate
+the ability of people from negatively stereotyped groups, as compared with people from nonstereotyped groups (Brown & Day 2006). This hypothesis is termed the latent-ability hypothesis
+because it posits that a portion of stereotyped individuals’ ability is latent or hidden on standard
+assessments (Walton & Spencer 2009). If this is the case, then using such measures in personnel
+decisions may have detrimental effects on the outcomes (e.g., selection, promotion) of people from
+stereotyped groups (Walton et al. 2013).
+Evidence for this hypothesis comes from meta-analyses of experiments testing exercises to
+reduce stereotype threat in laboratory and field settings. These analyses show that, when people
+perform in contexts in which stereotype threat has been experimentally reduced, women in STEM
+subjects and ethnic minorities, generally, outperform men and nonminorities with identical prior
+test scores and grades (Walton & Spencer 2009). In typical circumstances, people subject to
+stereotype threat perform facing a headwind. This headwind prevents them from scoring as well as
+they are capable—some of their ability is latent. Accordingly, when the headwind is lifted—when
+stereotype threat is removed—people from stereotyped groups outperform nonstereotyped peers
+they equaled in the prior, typical context (Walton et al. 2013).
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+537
+
+Notably, although there is a large body of evidence documenting test score differences between
+groups, there is debate as to the extent to which those differences translate into differences in work
+performance (i.e., do tests underpredict success on the job for some groups?) (e.g., Aguinis et al.
+2010; Berry et al. 2011, 2014; Roth et al. 2014). The empirical literature that informs this debate
+consists primarily of correlational and simulation studies. However, for the purpose of detecting
+an effect of stereotype threat on test performance or validity, experimental data that vary the
+experience of threat are preferable. As Brown & Day (2006, p. 983) write,
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+The extent to which stereotype threat influences predictive validity will depend on the degree
+to which stereotype threat differentially influences predictor and criterion scores (see Cullen,
+Hardison, & Sackett, 2004). Indeed, the possibility that predictor variables such as the SAT and
+ACT are influenced by stereotype threat to similar degrees as criterion variables such as college GPA
+(Aronson, Fried, & Good, 2002; Brown et al., 2000; Brown & Lee, 2005) might explain why
+differential predictive validity for African Americans and Whites is not typically observed with
+standardized cognitive ability tests.
+
+The Walton & Spencer (2009) meta-analyses draw together the existing experimental evidence
+and provide sufficient cause for concern that stereotype threat affects both test scores and grades
+administered in typical (e.g., evaluative) environments. Using such scores as nonbiased indicators
+of merit and potential may risk judgments that have disproportionately negative effects on the
+hiring and promotion of women and ethnic minorities.
+What should organizations do? These issues are complicated scientifically, legally, and for
+policy. Here we suggest some options (for more comprehensive reviews, see Emerson & Murphy
+2014, Erman & Walton 2015, Walton et al. 2013). For instance, the presence of group-based
+biases on performance indices may lead some to advocate group-based score corrections (Sackett &
+Wilk 1994). However, in the United States at least, mechanical race- and gender-based score
+corrections are prohibited on employment-related tests by Title VII of the Civil Rights Act of 1964
+(as amended). Others have suggested using techniques such as banding or treating all those within
+a certain score range as equivalent in standing, typically determined by the standard error of the
+difference (Aguinis 2004). However, banding’s effectiveness in increasing the number of minorities
+selected is limited in many contexts (i.e., if not testing or hiring large numbers of individuals) and
+also may not increase representation if the organization does not also preferentially select minorities from within the band (Sackett & Roth 1991). Nonetheless, there are some simple steps
+organizations can take. First, when schools and employers make sustained efforts to reduce
+stereotype threat in their internal settings, they simultaneously (a) create positive environments
+that allow all people to perform well and (b) help individuals establish nonbiased performance
+track records as they seek to compete for subsequent positions. Second, organizations can
+choose to give less weight to indicators likely to be susceptible to stereotype threat (e.g., using
+Pareto-optimal methods, DeCorte et al. 2007; or criterion-based methods, Hattrup & Rock
+2002) or consider using measures less impugned by negative group stereotypes (e.g., creative and
+practical skills, Sternberg & Rainbow Proj. Collab. 2006; second-stratum cognitive abilities,
+Wee et al. 2014; noncognitive skills like self-control or grit, Duckworth & Seligman 2005,
+Duckworth et al. 2007). Third, schools and employers may “educate selection officers of the bias
+in performance measures and allow them to weigh this information in making individualized
+evaluations of candidates” (Walton et al. 2013, p. 27). This approach retains predictive performance measures while taking bias into account. It also raises novel legal questions (see
+Erman & Walton 2015, Walton et al. 2013).
+
+538
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Socializing and Onboarding Employees
+When people enter new academic and professional settings in which their group is underrepresented and may be negatively stereotyped, they often experience high levels of threat and
+worry about whether other people will include and value them in the setting. This can prevent
+people from learning and growing in a new organization or role, from developing essential relationships there, and, ultimately, from performing at a high level.
+One remedy for underrepresentation is simply to increase the representation of people from
+stereotyped groups in a given setting. Indeed, organizations and settings with greater diversity
+have workers who report higher workplace satisfaction and better performance, as members of
+stereotyped groups report fewer concerns about identity threat (e.g., Allmendinger & Hackman
+1995, Niemann & Dovidio 1998). However, as an organization strives to achieve critical mass, it
+can also reduce the identity threat engendered by underrepresentation by supporting the underrepresented individuals it currently has. For example, organizations that endorse diversity as
+a value can promote trust, even absent critical mass (Purdie-Vaughns et al. 2008). In addition,
+helping women and minorities cultivate a broad network of relationships including with peers,
+mentors, and sponsors as well as with role models can buffer their sense of fit within the organization
+and help them advance. Positive relationships with majority-group peers and mentors can help
+minority-group members feel integrated and included within an organization; this can also help
+normalize struggles and adverse experiences that could otherwise be threatening for minority-group
+members, and thus help them overcome challenges to succeed (Walton & Cohen 2011, Walton et al.
+2014; see also Walton & Carr 2012; L.J. Aguilar, P.B. Carr & G.M. Walton, unpublished manuscript). Same-race mentors and role models can also reduce threat and provide strategies to help
+mentees move up (Avery et al. 2008, Kirby & Jackson 1999, Marx & Goff 2005, McIntyre et al.
+2003). Indeed, senior-level sponsors are often instrumental in advancing the careers of their mentees
+by advocating for them over a sustained period of time and introducing them to opportunities and
+individuals who can help them advance (Tapia & Kvasny 2004, Thomas & Kram 1988). This type of
+support can alleviate feelings of anxiety and isolation and increase career satisfaction (Chao 1997,
+Crosby 1999, Reskin et al. 1999). Thus, connecting stereotyped and underrepresented individuals
+with peers, role models, mentors, and sponsors is one way organizations can enhance identity safety,
+particularly when they lack critical mass.
+In addition to these strategies, in education contexts two specific interventions—valueaffirmation and social-belonging interventions—have been shown to reduce threat in academic
+transitions and improve performance among people from negatively stereotyped groups. Because
+these interventions are typically delivered early in a setting, they can change the trajectory of
+people’s experience over long periods of time (for reviews, see Garcia & Cohen 2012, Yeager &
+Walton 2011). A small, well-timed push in a more favorable direction can have lasting effects if it
+puts people on a more productive path.
+Value-affirmation interventions. Value-affirmation interventions consist of a short series of
+exercises that encourage people to reflect on valued aspects of their self-concept. In its most
+common form, people view a list of values, identify those that are most important to them, and
+then write for 15–20 min about why those values matter to them and times when such values were
+especially important. This is thought to help people think about potential threats and stressors in
+a broader psychological context; when adversities loom less large, people can thus respond more
+effectively (Sherman & Cohen 2006, Sherman & Hartson 2011). When administered in school
+settings—for instance, as several in-class writing exercises beginning early in the school year—valueaffirmation interventions have been shown to increase core-academic GPAs among African
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+539
+
+American and Latino middle students up to three years later while reducing reports of stereotype
+threat and helping sustain minority students’ sense of belonging (Cohen et al. 2009, Sherman et al.
+2013). Value-affirmation interventions can also improve women’s achievement in STEM subjects in
+college (Miyake et al. 2010, Walton et al. 2014). There is also evidence that similar exercises can
+improve performance and retention in work contexts (Cable et al. 2013; see also Wiesenfeld et al.
+1999).
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Social-belonging interventions. Whereas value-affirmation interventions are designed to help
+people think about themselves in ways that make it easier to contend with threatening experiences,
+social-belonging interventions give people a positive narrative for understanding a new social
+context and the struggles that arise there (see Garcia & Cohen 2012, Walton & Cohen 2011, Walton
+et al. 2014). In this type of intervention, people entering a new setting read stories from people who
+have transitioned before them. These stories describe how people typically worry about their belonging at first in the new setting but come to feel at home with time as they reach out and build
+relationships. This message is designed to give people a positive narrative for understanding the
+inevitable challenges and worries about belonging they encounter in a new setting (e.g., feelings of
+loneliness, struggle, disrespect, criticism). People who face negative stereotypes may risk seeing such
+experiences as evidence they do not belong in general (Walton & Cohen 2007); the intervention
+provides a more hopeful interpretation. After reading these stories, people write about how their
+personal experiences so far or their anticipated experiences reflect the same process of change. Some
+of these materials, people are told, will be shared with future people ostensibly to help them in their
+transition. This “saying-is-believing” exercise helps drive home the key idea, encourages people to
+connect this idea to their own lives, and forestalls stigmatization—it treats people as benefactors, not
+beneficiaries. In total, the intervention lasts an hour or less. As noted above, this intervention has
+raised GPAs among African American first-year college students over three years, halving the
+achievement gap with European American students (Walton & Cohen 2011). It has also eliminated
+gender differences in first-year GPA among women enrolled in male-dominated engineering majors
+and, simultaneously, helped women form more friendships with male peers (Walton et al. 2014). In
+three more trials, online versions of social-belonging interventions delivered to full cohorts of incoming college students (total N > 9,500) increased the percentage of ethnic minority and firstgeneration students who successfully completed the first year of college full-time enrolled, and raised
+GPA over the first year among such students, reducing group inequalities by 35–50%. The
+interventions also helped such students integrate more effectively in college, for instance by joining
+student groups, developing mentors, and making close friends on campus (D.S. Yeager, G.M. Walton,
+S.T. Brady, E.N. Akcinar, D. Paunesku, unpublished manuscript). This type of intervention is not
+unlike some socialization activities (e.g., hearing employee testimonials) designed to help organizational newcomers, which are considered best practices in onboarding programs (Klein & Polin
+2012). However, social-belonging interventions are precise in their emphasis on people’s beliefs
+about belonging and on how challenges that arise in transitions can be overcome. An important
+question for future research involves the effectiveness of this approach in organizational contexts and
+how best to embed it in organizational entry programs.
+
+Training Employees
+People under stereotype threat learn less effectively than they otherwise would (Grand 2012,
+Rydell et al. 2010, Taylor & Walton 2011); thus mitigating stereotype threat can promote learning
+in complex environments. For instance, experimental research shows that value-affirmations,
+which also improve test performance among people under stereotype threat in laboratory settings
+540
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+(Martens et al. 2006) and achievement in field settings (Cohen et al. 2009), enhance learning in
+otherwise threatening (e.g., evaluative) contexts (Taylor & Walton 2011).
+Growth-mindset interventions. Another strategy that can help people learn more under threat is to
+convey the malleability of human intelligence (see Dweck 2006). Such messages, called growthmindset interventions, disabuse people of the misperception that intelligence is fixed and thus
+something that some people (or some kinds of people) have and others do not. That view can lead
+people to view mistakes and setbacks as evidence that they cannot succeed. Instead, growth-mindset
+interventions convey that, with hard work and effective learning strategies, anyone can become
+smarter. This message can improve learning and achievement (for a review, see Yeager et al. 2013),
+for instance among adolescents (Blackwell et al. 2007), especially those who are struggling (Paunesku
+et al. in press) and, in math, girls (Good et al. 2003), and among diverse college students (Aronson
+et al. 2002). In addition, as noted earlier, promulgating a culture that values growth and learning
+rather than the identification of who “has it” reduces stereotype threat and improves trust, commitment, and performance among women in business settings (Emerson & Murphy 2015). This
+work reflects the broader literature on the important role of training transfer and continuous learning
+climates in enabling individuals to develop and utilize new skills (Tracey et al. 1995).
+Wise feedback. As discussed above, supervisors face a dilemma in providing critical feedback to
+subordinates: How can substantive critical feedback be given in a way that helps recipients learn
+without undermining motivation? This dilemma is most acute when feedback is provided across
+group lines, a situation in which criticism can be interpreted as evidence of the application of
+a negative stereotype.
+Several studies have illuminated a strategy, termed wise feedback, to reduce threat in such
+exchanges (Cohen et al. 1999, Cohen & Steele 2002, Yeager et al. 2013). The goal of this strategy is
+to disambiguate the meaning of critical feedback for members of stereotyped groups. In wise
+feedback, the feedback giver explicitly conveys, first, that he or she holds high standards for the
+task (e.g., the report, product, service) and, second, that he or she believes the recipient can meet
+that standard. This clarifies why the giver provides critical feedback—to help the recipient reach
+the higher standard. This strategy is similar to standard advice for providing effective feedback in
+the organizational literature (London 1997), but it is especially important in the context of
+stereotype threat. Laboratory and field-experimental research show that wise feedback increases
+motivation among members of minority groups to improve their work, including among African
+American college students (Cohen et al. 1999), women in science (Cohen & Steele 2002), and
+adolescents. In one field experiment, wise feedback notes (“I have high standards but I believe
+you have the potential to meet them. . .I am providing this critical feedback to help you meet
+those standards”) appended by researchers to a teacher-graded essay (to keep teachers unaware
+of students’ condition assignment) increased the percentage of ethnic-minority middle school
+students who chose to revise a class essay from 17% to 72% (Yeager et al. 2013). In another
+study, teaching students to view critical feedback in general as emanating from the high
+standards of the task and teachers’ motivation to help students improve raised semester grades
+among ethnic-minority high school students (Yeager et al. 2013). Further, the benefits of wise
+feedback were strongest among students who mistrusted the school more to begin with.
+
+CONCLUSION
+An extensive body of research on stereotype threat has accumulated over the past two decades.
+However, the implications of this research for work contexts have received much less attention than
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+541
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+deserved, especially given the strong desire of many people in organizations to create inclusive
+workplace climates and just human resource decision-making processes and policies. This lack of
+attention may be due in part to a lack of understanding of the phenomenon: A recent issue of Industrial
+and Organizational Psychology: Perspectives on Science and Practice contained numerous commentaries focused on clarifying exactly what stereotype threat is and what the theory behind the
+phenomenon’s effects actually proposes (e.g., Czukor & Bayazit 2014, Kalokerinos et al. 2014, Voyles
+et al. 2014). Our aim in this review has been to provide this clarity and to conduct a comprehensive
+analysis of how research on stereotype and social identity threat applies to the workplace. We have also
+provided concrete suggestions as to interventions and changes to practices that may lessen or prevent
+stereotype threat effects. We are hopeful that this information will spur further research on stereotype
+and social identity threat in organizational contexts (see below) and, more broadly, the creation of
+workplace conditions that provide identity safety and support the success of all individuals.
+
+FUTURE ISSUES
+1. Assess the relationship between experiences of stereotype threat and disidentification
+and disengagement outcomes in the workplace (e.g., job dissatisfaction, lack of organizational commitment, absenteeism, counterproductive behaviors, turnover).
+2. Assess stereotype threat effects in operational hiring contexts.
+3. Evaluate stereotype threat effects in operational performance evaluation contexts.
+4. Map how members of stereotyped groups construe local work contexts including
+ambient cues, promotional materials, and diversity and mission statements; investigate
+ways to structure environments so as to mitigate experiences of threat.
+5. Investigate the usefulness of wise feedback in organizational contexts as a means to
+overcome the “mentor’s dilemma”—that is, how to define wise feedback, how to train
+supervisors in giving wise feedback, effects on employee attitudes and performance.
+6. Examine how organizational mindsets influence experiences of identity threat and the
+evaluation of employees.
+7. Evaluate the generalizability of social-belonging, value-affirmation, and growth-mindset
+interventions in educational contexts for workplace contexts.
+8. Evaluate whether and how the use of Internet assessments may reduce identity threat.
+9. Evaluate strategies to help individuals manage negative thoughts and feelings stemming
+from threat in operational workplace evaluative contexts.
+
+DISCLOSURE STATEMENT
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that
+might be perceived as affecting the objectivity of this review.
+
+LITERATURE CITED
+Aguinis H, ed. 2004. Test Score Banding in Human Resource Selection: Legal, Technical and Societal Issues.
+Westport, CT: Praeger
+Aguinis H, Culpepper SA, Pierce CA. 2010. Revival of test bias research in preemployment testing. J. Appl.
+Psychol. 95(4):648–80
+
+542
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Allmendinger J, Hackman JR. 1995. The more, the better? A four-nation study of the inclusion of women in
+symphony orchestras. Soc. Forces 74:423–60
+Aronson J, Fried CB, Good C. 2002. Reducing the effect of stereotype threat on African American college
+students by shaping theories of intelligence. J. Exp. Soc. Psychol. 38:113–25
+Aronson J, Lustina MJ, Good C, Keough K, Steele CM, Brown J. 1999. When white men can’t do math:
+necessary and sufficient factors in stereotype threat. J. Exp. Soc. Psychol. 35:29–46
+Arvey RD, Faley RH. 1988. Fairness in Selecting Employees. Reading, MA:Addison-Wesley. 2nd ed.
+Autin F, Branscombe NR, Croizet J-C. 2014. Creating, closing, and reversing the gender gap in test performance: how selection policies trigger social identity threat or safety among women and men. Psychol.
+Women Q. 38:327–39
+Avery DR. 2003. Reactions to diversity in recruitment advertising—Are differences black and white? J. Appl.
+Psychol. 88(4):672–79
+Avery DR, McKay PF. 2006. Target practice: an organizational impression management approach to
+attracting minority and female job applicants. Pers. Psychol. 59(1):157–87
+Avery DR, McKay PF, Wilson DC. 2008. What are the odds? How demographic similarity affects the
+prevalence of perceived employment discrimination. J. Appl. Psychol. 93(2):235–49
+Avery DR, McKay PF, Wilson DC, Tonidandel S. 2007. Unequal attendance: the relationships between race,
+organizational diversity cues, and absenteeism. Pers. Psychol. 60(4):875–902
+Avery DR, Volpone SD, Stewart RW, Luksyte A, Hernandez M, et al. 2013. Examining the draw of diversity:
+how diversity climate perceptions affect job-pursuit intentions. Hum. Resour. Manag. 52:175–93
+Beilock SL, Rydell RJ, McConnell AR. 2007. Stereotype threat and working memory: mechanisms, alleviation,
+and spillover. J. Exp. Psychol. Gen. 136(2):256–76
+Berry CM, Clark MA, McClure TK. 2011. Racial/ethnic differences in the criterion-related validity of cognitive
+ability tests: a qualitative and quantitative review. J. Appl. Psychol. 96(5):881–906
+Berry CM, Cullen MJ, Meyer JM. 2014. Racial/ethnic subgroup differences in cognitive ability test range
+restriction: implications for differential validity. J. Appl. Psychol. 99(1):21–37
+Bielby WT. 2008. Promoting racial diversity at work: challenges and solutions. In Diversity at Work, ed.
+AP Brief, pp. 53–88. New York: Cambridge Univ. Press
+Blackwell LA, Trzesniewski KH, Dweck CS. 2007. Theories of intelligence and achievement across the junior
+high school transition: a longitudinal study and an intervention. Child Dev. 78:246–63
+Blascovich J, Spencer SJ, Quinn D, Steele C. 2001. African Americans and high blood pressure: the role of
+stereotype threat. Psychol. Sci. 12(3):225–29
+Blume BD, Baldwin TT, Rubin RS. 2009. Reactions to different types of forced distribution performance
+evaluation systems. J. Bus. Psychol. 24(1):77–91
+Bommer WH, Johnson J, Rich GA, Podsakoff PM, MacKenzie SB. 1995. On the interchangeability of objective
+and subjective measures of employee performance: a meta-analysis. Pers. Psychol. 48(3):587–605
+Bonilla-Silva E. 2006. Racism Without Racists: Color-Blind Racism and the Persistence of Racial Inequality in
+the United States. Lanham, MD: Rowman & Littlefield
+Bosson JK, Haymovitz EL, Pinel EC. 2004. When saying and doing diverge: the effects of stereotype threat on
+self-reported versus non-verbal anxiety. J. Exp. Soc. Psychol. 40:247–55
+Breaugh JA. 2013. Employee recruitment. Annu. Rev. Psychol. 64:388–416
+Breaugh JA, Greising LA, Taggart JW, Chen H. 2003. The relationship of recruiting sources and pre-hire
+outcomes: examination of yield ratios and applicant quality. J. Appl. Soc. Psychol. 33:2267–87
+Brief AP, Umphress EE, Dietz J, Burrows JW, Butz RM, Scholten L. 2005. Community matters: realistic group
+conflict theory and the impact of diversity. Acad. Manag. J. 48:830–44
+Brown M, Setren E, Topa G. 2012. Do informal referrals lead to better matches? Evidence from a firm’s
+employee referral system. Staff Rep. No. 568, Fed. Reserv. Bank N.Y. http://www.newyorkfed.org/
+research/staff_reports/sr568.pdf
+Brown RP, Charnsangavej T, Keough KA, Newman ML, Rentfrow PJ. 2000. Putting the “affirm” into affirmative action: preferential selection and academic performance. J. Pers. Soc. Psychol. 79:736–37
+Brown RP, Day EA. 2006. The difference isn’t black and white: stereotype threat and the race gap on Raven’s
+advanced progressive matrices. J. Appl. Psychol. 91:979–85
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+543
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Brown RP, Lee MN. 2005. Stigma consciousness and the race gap in college academic achievement. Self
+Identity 4(2):149–57
+Browne I, ed. 1999. Latinas and African American Women at Work: Race, Gender, and Economic Inequality.
+New York: Russell Sage Found.
+Bruce TA. 2013. Sexual orientation harassment in the workplace: the development of a measure. Master’s
+Thesis, Mich. State Univ., East Lansing
+Cable DM, Gino F, Staats BR. 2013. Breaking them in or eliciting their best? Reframing socialization around
+newcomers’ authentic self-expression. Adm. Sci. Q. 58(1):1–36
+Chao GT. 1997. Mentoring phases and outcomes. J. Vocat. Behav. 51:15–28
+Cheryan S, Plaut VC, Davies P, Steele CM. 2009. Ambient belonging: how stereotypical environments impact
+gender participation in computer science. J. Personal. Soc. Psychol. 97:1045–60
+Chung BG, Ehrhart MG, Ehrhart KH, Hattrup K, Solamon J. 2010. Stereotype threat, state anxiety, and
+specific self-efficacy as predictors of promotion exam performance. Group Organ. Manag. 35(1):77–107
+Cohen GL, Garcia J. 2008. Identity, belonging, and achievement: a model, interventions, implications. Curr.
+Dir. Psychol. Sci. 17:365–69
+Cohen GL, Garcia J, Purdie-Vaughns V, Apfel N, Brzustoski P. 2009. Recursive processes in self-affirmation:
+intervening to close the minority achievement gap. Science 324:400–3
+Cohen GL, Steele CM. 2002. A barrier of mistrust: how stereotypes affect cross-race mentoring. In Improving
+Academic Achievement: Impact of Psychological Factors on Education, ed. J Aronson, pp. 305–31.
+Oxford, UK: Academic
+Cohen GL, Steele CM, Ross LD. 1999. The mentor’s dilemma: providing critical feedback across the racial
+divide. Personal. Soc. Psychol. Bull. 25:1302–18
+Cohen LL, Swim JK. 1995. The differential impact of gender ratios on women and men: tokenism, selfconfidence, and expectations. Personal. Soc. Psychol. Bull. 21:876–84
+Correll SJ. 2004. Constraints into preferences: gender, status, and emerging career aspirations. Am. Sociol.
+Rev. 69:93–113
+Crocker J, Voelkl K, Testa M, Major B. 1991. Social stigma: the affective consequences of attributional
+ambiguity. J. Personal. Soc. Psychol. 60(2):218–28
+Croizet JC, Claire T. 1998. Extending the concept of stereotype threat to social class: the intellectual
+underperformance of students from low socioeconomic backgrounds. Personal. Soc. Psychol. Bull.
+24:588–94
+Crosby FJ. 1999. The developing literature on developmental relationship. In Mentoring Dilemmas:
+Developmental Relationship Within Multicultural Organizations, ed. AJ Murrell, FJ Crosby, RJ Ely,
+pp. 1–18. Mahwah, NJ: Erlbaum
+Cullen MJ, Hardison CM, Sackett PR. 2004. Using SAT-grade and ability-job performance relationships to test
+predictions derived from stereotype threat theory. J. Appl. Psychol. 89:220–30
+Czukor G, Bayazit M. 2014. Casting a wide net? Performance deficit, priming, and subjective performance
+evaluation in organizational stereotype threat research. Ind. Organ. Psychol. 7:409–13
+Danaher K, Crandall CS. 2008. Stereotype threat in applied settings re-examined. J. Appl. Soc. Psychol.
+38:1639–55
+Davies PG, Spencer SJ, Steele CM. 2005. Clearing the air: Identity safety moderates the effects of stereotype
+threat on women’s leadership aspirations. J. Personal. Soc. Psychol. 88:276–87
+De Corte W, Lievens F, Sackett PR. 2007. Combining predictors to achieve optimal trade-offs between selection quality and adverse impact. J. Appl. Psychol. 92(5):1380–93
+DiTomaso N. 2012. The American Non-Dilemma: Racial Inequality Without Racism. New York: Russell Sage
+Found.
+Dovidio JF, Gaertner SL. 2004. Aversive racism. Adv. Exp. Soc. Psychol. 36:1–52
+Dovidio JF, Hebl MR, Richeson JA, Shelton JN. 2006. Nonverbal communication, race, and intergroup
+interaction. In The Sage Handbook of Nonverbal Communication, ed. V Manusov, ML Patterson,
+pp. 481–500. Thousand Oaks, CA: Sage
+Dovidio JF, Kawakami K, Gaertner SL. 2002. Implicit and explicit prejudice and interracial interaction.
+J. Personal. Soc. Psychol. 82(1):62–68
+
+544
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Duckworth AL, Peterson C, Matthews MD, Kelly DR. 2007. Grit: perseverance and passion for long-term
+goals. J. Personal. Soc. Psychol. 92:1087–101
+Duckworth AL, Seligman ME. 2005. Self-discipline outdoes IQ in predicting academic performance of
+adolescents. Psychol. Sci. 16(12):939–44
+Duguid M. 2011. Female tokens in high-prestige work groups: catalysts or inhibitors of group diversification?
+Organ. Behav. Hum. Decis. Process. 116(1):104–15
+Dweck CS. 2006. Mindset: The New Psychology of Success. New York: Random House
+Eagly AH, Karau SJ. 2002. Role congruity theory of prejudice toward female leaders. Psychol. Rev. 109:573–98
+Ely RJ. 1995. The power of demography: women’s social constructions of gender identity at work. Acad.
+Manag. J. 38:589–634
+Ely RJ, Thomas DA. 2001. Cultural diversity at work: the effects of diversity perspectives on work group
+processes and outcomes. Adm. Sci. Q. 46:229–73
+Emerson KTU, Murphy MC. 2014. Identity threat at work: how social identity threat and situational cues
+contribute to racial and ethnic disparities in the workplace. Cult. Divers. Ethnic Minor. Psychol.
+20(4):508–20
+Emerson KTU, Murphy MC. 2015. A company I can trust? Organizational lay theories moderate stereotype
+threat for women. Personal. Soc. Psychol. Bull. 41(2):295–307
+Erman S, Walton GM. 2015. Stereotype threat and anti-discrimination law: Affirmative steps to promote
+meritocracy and racial equality in education. South. Calif. Law Rev. 88(2). In press
+Ford JK, Kraiger K, Schechtman SL. 1986. Study of race effects in objective indices and subjective evaluations of
+performance: a meta-analysis of performance criteria. Psychol. Bull. 99(3):330–37
+Frear KA, Paustian-Underdahl S. 2011. From elusive to obvious: improving performance management through
+specificity. Ind. Organ. Psychol. 4(2):198–200
+Garcia J, Cohen GL. 2012. A social psychological approach to educational intervention. In Behavioral
+Foundations of Public Policy, ed. E Shafir, pp. 329–47. Princeton, NJ: Princeton Univ. Press
+Gaucher D, Friesen J, Kay AC. 2011. Evidence that gendered wording in job advertisements exists and sustains
+gender inequality. J. Personal. Soc. Psychol. 101:109–28
+Giumetti GW, Schroeder AN, Switzer FS, 2014. Forced distribution rating systems: When does “rank and
+yank” lead to adverse impact? J. Appl. Psychol. 100(1):180–93
+Goff PA, Steele CM, Davies PG. 2008. The space between us: stereotype threat and distance in interracial
+contexts. J. Personal. Soc. Psychol. 94:91–107
+Golubovich J, Grand J, Ryan AM, Schmitt N. 2014. An examination of common sensitivity review practices in
+test development. Int. J. Sel. Assess. 22:1–11
+Golubovich J, Ryan AM. 2012. Demographic cues in video-based situational judgment items. Presented at
+Annu. Conf. Soc. Ind. Organ. Psych. Conference, 27th, Apr. 26–28, San Diego
+Good C, Aronson J, Harder JA. 2008. Problems in the pipeline: stereotype threat and women’s achievement in
+high-level math courses. J. Appl. Dev. Psychol. 29:17–28
+Good C, Aronson J, Inzlicht M. 2003. Improving adolescents’ standardized test performance: an intervention
+to reduce the effects of stereotype threat. J. Appl. Dev. Psychol. 24:645–62
+Grand J. 2012. An examination of stereotype threat effects on knowledge acquisition in an exploratory
+learning paradigm. PhD Thesis, Mich. State Univ., East Lansing
+Grand JA, Ryan AM, Schmitt N, Hmurovic J. 2011. How far does stereotype threat reach? The potential
+detriment of face validity in cognitive ability testing. Hum. Perform. 24:1–28
+Greenhaus JH, Parasuraman S, Wormley WM. 1990. Effects of race on organizational experiences, job
+performance evaluations, and career outcomes. Acad. Manag. J. 33:64–86
+Harber KD. 1998. Feedback to minorities: evidence of a positive bias. J. Personal. Soc. Psychol. 74(3):622–28
+Hattrup K, Rock J. 2002. A comparison of predictor-based and criterion-based methods for weighing predictors to reduce adverse impact. Appl. HRM Res. 7(1/2):22–38
+Hebl MR, Foster JB, Mannix LM, Dovidio JF. 2002. Formal and interpersonal discrimination: a field study of
+bias toward homosexual applicants. Personal. Soc. Psychol. Bull. 28(6):815–25
+Herdman AO, McMillan-Capehart A. 2010. Establishing a diversity program is not enough: exploring the
+determinants of diversity climate. J. Bus. Psychol. 25:39–53
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+545
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Hess TM, Auman C, Colcombe S, Rahhal T. 2003. The impact of stereotype threat on age differences in
+memory performance. J. Gerontol. B Psychol. Sci. Soc. Sci. 58:3–11
+Hmurovic J, Ryan AM, Schmitt N, Grand J 2009. Sensitivity or stereotype threat? Effects of gendered test
+content. Presented at Annu. Conf. Soc. Ind. Organ. Psychol., 24th, Apr. 2–4, New Orleans, LA
+Holleran SE, Whitehead J, Schmader T, Mehl MR. 2011. Talking shop and shooting the breeze: a study of
+workplace conversation and job disengagement among STEM faculty. Soc. Psychol. Personal. Sci.
+2(1):65–71
+Holoien DS, Shelton JN. 2012. You deplete me: the cognitive costs of colorblindness on ethnic minorities.
+J. Exp. Soc. Psychol. 48(2):562–65
+Homan AC, Van Knippenberg D, Van Kleef GA, De Dreu CKW. 2007. Interacting dimensions of diversity:
+cross-categorization and the functioning of diverse work groups. Group Dyn. 11(2):79–94
+Hough LM, Oswald FL, Ployhart RE. 2001. Determinants, detection and amelioration of adverse impact in
+personnel selection procedures: issues, evidence and lessons learned. Int. J. Sel. Assess. 9(1/2):152–94
+Huffcutt AI, Roth PL. 1998. Racial group differences in employment interview evaluations. J. Appl. Psychol.
+83(2):179–89
+Ilgen DR, Youtz MA. 1986. Factors affecting the evaluation and development of minorities in organizations. In
+Research in Personnel and Human Resource Management: A Research Annual, ed. K Rowland, G Ferris,
+pp. 307–37. Greenwich, CT: JAI
+Inzlicht M, Ben-Zeev T. 2000. A threatening intellectual environment: why females are susceptible to experiencing problem-solving deficits in the presence of males. Psychol. Sci. 11:365–71
+Inzlicht M, Schmader T, eds. 2012. Stereotype Threat: Theory, Process, and Application. New York: Oxford
+Univ. Press
+Ioannides YM, Loury LD. 2004. Job information networks, neighborhood effects, and inequality. J. Econ. Lit.
+42:1056–93
+Jackson PB, Thoits PA, Taylor HF. 1995. Composition of the workplace and psychological well-being: the
+effects of tokenism on America’s Black elite. Soc. Forces 74(2):543–57
+James EH. 2000. Race-related differences in promotions and support: underlying effects of human and social
+capital. Organ. Sci. 11:493–508
+Jamieson JP, Mendes WB, Blackstock E, Schmader T. 2010. Turning the knots in your stomach into bows:
+Reappraising arousal improves performance on the GRE. J. Exp. Soc. Psychol. 46(1):208–12
+Johns J, Inzlicht M, Schmader T. 2008. Stereotype threat and executive resource depletion: examining the
+influence of emotion regulation. J. Exp. Psychol. Gen. 137:691–705
+Johns M, Schmader T, Martens A. 2005. Knowing is half the battle: teaching stereotype threat as a means of
+improving women’s math performance. Psychol. Sci. 16:175–79
+Kabat-Farr D, Cortina LM. 2014. Sex-based harassment in employment: new insights into gender and context.
+Law Hum. Behav. 38(1):58–72
+Kalev A, Dobbin F, Kelly E. 2006. Best practices or best guesses? Assessing the efficacy of corporate affirmative
+action and diversity policies. Am. Sociol. Rev. 71:589–617
+Kalokerinos EK, Von Hippel C, Zacher H. 2014. Is stereotype threat a useful construct for organizational
+psychology research and practice? Ind. Organ. Psychol. 7:381–402
+Kanter RM. 1979. Differential access to opportunity and power. In Discrimination in Organizations, ed.
+R Alvarez, pp. 52–68. San Francisco: Jossey-Bass
+Karsten MF, ed. 2006. Gender, Race, and Ethnicity in the Workplace: Management, Gender, and Ethnicity in
+the United States, Vol. 1. Westport, CT: Praeger
+Kasinitz P, Rosenberg J. 1996. Missing the connection: social isolation and employment on the Brooklyn
+waterfront. Soc. Probl. 43:180–96
+Kirby D, Jackson JS. 1999. Mitigating perceptions of racism: the importance of work group composition and
+supervisor’s race. In Mentoring Dilemmas: Developmental Relationship Within Multicultural Organizations, ed. AJ Murrell, FJ Crosby, RJ Ely, pp. 143–55. Mahwah, NJ: Erlbaum
+Kirnan JP, Alfieri JA, Bragger JD, Harris RS. 2009. An investigation of stereotype threat in employment tests.
+J. Appl. Soc. Psychol. 39:359–88
+
+546
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Klein HJ, Polin B. 2012. Are organizations on board with best practices onboarding? In The Oxford Handbook
+of Organizational Socialization, ed. CR Wanberg, pp. 267–87. New York: Oxford Univ. Press
+Kray LJ, Shirako A. 2012. Stereotype threat in organizations: an examination of its scope, triggers and possible
+interventions. See Inzlicht & Schmader 2012, pp. 173–87
+Kray LJ, Thompson L, Galinsky A. 2001. Battle of the sexes: gender stereotype confirmation and reactance in
+negotiations. J. Personal. Soc. Psychol. 80:942–58
+Landau J. 1995. The relationship of race and gender to managers’ ratings of promotion potential. J. Organ.
+Behav. 16:391–400
+Leskinen EA, Cortina LM. 2014. Dimensions of disrespect: mapping and measuring gender harassment in
+organizations. Psychol. Women Q. 38(1):107–23
+Logel C, Iserman EC, Davies PG, Quinn DM, Spencer SJ. 2009a. The perils of double consciousness: the role of
+thought suppression in stereotype threat. J. Exp. Soc. Psychol. 45:299–312
+Logel C, Walton GM, Spencer SJ, Iserman EC, Von Hippel W, Bell A. 2009b. Interacting with sexist men
+triggers social identity threat among female engineers. J. Personal. Soc. Psychol. 96:1089–103
+London M. 1997. Job Feedback: Giving, Seeking, and Using Feedback for Performance Improvement.
+Hillsdale, NJ: Erlbaum
+Madera JM, Hebl MR. 2013. “Don’t stigmatize”: the ironic effects of equal opportunity guidelines in
+interviews. Basic Appl. Soc. Psych. 35:123–30
+Mannix E, Neale MA. 2006. What differences make a difference? The promise and reality of diverse teams in
+organizations. Psychol. Sci. Public Interest 6:31–55
+Markus HR, Steele CM, Steele DM. 2000. Color blindness as a barrier to inclusion: assimilation and nonimmigrant minorities. In Engaging Cultural Differences: The Multicultural Challenge in Liberal Democracies, ed. RA Shweder, Minow M, pp. 453–72. New York: Russell Sage Found.
+Marsden PV, Gorman EH. 2001. Social networks, job changes, and recruitment. In Sourcebook of Labor
+Markets: Evolving Structures and Processes, Vol. 4, ed. I Berg, AL Kalleberg, pp. 467–502. New York:
+Kluwer Academic/Plenum
+Martens A, Johns M, Greenberg J, Schimel J. 2006. Combating stereotype threat: the effect of self-affirmation
+on women’s intellectual performance. J. Exp. Soc. Psychol. 42:236–43
+Marx DM, Goff PA. 2005. Clearing the air: the effect of experimenter race on target’s test performance and
+subjective experience. Br. J. Soc. Psychol. 44:645–57
+Massey DS, Fischer MJ. 2005. Stereotype threat and academic performance: new findings from a racially
+diverse sample of college freshmen. Du Bois Rev. 2:45–67
+McConnell AR, Leibold JM. 2001. Relations among the Implicit Association Test, discriminatory behavior,
+and explicit measures of racial attitudes. J. Exp. Soc. Psychol. 37:435–42
+McDonald S. 2011. What’s in the “old boys” network? Accessing social capital in gendered and racialized
+networks. Soc. Netw. 33(4):317–30
+McIntyre RB, Paulson RM, Lord CG. 2003. Alleviating women’s mathematics stereotype threat through
+salience of group achievements. J. Exp. Soc. Psychol. 39:83–90
+McKay PF, Avery DR, Tonidandel S, Morris MA, Hernandez M, Hebl MR. 2007. Racial differences in
+employee retention: Are diversity climate perceptions the key? Pers. Psychol. 60:35–62
+McLean B, Elkind P. 2003. Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron. New
+York: Penguin
+Miyake A, Smith-Kost LE, Finkelstein ND, Pollock SJ, Cohen GL, Ito TA. 2010. Reducing the gender
+achievement gap in college science: a classroom study of values affirmation. Science 330:1234–37
+Moss P, Tilly C. 2001. Stories Employers Tell: Race, Skill, and Hiring in America. New York: Russell Sage
+Found.
+Mueller CW, De Coster S, Estes SB. 2001. Sexual harassment in the workplace: unanticipated consequences of
+modern social control in organizations. Work Occup. 28(4):411–46
+Murphy MC, Dweck CS. 2010. A culture of genius: how an organization’s lay theory shapes people’s
+cognition, affect, and behavior. Personal. Psychol. Bull. 36:283–96
+Murphy MC, Richeson JA, Shelton JN, Rheinschmidt ML, Bergsieker HB. 2013. Cognitive costs of contemporary prejudice. Group Process. Intergroup Relat. 16:560–71
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+547
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Murphy MC, Steele CM, Gross JJ. 2007. Signaling threat: how situational cues affect women in math, science,
+and engineering settings. Psychol. Sci. 18:879–85
+Murphy MC, Taylor VJ. 2012. The role of situational cues in signaling and maintaining stereotype threat. See
+Inzlicht & Schmader 2012, pp. 17–33
+Murphy MC, Walton GM. 2013. From prejudiced people to prejudiced places. In Stereotyping and Prejudice,
+ed. C Stangor, CS Crandall, pp. 181–203. New York: Psychol. Press
+Nguyen HD, Ryan AM. 2008. Does stereotype threat affect test performance of minorities and women? A
+meta-analysis of experimental evidence. J. Appl. Psychol. 93:1314–34
+Niemann YF, Dovidio JF. 1998. Relationship of solo status, academic rank, and perceived distinctiveness to job
+satisfaction of racial/ethnic minorities. J. Appl. Psychol. 83:55–71
+Obama M, Obama B. 2014. Remarks by the President and First Lady. Presented at Coll. Oppor. Summit, Jan.
+16, Washington, DC. http://www.whitehouse.gov/the-press-office/2014/01/16/remarks-president-andfirst-lady-college-opportunity-summit
+Osborne JW. 2006. Gender, stereotype threat, and anxiety: psychophysiological and cognitive evidence.
+Electron. J. Res. Educ. Psychol. 4(1):109–38
+Paunesku D, Walton GM, Romero CL, Smith EN, Yeager DS, Dweck CS. In press. Mindset interventions are
+a scalable treatment for academic underperformance. Psychol. Sci.
+Plaut VC, Garnett FG, Buffardi L, Sanchez-Burks J. 2011. What about me? Perceptions of exclusion and
+Whites’ reactions to multiculturalism. J. Personal. Soc. Psychol. 101:337–53
+Plaut VC, Thomas KM, Goren MJ. 2009. Is multiculturalism or color blindness better for minorities? Psychol.
+Sci. 20:444–46
+Purdie-Vaughns V, Steele CM, Davies PG, Ditlmann R, Crosby JR. 2008. Social identity contingencies: how
+diversity cues signal threat or safety for African Americans in mainstream institutions. J. Personal. Soc.
+Psychol. 94(4):615–30
+Raeburn N. 2004. Lesbian and Gay Workplace Rights: Changing Corporate America from Inside Out.
+Minneapolis: Univ. Minn. Press
+Reskin BF, McBrier DB, Kmec JA. 1999. The determinants and consequences of workplace sex and race
+composition. Annu. Rev. Sociol. 25:335–61
+Richeson JA, Shelton JN. 2012. Stereotype threat in interracial interactions. See Inzlicht & Schmader 2012,
+pp. 231–48
+Roberson L, Deitch EA, Brief AP, Block CJ. 2003. Stereotype threat and feedback seeking in the workplace.
+J. Vocat. Behav. 62(1):176–88
+Roberson L, Galvin BM, Charles AC. 2007. When group identities matter: bias in performance appraisal.
+Acad. Manag. Ann. 1:617–50
+Roberson L, Kulik CT. 2007. Stereotype threat at work. Acad. Manag. Perspect. 21(2):24–40
+Ross L, Nisbett RE. 1991. The Person and the Situation: Perspectives of Social Psychology. New York:
+McGraw-Hill
+Roth PL, Le H, Oh I, Van Iddekinge CH, Buster MA, et al. 2014. Differential validity for cognitive ability
+tests in employment and educational settings: not much more than range restriction? J. Appl. Psychol.
+99(1):1–20
+Ryan AM, Sackett PR. 2013. Stereotype threat in assessments. In APA Handbook of Testing and Assessment in
+Psychology, Vol. 1: Test Theory and Testing and Assessment in Industrial and Organizational Psychology, ed. KF Geisinger, BA Bracken, JF Carlson, JC Hansen, NR Kuncel, pp. 661–73. Washington,
+DC: Am. Psychol. Assoc.
+Ryan CS, Hunt JS, Weible JA, Peterson CR, Casas JF. 2007. Multicultural and colorblind ideology, stereotypes, and ethnocentrism among Black and White Americans. Group Process. Intergroup Relat.
+10:617–37
+Rydell RJ, Shiffrin RM, Boucher KL, Van Loo K, Rydell MT. 2010. Stereotype threat prevents perceptual
+learning. Proc. Natl. Acad. Sci. USA 107:14042–47
+Sackett PR, Roth L. 1991. A Monte Carlo examination of banding and rank order methods of test score use in
+personnel selection. Hum. Perform. 4:279–95
+
+548
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Sackett PR, Ryan AM. 2012. Concerns about generalizing stereotype threat research findings to operational
+high-stakes testing. See Inzlicht & Schmader 2012, pp. 249–63
+Sackett PR, Wilk SL. 1994. Within-group norming and other forms of score adjustment in preemployment
+testing. Am. Psychol. 49:929–54
+Saenz DS, Lord CG. 1989. Reversing roles: a cognitive strategy for undoing memory deficits associated with
+token status. J. Personal. Soc. Psychol. 56:698–708
+Salvatore J, Shelton JN. 2007. Cognitive costs of exposure to racial prejudice. Psychol. Sci. 18:810–15
+Schleicher DJ, Bull RA, Green SG. 2009. Rater reactions to forced distribution rating systems. J. Manag.
+35(4):899–927
+Schmader T, Beilock S. 2012. An integration of processes that underlie stereotype threat. See Inzlicht &
+Schmader 2012, pp. 34–50
+Schmader T, Johns M. 2003. Converging evidence that stereotype threat reduces working memory capacity.
+J. Personal. Soc. Psychol. 85:440–52
+Schmader T, Johns M, Forbes C. 2008. An integrated process model of stereotype threat effects on performance. Psychol. Rev. 115(2):336–56
+Schneider KT, Swan S, Fitzgerald LF. 1997. Job-related and psychological effects of sexual harassment in the
+workplace: empirical evidence from two organizations. J. Appl. Psychol. 82:401–15
+Sekaquaptewa D, Espinoza P, Thompson M, Vargas P, Von Hippel W. 2003. Stereotypic explanatory bias:
+implicit stereotyping as a predictor of discrimination. J. Exp. Soc. Psychol. 39(1):75–82
+Sekaquaptewa D, Thompson M. 2002. The differential effects of solo status on members of high- and lowstatus groups. Personal. Soc. Psychol. Bull. 28(5):694–707
+Sekaquaptewa D, Thompson M. 2003. Solo status, stereotype threat, and performance expectancies: their
+effects on women’s performance. J. Exp. Soc. Psychol. 39(1):68–74
+Sherman DK, Cohen GL. 2006. The psychology of self-defense: self-affirmation theory. In Advances in
+Experimental Social Psychology, Vol. 38, ed. MP Zanna, pp. 183–242. San Diego: Academic
+Sherman DK, Hartson KA. 2011. Reconciling self-defense with self-criticism: self-affirmation theory. In
+Handbook of Self-Enhancement and Self-Protection, ed. MD Alicke, C Sedikides, pp. 128–51. New York:
+Guilford
+Sherman DK, Hartson KA, Binning KR, Purdie-Vaughns V, Garcia J, et al. 2013. Deflecting the trajectory and
+changing the narrative: how self-affirmation affects academic performance and motivation under identity
+threat. J. Personal. Soc. Psychol. 104:591–618
+Shih M, Young MJ, Bucher A. 2013. Working to reduce the effects of discrimination: identity management
+strategies in organizations. Am. Psychol. 68(3):145–57
+Singh B, Winkel DE, Selvarajan TT. 2013. Managing diversity at work: Does psychological safety hold the key
+to racial differences in employee performance? J. Occup. Organ. Psychol. 86:242–63
+Spencer SJ, Steele CM, Quinn DM. 1999. Stereotype threat and women’s math performance. J. Exp. Soc.
+Psychol. 35:4–28
+Stangor C, Carr C, Kiang L. 1998. Activating stereotypes undermines task performance expectations.
+J. Personal. Soc. Psychol. 75(5):1191–97
+Steele CM. 1997. A threat in the air: how stereotypes shape intellectual identity and performance. Am. Psychol.
+52:613–29
+Steele CM. 2010. Whistling Vivaldi: And Other Clues to How Stereotypes Affect Us. New York: Norton
+Steele CM, Aronson J. 1995. Stereotype threat and the intellectual test performance of African Americans.
+J. Personal. Soc. Psychol. 69:797–811
+Steele CM, Spencer SJ, Aronson J. 2002. Contending with group image: the psychology of stereotype and social
+identity threat. In Advances in Experimental Social Psychology, Vol. 34, ed. MP Zanna, pp. 379–440. San
+Diego: Academic
+Steele DM, Cohn-Vargas B. 2013. Identity Safe Classrooms: Places to Belong and Learn. Thousand Oaks, CA:
+Corwin
+Sternberg RJ, Rainbow Proj. Collab. 2006. The Rainbow Project: enhancing the SAT through assessments of
+analytical, practical, and creative skills. Intelligence 34:321–50
+
+www.annualreviews.org
+
+
+
+Stereotype Threat in Organizations
+
+549
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Stevens FG, Plaut VC, Sanchez-Burks J. 2008. Unlocking the benefits of diversity: all-inclusive multiculturalism
+and positive organizational change. J. Appl. Behav. Sci. 44:116–33
+Stoker JI, Van der Velde M, Lammers J. 2012. Factors relating to managerial stereotypes: the role of gender of
+the employee and the manager and management gender ratio. J. Bus. Psychol. 27:31–42
+Stone J, Lynch CI, Sjomeling M, Darley JM. 1999. Stereotype threat effects on Black and White athletic
+performance. J. Personal. Soc. Psychol. 77:1213–27
+Tapia AH, Kvasny L. 2004. Recruitment is never enough: retention of women and minorities in the IT
+workplace. Proc. 2004 SIGMIS Conf. Comput. Pers. Res.: Careers Cult. Ethics Netw. Environ., Tucson,
+AZ, pp. 84–91. New York: Assoc. Comput. Mach.
+Taylor VJ, Walton GM. 2011. Stereotype threat undermines academic learning. Personal. Soc. Psychol. Bull.
+37:1055–67
+Thomas DA, Kram KE. 1988. Promoting career-enhancing relationships in organizations: the role of the
+human resource professional. In The Human Resource Professional and Employee Career Development,
+ed. M London, E Mone, pp. 49–66. New York: Greenwood
+Thomas KM. 2008. Diversity Resistance in Organizations. New York: Erlbaum-Taylor Francis
+Topa G. 2011. Labor markets and referrals. In Handbook of Social Economics, ed. J Benhabib, A Bisin,
+MO Jackson, pp. 1193–221. Amsterdam: Elsevier North Holland
+Tracey JB, Tannenbaum SI, Kavanagh MJ. 1995. Applying trained skills on the job: the importance of the work
+environment. J. Appl. Psychol. 80(2):239–52
+Turner ME, Pratkanis AR. 1994. Social identity maintenance prescriptions for preventing groupthink: reducing identity protection and enhancing intellectual conflict. Int. J. Conflict Manag. 5(3):254–70
+Voyles E, Finkelstein L, King E. 2014. A tale of two theories: stereotype threat and metastereotypes. Ind.
+Organ. Psychol. 7:419–22
+Walton GM, Carr PB. 2012. Social belonging and the motivation and intellectual achievement of negatively
+stereotyped students. See Inzlicht & Schmader 2012, pp. 89–106
+Walton GM, Cohen GL. 2003. Stereotype lift. J. Exp. Soc. Psychol. 39:456–67
+Walton GM, Cohen GL. 2007. A question of belonging: race, social fit, and achievement. J. Personal. Soc.
+Psychol. 92:82–96
+Walton GM, Cohen GL. 2011. A brief social-belonging intervention improves academic and health outcomes
+of minority students. Science 331:1447–51
+Walton GM, Logel C, Peach J, Spencer S, Zanna MP. 2014. Two brief interventions to mitigate a “chilly
+climate” transform women’s experience, relationships, and achievement in engineering. J. Educ. Psychol.
+In press
+Walton GM, Spencer SJ. 2009. Latent ability: grades and test scores systematically underestimate the intellectual ability of negatively stereotyped students. Psychol. Sci. 20:1132–39
+Walton GM, Spencer SJ, Erman S. 2013. Affirmative meritocracy. Soc. Issues Policy Rev. 7:1–35
+Wee S, Newman DA, Joseph DL. 2014. More than g: selection quality and adverse impact implications of
+considering second-stratum cognitive abilities. J. Appl. Psychol. 99(4):547–63
+Wiesenfeld BM, Brockner J, Martin C. 1999. A self-affirmation analysis of survivors’ reactions to unfair
+organizational downsizings. J. Exp. Soc. Psychol. 35(5):441–60
+Williams JR, Miller CE, Steelman LA, Levy PE. 1999. Increasing feedback seeking in public contexts: It takes
+two (or more) to tango. J. Appl. Psychol. 84(6):969–76
+Wolsko C, Park B, Judd CM, Wittenbrink B. 2000. Framing interethnic ideology: effects of multicultural and
+color-blind perspectives on judgments of groups and individuals. J. Personal. Soc. Psychol. 78:635–54
+Woodcock A, Hernandez PR, Estrada M, Schultz PW. 2012. The consequences of chronic stereotype threat:
+domain disidentification and abandonment. J. Personal. Soc. Psychol. 103(4):635–46
+Yeager DS, Paunesku D, Walton GM, Dweck CS. 2013. How can we instill productive mindsets at scale? A
+review of the evidence and an initial R&D agenda. Prepared for White House Meet. Excell. Educ.:
+Importance Acad. Mindsets, May 10, Washington, DC
+Yeager DS, Walton GM. 2011. Social-psychological interventions in education: They’re not magic. Rev. Educ.
+Res. 81:267–301
+
+550
+
+Walton
+
+
+
+Murphy
+
+
+
+Ryan
+
+Annual Review of
+Organizational
+Psychology and
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Organizational Behavior
+
+Volume 2, 2015
+
+Contents
+Organizational Psychology Then and Now: Some Observations
+Edgar H. Schein . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Group Affect
+Sigal G. Barsade and Andrew P. Knight . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+The Modeling and Assessment of Work Performance
+John P. Campbell and Brenton M. Wiernik . . . . . . . . . . . . . . . . . . . . . . . . 47
+Justice, Fairness, and Employee Reactions
+Jason A. Colquitt and Kate P. Zipay . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Methodological and Substantive Issues in Conducting Multinational and
+Cross-Cultural Research
+Paul E. Spector, Cong Liu, and Juan I. Sanchez . . . . . . . . . . . . . . . . . . . . 101
+Leadership Development: An Outcome-Oriented Review Based on Time and
+Levels of Analyses
+David V. Day and Lisa Dragoni . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+Beyond Lewin: Toward a Temporal Approximation of Organization
+Development and Change
+Jean M. Bartunek and Richard W. Woodman . . . . . . . . . . . . . . . . . . . . . 157
+Beyond the Big Five: New Directions for Personality Research and Practice in
+Organizations
+Leaetta M. Hough, Frederick L. Oswald, and Jisoo Ock . . . . . . . . . . . . . 183
+Corporate Social Responsibility: Psychological, Person-Centric, and
+Progressing
+Deborah E. Rupp and Drew B. Mallory . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Time in Individual-Level Organizational Studies: What Is It, How Is It Used,
+and Why Isn’t It Exploited More Often?
+Abbie J. Shipp and Michael S. Cole . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237
+
+vi
+
+Dynamics of Well-Being
+Sabine Sonnentag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 261
+Low-Fidelity Simulations
+Jeff A. Weekley, Ben Hawkes, Nigel Guenole, and Robert E. Ployhart . . . 295
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+Emotional Labor at a Crossroads: Where Do We Go from Here?
+Alicia A. Grandey and Allison S. Gabriel . . . . . . . . . . . . . . . . . . . . . . . . . 323
+Supporting the Aging Workforce: A Review and Recommendations for
+Workplace Intervention Research
+Donald M. Truxillo, David M. Cadiz, and Leslie B. Hammer . . . . . . . . . 351
+ESM 2.0: State of the Art and Future Potential of Experience Sampling
+Methods in Organizational Research
+Daniel J. Beal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 383
+Ethical Leadership
+Deanne N. Den Hartog . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 409
+Differential Validity and Differential Prediction of Cognitive Ability Tests:
+Understanding Test Bias in the Employment Context
+Christopher M. Berry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435
+Organizational Routines as Patterns of Action: Implications for Organizational
+Behavior
+Brian T. Pentland and Thorvald Hærem . . . . . . . . . . . . . . . . . . . . . . . . . 465
+Pay, Intrinsic Motivation, Extrinsic Motivation, Performance, and Creativity
+in the Workplace: Revisiting Long-Held Beliefs
+Barry Gerhart and Meiyu Fang . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 489
+Stereotype Threat in Organizations: Implications for Equity and Performance
+Gregory M. Walton, Mary C. Murphy, and Ann Marie Ryan . . . . . . . . . . 523
+Technology and Assessment in Selection
+Nancy T. Tippins . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 551
+Workplace Stress Management Interventions and Health Promotion
+Lois E. Tetrick and Carolyn J. Winslow . . . . . . . . . . . . . . . . . . . . . . . . . 583
+Errata
+An online log of corrections to Annual Review of Organizational Psychology and
+Organizational Behavior articles may be found at http://www.annualreviews.org/
+errata/orgpsych.
+
+Contents
+
+vii
+
+Annu. Rev. Organ. Psychol. Organ. Behav. 2015.2:523-550. Downloaded from www.annualreviews.org
+Access provided by Stanford University - Main Campus - Lane Medical Library on 04/14/15. For personal use only.
+
+

@@ -1,0 +1,1260 @@
+Educational Psychologist
+
+ISSN: 0046-1520 (Print) 1532-6985 (Online) Journal homepage: http://www.tandfonline.com/loi/hedp20
+
+Mindsets That Promote Resilience: When Students
+Believe That Personal Characteristics Can Be
+Developed
+David Scott Yeager & Carol S. Dweck
+To cite this article: David Scott Yeager & Carol S. Dweck (2012) Mindsets That Promote
+Resilience: When Students Believe That Personal Characteristics Can Be Developed, Educational
+Psychologist, 47:4, 302-314, DOI: 10.1080/00461520.2012.722805
+To link to this article: http://dx.doi.org/10.1080/00461520.2012.722805
+
+Published online: 19 Oct 2012.
+
+Submit your article to this journal
+
+Article views: 21493
+
+View related articles
+
+Citing articles: 145 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=hedp20
+Download by: [University of Texas Libraries]
+
+Date: 20 September 2017, At: 09:55
+
+EDUCATIONAL PSYCHOLOGIST, 47(4), 302–314, 2012
+C Division 15, American Psychological Association
+Copyright 
+ISSN: 0046-1520 print / 1532-6985 online
+DOI: 10.1080/00461520.2012.722805
+
+Mindsets That Promote Resilience:
+When Students Believe That Personal
+Characteristics Can Be Developed
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+David Scott Yeager
+Department of Psychology
+University of Texas at Austin
+
+Carol S. Dweck
+Department of Psychology
+Stanford University
+
+Because challenges are ubiquitous, resilience is essential for success in school and in life.
+In this article we review research demonstrating the impact of students’ mindsets on their
+resilience in the face of academic and social challenges. We show that students who believe
+(or are taught) that intellectual abilities are qualities that can be developed (as opposed to
+qualities that are fixed) tend to show higher achievement across challenging school transitions
+and greater course completion rates in challenging math courses. New research also shows
+that believing (or being taught) that social attributes can be developed can lower adolescents’
+aggression and stress in response to peer victimization or exclusion, and result in enhanced
+school performance. We conclude by discussing why psychological interventions that change
+students’ mindsets are effective and what educators can do to foster these mindsets and create
+resilience in educational settings.
+
+When students struggle with their schoolwork, what determines whether they give up or embrace the obstacle and
+work to overcome it? And when students feel excluded or
+victimized by peers, what determines whether they seek
+revenge through aggression or seek more productive solutions? Resilience—or whether students respond positively to
+challenges—is crucial for success in school and in life. Yet
+what causes it? And what can be done to increase it?
+In this article we demonstrate the impact of students’
+mindsets—or implicit theories about the malleability of human characteristics—on their academic and social resilience
+(Dweck, 2006; Dweck, Chiu, & Hong, 1995). We show how
+mindsets can contribute to two of the most important issues currently facing educators: (a) academic underachievement and (b) the impact of peer exclusion and victimization.
+Each of these problems is of great concern, yet each has
+been frustratingly difficult to address. For example, many
+of the large-scale interventions evaluated by the Institute of
+Correspondence should be addressed to David Scott Yeager, Department
+of Psychology, University of Texas at Austin, 108 E. Dean Keeton Stop
+A8000, Austin, TX 78712-1043. E-mail: yeager@psy.utexas.edu
+
+Education Sciences in recent years have failed to produce
+significant gains in achievement beyond the treatment period (e.g., Garet et al., 2010; Glazerman et al., 2010; JamesBurdumy et al., 2010; Somers et al., 2010). Similarly, although whole-school antibullying interventions consistently
+reduce aggression among elementary school students, among
+adolescents even large, well-implemented interventions frequently have no effect (Karna et al., 2011; Silvia et al., 2011).
+Those programs may have taught important skills or provided
+key resources. Yet we show that attention must also be paid
+to the psychology underlying adolescents’ resilient responses
+to academic and social challenges.
+Prominent in this underlying psychology are students’
+implicit theories (Dweck, 2006; Dweck et al., 1995). For
+example, our research shows how the theory that intelligence is fixed and unchangeable can lead students to interpret academic challenges as a sign that they may lack
+intelligence—that they may be “dumb” or might be seen
+as “dumb.” As we demonstrate, this way of thinking compromises resilience in academic settings, even among highachieving students (Blackwell, Trzesniewski, & Dweck,
+2007; Hong, Chiu, Dweck, Lin, & Wan, 1999; Nussbaum
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+MINDSETS THAT PROMOTE RESILIENCE
+
+& Dweck, 2008). In the same way, an implicit theory that
+personality is unchangeable can lead adolescents to interpret peer victimization or exclusion as something that cannot
+change (Yeager, Trzesniewski, Tirri, Nokelainen, & Dweck,
+2011). It is clear how this can reduce resilience. In each case,
+even when adolescents are taught the intellectual or social
+skills they need to be resilient, they may not employ them
+adequately unless their mindsets foster the idea that their
+academic and social adversities have the potential to improve
+(Blackwell et al., 2007; Yeager, Trzesniewski, & Dweck, in
+press).
+Our research also shows that students’ mindsets can be
+changed and that doing so can promote resilience. Students
+can be taught the science underlying people’s potential to
+change their academically and socially relevant characteristics, and they can be shown how to apply these insights to
+their own lives (Blackwell et al., 2007; Yeager, Trzesniewski,
+et al., in press). When they are, it can have striking effects
+on resilience. Thus, although we examine vulnerabilities, the
+present article also provides cause for optimism.
+We summarize what implicit theories are and how they
+lead to resilience. We also review the effects of relatively brief
+and psychologically precise school-based interventions that
+shift adolescents’ implicit theories toward a malleable view.
+We do so by first reviewing research on implicit theories of
+intelligence and their effects on academic performance. We
+then review new research on implicit theories of personality and their effects on aggression and stress. We also show
+how promoting a malleable view of personality, by reducing
+stress in school, can actually affect students’ achievement.
+We end by addressing three important issues: (a) how efforts
+to change mindsets can increase resilience even without removing the adversities students encounter in school, (b) what
+parents and educators should say (or avoid saying) in order to
+support students’ growth-oriented implicit theories in school,
+and (c) how implicit theories interventions should be scaled
+up (and how they should not be scaled up) to affect more
+students.
+
+WHAT IS RESILIENCE?
+Resilience can be defined as “good outcomes in spite of serious threats to adaptation or development” (Masten, 2001,
+p. 228). Within this broader definition, in the present article
+we call “resilient” any behavioral, attributional, or emotional
+response to an academic or social challenge that is positive and beneficial for development (such as seeking new
+strategies, putting forth greater effort, or solving conflicts
+peacefully), and we refer to any response to a challenge that
+is negative or not beneficial for development (such as helplessness, giving up, cheating, or aggressive retaliation) as not
+resilient. Many factors can influence a person’s resilience, including the environmental risks and assets that surround them
+(Masten, 2001). At the same time, a premise of our research
+
+303
+
+is that it is not only the presence of social and academic
+adversity that determines a person’s outcomes but also a person’s interpretations of those adversities (Olson & Dweck,
+2008; for a classic formulation in the context of depression,
+see Beck, 1967). As such, next we review research on the
+mindsets that allow a given person to show more resilient
+interpretations and reactions to a challenge.
+
+WHAT ARE IMPLICIT THEORIES?
+Implicit theories, in our research, are defined as core assumptions about the malleability of personal qualities (Dweck
+et al., 1995; Dweck & Leggett, 1988; Molden & Dweck,
+2006). They are called “implicit” because they are rarely
+made explicit, and they are called “theories” because, like a
+scientific theory, they create a framework for making predictions and judging the meaning of events in one’s world. Implicit theories are sometimes also called naı̈ve or “lay” theories because, unlike scientific theories, they refer to a person’s
+commonsense explanations for everyday events (Molden &
+Dweck, 2006). Although students can have implicit theories
+about any personal attribute, in the present article we focus on two that are especially relevant to education: implicit
+theories of intelligence and implicit theories of personality.
+Students can vary in their implicit theories, from more of
+a fixed or entity theory of intelligence or personality to more
+of a malleable or incremental theory (Table 1). Students with
+more of an entity theory of intelligence see intellectual ability as something of which people have a fixed, unchangeable
+amount. On the other end of the spectrum, those with more of
+an incremental theory of intelligence see intellectual ability
+as something that can be grown or developed over time. In a
+similar way, those with more of an entity theory of personality see people’s socially relevant traits as fixed, whereas those
+with more of an incremental theory of personality view people’s traits as having the potential to change. It is important
+to note that implicit theories of intelligence and of personality are distinct—it is possible for a student to believe that
+TABLE 1
+Academic Mindsets, for Those With More of an Entity
+Versus Incremental Implicit Theory of Intelligence
+Entity Theory
+Goals
+Value of effort, help,
+and strategies?
+Response to
+challenge
+Changes in grades
+during times of
+adversity
+
+Incremental Theory
+
+Look smart
+Higher
+
+Learn
+Lower
+
+Tendency to give up
+
+Work harder and smarter
+
+Decrease or remain
+low
+
+Increase
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+304
+
+YEAGER AND DWECK
+
+intelligence can be changed but that personality cannot, or
+vice versa (see Dweck et al., 1995).1
+How do implicit theories work? Because a given implicit
+theory fosters particular judgments and reactions, it can lead
+to relatively consistent patterns of vulnerability or resilience
+over time (Dweck et al., 1995). For example, implicit theories
+shape people’s causal attributions (Hong et al., 1999; see also
+Blackwell et al., 2007; Robins & Pals, 2002; for a review of
+research on causal attributions, see Weiner, 1986, 1995), and
+it is well known that explaining personal adversities in terms
+of fixed traits undermines resilience. As we illustrate next,
+these fixed-trait attributions are more likely when people have
+an entity theory, and they represent one pathway through
+which implicit theories lead to differences in resilience (e.g.,
+Blackwell et al., 2007; Yeager et al., 2011).
+
+IMPLICIT THEORIES OF INTELLIGENCE AND
+RESPONSES TO ACADEMIC ADVERSITIES
+Why Do Implicit Theories of Intelligence Affect
+Academic Resilience?
+Students’ implicit theories of intelligence predict their academic performance over time, particularly when they face
+challenging work (Blackwell et al., 2007). We review how
+and why this happens.
+The two implicit theories of intelligence—entity and
+incremental—appear to create different psychological worlds
+for students: one that promotes resilience and one that does
+not (Dweck, 2006; Dweck et al., 1995). The entity theory
+world is about measuring your ability, and everything (challenging tasks, effort, setbacks) measures your ability. It is a
+world of threats and defenses. The incremental world is about
+learning and growth, and everything (challenges, effort, setbacks) is seen as being helpful to learn and grow. It is a world
+of opportunities to improve.
+More precisely, an incremental versus entity theory shapes
+students’ goals (whether they are eager to learn or instead
+care mostly about looking smart and, perhaps even more important, not looking dumb), their beliefs about effort (whether
+effort is a key to success and growth or whether it is a signal
+that they lack natural talent), their attributions for their setbacks (whether a setback means that they need to work harder
+and alter their strategies or whether it means they might be
+“dumb”), and their learning strategies in the face of setbacks
+1Of interest, research also shows it is possible within a given domain
+for a person to have an even more specific implicit theory. For instance,
+Good, Rattan, and Dweck (2012) and Rattan, Good, and Dweck (2012)
+examined implicit theories about math ability rather than general theories
+about intelligence. Beer (2002) investigated implicit theories about shyness
+rather than general theories about personality. An important area for future
+research will be to document the relative advantages for educational practice
+of intervening to change a more general implicit theory versus a more
+specific one.
+
+(whether they work harder or whether they give up, consider
+cheating, and/or become defensive). Blackwell et al. (2007)
+showed that these are the variables that explain why students
+with more of an incremental theory were more resilient and
+earned higher grades when they confronted a challenging
+school transition. Crucially, this process can play out both
+for higher achieving and lower achieving students (Dweck
+& Leggett, 1988); inevitably, academic standards rise, and
+when they do, a person’s implicit theory of intelligence can
+affect whether they respond resiliently.
+Can Changes in Theories of Intelligence Affect
+Academic Behavior Over Time?
+Intervention experiments have shown that, indeed, changes
+in theories of intelligence can affect academic behavior over
+time (Aronson, Fried, & Good, 2002; Blackwell et al., 2007,
+Study 2; Good, Aronson, & Inzlicht, 2003).
+Aronson and colleagues (2002) changed college students’
+theories of intelligence. In the incremental theory treatment
+group, they first provided students with scientific information about the brain’s functioning and potential malleability.
+Students were taught how, when learning, the brain grows
+stronger and smarter by forming new connections between
+neurons (a message that is scientifically accurate). Students
+were also asked to picture their brain growing a denser network of neurons when they faced academic challenges. Next,
+to make the message “stick,” Aronson et al. asked participants to write a few “pen pal” letters teaching this message
+to a struggling middle school student. This treatment was
+compared to a control group that was taught the idea that
+different people have different intellectual strengths and that
+therefore they should not worry if they do poorly in any
+given area; control group students were also asked to write
+pen pal letters to younger students explaining this idea. There
+was also a second control group that was simply monitored
+over time. For all groups, students’ grades were tracked until
+the end of the year. Compared to both control groups, the
+incremental theory group showed a significant increase in
+overall grade point average at the end of the year of roughly
+.23 grade points. The effects of learning that intelligence is
+improvable were slightly greater for African American students, who may face greater challenges in college than White
+students because of negative stereotypes about their group’s
+intellectual ability (Steele, 1997).
+Could implicit theories also increase academic resilience
+among seventh-grade students in the midst of a difficult adolescent transition? Good et al. (2003) examined whether middle school students who received a series of weekly mentoring e-mails over the year explaining an incremental theory
+would perform better on their statewide achievement tests at
+the end of the year. They found that, compared to students
+randomly assigned to a control group, students in the incremental group showed significantly higher math and verbal
+achievement test scores. Especially large effects were found
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+MINDSETS THAT PROMOTE RESILIENCE
+
+among middle school girls in math—students who may need
+to be resilient in the face of negative stereotypes about girls’
+quantitative ability (Spencer, Steele, & Quinn, 1999). These
+girls’ test scores were improved by more than 1 SD compared
+to the control group that did not learn an incremental theory of
+intelligence.
+These studies showed that implicit theories of intelligence
+could be taught in school settings and that changing them
+could affect academic behavior. Yet they did not address
+whether implicit theories would have an impact relative to
+an intervention that provided academic skills but did not
+emphasize the potential for intelligence to grow and improve (e.g., the Good et al., 2003, control group taught an
+antidrug message). To address this issue, Blackwell and colleagues (2007, Study 2) designed two different interventions
+(an incremental theory intervention and a study skills intervention) and delivered each to predominately racial minority
+seventh-grade students. Students were randomly assigned to
+learn either useful study skills for eight sessions (the control group) or the incremental theory along with study skills
+for the eight sessions (the treatment group). Results showed
+that, as is common during the transition to middle school,
+the math grades for students in the control group continued
+to decline. But for students who learned the incremental theory, this downward trend was eliminated and reversed; in the
+months after the treatment, they showed significantly greater
+improvement in math grades relative to the control group,
+nearly returning to the levels at the beginning of the year. At
+year’s end, this corresponded to an estimated .30 grade point
+difference between the two groups. Notably, the study skills
+taught to the control group did not reverse the decline in students’ math scores; students also needed the resilience that
+comes from an incremental theory to put their study skills
+into practice.
+Our more recent research has begun to use implicit theories interventions to address the extremely high failure rate
+of community college students who are placed in remedial
+or “developmental” math classes. By some estimates, nearly
+half of college students in America are attending a community college (Kolesnikova, 2010), and roughly 65% of
+them place into math classes that are precollege math—that
+is, math at the middle school or high school level, such as
+elementary algebra or even arithmetic (Center for Community College Student Success, 2011). Not surprisingly, this
+poses a major obstacle to their prospects for graduation. Students in many cases must pass several of these developmental
+courses and then college-level courses to graduate or transfer
+to 4-year colleges. Sadly, only a small proportion of them do
+so (roughly one third of those who take the classes in one
+analysis by Bailey, Jeong, & Cho, 2010). Placement into remediation also has the potential to lead students to conclude
+that math is a fixed ability that they do not possess. In fact, in
+one survey of such developmental math students, more than
+68% endorsed an entity theory about math ability (Yeager,
+2012). In light of these challenges, these students may have
+
+305
+
+an especially great need for resilience in general and for an
+incremental theory intervention in particular.
+In this context, Paunesku, Yeager, Romero and Walton
+(2012) built on the Blackwell et al. (2007) intervention to
+create a revised reading and writing exercise that taught an
+incremental theory to community college students in developmental mathematics courses. It employed many of the
+same messages as the Blackwell et al. intervention, only
+these messages were tailored based on interviews and focus
+groups conducted with community college math students.
+For instance, the article that taught the incremental theory
+emphasized the malleability of adults’ brains, because in focus groups some students felt that their math ability had now
+rigidified after a period of greater malleability in childhood.
+Next, although the intervention taught a general incremental theory of intelligence, it also emphasized one’s potential
+to improve math ability so that participants could understand
+the specific applicability of the general theory. It said, “When
+people learn and practice new ways of doing algebra or statistics, it can grow their brains—even if they haven’t done well
+in math in the past.” In addition, our pilot work revealed that
+attempting math problems that they did not know how to solve
+could make students feel “dumb,” and so they avoided doing
+challenging problems altogether and instead only worked the
+“example” problems (or, even worse, only read the textbook
+and did not work any problems at all until they felt comfortable with the content). We sought to counteract this lack of
+resilience when facing novel problems. Therefore the article also emphasized the importance of switching strategies
+and seeking out challenges in order to grow one’s brain. For
+instance, in a section titled “A Formula for Growing Your
+Brain: Effort + Good Strategies + Help From Others,” the
+article stated,
+It’s not just about effort. You also need to learn skills that let
+you use your brain in a smarter way. . . . You actually have to
+practice the right way . . . to get better at something. In fact,
+scientists have found that the brain grows more when you
+learn something new, and less when you practice things you
+already know.
+
+Paunesku et al. (2012) evaluated the efficacy of the new
+intervention by delivering it via the Internet to a sample
+of more than 200 community college students enrolled in
+developmental math classes (see the Project for Education
+Research That Scales, http://www.perts.net). They randomly
+assigned students to read either the article that taught an
+incremental theory or a similar control article that taught
+about the brain but did not mention its potential to grow
+and improve with learning. As in Aronson and colleagues’
+(2002) research, participants in both conditions then wrote
+mentoring letters to future students in which they explained
+the key messages taught in their respective articles. Notably,
+teachers at the college were unaware of students’ experimental condition and were not given any instruction or support
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+306
+
+YEAGER AND DWECK
+
+in reinforcing the treatment message. The exercise took, on
+average, 30 min to complete.
+At the end of the semester, several months later, students’
+official records were obtained from their college registrar.
+Preliminary analyses suggest the intervention’s effects were
+substantial. Although roughly 20% of students in the control
+group withdrew from their developmental math class, that
+number was reduced to only about 9% in the incremental
+theory treatment group—a significant difference (Paunesku
+et al., 2012). Hence, this brief incremental theory exercise increased students’ resilience—it cut by more than half
+the withdrawal rate of developmental math students several
+months later, even with no explicit reinforcement from the
+researchers or the instructors. In addition, among those who
+remained in the course, treated students earned better grades
+and were less likely to fail. This increase in resilience is
+especially surprising given the nonsignificant effects on developmental course persistence found in major recent efforts to impact these students, such as learning communities
+(Weiss, Visher, & Wathington, 2010), conditional cash transfers (Goldrick-Rab, Harris, Benson, & Kelchen, 2011), or
+comprehensive college reform (Rutschow et al., 2011). We
+believe the implicit theories intervention had its striking effects because it changed the meaning of challenges—instead
+of challenges making students feel “dumb,” the challenges
+offered a way to get smarter. This belief was crucial for promoting resilience.
+Summary
+Many educational reform efforts have focused on increasing rigor in curricula and instruction, but if they do not also
+address resilience in the face of these more challenging standards, then making such improvements may be less effective
+than hoped. Our research and that of our colleagues show
+that if students can be redirected to see intellectual ability as
+something that can be developed over time with effort, good
+strategies, and help from others, then they are more resilient
+when they encounter the rigorous learning opportunities presented to them.
+
+IMPLICIT THEORIES OF PERSONALITY AND
+REACTIONS TO PEER EXCLUSION AND
+VICTIMIZATION
+Performing academically is just one of the challenges adolescents face on a daily basis. Students are also highly concerned about their social competence, in particular whether
+their peers include and respect them (Crosnoe, 2011; Wentzel
+& Wigfield, 1998). When their social relationships are challenged, for instance by peer victimization or exclusion, students need to be able to respond resiliently.
+Our research, described next, shows that implicit theories
+of personality—or beliefs about whether people’s personal-
+
+ity traits are fixed or are malleable (Chiu, Hong, et al., 1997;
+Yeager et al., 2011)—can affect resilience following peer victimization or exclusion. We believed this would be especially
+true among adolescents in high school, for several reasons.
+The early years of high school are marked by an increased
+concern about social labels (Brown, Mory, & Kinney, 1994;
+Eccles & Barber, 1999) and by substantial adversities that
+could threaten them with negative labels. For instance, high
+school students at nearly every level of popularity are victimized at least somewhat by their peers (Faris & Felmlee,
+2011). Even when students are not directly excluded, they
+might still fear peer exclusion because of the instability of
+social networks during the transition to high school (Cairns
+& Cairns, 1994) and the frequent use of peer exclusion to
+gain social status (Cohen & Prinstein, 2006).
+At the same time, adolescents increasingly seem to believe that social labels, once acquired, are fixed entities that
+cannot change (Birnbaum, Deeb, Segall, Ben-Eliyahu, &
+Diesendruck, 2010; Diesendruck & haLevi, 2006; Killen,
+Kelly, Richardson, & Jampol, 2010). In sum, adolescents are
+increasingly attentive to their social labels, they are increasingly faced with the threat of negative labels, and they increasingly believe that those social labels refer to fixed traits.
+As a result, we expected implicit theories of personality to
+provide important leverage for understanding resilience in
+this age group.
+Peer victimization and exclusion can lead to a host of
+negative outcomes, including aggressive retaliation (e.g., Ostrov, 2010; Reijntjes et al., 2010), greater stress (Klomek,
+Marrocco, Kleinman, Schonfeld, & Gould, 2007), and even
+academic underperformance (Crosnoe, 2011). Thus, next we
+focus on the role of implicit theories of personality in shaping
+each of these.
+Aggressive Retaliation
+Past research had shown that those with more of an entity
+theory of personality are more likely to view their own and
+others’ negative behaviors as stemming from fixed, personal
+deficiencies (Chiu, Dweck, Tong, & Fu, 1997; Erdley, Cain,
+Loomis, Dumas-Hines, & Dweck, 1997). As a result, they
+tend to focus more on punishing others and less on educating or rehabilitating others (Erdley & Dweck, 1993; Gervey,
+Chiu, Hong, & Dweck, 1999; Loeb & Dweck, 1994; also
+see Giles, 2003). Yet previous research had not examined
+whether implicit theories would affect high school adolescents’ aggressive retaliation.
+Our research addressed this question (Yeager, Miu,
+Powers, & Dweck, in press; Yeager et al., 2011; Yeager, Trzesniewski, et al., in press). We hypothesized that for adolescents
+in an entity theory framework, victimization or exclusion
+may be seen as being done by and to people whose traits cannot change—for example, by a “bully” to someone who is
+considered a “loser.” Even more, the “bully” might be seen
+as a permanently “bad person” who deserves to be punished,
+
+MINDSETS THAT PROMOTE RESILIENCE
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+whereas they themselves may feel like “losers” who are permanently not likable. Under these conditions, harming the
+transgressor who made them feel that way may seem more
+satisfying. On the other hand, from the perspective of an
+incremental theory, victimization may be thought of as being done by and to people who can change over time. Thus,
+learning an incremental theory might reduce the desire for
+aggressive retaliation by allowing adolescents to see their
+future as more hopeful and by creating a greater desire to understand the motives of transgressors and, where appropriate,
+to influence them (Yeager, Trzesniewski, et al., in press).
+
+Do implicit theories of personality predict responses
+to peer conflicts? Yeager et al. (2011) began by investigating whether adolescents who endorsed more of an entity
+theory of personality would offer more vengeful responses
+to peer conflicts. To measure an entity theory, Yeager et al.
+(2011) asked high school students how much they agreed
+with statements such as “Bullies and victims are types of
+people that really can’t be changed.” Next, we asked adolescents to write about a time that a peer upset them, and
+to rate their desire for vengeance—that is, how much they
+felt like “hurting,” “getting back at,” or “wishing someone
+would hurt” the peer. In a diverse sample of adolescents that
+included students from urban America and from across the
+nation of Finland, we found that those with more of an entity theory reported a significantly greater desire for revenge
+following a peer conflict and a reduced desire to forgive the
+peer (Yeager et al., 2011). What would those with more of
+an incremental theory do? In subsequent research, we found
+that those with more of an incremental theory were more
+likely to say they would address a peer who had intentionally bullied them and try to productively educate them about
+the harm their behaviors had caused (Yeager & Miu, 2011).
+That is, those with an incremental theory were not passive
+recipients of victimization. To the contrary, they sought out
+positive solutions to proactively improve their situation; they
+were more resilient.
+Does teaching adolescents an incremental theory
+of personality increase resilience following peer conflicts? In an initial experimental test of this question, Yeager et al. (2011, Study 3) temporarily oriented high school
+students toward an incremental view. First, all participants
+read a brief scenario about a student who was a victim of
+bullying in school and were asked to imagine that they were
+that victim. In the randomly assigned incremental condition, however, students learned from peers and adults that
+people’s characteristics can be developed and are not fixed.
+They read brief summaries of longitudinal, correlational and
+experimental studies that showed that people’s personal characteristics could change. Students in the randomly assigned
+control group read the same scenario without the incremental theory message. Then all students rated how they would
+like to respond to the bullying peers in the scenario, in-
+
+307
+
+cluding how much they would desire vengeful aggression.
+Yeager et al. (2011) showed that students in the incremental
+theory group were significantly less likely to endorse aggressive, vengeful responses to the bullies. This finding has been
+replicated in other studies conducted with students from both
+high-income and low-income communities (e.g., Yeager &
+Miu, 2011; Yeager, Miu, et al., in press). These results were
+encouraging because they showed that adolescents are not
+stuck in an entity way of thinking; they can be led to adopt
+more of an incremental framework.
+
+How do theories of personality lead to resilience?
+Implicit theories of personality have their effects by fostering patterns of attributions and emotions about both the
+transgressor and the self. For instance, after imagining being
+the victim of bullying, those with more of an entity theory
+are more likely to say that the peer is a “bad person” (Yeager
+et al., 2011). Relatedly, after experiencing a peer conflict in
+which the intention of the peer was ambiguous, those with
+more of an entity theory were more likely to conclude that the
+peer “did it on purpose in order to be mean” (Yeager, Miu,
+et al., in press). Each of these attributions about the peer
+can mediate the effect of implicit theories on a desire for
+vengeance, and each can be reduced when adolescents are
+experimentally led to adopt an incremental theory (Yeager
+et al., 2011; Yeager, Miu, et al., in press).
+The entity and incremental theories also produce differences in attributions about oneself. Those with more of
+an entity theory attribute experiences of social exclusion to
+their own traits—that “maybe I’m just not a likable person”
+(Erdley et al., 1997). These self-blaming attributions can
+give rise to feelings of shame (Tangney, Stuewig, & Mashek,
+2007; cf. Graham & Juvonen, 1998), and in our data shame
+is a strong predictor of both hatred for a peer and a desire
+for revenge (Yeager et al., 2011). An incremental theory, on
+the other hand, sets up a psychological world in which shame
+is less likely as a response to social adversity. Our incremental theory manipulation reduced shame following a peer
+conflict, and this reduction mediated in part the reduction in
+desire for revenge (Yeager et al., 2011). In sum, when adolescents facing social adversities are taught to hold more of
+an incremental theory of personality, they are less likely to
+condemn global, stable personal traits; they report feeling
+fewer negative emotions such as shame or hatred; as a result,
+they are less likely to desire revenge.
+Do implicit theories of personality affect real-world
+aggression in urban high schools? In new research, we
+tested the hypothesis that an incremental theory intervention
+might, by changing the meaning of negative social events,
+lead to reductions in retaliatory aggressive behavior even
+in schools that have high levels of peer conflicts (Yeager,
+Trzesniewski, et al., in press). For both theoretical and practical reasons it was important to conduct this research. As
+noted, previous efforts to curb aggression have had limited
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+308
+
+YEAGER AND DWECK
+
+success in high school populations. Although it is easier
+to reduce aggression among children using comprehensive
+universal preventative interventions, analogous efforts
+among adolescents in high school often show no significant
+treatment effects (Karna et al., 2011; for narrative reviews
+and meta-analyses, see Fossum, Handegård, Martinussen, &
+Mørch, 2008; Merrell, Gueldner, Ross, & Isava, 2008; Smith,
+Schneider, Smith, & Ananiadou, 2004; Vreeman & Carroll,
+2007; Wilson & Lipsey, 2007). Thus, it was essential to come
+to a greater understanding of the causes of adolescents’ aggressive retaliation and also, given the previously noted research suggesting that adolescents are coming to see social
+traits are increasingly fixed, to develop effective interventions
+to stem these causes.
+Our research (Yeager, Trzesniewski, et al., in press) started
+by creating a more extensive incremental theory of personality treatment than we employed in our previous brief experiments. Our new intervention involved six classroom sessions.
+In the first two, building on the Blackwell et al. (2007) intervention, students learned about the anatomy and function
+of the brain—for instance, that the brain thinks thoughts by
+sending signals between neurons and that these signals cause
+behavior. Students also learned about neuroplasticity and the
+brain’s potential to change and reorganize itself when people learn and practice new ways of thinking. In the next two
+sessions, students were taught the core of the incremental
+theory of personality message: that people do not do things
+because of their traits or labels, but because of thoughts and
+feelings—thoughts and feelings that live in the brain and that
+can be changed. It is important to note that students were
+not taught that changing people was easy or guaranteed, or
+even that one person can, on their own, change another person. Instead, the intervention emphasized the potential for
+change throughout one’s lifetime, despite the difficulty and
+uncertainty of it. In the final two sessions, students practiced applying these beliefs following peer conflicts through
+small-group discussions, reading and writing exercises, and
+role-playing.
+In a double-blind randomized field experiment (Yeager,
+Trzesnieski, et al., in press), we evaluated the new intervention with 230 students attending a high school with substantial levels of conflict. For instance, 40% of students in this
+school said that they did not feel safe from threats, and many
+students were aligned with one of two rival gangs.
+We compared our incremental theory of personality intervention to a six-session intervention that taught extensive
+social and emotional skills for coping with peer conflicts.
+This control condition workshop was highly analogous to the
+type of intervention that is often successful at reducing aggression among children and frequently attempted with high
+school students. In the control group, students were taught
+about positive and negative ways of coping with problems and
+practiced those methods of coping through scenarios, skits,
+and small-group discussion. Control group exercises and scenarios were for the most part identical to those used in the
+
+incremental condition, were delivered by highly experienced
+and trained teachers, and were rated as equally enjoyable and
+informative. There was also a second, no-treatment control
+group.
+We first assessed the impact of the interventions on behavioral aggression 1 month after the workshops ended. We
+did so through a standardized task in which students experienced exclusion during a virtual game of catch that they
+believed they were playing with two peers (the “Cyberball”
+paradigm; Williams & Jarvis, 2006). In fact, the other players were controlled by a computer. Students then had the
+opportunity to retaliate by assigning to the peer who ostensibly excluded them a chosen amount of a food that the peer
+did not like—in this case, uncomfortably spicy hot sauce (of
+course, students later learned that no one actually ate the hot
+sauce). Aggressive retaliation was indexed by how much of
+the hot sauce was allocated. Students also had the opportunity
+to take prosocial action; they were given the chance to write
+an anonymous note to accompany the hot sauce that went to
+the peer. This part of the experiment was conducted in the
+school by different research assistants and was presented as
+a separate study with no relation to the treatment or control
+workshops. It was highly realistic. In fact, testifying to the
+validity of our measure, the amount of hot sauce allocated
+during this brief experience was significantly correlated with
+students’ probability of having been suspended for fighting
+in school.
+Did learning the incremental theory make high school
+students behave less aggressively (and more resiliently) in
+response to exclusion? Yeager, Trzesniewski, et al. (in press)
+found that students in the incremental treatment group—who
+learned that people have the potential to change—showed far
+less aggressive retaliation on the hot sauce task 1 month
+postintervention. They allocated roughly 40% less hot sauce
+to the peer who had excluded them than did students in the
+control groups. They were also 3 times as likely to take prosocial action toward the peer who excluded them. That is, they
+wrote notes that warned the peer about the spiciness of the
+sauce and apologized for it, such as, “I tried to put only a
+little bit of the sauce because you circled you disliked it. So
+I hope it is not too much for you.” Students in the control
+conditions, on the other hand, were more likely to write neutral or even menacing notes to the peer who excluded them
+in Cyberball, such as, “I gave you a lot because you don’t
+like spicy!!!” These results are particularly striking because
+the coping-skills control group was explicitly taught 1 month
+earlier how to think and respond positively following peer
+conflicts, whereas the incremental theory group was only
+told to recognize people’s potential for change. Yet the incremental group was the one that responded less aggressively
+and more prosocially following peer exclusion.
+Would the incremental theory alter more chronic behaviors in school, outside of this controlled provocation? At the
+end of the school year, the students in the incremental theory
+treatment group were more likely than those in the control
+
+MINDSETS THAT PROMOTE RESILIENCE
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+groups to be nominated by teachers (who were blind to experimental condition and hypotheses) for improved conduct—in
+terms of both aggression toward peers and conduct in the
+classroom.
+In sum, the incremental theory of personality intervention,
+by leading students to hold a mindset in which people had
+the potential to change, increased resilience among students
+at a school with substantial levels of peer conflict. It reduced
+aggressive retaliation and increased prosocial behavior following an experience of peer exclusion 1 month postintervention, and it improved overall conduct problems in school
+as assessed 3 months postintervention (Yeager, Trzesniewski,
+et al., in press).
+Social Stress and Academic Performance
+For many adolescents, the transition to high school is rocky.
+One new freshman—a participant in one our studies—
+described it this way:
+Some people in school began treating their friends, including
+me, in a way that showed we weren’t as close or not important
+anymore. . . . This morning I was walking by and all the
+person could do was act as if I weren’t there. Seeing them
+and they just look you in the face without a “hi” or smile
+makes me feel invisible.
+
+Imagine the stress of this experience when seen through
+the lens of an entity theory of personality. From that perspective, these early adversities are not seen as part of a normal
+transition but rather as diagnostic information about one’s
+(seemingly bleak) social future. Under these circumstances,
+it is easy to see that an entity theory leads a student to experience greater stress following even minor instances of peer
+exclusion or victimization. By the same token, a well-timed
+nudge toward more of an incremental view—by emphasizing the potential for change—might substantially change the
+meaning of these early negative social events and, by doing
+so, might dramatically reduce stress and its consequences.
+Thus, in some of our most recent research we have examined whether an incremental theory, by making victimization
+and exclusion seem less permanent, could reduce adolescents’ stress following peer exclusion and perhaps even their
+chronic stress (Yeager, Johnson, Spitzer, & Dweck, 2012).
+We expected that if this were the case, then learning an incremental theory at a time filled with the potential for stress like
+the transition to high school might lead to a change in socialstress-related outcomes, such as academic performance (see
+Crosnoe, 2011).
+To test this we had a new sample of high school freshmen (N = 78) complete a condensed version of our incremental theory of personality intervention in the 1st month
+of high school (Yeager et al., 2012). This intervention consisted of a two activities, each lasting one class period. First,
+both treatment and control groups attended an in-class work-
+
+309
+
+shop in which they were given an overview of how the brain
+functions, to provide background for the incremental theory
+message. Roughly 1 week later, students were given private envelopes with randomly assigned treatment or control
+reading and writing activities. In the treatment group, this
+activity first asked students to read a scientific article explaining the basis for the incremental theory of personality,
+and then asked students to write a note to a future ninth-grade
+student explaining how they can use that knowledge if they
+feel rejected, victimized or left out (cf. Aronson et al., 2002).
+The control group completed a highly similar activity that
+was positive and optimistic but did not teach the idea that
+people’s personality traits can change. Like previous implicit
+theories interventions, this was a double-blind randomized
+field experiment, meaning that teachers were unaware of the
+treatment messages and students were unaware that they were
+randomly assigned to condition or that the treatment was designed to be helpful for their stress or grades.
+One to 2 days after students completed the intervention,
+we assessed the level of stress they felt following social exclusion. To do so, we had students participate in the Cyberball
+experience of exclusion (Williams & Jarvis, 2006), and they
+rated their stress levels afterward. Did the incremental theory
+intervention reduce stress? It did, substantially—by roughly
+.5 SD.
+We next examined whether these reports of stress after
+an experience of exclusion could provide insight into students’ more chronic experiences of stress over time. We tested
+whether overall life stress would be reduced in the treatment
+group 8 months postintervention, at the end of their freshman
+year. It was, by roughly the same amount—.5 SD. Moreover,
+the effect on long-term stress was statistically mediated by
+differences in acute stress measured after the Cyberball exclusion 8 months earlier. Thus, a relatively brief intervention
+to teach an incremental theory of personality at the beginning
+of the year appeared to buffer adolescents from individual instances of social stress and, over time, to lower their chronic
+levels of stress.
+If the intervention could reduce stress, could it also affect behaviors related to social stress in school, such as academic performance (Crosnoe, 2011)? We examined students’
+grades in core classes (English and Math) over the 8-month
+period following the incremental theory of personality intervention. We found that in the control group there was a steady
+decline in grades over the year, which is common for students
+who transition to high school (Benner, 2011). However, for
+those in the incremental theory treatment group this decline
+in grades was slowed substantially, resulting in a difference
+in grades of roughly one third of a grade point between the incremental group and the control group over the year (Yeager
+et al., 2012). This effect of the incremental theory treatment
+on achievement was fully mediated by the difference in stress
+between the two groups.
+Hence, an incremental theory, in addition to reducing retaliatory aggression (Yeager, Trzesniewski, et al., in press),
+
+310
+
+YEAGER AND DWECK
+
+can reduce perceptions that experiences of peer exclusion
+are stressful (Yeager et al., 2012). Over time, this can add up
+to long-term differences in both overall stress and academic
+achievement.
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+Summary
+Coping with peer victimization or exclusion can be challenging for any adolescent. This may be especially true if
+these events happen during difficult transitions such as the
+1st year at high school, as students are trying to form new
+friendships, adopt new identities, and navigate the social labels given them by peers—labels that are not always to their
+liking. Our research suggests that adolescents are more vulnerable to these social adversities when they hold a mindset
+in which they and their peers are not likely to change. However, when adolescents have or are taught a mindset in which
+people have the potential to change their socially relevant
+traits—even if those traits are difficult to change—then they
+can be more resilient in the face of victimization or exclusion.
+
+QUESTIONS
+These findings commonly raise (at least) three questions, and
+we address them next.
+1. How Can Changing Mindsets Improve School
+Outcomes Without Removing the Objective
+Adversities in Students’ Environments?
+The intervention experiments previously described were designed to change students’ mindsets and, to test the effects
+of doing only this, did not try to affect the objective school
+environment. Teachers and parents were unaware of the incremental theory messages, and curricula and pedagogy were
+unchanged. Yet the implicit theories interventions significantly improved adolescents’ functioning over time. How
+can this be?
+This is possible because, as noted earlier, a child’s interpretations of adversity can determine whether that adversity
+affects a child’s outcomes (Beck, 1967; Olson & Dweck,
+2008). The method to create resilience shown in this article relies on this idea and shows that one way to prevent an
+adverse situation from worsening a child’s outcomes is to interrupt the child’s potentially negative interpretations of the
+situation—in this case, by changing implicit theories toward
+more of an incremental view. This approach does not deny the
+profound impact of the environment on children (teachers,
+peers, parents, neighborhoods, curricula), but it highlights
+the psychological factors within the student that can be more
+readily changed (Olson & Dweck, 2008).
+Our approach is counterintuitive for those who may not
+think of major school reform in terms of addressing the beliefs of the students. More often, school reform has attempted
+
+to address structural factors such as the size of the school,
+the quality of the teachers or the length of the school day,
+or they have attempted to directly teach students skills for
+studying or learning. These efforts are undoubtedly important. But they rest on the assumption that the reason students
+are not learning or engaging is because students have not
+been given the correct resources or skills. We propose that
+this may not always be the case. Sometimes the forces in a
+system are adequate to support learning, but students have
+mindsets that prevent them from fully taking advantage of
+those forces (Yeager & Walton, 2011; cf. Lewin, 1947). As a
+result, a well-timed and psychologically precise intervention
+to address those mindsets can unlock the latent effectiveness
+of educational environments and lead to long-term effects on
+students’ achievement (Yeager & Walton, 2011).
+2. Can Messages From Adults Unintentionally
+Create Mindsets That Undermine Resilience?
+Students’ mindsets can be affected by the subtle messages
+they receive from adults. Even seemingly positive teacher or
+parent behaviors—such as praise or comfort for struggling
+students—can lead students to adopt more of a fixed, entity
+theory and by doing so unintentionally undermine resilience.
+We review some of this evidence next.
+In a series of studies, Mueller and Dweck (1998) showed
+that praising students for being “smart” leads students to
+endorse more of an entity theory and to respond with less
+resilience following academic setbacks. To demonstrate this,
+Mueller and Dweck gave fifth-grade students a set of logic
+problems matched to their grade level. After completing
+them, students were praised. Some children (randomly assigned) received intelligence praise (“That’s a really high
+score; you must be smart at these problems”). Others received praise that focused more on process rather than ability (“That’s a really high score; you must have worked hard
+at these problems”) or neutral praise (“That’s a really high
+score”). Next, students were given an especially difficult set
+of problems on which all students performed poorly. Finally,
+students were given a crucial third set of problems equal in
+difficulty to the first set. The type of praise had a substantial
+effect on the students. The intelligence praise led students to
+adopt more of an entity theory and led the majority of them
+to say that they would only like to do easy problems, not
+challenging ones. Strikingly, intelligence praise also compromised performance. Children who received intelligence
+praise solved 30% fewer problems on the final trial relative
+to the first trial. They were also more likely to misrepresent
+their scores, claiming that they performed better than they
+actually did. Students who received process praise, by contrast, did significantly better on the third trial than they had
+done on the first trial, and they asked to do more challenging
+problems in the future—they adopted the incremental theory.
+What is surprising about Mueller and Dweck’s (1998) finding
+is that many parents or educators might believe that praising
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+MINDSETS THAT PROMOTE RESILIENCE
+
+students for being “smart” could buffer them from feeling
+“dumb” when they encounter a setback. Ironically, however,
+the opposite is true. Research on implicit theories shows we
+should not praise children for being “smart” when they do
+well, but rather, to promote resilience, praise them for the
+process they engaged in—their effort, their strategies, their
+focus, or their persistence.
+How should we comfort students when they do not perform well? Parents and teachers may believe that when a
+student struggles in a subject it is best to acknowledge that it
+is not their fault—that it simply is not their “strength”—and
+to encourage them to focus on their successes in other domains. However, new research shows that this strategy grows
+out of an adult’s entity theory: The adult’s belief that a struggling student has low ability in that area and will never do
+well in it. This, in turn, can create low confidence and poor
+resilience in students. In a series of experiments, Rattan et al.
+(2012, Studies 1–3) showed that teachers (or adults acting as
+teachers) who held more of an entity theory were more likely
+to say they would tell struggling students that they were just
+“not a math person,” and then want to assign them less math
+homework. Next, Rattan et al. (Study 4) showed that giving
+this kind of feedback could affect students’ resilience. They
+found that comforting students for not being a “math person” led to lower expectations of improvement on the part
+of students and to lower expectations for their final grade in
+the course. This was true even though students in all experimental conditions were also told the teacher viewed them
+as having high overall ability in other areas; this “positive
+buffer” did not neutralize the negative effect of the entity
+feedback. Hence, entity “comfort” is not in fact comforting
+from the perspective of the student. Of importance, Rattan
+et al. showed that there is a better way to provide feedback
+when students do not perform well: help them see that they
+need better strategies. When a teacher said that they needed
+to meet with a tutor to improve their strategies, they viewed
+their teacher as having more of an incremental theory of
+math, and the students had higher expectations for their own
+performance in the future. Hence, as in Mueller and Dweck’s
+(1998) research, focusing more on process than on ability
+can put students in a mindset that helps them respond to
+challenges resiliently.
+Future research might investigate whether a similar effect holds for implicit theories of personality. For instance,
+in an effort to comfort adolescents who experience peer exclusion or bullying, parents or teachers may use (or imply)
+fixed labels (e.g., “They’re just bullies,” “They’re bad people
+and you’re not”). These labels, though designed to help a
+victim cope, may be creating a mindset in which a peer is
+seen as unable to change. And, as we now know, these judgments produce more vengeful responses to social conflicts
+(e.g., Yeager, Miu, et al., in press). Notably, it is possible
+to comfort children without implying that the aggressor will
+always be a “bad person.” A parent might acknowledge the
+injustice of being bullied, but also point to the situational or
+
+311
+
+psychological causes of the peers’ behavior, rather than to
+fundamentally flawed—and fixed—character traits. Perhaps
+designating a behavior as bad—but not the transgressor himself or herself as unchangeably bad—may also be effective.
+These are potential ways to deflect self-blame, and to acknowledge the difficulty of being bullied without fueling a
+desire for revenge (Yeager, Miu, et al., in press).
+3. How Should Incremental Theory Interventions
+Be Scaled Up to Affect More Students?
+A final question involves how to use these psychological strategies to affect resilience on a broader scale. As
+Yeager and Walton (2011) have argued, scaling up socialpsychological interventions is not as simple as delivering
+the same worksheets and workshops to more students. Incremental theory interventions have their effects because they
+(a) include messages that precisely target the way an entity
+theory is affecting students in a given context and (b) are
+delivered using methods that lead students to quickly internalize those messages (Yeager & Walton, 2011). If attempted
+at a larger scale, implicit theories interventions will need to
+retain each of these features.
+To do so, sometimes implicit theories interventions will
+need to be customized for a given population. The Blackwell
+et al. (2007) and Good et al. (2003) interventions affected
+middle school students’ psychology by focusing on the idea
+that putting forth greater effort in the service of learning
+could strengthen students’ brains. But through interviews,
+focus groups, and national surveys with community college
+students in remedial math classes, Yeager (2012) found that
+community college math students frequently put forth great
+effort but use very poor strategies and do not ask for help.
+Although strategy use and help-seeking were certainly embedded in the Blackwell et al. (2007) intervention, they were
+brought to the fore for the community college intervention
+(Paunesku et al., 2012). In the revised incremental theory
+intervention, the “formula” for success was “Effort + Strategies + Help From Others.” And, as the reader may recall,
+this intervention had striking effects on course completion
+several months later.
+All customization is not guaranteed to be effective, however. There is the potential to lose sight of the core message
+and focus instead on scaling up the superficially related but
+psychologically “inert” portions of the intervention. For instance, a tempting (but ineffective) implementation of an
+implicit theories intervention would be to provide students
+with extended lectures about the brain’s structure and function but not to pay sufficient attention to the brain’s potential
+to change or to the idea that struggling grows new neural connections rather than meaning you are “dumb.” The neuroscientific information undoubtedly facilitates the incremental
+theory treatment effect—not only is neuroscience intrinsically interesting, but experiments show that psychological
+arguments are more compelling when they are accompanied
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+312
+
+YEAGER AND DWECK
+
+by neuroscientific data (Weisberg, Keil, Goodstein, Rawson,
+& Gray, 2008). However, the neuroscientific information is
+not, in and of itself, the intervention. An incremental theory
+message must convey to adolescents that people’s characteristics, which are based in the brain, have the potential to
+be developed. In fact, the Paunesku et al. (2012), Blackwell
+et al. (2007), and Yeager, Trzesniewski, et al. (in press) studies
+were direct tests of this proposition; the control conditions
+also taught about the parts and functions of the brain, yet
+only the incremental theory conditions, which taught about
+the potential to develop personal qualities, led to increased
+levels of resilience.
+Thus, occasionally implicit theories interventions need to
+be customized to address the mindsets of students of a given
+age and in a given context. At the same time, we do not
+believe that this should be done without deep knowledge of
+the underlying psychology that the interventions are trying
+to instill. For this reason, collaborative partnerships between
+researchers, practitioners, and students may be necessary to
+engineer interventions that will work at scale (Yeager & Walton, 2011).
+A final question for bringing interventions to scale involves context-specificity, or whether an implicit theory
+learned in one context (such as during school) will or can
+be made to transfer to another context (such as out-of-school
+activities or at home). Indeed, the question of knowledge
+transfer is a vibrant and contentious one in the cognitive
+psychology of learning (Day & Goldstone, 2012; Schwartz,
+Chase, & Bransford, 2012). Although, in general, transfer
+has been elusive, some recent research has documented effective methods for promoting transfer of scientific theories
+across contexts (Schwartz, Chase, Oppezzo, & Chin, 2011).
+Hence, an important question is the extent to which implicit theories taught in one context tend to transfer across
+contexts and whether novel intervention methods that draw
+on insights from cognitive psychology might facilitate such
+transfer.
+Implicit Theories and Resilience
+In this article we have shown that students’ implicit theories about the potential for personal characteristics to be developed can affect resilience following academic and social
+adversities. As we have demonstrated, the different implicit
+theories—entity and incremental—create distinct psychological lenses that filter people’s experiences of these adversities
+and, by doing so, lead to different patterns of vulnerability
+or resilience. On a broader theoretical level, we have provided evidence that resilience is not exclusively a quality of
+a person or of a context, but rather it can also be the consequence of a person’s interpretations of the adversities they
+are facing. It is important to note that this analysis provides
+great promise for the development of brief but powerful interventions to change students’ interpretations and to address,
+at least partially, some of the most critical social problems
+
+facing students: underachievement and responses to peer
+victimization.
+That improving resilience was possible even among students who may have had a lifetime of unproductive beliefs
+about personal characteristics—for instance, adults taking
+remedial math in college (Paunesku et al., 2012) and adolescents attending high schools with high levels of aggression (Yeager, Miu, et al., in press; Yeager, Trzesniewski,
+et al., in press)—reinforces the notion that it is crucial that
+researchers and educators continue to pay attention to unproductive mindsets. Of course, problems such as academic
+achievement and responses to peer victimization are complex and multidetermined. As such, they are likely best addressed by also continuing efforts to provide students with the
+skills, resources, and beneficial environments they require to
+thrive.
+
+CONCLUSION
+As students move through our educational system, all of them
+will face adversity at one time or another, whether it is social or academic in nature. Thus, a central task for parents
+and educators is to prepare students to respond resiliently
+when these inevitable challenges arise. Although educators
+and parents have intuitive strategies for doing so, many of
+these strategies may be ill-advised, such as praising students
+for being “smart” to boost their self-esteem or condemning those who behave aggressively as evil bullies. This is
+why we need scientifically tested methods to tell us how to
+truly promote resilience. Our research has looked at these
+adversities through the eyes of students to try to capture the
+underlying psychology of what causes some students to feel
+vulnerable, discouraged, or stressed when they face challenges. We have found that what students need the most is
+not self-esteem boosting or trait labeling; instead, they need
+mindsets that represent challenges as things that they can
+take on and overcome over time with effort, new strategies,
+learning, help from others, and patience. When we emphasize people’s potential to change, we prepare our students to
+face life’s challenges resiliently.
+
+REFERENCES
+Aronson, J., Fried, C., & Good, C. (2002). Reducing the effects of stereotype threat on African American college students by shaping theories of
+intelligence. Journal of Experimental Social Psychology, 38, 113–125.
+Bailey, T., Jeong, D. W., & Cho, S. (2010). Referral, enrollment, and completion in developmental education sequences in community college. Economics of Education Review, 29, 255–270.
+Beck, A.T. (1967). Depression: Clinical, experimental and theoretical aspects. New York, NY: Hoeber Medical Division, Harper & Row.
+Beer, J. S. (2002). Implicit self-theories of shyness. Journal of Personality
+and Social Psychology, 83, 1009–1024.
+Benner, A. D. (2011). The transition to high school: Current knowledge,
+future directions. Educational Psychology Review, 23, 299–328.
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+MINDSETS THAT PROMOTE RESILIENCE
+
+Birnbaum, D., Deeb, I., Segall, G., Ben-Eliyahu, A., & Diesendruck, G.
+(2010). The development of social essentialism: The case of Israeli children’s inferences about Jews and Arabs. Child Development, 81, 757–777.
+Blackwell, L. A., Trzesniewski, K. H., & Dweck, C. S. (2007). Theories of
+intelligence and achievement across the junior high school transition: A
+longitudinal study and an intervention. Child Development, 78, 246–263.
+Brown, B. B., Mory, M. S., & Kinney, D. (1994). Casting adolescent
+crowd in a relational perspective: Caricature, channel, and context. In
+R. Montemayor, G. R. Adams, & T. P. Gullota (Eds.), Advances in adolescent development: Vol. 5. Personal relationships during adolescence
+(pp. 123–167). Newbury Park, CA: Sage
+Cairns, R. B., & Cairns, B. D. (1994). Lifelines and risks: Pathways of youth
+in our time. New York, NY: Cambridge University Press.
+Center for Community College Student Success. (2011). Benchmarking &
+Benchmarks: Effective Practice with Entering Students. Austin, TX: The
+University of Texas at Austin, Community College Leadership Program.
+Chiu, C., Dweck, C. S., Tong, J. Y., & Fu, J. H. (1997). Implicit theories and
+conceptions of morality. Journal of Personality and Social Psychology,
+73, 923–940.
+Chiu, C., Hong, Y., & Dweck, C. S. (1997). Lay dispositionism and implicit
+theories of personality. Journal of Personality and Social Psychology, 73,
+19–30.
+Cohen, G. L., & Prinstein, M. J. (2006). Peer contagion of aggression and
+health-risk behavior among adolescent males: An experimental investigation of effects on public conduct and private attitudes. Child Development,
+77, 967–983.
+Crosnoe, R., (2011). Fitting in, standing out: Navigating the social challenges of high school to get an education. New York, NY: Cambridge
+University Press.
+Day, S. B., & Goldstone, R. L. (2012). The import of knowledge export:
+Connecting findings and theories of transfer of learning. Educational
+Psychologist, 47, 153–176.
+Diesendruck, G., & haLevi, H. (2006). The role of language, appearance, and
+culture in children’s social category based induction. Child Development,
+77, 539–553.
+Dweck, C. S. (2006). Mindset. New York, NY: Random House
+Dweck, C. S., Chiu, C., & Hong, Y. (1995). Implicit theories and their role in
+judgments and reactions: A world from two perspectives. Psychological
+Inquiry, 6, 267–285.
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to
+motivation and personality. Psychological Review, 95, 256–273.
+Eccles, J. S., & Barber, B. L. (1999). Student council, volunteering, basketball, or marching band: What kind of extracurricular involvement matters?
+Journal of Adolescent Research, 14, 10–43.
+Erdley, C., Cain, K., Loomis, C., Dumas-Hines, F., & Dweck, C. S. (1997).
+The relations among children’s social goals, implicit personality theories
+and response to social failure. Developmental Psychology, 33, 263–272.
+Erdley, C., & Dweck, C. S. (1993). Children’s implicit theories as predictors
+of their social judgments. Child Development, 64, 863–878.
+Faris, R., & Felmlee, D. (2011). Status struggles: Network centrality and
+gender segregation in same- and cross-gender aggression. American Sociological Review, 76, 48–73.
+Fossum, S., Handegård, B. H., Martinussen, M., & Mørch, W. T. (2008).
+Psychosocial interventions for disruptive and aggressive behaviour in
+children and adolescents: A meta-analysis. European Child and Adolescent Psychiatry, 17, 438–451.
+Garet, M., Wayne, A., Stancavage, F., Taylor, J., Walters, K., Song, M.,
+. . . Doolittle, F. (2010). Middle school mathematics professional development impact study: Findings after the first year of implementation (NCEE 2010–4010). Retrieved from http://ies.ed.gov/ncee/pubs/
+20104009/pdf/20104010.pdf
+Gervey, B., Chiu, C., Hong, Y., & Dweck, C. S. (1999). Differential use
+of person information in decision-making about guilt vs. innocence: The
+role of implicit theories. Personality and Social Psychology Bulletin, 25,
+17–27.
+
+313
+
+Giles, J. W. (2003). Children’s essentialist beliefs about aggression. Developmental Review, 23, 413–443.
+Glazerman, S., Isenberg, E., Dolfin, S., Bleeker, M., Johnson, A., Grider,
+M., & Jacobus, M. (2010). Impacts of comprehensive teacher induction:
+Final results from a randomized controlled study (NCEE 2010 4028).
+Retrieved from http://ies.ed.gov/ncee/pubs/20104027/ pdf/20104027.pdf
+Goldrick-Rab, S., Harris, D., Benson, J., & Kelchen, R. (2011). Conditional
+cash transfers and college persistence: Evidence from a randomized needbased grant program (Institute for Research on Poverty Discussion Paper,
+no. 1393-11).
+Good, C., Aronson, J., & Inzlicht, M. (2003). Improving adolescents’ standardized test performance: An intervention to reduce the effects of stereotype threat. Journal of Applied Developmental Psychology, 24, 645–662.
+Good, C., Rattan, A., & Dweck, C. S. (2012). Why do women opt out?
+Sense of belonging and women’s representation in mathematics. Journal
+of Personality and Social Psychology, 102, 700–717.
+Graham, S., & Juvonen, J. (1998). Self-blame and peer victimization in
+middle school: An attributional analysis. Developmental Psychology, 34,
+587–599.
+Hong, Y., Chiu, C., Dweck, C. S., Lin, D., & Wan, W. (1999) Implicit
+theories, attributions, and coping: A meaning system approach. Journal
+of Personality and Social Psychology, 77, 588–599.
+James-Burdumy, S., Deke, J., Lugo-Gil, J., Carey, N., Hershey, A., Gersten,
+R., . . . Faddis, B. (2010). Effectiveness of selected supplemental reading
+comprehension interventions: Findings From two student cohorts (NCEE
+2010–4016). Retrieved from http://ies.ed.gov/ncee/pubs/20104015/
+pdf/20104016.pdf
+Karna, A., Voeten, M., Little, T. D., Poskiparta, E., Alanen, E., & Salmivalli,
+C. (2011). Going to scale: A nonrandomized nationwide trial of the KiVa
+antibullying program for Grades 1–9. Journal of Consulting and Clinical
+Psychology, 79, 796–805.
+Killen, M., Kelly, M. C., Richardson, C., & Jampol, N. S. (2010). Attributions of intentions and fairness judgments regarding interracial peer
+encounters. Developmental Psychology, 46, 1206–1213.
+Klomek, A. B., Marrocco, F., Kleinman, M., Schonfeld, I. S., & Gould, M.
+S. (2007). Bullying, depression, and suicidality in adolescents. Journal of
+the American Academy of Child & Adolescent Psychiatry, 46, 40–49.
+Kolesnikova, N. (2010). Community colleges and economic mobility. Federal Reserve Bank of St. Louis Review, 92, 27–53.
+Lewin, K. (1947). Group decision and social change. In T. M. Newcomb &
+E. L. Hartley (Eds.), Readings in social psychology (pp. 459–473). New
+York, NY: Holt.
+Loeb, I., & Dweck, C. S. (1994, June). Beliefs about human nature as predictors of reactions to victimization. Paper presented at the Sixth Annual
+Convention of the American Psychological Society, Washington DC.
+Masten, A. (2001). Ordinary magic: Resilience processes in development.
+American Psychologist, 56, 227–238.
+Merrell, K. W., Gueldner, B. A., Ross, S. W., & Isava, D. M. (2008). How
+effective are school bullying intervention programs? A meta-analysis of
+intervention research. School Psychology Quarterly, 23, 26–42.
+Molden, D. C., & Dweck, C. S. (2006). Finding “meaning” in psychology:
+A lay theories approach to self-regulation, social perception, and social
+development. American Psychologist, 61, 192–203.
+Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine
+children’s motivation and performance. Journal of Personality and Social
+Psychology, 75, 33–52.
+Nussbaum, A. D., & Dweck, C. S. (2008). Defensiveness vs. remediation:
+Self-theories and modes of self-esteem maintenance. Personality and
+Social Psychology Bulletin, 34, 127–134.
+Olson, K., & Dweck, C.S. (2008). A blueprint for social cognitive development. Perspectives on Psychological Science, 3, 193–202.
+Ostrov, J. M. (2010). Prospective associations between peer victimization
+and aggression. Child Development, 81, 1670–1677.
+Paunesku, D., Yeager, D. S., Romero, C., & Walton, G. (2012). A brief growth
+mindset intervention improves academic outcomes of community college
+
+Downloaded by [University of Texas Libraries] at 09:55 20 September 2017
+
+314
+
+YEAGER AND DWECK
+
+students enrolled in developmental mathematics courses. Unpublished
+manuscript, Stanford University, Stanford, CA.
+Rattan, A., Good, C., & Dweck, C. S. (2012). “It’s ok — Not everyone can be
+good at math”: Instructors with an entity theory comfort (and demotivate)
+students. Journal of Experimental Social Psychology, 48, 731–737.
+Reijntjes, A., Thomaes, S., Bushman, B. J., Boelen, P. A., Orobio de Castro,
+B., & Telch, M. J. (2010). The outcast lash-out effect in youth: Alienation
+increases aggression following peer rejection. Psychological Science, 21,
+1394–1398.
+Robins, R. W., & Pals, J. L. (2002). Implicit self-theories in the academic
+domain: Implications for goal orientation, attributions, affect, and selfesteem change. Self and Identity, 1, 313–336.
+Rutschow, E. Z., Lashawn, R-H., Brock, T., Orr, G., Cerna, O., Cullinan,
+D., . . . Martin, K., (2011). Turning the tide: Five years of Achieving the
+Dream in community colleges. Retrieved from http://www.mdrc.org
+Schwartz, D. L., Chase, C. C., & Bransford, J. D. (2012). Resisting overzealous transfer: Coordinating previously successful routines with needs for
+new learning. Educational Psychologist, 47, 204–214.
+Schwartz, D. L., Chase, C. C., Oppezzo, M. A., & Chin, D. B. (2011).
+Practicing versus inventing with contrasting cases: The effects of telling
+first on learning and transfer. Journal of Educational Psychology, 103,
+759–775.
+Silvia, S., Blitstein, J., Williams, J., Ringwalt, C., RTI International,
+Dusenbury, L., & Hansen, W. (2011). Impacts of a violence prevention program for middle schools: Findings after three years of
+implementation–Executive Summary (NCEE 2011–0418). Washington,
+DC: Institute of Education Sciences, U.S. Department of Education.
+Smith, J. D., Schneider, B. H., Smith, P. K., & Ananiadou, K. (2004). The
+effectiveness of whole-school antibullying programs: A synthesis of evaluation research. School Psychology Review, 33, 547–560.
+Somers, M.-A., Corrin, W., Sepanik, S., Salinger T., Levin, J., &
+Zmach, C. (2010). The Enhanced Reading Opportunities Study Final Report: The Impact of Supplemental Literacy Courses for Struggling Ninth-Grade Readers (NCEE 2010–4022). Retrieved from
+http://ies.ed.gov/ncee/pubs/20104021/pdf/20104021.pdf
+Spencer, S. J., Steele, C. M., & Quinn, D. M. (1999). Stereotype threat and
+women’s math performance. Journal of Experimental Social Psychology,
+35, 4–28.
+Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual
+identity and performance. American Psychologist, 52, 613–629.
+Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions
+and moral behavior. Annual Review of Psychology, 58, 345–372.
+doi:10.1146/annurev.psych.56.091103.070145
+Vreeman, R. C., & Carroll, A. E. (2007). A systematic review of schoolbased interventions to prevent bullying. Archives of Pediatric and Adolescent Medicine, 161, 78–88.
+
+Weiner, B. (1986). An attributional theory of motivation and emotion. New
+York, NY: Springer-Verlag.
+Weiner, B. (1995). Judgments of responsibility: A foundation for a theory of
+social conduct. New York, NY: Guilford.
+Weisberg, D. S., Keil, F. C., Goodstein, J., Rawson, E., & Gray, J. R. (2008).
+The seductive allure of neuroscience explanations. Journal of Cognitive
+Neuroscience, 20, 470–477.
+Weiss, M., Visher, M., & Wathington, H. (2010). Learning communities
+for students in developmental reading: An impact study at Hillsborough
+Community College. Retrieved from http://www.mdrc.org
+Wentzel, K. R., & Wigfield, A. (1998). Academic and social motivational
+influences on students’ academic performance. Educational Psychology
+Review, 10, 155–175.
+Williams, K. D., & Jarvis, B. (2006). Cyberball: A program for use in
+research on ostracism and interpersonal acceptance. Behavior Research
+Methods, Instruments, and Computers, 38, 174–180.
+Wilson, S. J., & Lipsey, M. W. (2007). School-based interventions for aggressive and disruptive behavior: Update of a meta-analysis. American
+Journal of Preventive Medicine, 33, 130–143.
+Yeager, D. S. (2012, April). Productive persistence: A practical theory of community college student success. Paper presented at
+the 2012 Annual Meeting for the American Educational Research
+Association.
+Yeager, D. S., Johnson, R., Spitzer, B., & Dweck, C. S. (2012). Implicit theories of personality and the transition to high school: Longitudinal effects
+on stress, health and academic performance. Unpublished manuscript,
+Stanford University, Stanford, CA.
+Yeager, D. S., & Miu, A. (2011). Implicit theories of personality predict
+motivation to use prosocial coping strategies after bullying in high school.
+In E. Frydenberg & G. Reevy (Eds.), Personality, stress and coping:
+Implications for education (pp. 47–62). Charlotte, NC: Information Age.
+Yeager, D. S., Miu, A., Powers, J., & Dweck, C. S. (in press). Implicit theories of personality and attributions of hostile intent: A
+meta-analysis, an experiment, and a longitudinal intervention. Child
+Development.
+Yeager, D. S., Trzesniewski, K., Tirri, K., Nokelainen, P., & Dweck,
+C. S. (2011). Adolescents’ implicit theories predict desire for
+vengeance after remembered and hypothetical peer conflicts: Correlational and experimental evidence. Developmental Psychology, 47, 1090–
+1107.
+Yeager, D. S., Trzesniewski, K., & Dweck, C. S. (in press). An implicit theories of personality intervention reduces adolescent aggression in response
+to victimization and exclusion. Child Development.
+Yeager, D. S., & Walton, G. (2011). Social-psychological interventions
+in education: They’re not magic. Review of Educational Research, 81,
+267–301.
+
+

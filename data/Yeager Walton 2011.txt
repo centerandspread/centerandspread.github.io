@@ -1,0 +1,1785 @@
+Review of Educational
+Research
+http://rer.aera.net
+
+Social-Psychological Interventions in Education : They're Not Magic
+David S. Yeager and Gregory M. Walton
+REVIEW OF EDUCATIONAL RESEARCH 2011 81: 267 originally published online 19
+April 2011
+DOI: 10.3102/0034654311405999
+The online version of this article can be found at:
+http://rer.sagepub.com/content/81/2/267
+
+Published on behalf of
+
+American Educational Research Association
+
+and
+http://www.sagepublications.com
+
+Additional services and information for Review of Educational Research can be found at:
+Email Alerts: http://rer.aera.net/alerts
+Subscriptions: http://rer.aera.net/subscriptions
+Reprints: http://www.aera.net/reprints
+Permissions: http://www.aera.net/permissions
+
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+RER405999RER10.3102/0034654311405999Yeager
+
+& WaltonSocial-Psychological Inter-
+
+ventions in Education
+Review of Educational Research
+June 2011, Vol. 81, No. 2, pp. 267–301
+DOI: 10.3102/0034654311405999
+© 2011 AERA. http://rer.aera.net
+
+Social-Psychological Interventions in Education:
+They’re Not Magic
+David S. Yeager and Gregory M. Walton
+Stanford University
+
+Recent randomized experiments have found that seemingly “small” socialpsychological interventions in education—that is, brief exercises that target
+students’ thoughts, feelings, and beliefs in and about school—can lead to
+large gains in student achievement and sharply reduce achievement gaps
+even months and years later. These interventions do not teach students academic content but instead target students’ psychology, such as their beliefs
+that they have the potential to improve their intelligence or that they belong
+and are valued in school. When social-psychological interventions have lasting effects, it can seem surprising and even “magical,” leading people either
+to think of them as quick fixes to complicated problems or to consider them
+unworthy of serious consideration. The present article discourages both
+responses. It reviews the theoretical basis of several prominent social-psychological interventions and emphasizes that they have lasting effects
+because they target students’ subjective experiences in school, because they
+use persuasive yet stealthy methods for conveying psychological ideas, and
+because they tap into recursive processes present in educational environments. By understanding psychological interventions as powerful but context-dependent tools, educational researchers will be better equipped to take
+them to scale. This review concludes by discussing challenges to scaling psychological interventions and how these challenges may be overcome.
+
+Keywords: social psychology, education policy, implicit theories, stereotype
+threat, affirmation, belonging, achievement gaps.
+Several years ago a brief intervention was introduced in eight hospitals around
+the world in an effort to reduce medical errors. The intervention required surgeons
+and nurses to complete a one-page checklist of tasks before beginning a surgery,
+such as introducing themselves to one another and correctly timing the application
+of antiseptics. An evaluation of this simple intervention found that it reduced surgical complications by 36% and deaths by 47% (Haynes et al., 2009). Observers and
+medical professionals have wondered how this small intervention could have a
+large effect, especially when it did not address such clearly important factors as
+surgeons’ skills and training. Some have hailed the checklist intervention as “a
+classic magic bullet” (Aaronovitch, 2010); others have dismissed it as “[not] Harry
+267
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+Potter’s magic wand” (Szalavitz, 2009). Atul Gawande (2009), creator of the
+checklist, argues that this sense of mystery arises because many people assumed
+that surgeons were already doing the set of practices included in the checklist.
+Hence, the checklist’s effects were not easily understood (Gawande, 2009, p. 159).
+With a deeper understanding of why the intervention improved outcomes, he
+argues, the medical community would be better able to institutionalize the innovation in standard practice.
+Interestingly, something similar is happening in education. In recent years,
+several rigorous, randomized field experiments have shown that seemingly
+“small” social-psychological interventions—typically brief exercises that do not
+teach academic content but instead target students’ thoughts, feelings, and beliefs
+in and about school—have had striking effects on educational achievement even
+over months and years (see Table 1; for reviews see Garcia & Cohen, in press;
+Gehlbach, 2010; Walton & Dweck, 2009; Walton & Spencer, 2009; Wilson,
+2006). For example, Blackwell, Trzesniewski, and Dweck (2007) found that
+middle school students who attended an eight-session workshop teaching them
+that the brain is like a muscle and grows with effort displayed a sharp increase
+in math achievement for the rest of the school year, an effect not shown by
+students who attended a control workshop that taught them study skills. Walton
+and Cohen (2007, 2011) found that a 1-hour session designed to buttress African
+American college students’ sense of social belonging in school increased the
+GPA of these students over the next 3 years, halving the Black–White achievement gap over this period. And Cohen, Garcia, Apfel, and Master (2006), found
+that a 15- to 20-minute writing exercise in which students reflected on their core
+personal values reduced the gap in grades between African American and
+European American students by nearly 40% at the end of the semester, an effect
+that persisted, with a few additional writing exercises, for 2 years (Cohen,
+Garcia, Purdie-Vaugns, Apfel, & Brzustoski, 2009).
+Like people who hear about Gawande’s checklist, people who learn about
+social-psychological interventions may wonder, how could these effects be real?
+How could such interventions work? And how could brief experiences change
+students’ outcomes months and years later? These questions are especially pressing in a context in which far more expensive and comprehensive interventions in
+education often yield disappointing results. For example, of the dozens of randomized controlled trials published by the Institute for Education Sciences in recent
+years, most have found no effects on student outcomes beyond the initial treatment
+period, including a 1-year new-teacher support program (Glazerman et al., 2010),
+a yearlong middle school mathematics professional development program (Garet
+et al., 2010), and a 2-year supplemental reading courses (James-Burdumy et al.,
+2010; Somers et al., 2010), among many other reforms.
+In this context, social-psychological interventions can appear magical. As a
+consequence, it is tempting either to deliver these interventions as quickly and as
+widely as possible or to dismiss them as snake oil—as entertaining sideshows, but
+not worthy of serious consideration in education reform.
+We argue that neither response is appropriate. Social-psychological interventions hold significant promise for promoting broad and lasting change in education, but they are not silver bullets. They are powerful tools rooted in theory, but
+they are context dependent and reliant on the nature of the educational environment.
+(Text continues on p. 274)
+268
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+269
+
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Student sample
+
+Summary of randomized
+treatment and control
+group(s)
+Summary of results
+
+Effect on
+achievement
+
+(continued)
+
+First-year
+Leading students to
+In one laboratory session, osOne week later, students in the .27 grade points
+college
+attribute academic
+tensibly as a part of a survey,
+treatment condition performed
+one year later
+students
+setbacks to unstable
+students watched videos of
+better on a GRE exam. A year
+struggling
+factors rather than
+upper-year students describlater, these students had earned
+academically
+stable factors can
+ing how their grades in college
+higher college GPAs and were
+motivate students to
+were low at first but improved
+80% less likely to have dropped
+work harder and not
+over time. In a control group,
+out of college. The treatment
+give up after setbacks students saw videos of the same effect on GPA appeared to gain
+in school.
+upper-year students talking
+strength over time.
+about their social and academic
+interests.
+Blackwell, Trzes­
+Low-income, Teaching students that In 8 sessions over 8 weeks,
+At the end of the academic year, .30 grade points
+niewski, and Dweck
+Black and
+people’s core intelstudents took part in workshops the normative decline in math
+at the end of
+(2007)
+Hispanic or
+ligence is malleable
+on study skills and the function
+grades exhibited by students in the school
+Latino 7thand grows with effort of the brain and how the brain
+the control group was reversed year
+grade students and challenge can
+can get stronger when a person
+such that students in the treatat an urban
+motivate students to
+works on challenging tasks. Stu- ment condition had earned sigschool
+work hard and not
+dents in a control group learned nificantly higher math grades.
+give up after setbacks only study skills.
+in school.
+
+Attributions and
+implicit theories of
+intelligence
+Wilson and
+Linville (1982,
+1985)
+
+Study
+
+Theoretical
+approach
+
+Table 1 
+Summary of Selected Social-Psychological Interventions to Improve Student Achievement
+
+270
+
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Student sample
+
+Theoretical
+approach
+
+Summary of randomized
+treatment and control
+group(s)
+Summary of results
+
+Effect on
+achievement
+
+(continued)
+
+Black and
+Teaching students that In a laboratory session, ostensibly At the end of the academic year, .23 grade points
+White college people’s core intelas a part of a “pen pal” program both Black and White students’ at the end of
+students
+ligence is malleable
+to support younger students,
+GPAs rose significantly in the
+the next term
+will buffer students
+students wrote letters to middle
+treatment condition as comfrom the threat of
+school students endorsing
+pared to both control groups.
+being targeted by
+the belief that intelligence is
+Black students (but not White
+negative stereotypes
+malleable. In a control group,
+students) reported increased
+in school.
+students wrote “pen pal” letters
+engagement and identification
+advocating a theory of multiple
+with school.
+intelligences. A second control
+group did not write letters.
+Good, Aronson,
+Low- and
+One treatment group
+Students met with college student At the end of the academic year, See notea
+and Inzlicht (2003)
+middlereceived an attrimentors twice and exchanged
+in all three treatment groups
+income Black butional retraining
+occasional emails throughout
+girls’ math scores on a stateand Hispanic
+intervention similar to the school year. Mentors were
+wide standardized test rose
+or Latino 7th- Wilson and Linville
+taught to endorse the relevant
+relative to the control group,
+grade students (1982). A second treat- treatment message. A control
+eliminating the gender differat a rural
+ment group received
+group received an antidrug mes- ence in math performance presschool
+an implicit theories of sage from mentors.
+ent in the control condition. In
+intelligence intervenaddition, both boys’ and girls’
+tion. A third treatment
+reading scores increased in all
+group received both
+three treatment groups relative
+interventions.
+to the control group.
+
+J. Aronson, Fried,
+and Good (2002)
+
+Implicit theories of
+intelligence and
+stereotype threat
+
+Study
+
+Table 1  (continued)
+
+271
+
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Student sample
+
+Theoretical
+approach
+
+Summary of randomized
+treatment and control
+group(s)
+Summary of results
+
+Effect on
+achievement
+
+(continued)
+
+Cohen, Garcia,
+Low- and
+Affirming important
+In one or several 15- to 20At the end of the first semester, .30 grade points
+Apfel, and Master
+middlevalues can buffer
+minute classroom sessions
+the value-affirmation interven- among Black
+(2006); Cohen, Gar- income Black people from the
+beginning at the beginning of
+tion increased Black students’
+students at
+cia, Purdie-Vaughns, and White
+effects of stereotype
+the school year, students wrote
+class grades, reducing the gap
+the end of
+Apfel, and Brzus7th-grade
+threat.
+about values that were personbetween Black and White
+the first term;
+toski (2009)
+students at
+ally important to them as an
+students by 40%. Further,
+.46 grade
+a suburban
+in-class writing exercise. In a
+among initially low-performing points among
+school
+control group, students wrote
+Black students, the treatment
+low-performabout values that were not imraised GPA in all core academic ing Black
+portant to them but might matter classes two years posttreatment. students after
+to someone else.
+two years.
+Miyake et al.
+Men and
+Same as above.
+Same as above.
+At the end of the 15-week course, .33 grade
+(2010)
+women in a
+the value-affirmation intervenpoints among
+college
+tion eliminated a substantial
+women at the
+physics class
+gender gap in physics grades
+end of the
+and on scores on a nationally
+termb
+normed physics test that was
+present in the control condition.
+The effect was strongest for
+women who endorsed gender
+stereotypes.
+
+Stereotype threat
+
+Study
+
+Table 1  (continued)
+
+272
+
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Oyserman, Bybee,
+and Terry (2006)
+
+Possible selves
+
+Walton and Cohen
+(2007, 2011)
+
+Study
+
+Table 1  (continued)
+Summary of randomized
+treatment and control
+group(s)
+Summary of results
+
+Effect on
+achievement
+
+Low-income
+Black and
+Hispanic or
+Latino 8thgrade
+students
+
+Leading ethnic minority In 10 workshop sessions, students Two years later, students in the
+students to see that
+wrote about how their future
+treatment group had higher
+their academic future
+selves might be academically
+GPAs, fewer absences, fewer
+selves are close (and
+successful, and completed exer- nominations for disruptive
+not far), consistent (not cises to make those future selves behavior, and fewer depressive
+inconsistent) with their seem more attainable, to make
+symptoms and were 60% less
+racial identity, and
+challenges seem normal and
+likely to repeat 8th grade.
+attainable even when
+expected, and to make academic
+facing challenges will success not seem like “acting
+increase students’
+White.” A control group took
+motivation.
+standard elective classes.
+
+(continued)
+
+.28 grade points
+two years
+later
+
+First-year
+Leading students to
+In a 1-hour laboratory session, stu- Relative to students in
+.24 grade points
+Black and
+attribute worries about dents read the results of a survey
+multiple control groups, Black
+among Black
+White college belonging to the difindicating that many students feel students in the social-belonging students from
+students
+ficulty of the transition they do not belong in college at
+treatment condition earned
+sophomore
+to college rather than
+first but that such worries dishigher GPAs from sophomore
+through
+to students’ personal
+sipate with time. Students then
+through senior year, reducing
+senior year of
+or racial identity can
+wrote an essay and gave a speech the racial achievement gap by
+college
+buttress ethnic minor- ostensibly for the next year’s
+52%, were more likely to be
+ity students’ sense of
+freshmen about how their worries in the top 25% of their college
+social belonging in
+about belonging had changed
+class, and 3 years posttreatment
+school and increase
+over time in college. In control
+reported being happier and
+motivation and perfor- groups, students were exposed to healthier.
+mance.
+information irrelevant to issues of
+belonging.
+
+Student sample
+
+Theoretical
+approach
+
+273
+
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Student sample
+
+Theoretical
+approach
+
+Summary of randomized
+treatment and control
+group(s)
+Summary of results
+
+Effect on
+achievement
+
+a. Good et al.’s (2003) attributional retraining, implicit theories, and combined interventions produced effects on girls’ math test scores of the following magnitudes: Cohen’s
+d = 1.13, 1.30, and 1.50, respectively.
+b. Miyake et al. (2010) reported grades on a 100-point scale, so these numbers were converted to grade points for inclusion in this table.
+
+Hulleman and Har- MiddleMaking science classes Every 3 or 4 weeks starting at
+At the end of the semester treated .80 grade
+ackiewicz (2009)
+income, ethni- personally relevant
+the beginning of the semester
+students who expected to
+points among
+cally diverse
+will increase interest students wrote a brief essay
+perform poorly in science had
+students
+9th-grade
+in science, engagedescribing how the material
+earned higher science grades;
+with low
+students
+ment with the learnstudied in their high school sci- no effects were found among
+expectations
+ing process, and imence class that week could be
+students with high expectations for success
+proved performance
+applied in their lives. Control
+for success in science.
+in science at
+especially among
+students summarized the week’s
+the end of the
+students who do not
+science class topic.
+semester
+expect to succeed in
+science.
+
+Expectancy-value
+theory
+
+Study
+
+Table 1  (continued)
+
+Yeager & Walton
+
+Although we believe that social-psychological interventions can be scaled effectively
+to reach larger numbers of students, how to do so is not simply a matter of handing
+out a worksheet. Rather, scaling social-psychological interventions raises important theoretical, practical, and ethical questions that as yet have not been adequately explored.
+To illustrate the effects of social-psychological interventions, take a second
+analogy.1 Consider a passenger jet that speeds down a runway and lifts into the air.
+It can seem surprising even to an experienced flier how an object that weighs many
+tons could fly. This is because the miracle of flight relies on numerous interrelated
+forces, some more obvious than others. It is not hard to see that a plane needs an
+engine, wings, and a pilot to fly. Similarly, a student needs content to learn, a
+teacher to teach, and a place or community to support that learning. These factors
+shape the objective school environment and create essential capacities for success.
+But less obvious features of airplanes and of education systems are also critical to
+their success. One reason planes fly is because their wings are sculpted to create
+an aerodynamic force (“lift”) that elevates the plane. It is natural to wonder how a
+small change in the shape of a wing could make a heavy object fly. Basic laboratory research helps explain the principles of air flow and shows that the shape and
+position of wings cause air to flow faster below them than above them, lifting a
+plane beyond what might seem possible. In a similar way, hidden yet powerful
+psychological forces, also investigated through basic science, can raise student
+achievement. An engineer uses theories of fluid dynamics to fine-tune a wing,
+which, in the context of other factors, makes a plane fly. Analogously, a socialpsychological perspective uses basic theory and research to identify educationally
+important psychological processes and then subtly alters these processes in a complex academic environment to raise performance.
+More specifically, social-psychological interventions can seem mysterious for
+at least four reasons. First, it is often hard to see the forces on which these interventions operate (see Lewin, 1952; Ross & Nisbett, 1991). We do not see air flowing
+over a wing; nor do we directly observe how negative intellectual stereotypes or
+beliefs about the nature of intelligence affect students. We may see the power of
+these processes only when they are altered. For this reason, below we describe
+laboratory experiments that illustrate the causal effect of basic theoretical processes relevant to motivation and then review how interventions designed to alter
+these processes affect achievement.
+Second, psychological interventions seem “small” relative to traditional educational reforms, and people may assume that large problems require “large”
+solutions. How could a brief psychological intervention make headway in the
+face of structural problems that contribute enormously to inequality and poor
+outcomes in education? To presage later arguments, psychological interventions
+do not replace traditional educational reforms but operate within the context of
+existing structures to make them more effective. Psychological interventions
+change students’ mind-sets to help them take greater advantage of available
+learning opportunities.
+This analysis draws on a core tenet of social psychology, namely, that every
+attitude and behavior exists in a complex field of forces—a “tension system”—in
+which some forces promote a behavior whereas other forces restrain that behavior
+274
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+(Lewin, 1952; Ross & Nisbett, 1991; Wilson, 2006). One lesson from this analysis
+is that the structure of the system determines its potential for change—an intervention that increases students’ motivation to learn or that removes barriers to learning
+will improve academic outcomes only when learning opportunities exist in the
+educational environment.
+Another lesson of this analysis is that there are two routes to behavior change (see
+Miller & Prentice, in press). One route is to increase forces that promote a behavior, for
+instance by giving students incentives for better grades. But when promoting forces are
+adequate—as when, at some level, learning content, teachers, and students' willingness
+to learn are present—student success may be held back instead by restraining forces,
+such as worries about ability or negative stereotypes. In these cases, less intuitively, one
+can remove forces that restrain their learning, allowing students to take greater advantage of learning opportunities. As a consequence, even a seemingly small intervention
+but one that removes a critical barrier to learning can produce substantial effects on
+academic outcomes. At a broader level, this theoretical foundation underscores the
+fundamental inappropriateness of viewing social-psychological interventions as silver
+bullets; rather than operating in isolation, such interventions rearrange forces in a complex system.2
+A third challenge to understanding the effects of social-psychological interventions is that it is hard to see how relatively brief messages can affect students’
+views and behavior, especially when students receive many messages from adults
+that seemingly have little effect. As we will explain, social-psychological interventions can be brief yet impactful because they target students’ subjective experiences in school and because they rely on a rich tradition of research on persuasion
+and attitude change to powerfully convey psychological ideas.
+Fourth, what can seem especially mysterious is how a time-limited or one-shot
+social-psychological intervention can generate effects that persist far ahead in
+time. For instance, people may assume that an intervention has to remain in mind
+to continue to be effective. But like any experience, a psychological intervention
+will become less focal as it recedes in time. As we suggest below, a key to understanding the long-lasting effects of social-psychological interventions is to understand how they interact with recursive processes already present in schools, such
+as the quality of students’ developing relationships with peers and teachers, their
+beliefs about their ability, and their acquisition of academic knowledge. It is by
+affecting self-reinforcing recursive processes that psychological interventions can
+cause lasting improvements in motivation and achievement even when the original
+treatment message has faded in salience (e.g., Walton & Cohen, 2011).
+In the next section, we describe how we conducted this review. We then summarize four prominent social-psychological interventions, emphasizing the psychological process each intervention targeted and relevant laboratory and field
+research. Next we discuss how the effects of these interventions persisted over
+time. In doing so, we aim to provide a more nuanced understanding of how socialpsychological interventions work and to suggest how this understanding can
+inform efforts to deliver these interventions more broadly.
+Method for the Current Review
+This is a theoretical review designed to elucidate the theoretical underpinnings
+of social-psychological interventions in education, not a comprehensive review of
+275
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+them. To locate relevant interventions, we searched the tables of contents and
+abstracts of highly cited relevant journals including Child Development,
+Developmental Psychology, Journal of Applied Developmental Psychology,
+Journal of Educational Psychology, Journal of Experimental Social Psychology,
+Journal of Personality and Social Psychology, Personality and Social Psychology
+Bulletin, Psychological Science, and Science (see Table 1). We searched for studies
+that (a) evaluated an intervention that communicated a social-psychological message but did not teach academic content, (b) randomly assigned students to treatment or control conditions, and (c) observed effects on students’ grades in a course
+or in school overall over time. In addition, we examined the curricula vitae of
+prominent psychologists conducting intervention research, searching for replications, extensions, or studies examining boundary conditions. Some important studies were excluded because they met only some of our criteria. Among the excluded
+studies were those that used social-psychological strategies to motivate specific
+behaviors in school, such as mastering an individual learning objective or performing better on a single task, rather than raising achievement in general (e.g., E.
+Aronson, Blaney, Stephin, Sikes, & Snapp, 1976; Destin & Oyserman, 2009;
+Duckworth, Grant, Loew, Oettingen, & Gollwitzer, in press; Jamieson, Mendes,
+Blackstock, & Schmader, 2009; Ramirez & Beilock, 2011; Vansteenkiste, Simons,
+Lens, Sheldon, & Deci, 2004).
+Notably, our search targeted specifically social-psychological interventions—
+interventions designed to change students’ thoughts and feelings in and about
+school. This approach excluded cognitive psychology interventions, which investigate instead how principles of human cognition and learning can inform the
+design of effective curricula and pedagogy (and which have been reviewed elsewhere; e.g., Bransford, Brown, & Cocking, 1999; Ritter, Anderson, Koedinger, &
+Corbett, 2007). Nonetheless, in some cases we use the term psychological interventions as shorthand to refer to social-psychological interventions.
+Four Social-Psychological Interventions to Improve Student Achievement
+To illustrate general lessons, we focus on basic theory and research underpinning
+four prominent social-psychological interventions. These interventions have produced some of the most striking effects observed in the field and illustrate key themes.
+Although we present the studies separately, we note that the processes they target are
+few in number and interrelated, including students’ beliefs about their potential for
+growth and belonging in the classroom and their efforts to cope with negative stereotypes in school. It is important to note, however, that similar conclusions could be
+drawn from an analysis of other interventions. Table 1 provides a summary of relevant
+studies that we do not discuss in detail (also see Gehlbach, 2010).
+Interventions to Change Students’ Attributions for Academic Setbacks
+A long line of basic theory and research in social psychology shows that people’s attributions—how they explain the causes of events and experiences—shape
+their responses to those events and subsequent behavior (Kelley, 1973; Weiner,
+1986). For instance, if a student concludes that a bad grade means that he cannot
+cut it in math, the student may not invest the time and effort needed to improve his
+
+276
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+math grades (Bandura, 1977). If so, he may continue to perform poorly, reifying
+his attribution of inability, leading to an exacerbation cycle of negative attributions
+and poor performance (cf. Storms & Nisbett, 1970; also see Wilson, 2006). On the
+other hand, if a student thinks that a bad grade means that she needs time to learn
+the ropes, the student may redouble her efforts and perform better over time. Is it
+possible to change students’ attributions so they see poor grades as the result of a
+temporary and not permanent cause? Would such an intervention improve students’ academic performance over time?
+Intervention 1: Wilson and Linville (1982). Wilson and Linville (1982, 1985)
+tested this hypothesis (also see Wilson, Damiani, & Shelton, 2002). They developed a brief intervention to teach students that poor academic performance is normal at first in the transition to a new school, that it does not reflect a lack of ability,
+and that students’ grades typically improve as they adjust to the new school.
+In a series of classic studies, Wilson and Linville (1982, 1985) brought struggling first-year college students to a laboratory and told them that they had interviewed college students about their transition to college. They asked students to
+watch some of these videotaped interviews. Students in the treatment group (randomly assigned) saw videos of upperclassmen describing how their grades in college were low at first but got better with time. These upperclassmen attributed their
+early poor performance to unstable causes that dissipate, such as a lack of familiarity with college classes. Students in a control group saw videos of the same upperclassmen talking about their academic and social interests with no mention of
+first-year grades. A year later, students’ official GPAs were collected. Students in
+the treatment group had earned higher GPAs than students in the control group (see
+Table 1). Moreover, this effect seemed to gain in strength with each successive
+term. This finding is consistent with the hypothesis that the intervention set in
+motion a recursive or self-reinforcing attributional process whereby better performance each term reinforced more adaptive attributions for early academic struggles. In addition, treated students were 80% less likely to drop out of college. This
+basic intervention has been replicated many times with diverse populations (see
+Haynes, Perry, Stupnisky, & Daniels, 2009; Wilson et al., 2002) including adolescents (e.g., Good, Aronson, & Inzlicht, 2003).
+Intervention 2: Blackwell et al. (2007). Dweck and colleagues have investigated
+how students’ implicit theories of intelligence shape their interpretation of and
+response to academic setbacks (Dweck, 2006; Dweck & Leggett, 1988; Molden &
+Dweck, 2006). In laboratory research, Dweck finds that students who believe that
+intelligence is fixed and unchangeable (an entity theory of intelligence) are more
+likely to attribute academic setbacks to a lack of ability than students who believe
+that intelligence is malleable and improvable with hard work and effort (an incremental theory of intelligence). Students with the incremental theory instead
+see setbacks as the result of insufficient effort or a poor strategy. In turn, such
+attributions shape whether students respond to setbacks helplessly (withdrawing
+effort) or resiliently (redoubling effort, seeking help, using a better strategy, etc.).
+
+277
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+In one series of laboratory studies, Mueller and Dweck (1998) gave fifth-grade
+students a moderately difficult set of logic problems. After completing them, students were praised. Some children (randomly assigned) received intelligence
+praise—praise that could induce an entity theory of intelligence (“That’s a really
+high score. You must be very smart at these problems”). Others received effort
+praise predicted to induce an incremental theory of intelligence (“That’s a really
+high score. You must have worked hard at these problems”) or neutral praise
+(“That’s a really high score”). Next, students were given an especially difficult set
+of problems on which all students performed poorly. Finally, students were given
+a crucial third set of problems equally challenging as the first set.
+The effect of the type of praise was dramatic. On the final set of problems,
+children who received neutral praise performed no better and no worse than they
+had on the first set. Children who received effort praise did better and asked to do
+more challenging problems in the future. But children who received intelligence
+praise solved 30% fewer problems and asked to do only easy problems from then
+on. Being led to attribute success to fixed intelligence with just a sentence of praise
+undermined students’ motivation and performance following a failure experience
+(for a relevant longitudinal study, see Blackwell et al., 2007, Study 1).
+On the basis of these and other results, Blackwell and colleagues (2007, Study 2)
+designed an intervention to lead middle school students to view intelligence as
+malleable. Students in a New York City public school attended an eight-session
+workshop in which they learned about study skills and scientific research showing
+that the brain grows connections and “gets smarter” when a person works on challenging tasks. Students in a randomized control group learned only about study
+skills. Results showed that students in the control group continued the downward
+decline in math grades that normally occurs in middle school. But students who
+learned the incremental theory reversed this trend and earned better math grades
+over the course of the year (see Figure 1). Study skills alone did not lead to
+improvement in math; students needed the incremental mind-set and motivation to
+put those skills into practice.
+The effect of implicit theories is robust. Other implicit theory interventions
+have generated similar improvements in diverse populations (e.g., J. Aronson,
+Fried, & Good, 2002; Good et al., 2003; see Table 1). In addition, implicit theories
+interventions have been implemented structurally in middle and high school math
+classes across the United States by the Charles A. Dana Center (2008) at the
+University of Texas, yielding large effects on such important outcomes as the percentage of high school students who repeat algebra (e.g., reducing this figure from
+24% to 9%).
+Interventions to Mitigate Stereotype Threat
+A significant problem in education involves the persistence of large differences
+in academic achievement between different social groups, such as between racial
+or ethnic minority students and nonminority students and, in math and science,
+between women and men. Although structural factors contribute to these differences, psychological processes also play an important role (Walton & Spencer,
+2009). Research on stereotype threat shows that the worry that one could be
+
+278
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+FIGURE 1. Math grades by experimental condition (covariate-adjusted means) in
+Blackwell, Trzesniewski, and Dweck (2007). Reprinted by permission from John Wiley
+and Sons, Inc.
+Note. Experimental = incremental theory workshop group; control = study skills workshop
+group.
+
+perceived through the lens of a negative intellectual stereotype in school can
+undermine academic performance (Steele, 2010; Steele, Spencer, & Aronson,
+2002). For instance, the stereotype that certain ethnic groups are less intelligent
+than others and that women are less skilled in quantitative fields than men creates
+stress, distraction, and anxiety for people targeted by negative stereotypes in performance situations, and this, in turn, undermines academic performance (see
+Schmader, Johns, & Forbes, 2008). Stereotype threat is so pervasive that it causes
+common measures of academic performance including grades and test scores to
+systematically underestimate the ability of negatively stereotyped students (Walton
+& Spencer, 2009). Can psychological strategies mitigate stereotype threat in field
+settings? Could these strategies raise stereotyped students’ performance and reduce
+achievement gaps? (For related interventions that raise the performance of ethnic
+minority students, see E. Aronson et al., 1978; Steele, 1997.)
+Intervention 3: Cohen et al. (2006, 2009). Cohen and colleagues (2006, 2009)
+hypothesized that helping reduce the stress and worry caused by stereotype threat
+could boost the academic performance of negatively stereotyped students. Their
+intervention was designed on the basis of a long line of psychological research
+investigating how people cope with threats to their sense of self (Festinger, 1957;
+Greenwald, 1980). Most relevant here, self-affirmation theory proposes that people are
+motivated to protect their view of themselves as good, moral, and efficacious (Sherman
+
+279
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+& Cohen, 2006; Steele, 1988). When people’s sense of self is threatened, they
+experience high levels of stress. Self-affirmation theory proposes that reminding
+people of diverse, positive aspects of themselves can lead people to see
+negative events and information as less threatening and reduce stress and thus help
+people function more effectively (Sherman & Hartson, in press). One way to shore
+up people’s sense of self is by asking people to write about values that are personally important to them. Indeed, laboratory experiments find that brief valueaffirmation writing exercises can help negatively stereotyped students perform
+better on academic tasks (Martens, Johns, Greenberg, & Schimel, 2006; Taylor &
+Walton, in press).
+Cohen and colleagues (2006, 2009) tested whether a value affirmation could
+improve stereotyped students’ real-world school performance. In a double-blind
+randomized controlled experiment, they delivered a value-affirmation intervention
+to White and Black seventh grade students as an in-class writing exercise. Half of
+students completed a value affirmation—they identified two or three values that
+were personally important to them and wrote about why those values mattered to
+them. Control students identified values that were not important to them and wrote
+about why they might matter to someone else. The 15- to 20-minute exercise was
+administered at the beginning of the school year, before a recursive cycle of feelings of threat and poor academic performance could take hold. Teachers were blind
+to students’ condition assignment to forestall expectancy effects.
+The results were striking. Students’ grades were collected over the next 2 years.
+By the end of the first semester, treated Black students earned significantly higher
+grades than peers in the control condition, reducing the gap between Black and
+White students by about 40%. A boost in students’ GPA across all academic classes
+persisted for 2 years with a few additional value-affirmations exercises (see Figure
+2; Cohen et al., 2009). This basic effect has been replicated in multiple studies,
+including among women in science and with Latino adolescents (see Miyake et al.,
+2010; Sherman et al., 2011).
+Intervention 4: Walton and Cohen (2007, 2011). One consequence of negative
+stereotypes is to cause people to wonder whether they will be fully included
+and valued in an academic environment. Anyone may wonder if he or she will
+get along with others in a new setting, like a transfer student at a new school.
+But students who face negative stereotypes may worry about their belonging
+more pervasively. This feeling of uncertainty about belonging can cause students to perceive negative social events in school—such as feelings of loneliness or receiving criticism from an instructor—as evidence that they do not
+belong in the school in general, an inference that undermines motivation
+(Walton & Cohen, 2007; also see Mendoza-Denton, Purdie, Downey, Davis, &
+Pietrzak, 2002).
+Walton and Cohen (2007, Experiment 1) examined students’ response to social
+adversity directly in a laboratory study. They posed a subtle threat to college students’ sense of social belonging in a field of study. They asked students to list
+either two friends who would fit in well in the field or eight such friends (cf.
+Schwarz et al., 1991). Listing eight friends was difficult, and equally so for White
+and Black students. The question the study tested was what meaning, if any, this
+280
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+European Americans—Affirmation & Control
+High-Performing African Americans—Affirmation
+High-Performing African Americans—Control
+Low-Performing African Americans—Affirmation
+Low-Performing African Americans—Control
+3.5
+
+Mean GPA in Core Courses
+
+3
+
+2.5
+
+2
+
+1.5
+
+Year 1
+
+Term 4
+
+Term 3
+
+Term 2
+
+Term 1
+
+Term 4
+
+Term 3
+
+Term 2
+
+Term 1
+
+Preintervention
+
+1
+
+Year 2
+
+FIGURE 2. Mean GPA in core courses for each term over 2 years, as a function of
+student group (African American vs. European American), experimental condition,
+and preintervention level of performance of African Americans (an average of the prior
+year’s GPA and preintervention seventh-grade performance) in Cohen, Garcia, PurdieVaughns, Apfel, and Brzustoski (2009). Reprinted by permission from the American
+Association for the Advancement of Science.
+Note. African Americans were categorized into low and high performers based on a median split
+within their racial group. Because European Americans in the two conditions did not differ significantly, their data were combined. Means adjusted for baseline covariates and students’
+assigned teacher team.
+
+difficulty had for students. For White students, the difficulty listing friends carried
+no particular meaning—White students’ interest and motivation in the field were
+unchanged whether they had been asked to list eight friends or two. But for Black
+students, the difficulty experienced listing eight friends seemed to mean that they
+281
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+and, moreover, their racial group did not belong in the field. As compared to control participants, their motivation in the field dropped precipitously, and they discouraged a Black peer from pursuing the field as an area of study.
+Building on this laboratory research, Walton and Cohen created an intervention to
+forestall global inferences of nonbelonging in school (Experiment 2). Adopting procedures developed by Wilson and Linville (1982, 1985), they gave first-year college
+students information indicating that students of all ethnicities worried at first about
+their belonging in the transition to college but that these worries dissipated with time
+and eventually all students came to feel at home. This information was designed to
+convey that doubts about belonging and negative social events are normal at first in
+college and are nondiagnostic of an actual lack of belonging. Students then engaged in
+a series of activities designed to reinforce the treatment message—for instance, they
+wrote an essay for incoming students the next year about how their own feelings of
+belonging in college had changed over time (see J. Aronson et al., 2002). Control students went through the same exercises, but the information they were exposed to was
+irrelevant to issues of belonging. In total, the intervention lasted about an hour.
+The intervention had striking benefits for Black students. In two cohorts of
+students and relative to several control groups, the intervention improved Black
+students’ grades in college from sophomore through senior year, halving the
+Black–White achievement gap (see Figure 3; Walton & Cohen, 2007, 2011). This
+effect was statistically mediated by a change in Black students’ construal of social
+adversity on campus. Daily diary surveys completed in the week following the
+intervention showed that, in the control condition, Black students’ daily sense of
+belonging in school rose and fell with the level of adversity they experienced each
+day. To these students, negative social events seemed to convey that they did not
+belong in the school in general. The treatment cut off this relationship—here,
+Black students experienced similar levels of adversity, but adversity no longer led
+them to question their belonging. For instance, consider a Black freshman who had
+a bad day. Say his teacher criticized him in class or he was not invited to dinner by
+dormmates. Already worried about his belonging, he is more likely than a White
+student to see it as proof that he does not belong. A student who goes through the
+intervention, however, still encounters such events but they no longer carry global
+meaning; they are negative, but not diagnostic. Statistically, Walton and Cohen
+(2011) found that it was this change in construal that mediated the effect of
+the intervention on the 3-year gain in Black students’ GPA. In addition, 3 years
+posttreatment, the intervention also improved Black students’ self-reported physical health and happiness, both outcomes linked strongly to a secure sense of
+belonging.
+In research in progress, tailored versions of the social-belonging intervention
+have improved grades and school-related attitudes and behaviors among African
+American middle school students (Walton, Cohen, Garcia, Apfel, & Master, 2011)
+and female undergraduate engineering students (Walton, Logel, Peach, & Spencer,
+2011).
+Understanding Social-Psychological Interventions in Education
+Readers may wonder, how did these interventions work at all—how could they
+change students’ psychology to improve academic outcomes even in the short
+282
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+4.00
+3.90
+
+Social-Belonging
+Treatment
+
+European Americans, Randomized Control
+European Americans, Social-Belonging Treatment
+African Americans, Randomized Control
+African Americans, Social-Belonging Treatment
+
+3.80
+3.70
+3.60
+3.50
+3.40
+3.30
+3.20
+3.10
+3.00
+Fall
+Term
+
+Fall
+Term
+First Year
+
+Spring
+Term
+
+Sophomore Year
+
+Fall
+Term
+
+Spring
+Term
+
+Fall
+Term
+
+Junior Year
+
+Spring
+Term
+
+Senior Year
+
+FIGURE 3. Mean academic performance as a function of semester, student race, and
+experimental condition (raw means) in Walton and Cohen (2011). Reprinted by permission from the American Association for the Advancement of Science.
+
+term? And how did they maintain their effects over time? Below we address each
+question in turn, followed by a discussion of how social-psychological interventions could be delivered effectively to more students.
+How do social-psychological interventions change students’ psychology to improve
+academic outcomes in the short term? They do so by precisely targeting students’
+experience in school from the student’s perspective and by using impactful delivery
+mechanisms. Although the four psychological interventions reviewed above targeted different (albeit related) psychological processes, each began with a precise
+understanding of students’ subjective experience in school—what school seems
+like to the student in the classroom, not how school appears to an observer,
+researcher, or teacher. These interventions may seem “small” to observers, and
+often they are in terms of time and cost and in relation to other school reforms.
+From the perspective of a researcher or teacher, an implicit theories workshop or
+a value-affirmation writing exercise is just one of many classroom experiences
+given to students. But to a student sitting at a desk in the third row worrying about
+whether a poor test score means she is stupid or whether others will reduce her
+to a negative stereotype, an experience like learning that the brain can grow and
+form new connections when challenged or being invited to describe personally
+283
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+important values may feel quite “large” (E. Aronson et al., 1978). Such interventions directly address students’ experience in school and thus their school-related
+behavior.
+Critically, if a social-psychological intervention does not deliver its message in
+a way that changes how students think or feel about school or about themselves in
+school, then nothing has been delivered at all. Each intervention reviewed above
+used a delivery mechanism that, although brief, drew on research on the psychology of persuasion to make the experience maximally impactful for students. Rather
+than simply delivering an appeal to a student who passively receives it, each intervention enlisted students in actively participating in or generating the intervention
+itself (see Lewin, 1952). These strategies can induce deep processing and prepare
+students to transfer the content to new settings (Chase, Chin, Oppezzo, & Schwartz,
+2009; Schwartz & Martin, 2004). For instance, one delivery mechanism featured
+in several interventions involved asking students to write letters to younger students advocating the treatment message (e.g., J. Aronson et al., 2002; Walton &
+Cohen, 2007; 2011). As research on the “saying-is-believing” effect shows (E.
+Aronson, 1999), generating and then advocating a persuasive message to a receptive audience is a powerful means of persuasion (for a related example, see
+Hulleman & Harackiewicz, 2009).
+Although these delivery mechanisms are psychologically powerful, the interventions are in an important sense “stealthy,” a quality that may increase their
+effectiveness (Robinson, in press). In none of the interventions were students
+exposed to a direct persuasive appeal or told that they were receiving “an intervention” to improve their performance. Students in Wilson and Linville’s (1982, 1985)
+intervention thought they were responding to a survey. Students in the Walton and
+Cohen (2007, 2011) intervention took the role of mentor to younger students (also
+see J. Aronson et al., 2002). They were not told that they themselves were the
+targets of the persuasive message. Other studies used class assignments to deliver
+the intervention, such as a neuroscience workshop (Blackwell et al., 2007) or an
+in-class writing assignment (Cohen et al., 2009; Hulleman & Harackiewicz, 2009),
+both of which had no obvious link to students’ academic performance. Overall,
+these indirect approaches may be more effective than overt strategies. They do not
+feel controlling and so they minimize resistence and reactance to the message.
+They also allow students to take credit for their success rather than risking the possibility that students attribute positive outcomes to a heavy-handed intervention.
+Furthermore, stealthy interventions do not stigmatize students—they do not convey to students that they are seen as in need of help or perceived as likely to fail,
+which could undermine an intervention’s intended effect. Indeed, telling people
+that a value affirmation is intended to make them feel better can reduce its effectiveness (Sherman et al., 2009).
+Another way these interventions are “stealthy” is by being brief. One recent randomized field experiment found greater behavior change after a short (5-minute)
+intervention to reduce drinking among college student, than after a longer (50-minute) intervention (Kulesza, Apperson, Larimer, & Copeland, 2010; also see Petry,
+Weinstock, Ledgerwood, & Morasco, 2008). Although these studies did not focus on
+educational outcomes, they contradict the intuition that “bigger” interventions are
+necessarily “better.”
+284
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+This analysis leads to counterintuitive predictions about how to maximize the
+impact of psychological interventions. It would be reasonable to think, for example, that training teachers (or parents) to reinforce psychological messages or doubling the length of an in-class growth mind-set workshop from 8 to 16 sessions
+would amplify an intervention’s benefits. However, if adolescents perceive a
+teacher’s reinforcement of a psychological idea as conveying that they are seen as
+in need of help, teacher training or an extended workshop could undo the effects
+of the intervention, not increase its benefits. Moreover, in the case of the Cohen
+et al. (2006) intervention, for example, if stereotype threat was a force preventing
+students from achieving their potential and this force was removed through a values affirmation, it is not clear that additional strategies to remove the same restraining force in other ways, for instance, by having teachers reinforce a student’s
+values, would increase the effect. In this way, the teaching of academic content in
+school is fundamentally different from the delivery of psychological interventions.
+Academic content is complex and taught layer on layer: The more math students
+are taught, in general the more math they learn. Changing students’ psychology, by
+contrast, sometimes requires a lighter touch.
+Nevertheless, when different interventions target different psychological barriers to learning, combining interventions may produce additive effects. For instance,
+one recent study found that both a social-belonging intervention and an intervention to train students to self-affirm in times of stress (an “affirmation training”
+intervention) raised the achievement of female engineering students, yet did so
+through different mechanisms. The social-belonging intervention led women to
+perceive that others viewed female engineers more positively; the affirmationtraining intervention prevented the perception that others viewed female engineers
+negatively from undermining women’s engineering grades (Walton, Logel, et al.,
+2011). It is intriguing to speculate that a combined intervention could yield greater
+effects, provided that the mechanism used to deliver one intervention does not
+interfere with the meaning of the other intervention.
+In summary, social-psychological interventions change students’ behavior by
+(a) targeting students’ experience in school from the student’s perspective and
+(b) deploying powerful yet stealthy persuasive tactics to deliver the treatment message effectively without generating problematic side effects, such as stigmatizing
+recipients.
+How do social-psychological interventions affect student outcomes over long periods of time? They do so by affecting recursive processes that accumulate effects
+over time. A critical question about psychological interventions is how brief exercises could improve students’ achievement months and years later. In general, we
+think it is exceedingly unlikely that psychological interventions generate longlasting benefits because students keep the treatment message vividly in mind over
+long periods. Consistent with this analysis, in Walton and Cohen’s (2011) socialbelonging intervention, students were asked at the end of their college careers to
+recall the treatment message. Despite the large benefits of the intervention for
+African American students over the 3-year assessment period, few students accurately recalled the treatment message and the vast majority denied that taking part
+in the 1-hour study had had any effect on their college experience.
+285
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+How then do psychological interventions generate long-lasting benefits?
+They do so by setting into motion recursive social, psychological, and intellectual processes in school. As students study and learn and build academic skills
+and knowledge, they are better prepared to learn and perform well in the future.
+As students feel more secure in their belonging in school and form better relationships with peers and teachers, these become sources of support that promote
+feelings of belonging and academic success later. When students achieve success
+beyond what they thought possible, their beliefs about their potential may
+change, leading them to invest themselves more in school, further improving
+performance and reinforcing their belief in their potential for growth. As students do well, they are placed in higher level classes—gateways that raise expectations, expose them to high-achieving peers, and improve subsequent academic
+opportunities. Through these recursive processes, students gain momentum and
+achieve better academic outcomes over time—or they do not. A well-timed,
+well-targeted psychological intervention taps into these recursive processes and
+thus changes the trajectory of students’ experiences and outcomes in school (see
+Cohen et al., 2009).
+Consistent with this analysis, research tracking the long-term effects of socialpsychological interventions finds repeatedly that such interventions change students’ academic trajectories. Indeed, the mean-level effects of psychological
+interventions on student grades are accounted for by changes in the trajectory of
+students’ academic performance over time. The value-affirmation intervention, for
+instance, was delivered to students early in seventh grade and had long-term effects
+primarily among previously poor-performing African American students (see
+Figure 2; Cohen et al., 2009). Evidence suggests the affirmation cut off a downward spiral in performance, preventing worse performance from leading to greater
+feelings of stress and threat and undermining subsequent performance (also see
+Blackwell et al., 2007; Sherman & Hartson, in press). Analogously, the Walton and
+Cohen (2007, 2011) social-belonging intervention set in motion a positive recursive process that improved students’ grades over 3 years in a steady step-by-step
+fashion (see Figure 3; also see Wilson & Linville, 1985).
+How do psychological interventions change the trajectory of students’ academic
+outcomes? Research directly addresses this question. For example, Blackwell and
+colleagues (2007, Study 1) found that when students believed that they could get
+smarter over time, they were more likely to believe that working hard could help
+them succeed in school and they endorsed the goal of learning from coursework.
+These beliefs and goals motivated greater use of effective learning strategies (such
+as increasing effort after setbacks) and less use of ineffective strategies (such as
+spending less time on a subject after setbacks). Over time, this increased effort and
+use of more productive learning strategies helped students take advantage of instruction in school, persist longer, seek help when needed, and ultimately learn more in
+school. These changes in beliefs and strategies statistically mediated a 2-year upward
+trajectory observed in middle school math grades for students with an incremental
+mind-set. By understanding this interaction between psychological processes (e.g.,
+students’ beliefs about the nature of intelligence) and school structures (e.g., learning
+opportunities present in school), it is easier to see how changing students’ beliefs
+could affect their school achievement over long periods.
+286
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+Other research investigates how interventions that mitigate concern about negative stereotypes can raise students’ achievement. For example, research shows
+that stereotype threat can undermine learning, not just academic performance. In
+one laboratory experiment, African American students who studied novel academic material in a threatening rather than nonthreatening learning environment
+performed worse on a test of that material a week later even in a nonthreatening
+performance setting (Taylor & Walton, in press; also see Rydell, Shiffrin, Boucher,
+Van Loo, & Rydell, 2010). This effect did not occur for European Americans. In a
+second study, Taylor and Walton (in press) found that a value-affirmation undid
+this effect of threat—it helped African American students learn more despite
+threat. The results suggest that one way a value-affirmation intervention may
+improve long-term academic outcomes is by helping students acquire the building
+blocks of academic skills and knowledge needed to perform well in subsequent
+academic settings.
+Other studies examine recursive social-relational processes. For instance, as
+noted, Walton and Cohen’s (2007, 2011) social-belonging intervention led to a
+term-by-term improvement in African American students’ grades over 3 years (see
+Figure 3), and this boost in grades was mediated by a change in students’ construal
+of adverse social events in school—these events no longer carried a global, threatening meaning to students (Walton & Cohen, 2011). If students feel more secure
+in their belonging in school, they may approach others in the academic environment more and with more positive attitudes, building better relationships, reinforcing their feelings of belonging, and laying the groundwork for later academic
+success (also see Mendoza-Denton et al., 2002).
+If effective psychological interventions alter recursive processes in school, then
+the timing of these interventions is critical. In many cases, it may be essential to
+deliver psychological interventions at key educational junctures, such as at the
+beginning of an academic year (Cohen et al., 2006; Cohen et al., 2009), during an
+important transition such as when students enter a new school (Walton & Cohen,
+2007, 2011; Wilson & Linville, 1982, 1985), or before an academic gateway, such
+as before students are tracked into algebra versus lower level math classes
+(Crosnoe, Lopez-Gonzalez, & Muller, 2004; Hallinan, 2001) or before a highstakes exam (Papay, Murnane, & Willett, 2010). Illustrating the importance of
+timing, one study found that the earlier a value-affirmation intervention was delivered the more it improved students’ grades and, furthermore, that timing mattered
+more than frequency (Cook, Purdie-Vaughns, Garcia, & Cohen, 2011). This finding echoes Raudenbush’s (1984) classic meta-analysis of teacher expectancy
+effects, which found that teacher expectancy interventions were effective only
+when delivered within the first few weeks of school.
+The importance of recursive processes in sustaining the effects of psychological
+interventions over time reinforces the proposition that these interventions do not
+work in isolation; rather, they operate in a complex system involving numerous
+structural factors (Lewin, 1952). When well targeted and well timed, a psychological intervention relies on recursive social, psychological, and intellectual processes that are present in school to produce sustained gains in students’ school
+achievement.
+
+287
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Discussion
+How Can Social-Psychological Interventions Be Scaled
+to Benefit More Students?
+The review above discusses how social-psychological interventions can boost
+student achievement and address long-standing achievement gaps. But as Bryk
+(2009) argues, to scale an educational innovation it is not enough to know that it
+can work in one context; “we need to know how to make it work reliably over
+many diverse contexts and situations” (p. 598; also see Morris & Hiebert, 2011).
+There are several challenges to scaling psychological interventions, many of which
+are common to educational innovations in general. Instead of reviewing the vast
+literature on scaling educational interventions, in this discussion we address how
+lessons from this literature apply specifically to efforts to scale social-psychological interventions and suggest how key challenges might be overcome. In particular, we focus on two topics: (a) What should be scaled, and what are the barriers to
+scaling this? and (b) What kinds of strategies and expertise are needed to scale
+social-psychological interventions effectively?
+What Should Be Scaled, and What Are the Barriers to Scaling This?
+It is the specific psychological experience created by a psychological intervention
+that should be reproduced at scale, not incidental features of the intervention. For
+instance, a scaled-up growth mind-set intervention should lead students to believe that
+when they experience setbacks their ability can improve, not necessarily teach them
+neuroanatomy. This is analogous to other well-designed reforms in education, where
+it is essential to scale the student learning experience rather than the specific activities,
+worksheets, or examples used to create this experience. When a psychological intervention is delivered to more students, what barriers can prevent the intended psychological experience from being replicated? We address three barriers below.
+First, past research reminds us that it can be easy to scale up superficial features
+of an educational innovation without reproducing the intended psychological or
+educational experience (see, e.g., Fullan, 2001; Labaree, 1998; Tyack & Cuban,
+1995). Under these circumstances the intervention would not be predicted to have
+the intended effect. Take the case of the California mission project. The project
+began as a small but successful initiative in which fourth grade students conducted
+independent research on one of the Spanish missions in California, created a replica of the mission—in some cases, even making adobe bricks by hand—and presented a class report. The project seemed to increase intrinsic motivation (Checkley,
+2008); for instance, in news reports teachers said students were highly engaged
+and students reported planning summer vacations around visiting their mission
+(“Drawings Aid,” 1931; Haessler, 1973). Excited by the early returns, reformers
+quickly took the initiative to scale, requiring nearly every fourth grader in
+California to do a mission project. Soon enough, local stores sold premade “mission kits” with fact sheets on each. What began as a project requiring original
+research and intensive thinking ended as a trip to an arts and crafts store. Although
+no formal evaluation has been done, it would be surprising if this version of the
+project continued to produce benefits for student motivation. When an intervention
+is taken to scale without the theoretically essential components, it will not have the
+intended effects.
+288
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+Similarly, if scaled improperly, social-psychological interventions could
+become something different entirely—not a test of whether the theory works at
+scale but a worksheet to be handed out or a lesson to “get through.” It is easy to
+imagine, for instance, how a value-affirmation intervention, if delivered poorly,
+could become a caricature—a hollow, ego-boosting exercise in self-praise (perhaps one reminiscent of a scene from Saturday Night Live’s Stuart Smalley skit;
+“I’m good enough, I’m smart enough, and doggone it, people like me”)—not a tool
+for affirming students’ values and reducing stress and threat in school.
+Second, even when interventions are delivered with an effort to reproduce theoretically essential components, research finds that they can sometimes be derailed
+by seemingly small changes in how the intervention is delivered. This occurs if
+such changes lead recipients to perceive a different meaning in the intervention
+(for striking examples, compare Langer & Rodin, 1976, to Schulz & Hanusa,
+1978; compare Paluck, 2009, to Paluck, 2010; also see Marigold, Holmes & Ross,
+2007, Study 3). For instance, in the effective Hulleman and Harackiewicz (2009)
+intervention reviewed in Table 1, students generated and wrote reasons why
+schoolwork was relevant to their lives, and this led to a .80 grade point (out of 4.0)
+boost at the end of the school year for students with low expectations for success
+in class. But when students were told why the schoolwork was important instead
+of generating their own reasons, the intervention had a negative effect on students
+with low expectations for success—in effect, by telling low-ability students how
+important their schoolwork was, they were reminded that they might not be able
+to accomplish those important goals, leading to less interest (Godes, Hulleman, &
+Harackiewicz, 2007).
+The challenge of delivering psychological interventions may be more acute
+when they are delivered by teachers or other educational practitioners (cf. Morris
+& Hiebert, 2011). The history of school reform reminds us that teachers can vary
+in whether they deliver an intervention in the way intended or in name only, changing the meaning and effect of the intervention (Fullan, 2001; Tyack & Cuban,
+1995). Labaree (1998) argues that each teacher has a “duchy” that operates relatively independently once the classroom door closes, leading to excellence that is
+unhampered by outside control in some classrooms and low performance that is
+resistant to attempts at improvement in other classrooms. Any educational reform
+that relies on teachers to deliver a message in a classroom is affected by this reality.
+This certainly applies to social-psychological interventions.
+However, unlike many traditional educational reforms, psychological interventions involve relatively brief, discrete exercises, potentially reducing heterogeneity in implementation. For example, a values-affirmation or social-belonging
+intervention consists of a self-contained reading and writing activity. Implicit theories interventions can be delivered effectively online (through, e.g., www.brainology.us or www.perts.net; for an evaluation, see Romero, Paunesku, & Dweck,
+2011), as could many of the other interventions summarized in Table 1 (also see
+Morisano, Hirsh, Peterson, Pihl, & Shore, 2010). Of course, even when using
+an online approach, basic preconditions such as classroom management may be
+necessary for an intervention to succeed. Just completing an intervention in a
+rowdy classroom or one where other students can read or comment on a student’s
+responses (e.g., a description of her or his core values) could undermine an intervention’s effectiveness. One study that examined this possibility found that a
+289
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+social-psychological intervention administered in classrooms varied in its fidelity
+to experimental protocols and yielded no overall positive effect, whereas the same
+intervention delivered in a controlled setting (a laboratory) was effective (Hulleman
+& Cordray, 2009).
+A third potential challenge to scaling psychological interventions involves how
+the meaning of an intervention can change in different contexts. If the meaning of
+an intervention changes, its effect may change as well. One way to help make an
+intervention meaningful for diverse students is to structure the exercise to allow
+students to personalize their responses so intervention materials evoke the intended
+experience in the way that is most relevant to them. For instance, in an affirmation
+intervention, students rank order values in terms of their importance to themselves
+and then write about their top-ranked value; they are not told which value to select.
+In a social-belonging intervention, students think about their own personal experience in the transition to a new school and write about how their experience illustrates the general process of change students experience transitioning to the school
+and coming to feel at home there. This element of personalization allows each
+student to make the intervention her or his own. In many settings, identical materials, if administered in well-managed classrooms and with fidelity, may be personally meaningful to diverse students and thus produce positive effects for them.
+However, the effectiveness of social-psychological interventions may also be
+enhanced by embedding contextually appropriate elements. For instance, the values students rank order in an affirmation intervention should include values that
+are, in fact, personally important to students in the population at hand; if the list
+does not include a broad range of values and ones important in the local context
+(e.g., in some settings more than others, religious values), the intervention may be
+less effective. Similarly, contextually appropriate colloquialisms or anecdotes
+embedded in a social-belonging intervention—specific stories about older students’ feelings of belonging in the transition to students’ own school—may
+increase the intervention’s effectiveness. Of course, making the materials more
+specific to some students could reduce an intervention’s relevance for dissimilar
+other students.
+In addition, relational dynamics between teachers and students could affect the
+meaning an intervention carries for students (cf. Raudenbush, 1984). It could seem
+insincere if a teacher with whom a student has a hostile relationship asks the student to complete a value affirmation, perhaps undermining the effectiveness of the
+intervention. Similarly, an incremental mind-set intervention might have no effect
+if students believe that the person who tells them about their potential for growth
+and improvement does not believe this himself or herself.
+Importantly, the materials and procedures used in an intervention can differ
+across contexts and still produce similar psychological experiences. However,
+these changes must be guided by theory. For example, Dweck and colleagues have
+taught an incremental theory of intelligence by asking participants to read brief
+scientific articles describing how the brain can get smarter (e.g., Nussbaum &
+Dweck, 2008), by providing effort versus intelligence praise after success (Mueller
+& Dweck, 1998), by conducting neuroscience workshops (Blackwell et al., 2007),
+by orchestrating email exchanges during a yearlong program with a mentor (Good
+et al., 2003), and by asking students to write a pen pal letter to a younger student
+(J. Aronson et al., 2002). These approaches differ in various ways. But each
+290
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+conveys the core message that intelligence is malleable. When equipped with a
+well-specified theory of the psychological experience an intervention is designed
+to create, materials and procedures can be modified, as necessary, to create the
+target experience most effectively for a particular context and population.
+In sum, we do not believe that practitioners should pick up previously effective
+experimental materials and freely adapt them without planning or evaluation. Nor do
+we believe they should hand out the original materials without considering whether
+they would convey the intended meaning in the local context. Although in many
+cases materials and procedures developed for one context may work well in a new
+context, adapting them might increase their effectiveness. As in a curricular initiative, deciding how, when, and whether to adapt materials and procedures is difficult.
+We therefore turn to the question of what kind of expertise is needed to create the
+intended psychological experience for students in diverse contexts.
+What Kinds of Expertise and Collaborations Are Required to Scale SocialPsychological Interventions Effectively?
+To increase the reliability of social-psychological interventions across contexts,
+researchers and practitioners will have to decide whether to customize an intervention and, if so, how to do so to best evoke the intended psychological experience.
+Making these decisions draws on wisdom in two important areas: (a) theoretical
+expertise, or an understanding of the psychological experience that is targeted by
+the intervention, and (b) contextual expertise, or an understanding of the psychological experiences and backgrounds of students in the local context
+If so, delivering psychological interventions at scale may be done best by creating an equal collaboration between researchers with a basic theoretical understanding of psychological processes and contextual experts, including qualitative
+researchers, administrators, and educational practitioners who have profound,
+intuitive knowledge or metis (Scott, 1998) of local students and contexts.
+Contextual experts can identify areas where the procedures or materials used in an
+intervention match or do not match local constraints and meanings. Theoretical
+experts can assess whether potential modifications lead an intervention to hit or
+miss its intended psychological mark. Because subtle changes to delivery mechanisms can shift the meanings of interventions for students, sometimes in nonobvious or unpredictable ways, researchers and practitioners should approach efforts
+to scale psychological interventions with humility and with rigorous, step-by-step
+evaluation. Qualitative methods may supplement experimental methods in these
+evaluations.
+Such equal collaborations have proven effective in other contexts, such as the
+National Writing Project (McDonald, Buchanan, & Sterling, 2004), which scaled
+an initiative to improve writing instruction using a network of researchers and
+teachers who customized, refined, and delivered writing instruction to more than
+5,000 students in seven states. Across 15 evaluation studies, National Writing
+Project students made more gains in writing than matched comparison group students (National Writing Project, 2010)—a promising result considering the variability in instruction across contexts. Another education research and development
+initiative, the Strategic Education Research Partnership (Donovan, Wigdor, &
+Snow, 2003), has found similarly positive results for students’ academic vocabulary (also see Morris & Hiebert, 2011). More relevant here, some organizations are
+291
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+beginning to apply a similar approach to social-psychological interventions. For
+instance, the new education research and development enterprise created by the
+Carnegie Foundation for the Advancement of Teaching has formed a network of
+community colleges and researchers focused on the improvement of outcomes for
+developmental (or remedial) math students (Bryk, 2009; Bryk, Gomez, & Grunow,
+in press). Psychological interventions form one part of this team’s strategy. This
+collaboration and others like it between researchers and practitioners can create
+relational trust, a critical component of educational change (Bryk & Schneider,
+2002; Bryk, Sebring, Allensworth, Luppescu, & Easton, 2010), and may increase
+the likelihood that materials and procedures will be appropriate in local contexts.
+These collaborations may prove fruitful for scaling psychological interventions.
+Along similar lines, it may be useful to revisit past suggestions for creating a
+new class of professional—a “psychological engineer”—a person with the expertise needed to scale psychological interventions effectively. Such professionals
+would be trained in experimental methodology and psychological theory, although
+their primary work would be not to advance psychological theory but to understand and alter psychological dynamics in applied settings. This would require
+expertise in user-centered design and related qualitative inquiry, in the conduct of
+equal collaborations across the theory–real world divide, in the measurement of
+psychological processes, and in the delivery and experimental evaluation of psychological interventions. Such a professional could design and implement interventions, evaluate their effects, and troubleshoot interventions that do not produce
+their intended effect. For instance, using measures of psychological processes, a
+psychological engineer could examine whether an intervention failed to affect the
+intended process and, if so, examine with practitioners how the delivery mechanism could be improved. Alternately, if the intervention affected the intended process, the psychological engineer and practitioners could examine whether this
+process was important in the local context in affecting relevant outcomes.
+In collaborative efforts to scale social-psychological interventions, the flow of
+ideas between theory and application will be a two-way street (Bronfenbrenner,
+1979; Lewin, 1952). As interventions are created and deployed and their effects
+assessed, theories of psychological processes may be refined, leading to improved
+interventions. This is directly analogous to work in other applied sciences, where
+basic research and application feed back on each other in a mutually beneficial
+cycle. When social-psychological interventions are taken to scale, the constraints
+of application at many schools may lead to refinements in their essential elements
+and the elimination of less important features, making them more streamlined,
+powerful, and robust. For instance, it could be useful for scaling purposes to reduce
+Blackwell et al.’s (2007) incremental theory intervention to fewer workshop sessions. But the process of reducing this intervention would require experimental
+work to identify the theoretically critical elements, potentially resulting in both
+new insights about basic psychological processes and a better intervention.
+Second, when interventions are tested on broad samples, important boundary
+conditions will likely be discovered. It could be that for some students or in some
+conditions the suite of interventions reviewed in Table 1 might be ineffective.
+When contextual experts collaborate on these projects and see these results, they
+may think of other psychological processes that were not addressed—most likely,
+292
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+processes that psychologists did not anticipate. This could lead to new experiments
+investigating these processes, new theories, and new interventions. Indeed, an
+important source of theory in the social sciences is the attempt to explain failed
+interventions (see, e.g., the discussion of McCord, 1978, in Ross & Nisbett, 1991).
+This interplay of theory, research, and application would benefit both psychological science and the solution of social problems.
+In sum, psychological interventions may be scaled most effectively when
+researchers and practitioners combine requisite theoretical and contextual expertise. Existing organizations provide guidance for how to do this, but this process
+may also be expedited by the creation of new roles within the field of education.
+We anticipate that such efforts will benefit both basic psychological theory and
+student outcomes.
+Conclusion
+Social-psychological interventions are not magic. They are not inputs that go
+into a black box and automatically yield positive results. Instead, they are tools to
+target important psychological processes in schools. These interventions grew out
+of basic laboratory research and theory investigating these processes. They have
+produced long-lasting gains in achievement in multiple studies, but they are
+dependent on the capacities, meanings, and recursive processes present in local
+contexts. If scaled up in appropriate ways, social-psychological interventions have
+the potential to contribute, in conjunction with other reforms, to the solution of
+endemic problems in education.
+Nevertheless, because social-psychological interventions rely on subtle, nonobvious forces, they can lead to polarized reactions—either “uncritical acceptance
+and overgeneralization on one hand; [or] vilifying criticism on the other” (Jussim
+& Harber, 2005, p. 135; also see Wineburg, 1987; cf. Gawande, 2009). By understanding the mechanisms underlying the effects of social-psychological interventions, we hope that educational researchers can move past such reactions.
+Social-psychological interventions complement—and do not replace—traditional
+educational reforms. They do not teach students academic content or skills,
+restructure schools, or improve teacher training. Instead, they allow students to
+take better advantage of learning opportunities that are present in schools and tap
+into existing recursive processes to generate long-lasting effects. Just at it would
+be absurd to replace skilled surgeons with Gawande’s (2009) one-page checklist,
+it would be absurd to replace traditional educational reforms with social-psychological interventions. Instead, as a surgical checklist allows a trained doctor to
+perform as well as he or she is capable, social-psychological interventions can
+unleash the potential of students and of the educational environments in which
+they learn. Indeed, social-psychological interventions may make the effects of
+high-quality educational reforms such as improved instruction or curricula more
+apparent (Cohen et al., 2009).
+Although we are optimistic that social-psychological interventions can be taken
+to scale, doing so will require hard work. These are not quick fixes that can be
+administered broadly without consideration for local contexts or the meaning students make of them. They will benefit from an R&D model that incorporates
+authentic collaborations between researchers and contextual experts and rigorous
+293
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+evaluation at each step (Bryk, 2009; Bryk et al., in press; Morris & Hiebert, 2011).
+But in a context in which many reforms in education have produced at best uneven
+results, psychological interventions have a demonstrated potential to address fundamental problems, including low student achievement and large group differences, at low cost and over significant periods of time. We look forward to future
+research that includes psychological strategies in the broader suite of reforms to
+promote positive change in education.
+Notes
+The writing of this article was supported by a Spencer Foundation Dissertation
+Fellowship for Research Related to Education and a grant from the Thrive Foundation
+for Youth, both to the first author. We are grateful to Tony Bryk, Geoff Cohen, Carol
+Dweck, Hunter Gehlbach, Matthew Kloser, Richard Shavelson, David Sherman, James
+Stigler, Sander Thomaes, and Uri Treisman for their comments, to Alexandria Ordway
+for her original research on the California Mission Project, and to Brian Spitzer for his
+help.
+1Although analogies can mislead if taken too far, they can also be helpful for understanding new ideas in science and, in particular in this case, for understanding how
+multiple variables relate (Duit, 1991; Kuhn, 1979; Thibodeau, & Boroditsky, 2011).
+2Poor academic achievement is not the only social problem that social-psychological interventions can address, even in the presence of structural impediments (for an
+overview, see Reis & Gosling, 2010). Among other social problems, brief social-psychological interventions can have lasting effects on the health of the elderly (Langer &
+Rodin, 1976; Rodin & Langer, 1977) and of college students (Pennebaker, 1997;
+Pennebaker & Beall, 1986), the success of dieters (Axsom & Cooper, 1985; Logel &
+Cohen, 2011), environmental conservation (Goldstein, Cialdini, & Griskevicius,
+2008), youth aggression (Hudley & Graham, 1993; Thomaes, Bushman, Orobio de
+Castro, Cohen, & Denissen, 2009; Yeager, Trzesniewski, & Dweck, 2011), and intergroup relations (e.g., Page-Gould, Mendoza-Denton, & Tropp, 2008; Paluck, 2009; cf.
+Paluck, 2010).
+
+References
+Aaronovitch, D. (2010, January 23). In a world of hi-tech medicine and machinery, the
+best safeguard is the low-tech checklist. The Times. Retrieved from http://entertainment
+.timesonline.co.uk/tol/arts_and_entertainment/books/book_reviews/article
+6995508 .ece
+Aronson, E. (1999). The power of self-persuasion. American Psychologist, 54,
+875–884.
+Aronson, E., Blaney, N., Stephin, C., Sikes, J., & Snapp, M. (1978). The jigsaw classroom. Beverly Hills, CA: Sage.
+Aronson, J., Fried, C., & Good, C. (2002). Reducing the effects of stereotype threat on
+African American college students by shaping theories of intelligence. Journal of
+Experimental Social Psychology, 38, 113–125.
+Axsom, D., & Cooper, J. (1985). Cognitive dissonance and psychotherapy: The role of
+effort justification in inducing weight loss. Journal of Experimental Social
+Psychology, 21, 149–160.
+Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change.
+Psychological Review, 84, 191–215.
+
+294
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+Blackwell, L. A., Trzesniewski, K. H., & Dweck, C. S. (2007). Theories of intelligence
+and achievement across the junior high school transition: A longitudinal study and
+an intervention. Child Development, 78, 246–263.
+Bransford, J., Brown, A., & Cocking, R. (1999). How people learn: Brain, mind, experience, school. Washington, DC: National Academy of Sciences.
+Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature
+and design. Cambridge, MA: Harvard University Press.
+Bryk, A. S. (2009). Support a science of performance improvement. Phi Delta Kappan,
+90, 597–600.
+Bryk, A. S., Gomez, L., & Grunow, A. (in press). Ruminations II—Getting ideas into
+action: Building networked improvement communities in education. In M. Hallinan
+(Ed.), Frontiers of social science research.
+Bryk, A. S., & Schneider, B. L. (2002). Trust in schools: A core resource for improvement. New York, NY: Russell Sage.
+Bryk, A. S., Sebring, P. B., Allensworth, E., Luppescu, S., & Easton, J. Q. (2010).
+Organizing schools for improvement: Lessons from Chicago. Chicago, IL: University
+of Chicago Press.
+Charles A. Dana Center. (2008). Summary of results from the 2008 evaluation conducted on academic youth development: Improving achievement by shaping the culture of algebra classrooms. Retrieved from http://www.utdanacenter.org/
+academicyouth/downloads/implementation/12–ayd-evaluation-results.pdf
+Chase, C. S., Chin, D. B., Oppezzo, M. A., & Schwartz, D. L. (2009). Teachable agents
+and the protégé effect: Increasing the effort towards learning. Journal of Science and
+Educational Technology, 18, 334–352.
+Checkley, K. (2008). The essentials of social studies, grades K–8: Effective curriculum, instruction, and assessment. Alexandria, VA: Association for Supervision and
+Curriculum Development.
+Cialdini, R. B. (2003). Crafting normative messages to protect the environment.
+Current Directions in Psychological Science, 12, 105–109.
+Cohen, G. L., Garcia, J., Apfel, N., & Master, A. (2006). Reducing the racial achievement gap: A social-psychological intervention. Science, 313, 1307–1310.
+Cohen, G. L., Garcia, J., Purdie-Vaugns, V., Apfel, N., & Brzustoski, P. (2009).
+Recursive processes in self-affirmation: Intervening to close the minority achievement gap. Science, 324, 400–403.
+Cook, J., Purdie-Vaughns, V., Garcia, J., & Cohen, G. (2011, April). Longitudinal
+impact of a values affirmation and its timing on minority students’ belonging and
+performance in middle school. Presentation at the biennial meeting for the Society
+for Research in Child Development, Montreal, Canada.
+Crosnoe, R., Lopez-Gonzalez, L., & Muller, C. (2004). Immigration from Mexico into
+the math/science pipeline in American education. Social Science Quarterly, 85,
+1208–1226.
+Destin, M., & Oyserman, D. (2009). From assets to school outcomes: How finances
+shape children’s perceived possibilities and intentions. Psychological Science, 20,
+414–418.
+Donovan, M. S., Wigdor, A. K., & Snow, C. E. (Eds.). (2003). Strategic education
+research partnership. Washington, DC: National Academy Press.
+Drawings aid school studies. (1931, October 25). Oakland Tribune, p. B5.
+Duckworth, A. L., Grant, H., Loew, B., Oettingen, G., & Gollwitzer, P. M. (in press).
+Self-regulation strategies improve self-discipline in adolescents: Benefits of mental
+contrasting and implementation intentions. Educational Psychology.
+
+295
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+Duit, R. (1991). On the role of analogies and metaphors in learning science. Science
+Education, 75, 649–660.
+Dweck, C. S. (2006). Mindset. New York, NY: Random House.
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and
+personality. Psychological Review, 95, 256–273.
+Festinger, L. (1957). A theory of cognitive dissonance. Evanston, IL: Row, Peterson.
+Fullan, M. (2001). The new meaning of educational change. New York, NY: Teachers
+College Press.
+Garcia, J., & Cohen, G. L. (in press). Social psychology and educational intervention.
+In E. Shafir (Ed.), Behavioral foundations of policy. New York, NY: Russell Sage.
+Garet, M., Wayne, A., Stancavage, F., Taylor, J., Walters, K., Song, M., & . . . Doolittle, F.
+(2010). Middle School Mathematics Professional Development Impact Study:
+Findings after the first year of implementation (NCEE 2010–4010). Retrieved from
+http://ies.ed.gov/ncee/pubs/20104009/pdf/20104010.pdf
+Gawande, A. (2009). The checklist manifesto: How to get things right. New York, NY:
+Metropolitan Books.
+Gehlbach, H. (2010). The social side of school: Why teachers need social psychology.
+Educational Psychology Review, 22, 349–362.
+Glazerman, S., Isenberg, E., Dolfin, S., Bleeker, M., Johnson, A., Grider, M., &
+Jacobus, M. (2010). Impacts of comprehensive teacher induction: Final results from
+a randomized controlled study (NCEE 2010 4028). Retrieved from http://ies.ed.gov/
+ncee/pubs/20104027/pdf/20104027.pdf
+Godes, O., Hulleman, C. S., & Harackiewicz, J. M. (2007, April). Boosting students’
+interest in math with utility value: Two experimental tests. Paper presented at the
+meeting of the American Educational Research Association, Chicago, IL.
+Goldstein, N., Cialdini, R., & Griskevicius, V. (2008). A room with a viewpoint: Using
+social norms to motivate environmental conservation in hotels. Journal of Consumer
+Research, 35, 472–482.
+Good, C., Aronson, J., & Inzlicht, M. (2003). Improving adolescents’ standardized test
+performance: An intervention to reduce the effects of stereotype threat. Journal of
+Applied Developmental Psychology, 24, 645–662.
+Greenwald, A. G. (1980). The totalitarian ego: Fabrication and revision of personal
+history. American Psychologist, 35, 603–618.
+Haessler, J. (1973, April 5). Fourth grade class to build scale model of San Antonio
+mission in EDH. Mountain Democrat.
+Hallinan, M. (2001). Sociological perspectives on Black/White inequalities in
+American schooling. Sociology of Education, Extra Issue, 74, 50–70.
+Haynes, A. B., Weiser, T. G., Lipsitz, S. R., Breizat, A-H., Dellinger, E. P., Herbosa, T.,
+Joseph, S., Kibatala, P. L., Lapitan, M. C. M., Merry, A. F., Moorthy, K., Reznick, R. K.,
+Taylor, B., Gawande, A. A. (2009). A surgical safety checklist to reduce morbidity and
+mortality in a global population. The New England Journal of Medicine, 360, 491–499.
+Haynes, T. L., Perry, R. P., Stupnisky, R. H., & Daniels, L. M. (2009). A review of
+attributional retraining treatments: Fostering engagement and persistence in vulnerable college students. In Higher Education: Handbook of Theory and Research
+(pp. 227–271). The Netherlands: Springer.
+Hudley, C., & Graham, S. (1993). An attributional intervention to reduce peer-directed
+aggression among African-American boys. Child Development, 64, 124–138.
+Hulleman, C. S., & Cordray, D. S. (2009). Moving from the lab to the field: The role
+of fidelity and achieved relative intervention strength. Journal of Research on
+Educational Effectiveness, 2, 88–110.
+
+296
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+Hulleman, C. S., & Harackiewicz, J. M. (2009). Making education relevant: Increasing
+interest and performance in high school science classes. Science, 326, 1410–1412.
+James-Burdumy, S., Deke, J., Lugo-Gil, J., Carey, N., Hershey, A., Gersten, R., . . .
+Faddis, B. (2010). Effectiveness of selected supplemental reading comprehension
+interventions: Findings from two student cohorts (NCEE 2010–4016). Retrieved
+from http://ies.ed.gov/ncee/pubs/20104015/pdf/20104016.pdf
+Jamieson, J., Mendes, W. B., Blackstock, E., & Schmader, T. (2009). Turning the knots
+in your stomach into bows: Reappraising arousal improves performance on the
+GRE. Journal of Experimental Social Psychology, 46, 208–212.
+Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies:
+Knowns and unknowns, resolved and unresolved controversies. Personality and
+Social Psychology Review, 9, 131–155.
+Kelley, H. H. (1973). The process of causal attribution. American Psychologist, 28,
+107–128.
+Kuhn, T. S. (1979). Metaphor in science. In A. Ortony (Ed.), Metaphor and thought
+(2nd ed., pp. 403–419). Cambridge, England: Cambridge University Press.
+Kulesza, M., Apperson, M., Larimer, M. E., & Copeland, A. L. (2010). Brief alcohol
+intervention for college drinkers: How brief is it? Addictive Behaviors, 35, 730–733.
+Labaree, D. F. (1998). Educational researchers: Living with a lesser form of knowledge. Educational Researcher, 27, 4–12.
+Langer, E. J., & Rodin, J. (1976). The effects of choice and enhanced personal responsibility for the aged: A field experiment in an institutional setting. Journal of
+Personality and Social Psychology, 34, 191–198.
+Lewin, K. (1952). Group decision and social change. In G. E. Swanson, T. M.
+Newcomb, & E. L. Hartley (Eds.), Readings in social psychology (2nd ed., pp. 330–
+344). New York, NY: Holt.
+Logel, C., & Cohen, G. L. (2011). The role of the self in physical health: Testing the
+effect of a values affirmation intervention on weight loss. Unpublished manuscript,
+Stanford University, Stanford, CA.
+Marigold, D. C., Holmes, J. G., & Ross, M. (2007). More than words: Reframing compliments from romantic partners fosters security in low self-esteem individuals.
+Journal of Personality and Social Psychology, 92, 232–248.
+Martens, A., Johns, M., Greenberg, J., & Schimel, J. (2006). Combating stereotype
+threat: The effect of self-affirmation on women’s intellectual performance. Journal
+of Experimental Social Psychology, 42, 236–243.
+McCord, J. (1978). A thirty-year follow-up of treatment effects. American Psychologist,
+33, 284–289.
+Mendoza-Denton, R., Purdie, V., Downey, G., Davis, A., & Pietrzak, J. (2002).
+Sensitivity to status-based rejection: Implications for African-American students’
+college experience. Journal of Personality and Social Psychology, 83, 896–918.
+Miller, D. T., & Prentice, D. A. (in press). Psychological levers of behavior change. In
+E. Shafir (Ed.), Behavioral foundations of policy. New York, NY: Russell Sage.
+Miyake, A., Kost-Smoth, L. E., Finkelstein, N. D., Pollock, S. J., Cohen, G. L., & Ito, A.
+(2010). Reducing the gender achievement gap in college science: A classroom study
+of values affirmation. Science, 330, 1234–1237.
+Molden, D. C., & Dweck, C. S. (2006). Finding “meaning” in psychology: A lay theories approach to self-regulation, social perception, and social development. American
+Psychologist, 61, 192–203.
+Morisano, D., Hirsh, J. B., Peterson, J. B., Pihl, R. O., & Shore, B. (2010). Setting,
+elaborating, and reflecting on personal goals improves academic performance.
+Journal of Applied Psychology, 95, 255–264.
+
+297
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+Morris, A. K., & Hiebert, J. (2011). Creating shared instructional products: An alternative approach to improving teaching. Educational Researcher, 40, 5–13.
+Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children’s motivation and performance. Journal of Personality and Social Psychology,
+75, 33–52.
+National Writing Project. (2010). Research brief no. 2. Retrieved from http://www
+.nwp.org/cs/public/download/nwp_file/14004/FINAL_2010_Research_Brief.pdf?
+x-r=pcfile_d
+Nussbaum, A. D., & Dweck, C. S. (2008). Defensiveness vs. remediation: Self-theories
+and modes of self-esteem maintenance. Personality and Social Psychology Bulletin,
+34, 127–134.
+Oyserman, D., Bybee, D., & Terry, K. (2006). Possible selves and academic outcomes:
+How and when possible selves impel action. Journal of Personality and Social
+Psychology, 91, 188–204.
+Page-Gould, E., Mendoza-Denton, R., & Tropp, L. R. (2008). With a little help from
+my cross-group friend: Reducing anxiety in intergroup contexts through cross-group
+friendship. Journal of Personality and Social Psychology, 95, 1080–1094.
+Paluck, E. L. (2009). Reducing intergroup prejudice and conflict using the media: A
+field experiment in Rwanda. Journal of Personality and Social Psychology, 96,
+574–587.
+Paluck, E. L. (2010). Is it better not to talk? Group polarization, extended contact, and
+perspective-taking in eastern Democratic Republic of Congo. Personality and Social
+Psychology Bulletin, 36, 1170–1185.
+Papay, J., Murnane, R., & Willett, J. (2010). The consequences of high school exit
+examinations for low-performing urban students: Evidence from Massachusetts.
+Educational Evaluation and Policy Analysis, 32, 5–23.
+Pennebaker, J. W. (1997). Opening up: The healing power of expressing emotion. New
+York, NY: Guilford.
+Pennebaker, J. W., & Beall, S. K. (1986). Confronting a traumatic event: Toward an
+understanding of inhibition and disease. Journal of Abnormal Psychology, 95, 274–
+281.
+Petry, N. M., Weinstock, J., Ledgerwood, D. M., & Morasco, B. (2008). A randomized
+trial of brief interventions for problem and pathological gamblers. Journal of
+Consulting and Clinical Psychology, 76, 318–328.
+Ramirez, G., & Beilock, S. (2011). Writing about testing worries boosts exam performance in the classroom. Science, 331, 211–213.
+Raudenbush, S. (1984). Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility of expectancy induction: A synthesis of findings from 18
+experiments. Journal of Educational Psychology, 76, 85–97.
+Reis, H. T., & Gosling, S. D. (2010). Social psychological methods outside the laboratory. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), Handbook of social psychology (5th ed., Vol. 1, pp. 82–114). New York, NY: John Wiley.
+Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive tutor:
+Applied research in mathematics education. Psychonomic Bulletin & Review, 14,
+249–255.
+Robinson, T. N. (in press). Stealth interventions for obesity prevention and control:
+Motivating behavior change. In L. Dube, A. Bechara, A. Dagher, A. Drewnowski,
+J. LeBel, P. James, D. Richard, R. Denis, R. Yada. (Eds.), Obesity prevention: The
+role of brain and society on individual behavior. New York, NY: Elsevier.
+
+298
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+Rodin, J., & Langer, E. J. (1977). Long-term effects of a control-relevant intervention
+with the institutionalized aged. Journal of Personality and Social Psychology, 35,
+897–902.
+Romero, C., Paunesku, D., & Dweck, C. (2011, April). Brainology in the classroom:
+An online growth mindset intervention affects GPA, conduct, and implicit theories.
+Poster presented at the biennial meeting for the Society for Research in Child
+Development, Montreal, Canada.
+Ross, L., & Nisbett, R. E. (1991). The person and the situation: Perspectives of social
+psychology. New York, NY: McGraw-Hill.
+Rydell, R. J., Shiffrin, R. M., Boucher, K. L., Van Loo, K., & Rydell, M. T. (2010).
+Stereotype threat prevents perceptual learning. Proceedings of the National Academy
+of Science, 107, 14042–14047.
+Schmader, T., Johns, M., & Forbes, C. (2008). An integrated process model of stereotype threat effects on performance. Psychological Review, 115, 336–356.
+Schulz, R., & Hanusa, B. H. (1978). Long-term effects of control and predictabilityenhancing interventions: Findings and ethical issues. Journal of Personality and
+Social Psychology, 36, 1194–1201.
+Schwarz, N., Bless, H., Strack, F., Klumpp, G., Rittenauer-Schatka, H., & Simmons,
+A. (1991). Ease of retrieval as information: Another look at the availability heuristic.
+Journal of Personality and Social Psychology, 61, 195–202.
+Schwartz, D. L., & Martin, T. (2004). Inventing to prepare for learning: The hidden
+efficiency of original student production in statistics instruction. Cognition &
+Instruction, 22, 129–184.
+Scott, J. C. (1998). Seeing like a state: How certain schemes to improve the human
+condition have failed. New Haven, CT: Yale University Press.
+Sherman, D. K., & Cohen, G. L. (2006). The psychology of self-defense: Selfaffirmation theory. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 38, pp. 183–242). San Diego, CA: Academic Press.
+Sherman, D. K., Cohen, G. L., Nelson, L. D., Nussbaum, A. D., Bunyan, D. P., & Garcia,
+J. P. (2009). Affirmed yet unaware: Exploring the role of awareness in the process of
+self-affirmation. Journal of Personality and Social Psychology, 97, 745–764.
+Sherman, D. K., & Hartson, K. A. (2011). Reconciling self-protection with selfimprovement: Self-affirmation theory. In M. Alicke & C. Sedikides (Eds.), The
+Handbook of Self-Enhancement and Self-Protection. (pp. 128–151). New York, NY:
+Guilford Press.
+Sherman, D. K., Hartson, K. A., Binning, K. R., Purdie-Vaughns, V., Garcia, J.,
+Taborsky-Barba, S., Tomassetti, S., Nussbaum, A. D., & Cohen, G. L. (2011). Selfaffirmation, identity threat, and academic performance: Understanding the effects of
+a social psychological intervention. Manuscript in preparation.
+Somers, M.-A., Corrin, W., Sepanik, S., Salinger, T., Levin, J., & Zmach, C. (2010).
+The Enhanced Reading Opportunities Study final report: The impact of supplemental literacy courses for struggling ninth-grade readers (NCEE 2010–4022).
+Retrieved from http://ies.ed.gov/ncee/pubs/20104021/pdf/20104021.pdf
+Steele, C. (2010). Whistling Vivaldi: And other clues how stereotypes affect us. New
+York, NY: Norton.
+Steele, C. M. (1988). The psychology of self-affirmation: Sustaining the integrity
+of the self. In L. Berkowitz (Ed.), Advances in experimental social psychology
+(pp. 261–302). New York, NY: Academic Press.
+Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and
+performance. American Psychologist, 52, 613–629.
+
+299
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Yeager & Walton
+
+Steele, C. M., Spencer, S. J., & Aronson, J. (2002). Contending with group image: The
+psychology of stereotype and social identity threat. In M. P. Zanna (Ed.), Advances
+in experimental social psychology (Vol. 34, pp. 379–440). San Diego, CA: Academic
+Press.
+Storms, M. D., & Nisbett, R. E. (1970). Insomnia and the attribution process. Journal
+of Personality and Social Psychology, 16, 319–328.
+Szalavitz, M. (2009, January 14). Study: A simple surgery checklist saves lives. Time.
+Retrieved from http://www.time.com/time/health/article/0,8599,1871759,00.html
+Taylor, V. J., & Walton, G. (in press). Stereotype threat undermines academic learning.
+Personality and Social Psychology Bulletin.
+Thibodeau, P. H., & Boroditsky, L. (2011). Metaphors we think with: The role of
+metaphor in reasoning. PLoS ONE, 6(2), e16782. Retrieved from http://www
+.plosone.com
+Thomaes, S., Bushman, B. J., Orobio de Castro, B., Cohen, G., & Denissen, J. A.
+(2009). Reducing narcissistic aggression by buttressing self-esteem: An experimental field study. Psychological Science, 20, 1536–1542.
+Tyack, D. B., & Cuban, L. (1995). Tinkering toward utopia: A century of public school
+reform. Cambridge, MA: Harvard University Press.
+Vansteenkiste, M., Simons, J., Lens, W., Sheldon, K. M., & Deci, E. L. (2004).
+Motivating learning, performance, and persistence: The synergistic role of intrinsic
+goals and autonomy-support. Journal of Personality and Social Psychology, 87,
+246–260.
+Walton, G. M., & Cohen, G. L. (2007). A question of belonging: Race, social fit, and
+achievement. Journal of Personality and Social Psychology, 92, 82–96.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves
+academic and health outcomes among minority students. Science, 331, 1447–1451.
+Walton, G. M., Cohen, G. L., Garcia, J., Apfel, N., & Master, A. (2011). A brief intervention to buttress middle school students’ sense of social-belonging: Effects by race
+and gender. Unpublished manuscript, Stanford University, Stanford, CA.
+Walton, G. M., & Dweck, C. S. (2009). Solving social problems like a psychologist.
+Perspectives on Psychological Science, 4, 101–102.
+Walton, G. M., Logel, C., Peach, J., & Spencer, S. (2011). Two interventions to boost
+women’s achievement in engineering: Social-belonging and self-affirmationtraining. Unpublished manuscript, Stanford University, Stanford, CA.
+Walton, G. M., & Spencer, S. J. (2009). Latent ability: Grades and test scores systematically underestimate the intellectual ability of negatively stereotyped students.
+Psychological Science, 20, 1132–1139.
+Weiner, B. (1986). An attributional theory of emotion and motivation, New York, NY:
+Springer-Verlag.
+Wilson, T. D. (2006). The power of social psychological interventions. Science, 313,
+1251–1252.
+Wilson, T. D., Damiani, M., & Shelton, N. (2002). Improving the academic performance of college students with brief attributional interventions. In J. Aronson (Ed.),
+Improving academic achievement: Impact of psychological factors on education
+(pp. 88–108). San Diego, CA: Academic Press.
+Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. Journal of Personality and Social
+Psychology, 42, 367–376.
+
+300
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+Social-Psychological Interventions in Education
+
+Wilson, T. D., & Linville, P. W. (1985). Improving the performance of college freshmen with attributional techniques. Journal of Personality and Social Psychology,
+49, 287–293.
+Wineburg, S. S. (1987). The self-fulfillment of the self-fulfilling prophecy. Educational
+Researcher, 16, 28–37.
+Yeager, D. S., Trzesniewski, K., & Dweck, C. S. (2011). An implicit theories intervention
+changes aggressive and prosocial responses to peer exclusion and victimization
+among high school students. Unpublished manuscript, Stanford University, Stanford,
+CA.
+
+Authors
+DAVID S. YEAGER is a Ph.D. candidate in the Stanford University School of Education,
+Developmental and Psychological Sciences, 271 Jordan Hall, Stanford, CA 94107;
+e-mail: dyeager@stanford.edu. He is supported by a dissertation writing fellowship from
+the Spencer Foundation. His research focuses on social cognitive development, motivation, adolescence, research methodology, and psychological interventions.
+GREGORY M. WALTON is an assistant professor in the Social Psychology area of the
+Stanford University Department of Psychology; e-mail: gwalton@stanford.edu. His
+research focuses on self and identity, stereotypes, motivation and achievement, and social
+cognition.
+
+301
+Downloaded from http://rer.aera.net at Stanford University Libraries on June 7, 2011
+
+

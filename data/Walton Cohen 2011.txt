@@ -1,0 +1,1037 @@
+REPORTS
+changes in the interlaminar signal flows in rats
+are consistent with our results obtained in monkeys performing a memory task. Together, these
+findings highlight the flexibility of cortical laminar circuits. Further experiments will be needed
+to determine whether such flexible interlaminar
+connectivity is also implemented and used in
+other cortical areas for other cognitive demands.
+
+Gregory M. Walton1* and Geoffrey L. Cohen1,2
+A brief intervention aimed at buttressing college freshmen’s sense of social belonging in school was
+tested in a randomized controlled trial (N = 92), and its academic and health-related consequences over
+3 years are reported. The intervention aimed to lessen psychological perceptions of threat on campus
+by framing social adversity as common and transient. It used subtle attitude-change strategies to lead
+participants to self-generate the intervention message. The intervention was expected to be particularly
+beneficial to African-American students (N = 49), a stereotyped and socially marginalized group in
+academics, and less so to European-American students (N = 43). Consistent with these expectations,
+over the 3-year observation period the intervention raised African Americans’ grade-point average (GPA)
+relative to multiple control groups and halved the minority achievement gap. This performance boost
+was mediated by the effect of the intervention on subjective construal: It prevented students from
+seeing adversity on campus as an indictment of their belonging. Additionally, the intervention
+improved African Americans’ self-reported health and well-being and reduced their reported number
+of doctor visits 3 years postintervention. Senior-year surveys indicated no awareness among participants
+of the intervention's impact. The results suggest that social belonging is a psychological lever where
+targeted intervention can have broad consequences that lessen inequalities in achievement and health.
+
+A
+
+Americans, and other non-Asian ethnic minorities relative to European Americans. These differences occur at all levels of socioeconomic
+status (1–3).
+Although many structural factors contribute
+to these inequalities, the present research exam-
+
+www.sciencemag.org
+
+SCIENCE
+
+23.
+24.
+25.
+26.
+
+References and Notes
+1. L. R. Squire, J. T. Wixted, R. E. Clark, Nat. Rev. Neurosci.
+8, 872 (2007).
+2. W. A. Suzuki, Neuron 61, 657 (2009).
+3. E. A. Murray, T. J. Bussey, L. M. Saksida, Annu. Rev.
+Neurosci. 30, 99 (2007).
+4. Y. Miyashita, Science 306, 435 (2004).
+5. Y. Naya, M. Yoshida, Y. Miyashita, J. Neurosci. 23, 2861
+(2003).
+6. N. K. Logothetis, D. L. Sheinberg, Annu. Rev. Neurosci.
+19, 577 (1996).
+7. G. Buzsáki, Neuron 68, 362 (2010).
+8. S. H. Wang, R. G. Morris, Annu. Rev. Psychol. 61, 49, C1
+(2010).
+9. M. P. Witter, E. I. Moser, Trends Neurosci. 29, 671 (2006).
+10. A. Bollimunta, Y. Chen, C. E. Schroeder, M. Ding, J. Neurosci.
+28, 9976 (2008).
+11. A. K. Engel, P. Fries, Curr. Opin. Neurobiol. 20, 156 (2010).
+12. I. E. Ohiorhenuan et al., Nature 466, 617 (2010).
+13. R. J. Douglas, K. A. Martin, Annu. Rev. Neurosci. 27, 419
+(2004).
+14. J. J. Nassi, E. M. Callaway, Nat. Rev. Neurosci. 10, 360
+(2009).
+15. R. C. Reid, J. M. Alonso, Curr. Opin. Neurobiol. 6, 475 (1996).
+16. J. Csicsvari, B. Jamieson, K. D. Wise, G. Buzsáki, Neuron
+37, 311 (2003).
+17. C. E. Schroeder, P. Lakatos, Trends Neurosci. 32, 9 (2009).
+
+A Brief Social-Belonging Intervention
+Improves Academic and Health
+Outcomes of Minority Students
+
+n important question facing society concerns the origins of inequalities between
+socially marginalized and nonmarginalized groups. Among the most consequential of
+inequalities is the poorer school and health outcomes experienced by African Americans, Latino
+
+18.
+19.
+20.
+21.
+22.
+
+VOL 331
+
+27.
+28.
+29.
+30.
+
+A. K. Engel, W. Singer, Trends Cogn. Sci. 5, 16 (2001).
+T. Hirabayashi, Y. Miyashita, J. Neurosci. 25, 10299 (2005).
+M. Tomita, J. J. Eggermont, J. Neurophysiol. 93, 378 (2005).
+C. A. Atencio, C. E. Schreiner, PLoS ONE 5, e9521 (2010).
+T. Hirabayashi, D. Takeuchi, K. Tamura, Y. Miyashita,
+J. Neurosci. 30, 10407 (2010).
+J. M. Alonso, L. M. Martinez, Nat. Neurosci. 1, 395 (1998).
+Materials and methods are available as supporting
+material on Science Online.
+S. Lefort, C. Tomm, J. C. Floyd Sarria, C. C. H. Petersen,
+Neuron 61, 301 (2009).
+N. Weiler, L. Wood, J. I. Yu, S. A. Solla, G. M. G.
+Shepherd, Nat. Neurosci. 11, 360 (2008).
+S. Sakata, K. D. Harris, Neuron 64, 404 (2009).
+W. A. Suzuki, D. G. Amaral, J. Comp. Neurol. 463, 67 (2003).
+K. S. Saleem, K. Tanaka, J. Neurosci. 16, 4757 (1996).
+This work was supported by a Grant-in-Aid for Specially
+Promoted Research from the Ministry of Education,
+Culture, Sports, Science and Technology (MEXT) to Y.M.
+(19002010) and Grant-in-Aid for Young Scientists from
+MEXT to T.H. (18700378); a grant from Takeda Science
+Foundation to Y.M.; and Japan Society for the Promotion
+of Science (JSPS) Research Fellowships for Young Scientists
+to D.T. (1811234) and K.T. (211438). This work was also
+supported in part by Global Center of Excellence Program
+from MEXT. We thank M. Takeda for discussions and
+comments and H. Kasahara, R. Fujimichi, T. Matsui, and
+K. W. Koyano for advice and help with experiments.
+
+Supporting Online Material
+www.sciencemag.org/cgi/content/full/331/6023/1443/DC1
+Materials and Methods
+SOM Text
+Figs. S1 to S9
+Tables S1 and S2
+References
+3 November 2010; accepted 8 February 2011
+10.1126/science.1199967
+
+ines a psychological factor: concern about social
+belonging. Social belonging—a sense of having
+positive relationships with others—is a fundamental human need (4, 5). Social isolation, loneliness,
+and low social status harm not only subjective
+well-being (6) but also intellectual achievement
+(7) and immune function and health (8–11). Even
+a single instance of exclusion can undermine wellbeing (12, 13), intelligence quotient (IQ) test performance, and self-control (14).
+Members of socially stigmatized groups, such
+as African Americans, may be relatively more
+uncertain about their social belonging in mainstream institutions like school and work (7). Because their ethnic group is often negatively
+stereotyped and marginalized, they may be unsure of whether they will be fully included in
+positive social relationships in these settings (2).
+As the sociologist Erving Goffman wrote, “The
+central feature of the stigmatized individual’s situation in life…is a question of…‘acceptance’”
+(15). Uncertainty about belonging, especially when
+chronic, can undermine minorities’ performance
+(7, 16) and health (3, 17, 18). Social belonging
+may thus constitute a psychological lever where
+targeted intervention could yield broad benefits.
+
+Downloaded from http://science.sciencemag.org/ on September 20, 2017
+
+units (fig. S9) [paired t test, P < 0.02, n = 19 pairs;
+median distances from the granular layer were 0.45
+mm (source units) and 1.05 mm (target units)].
+The present study demonstrated that canonical feed-forward signal flow across cortical layers
+during sensory coding reverse to the feed-back
+direction during memory retrieval phase, which suggests flexible recruitment of interlaminar connectivity
+depending on the cognitive demands in the monkey
+association cortices (Fig. 4C). We used CSD analysis to estimate cortical layers (Fig. 1, C to E, and
+fig. S1), and the observed stimulus-evoked CSD
+profiles were quite similar to those in the primary
+sensory cortices (17, 27). For some penetrations,
+we observed that the current sink positioned superficially next to the earliest-sink contact exhibited
+larger peak amplitudes and much longer durations
+than that of the earliest current sink. This observation
+might reflect the cytoarchitectural nature of A36 as
+a dysgranular cortex (28) as well as the direct inputs
+to the deepest part of the superficial layer, which is
+consistent with anatomical observations (29).
+A recent study in the rat primary auditory cortex demonstrated that the direction of interlaminar signal flow depends on the cortical “state”:
+Sensory-evoked responses were initiated in the
+thalamorecipient layers and then propagated to the
+superficial and deep layers, whereas in spontaneously active “up-states,” neuronal activity was
+initiated in the deep layers and then propagated to
+the superficial layers (27). These state-dependent
+
+1
+Department of Psychology, Stanford University, Stanford, CA
+94305, USA. 2School of Education and Graduate School of
+Business, Stanford University, Stanford, CA 94305, USA.
+
+*To whom correspondence should be addressed. E-mail:
+gwalton@stanford.edu
+
+18 MARCH 2011
+
+1447
+
+REPORTS
+
+1448
+
+college-adjustment process. Upon arrival in a
+research lab, participants read a report of the
+ostensible results of a survey of more senior
+students at their school. Most students, the report
+indicated, had worried about whether they belonged in college during the difficult first year but
+grew confident in their belonging with time. The
+survey results were said to be consistent across
+ethnic and gender groups. For instance, one survey respondent was quoted as saying, “Freshman
+year even though I met large numbers of people, I
+didn’t have a small group of close friends…I was
+pretty homesick, and I had to remind myself that
+making close friends takes time. Since then…I
+have met people some of whom are now just as
+close as my friends in high school were” (23).
+Concerns about belonging were thus represented
+as common at first, as temporary, and as due to
+the challenging nature of the college transition.
+To encourage participants to internalize the
+message, several steps exploited the “sayingis-believing effect”—the tendency to endorse
+messages that one has freely advocated (25). Participants were asked to write an essay describing
+how their own experiences in college echoed the
+experiences summarized in the survey. They
+then turned their essay into a speech, which they
+delivered to a video camera. These materials,
+participants were told, would be shown to future
+students to help ease their transition to college.
+Beyond facilitating internalization, this procedure
+averted the potential stigma of receiving an
+intervention, because it encouraged participants
+to see themselves as benefactors and not as
+beneficiaries (24, 26). In the control condition,
+the procedure was the same but the survey addressed topics unrelated to belonging (e.g., change
+in social-political attitudes) (23). The intervention
+lasted about 1 hour.
+Few analyses were moderated by cohort (i.e.,
+no more than would be expected by chance alone
+and none involving the primary outcomes of
+GPA, health, or well-being). Thus, data from the
+two cohorts were combined to increase statistical
+Fig. 1. Raw GPA by
+student race, experimental condition, and academic term. Means are
+noncumulative and were
+combined across cohorts.
+Ranges in sample sizes
+and standard errors for
+European Americans are
+N = 25 to 33 and SE =
+0.08 to 0.14; for African
+Americans, N = 30 to 37
+and SE = 0.09 to 0.12.
+
+18 MARCH 2011
+
+power. First, analyses examined the trajectory of
+students’ official GPA over time. In contrast to all
+other groups, African Americans in the control
+group showed no improvement in GPA from the
+fall of their freshman year, the semester before
+the intervention, through their sophomore, junior,
+and senior years [linear trend F < 1]. By contrast,
+the GPAs of intervention-treated African Americans rose over time [for linear trend, F(1,34) =
+13.79, P = 0.0007; for time × condition, F(1,34) =
+4.16, P = 0.049]. The GPAs of European-American
+students also rose over time [F(1,29) = 6.88, P =
+0.014] with no difference by condition [F < 1].
+As Fig. 1 shows, the intervention set African
+Americans on an upward trajectory such that the
+gap between them and their European Americans
+classmates closed over time. By students’ senior
+year, the gap was cut by 79% (23).
+Multiple regression, with student gender
+controlled, tested the effect of student race and
+condition (randomized control versus socialbelonging treatment) on change in GPA—mean
+postintervention GPA (sophomore through senior
+years) minus mean preintervention GPA (fall
+term, first year) (23). There was no condition
+effect on preintervention GPA for either racial
+group [t values < 1] (table S1) (23). However, a
+significant condition effect on change in GPA
+emerged for African Americans [B = 0.30, t(65) =
+2.54, P = 0.014] with no effect for European
+Americans [t < 1] [race × condition B = –0.43, t(65) =
+–2.41, P = 0.019]. Virtually identical results were
+obtained when preintervention GPA was used as
+a covariate in an analysis of postintervention
+GPA [treatment effect for African Americans, B =
+0.24, t(64) = 2.65, P = 0.010; treatment effect for
+European Americans, t < 1; race × condition: B =
+–0.31, t(64) = –2.27, P = 0.027]. The intervention
+closed the minority gap in 3-year GPA (SD =
+0.36) from 0.29 points in the control condition to
+0.14 points in the treatment condition, a 52%
+reduction.
+Adding the campus-wide sample further supports treatment efficacy. An agreement with uni-
+
+4.00
+Social-Belonging
+Treatment
+
+3.90
+
+European Americans, Randomized Control Group
+European Americans, Social-Belonging Treatment
+African Americans, Randomized Control Group
+African Americans, Social-Belonging Treatment
+
+3.80
+3.70
+3.60
+3.50
+3.40
+3.30
+3.20
+3.10
+3.00
+Fall Term
+
+First Year
+
+VOL 331
+
+SCIENCE
+
+Fall Term Spring Term Fall Term Spring Term Fall Term Spring Term
+
+Sophomore Year
+
+www.sciencemag.org
+
+Junior Year
+
+Senior Year
+
+Downloaded from http://science.sciencemag.org/ on September 20, 2017
+
+Such an intervention is reported here. Critical
+to its rationale is the insight that it is people’s
+subjective interpretations of the quality of their
+relationships, more so than the objective number
+or attributes of those relationships, that strongly
+affects well-being (5, 19). The present intervention, delivered to students during the challenging
+transition to college, was designed to encourage
+nonthreatening interpretations of adversity. During
+the transition to a new school, students can face
+frequent social setbacks and feelings of isolation.
+Their well-being and performance may depend, to
+a great extent, on whether they construe such
+experiences as evidence that they do not belong.
+Because African-American students experience relatively greater uncertainty about their
+belonging in school, they were expected to benefit from the intervention more than nonminority
+students (7). Further if, as we intended, the intervention triggered an enduring perceptual change
+in the encoding of social experience, its effects
+might persist over time. Short-term effects might
+compound into long-term effects through a recursive virtuous cycle, in which early performance gains assure students of their belonging in
+school, which in turn improves their performance,
+in a repeating feedback loop (20). Students who
+feel more assured of their belonging may also
+initiate more social interactions and form better
+relationships on campus, facilitating their social
+integration and further benefiting their wellbeing, performance, and health (21).
+The intervention was delivered to two cohorts
+of African-American (N = 49) and EuropeanAmerican (N = 43) students in the second semester of their first year at a selective college (22, 23).
+To assess psychological responses to adversity,
+we asked participants to complete daily surveys
+in the first week after the intervention. To assess
+their long-term sense of belonging, health, and
+well-being, we asked them to complete an endof-college survey 3 years later (completion rate
+78.26%) (23). At the end of this survey, participants were asked to authorize the release of their
+complete college academic transcript (authorization rate 97.22%) (23).
+Participating students were randomly assigned to either the belonging-treatment condition or a control condition. In cohort 1, participants
+were recruited through convenience sampling; in
+cohort 2, through random sampling (23). An
+additional campus-wide control group was obtained by collecting the anonymized official
+grade-point averages (GPAs) of all European
+Americans (N = 1362) and African Americans
+(N = 194) in the same class years as participants
+but who did not participate in the study (23).
+This group was included in secondary analyses
+of GPA.
+The intervention provided students with a
+narrative that framed social adversity in school as
+shared and short-lived (24). This message encouraged students to attribute adversity not to
+fixed deficits unique to themselves or their ethnic
+group but to common and transient aspects of the
+
+REPORTS
+2.99, P = 0.004]. In summary, the intervention
+robbed adversity of its symbolic meaning for
+African Americans, untethering their sense of
+belonging from daily hardship (27). Like treated
+African Americans, European Americans showed
+little relationship between adversity and belonging
+[for both conditions, mean within-subjects R =
+–0.09; condition difference, t < 1] [race × condition: t(59) = –2.04, P = 0.046].
+These results provide a window into the shift
+in African-American students’ psychology caused
+by the intervention. This shift benefited their
+long-term performance. African Americans whose
+belonging was more robust to daily adversity—
+whose sense of belonging was relatively independent of their day-to-day adversity—showed
+greater improvement in their 3-year postintervention GPA [R = 0.51, P = 0.001] (23). The
+effect of the intervention in protecting AfricanAmericans students’ sense of belonging from daily
+adversity mediated its effect on their GPA (23).
+The intervention thus planted a change in social
+perception that, it appears, accompanied students
+long after the intervention ended to affect their
+performance in college.
+Three years after the intervention, at the end
+of their college tenure, participants completed a
+survey to assess long-term effects on psychology,
+well-being, and health. Also, to assess whether
+the intervention operated beneath conscious awareness, we asked participants whether they remembered the intervention from 3 years previously,
+whether they thought it had affected them, and
+whether they agreed with its message. On no
+outcome did European Americans differ by condition [t values < 1.35, P values > 0.18]. African
+Americans, however, showed consistent treatment effects. The race × condition interaction
+
+was not always significant, indicating that the
+treatment effect was not always larger for African
+Americans than for European Americans. Degrees
+of freedom vary because some measures were
+completed only by participants in cohort 2 (23).
+If the intervention lessened how much African Americans’ belonging fluctuated with adversity, and if it did so by lessening how much they
+viewed campus life through the lens of race, then
+intervention-treated African Americans should
+(i) report greater stability and less uncertainty
+about their belonging in school {less agreement
+with items like, “When something bad happens, I
+feel that maybe I don’t belong at [school name]”}
+(7) and (ii) exhibit less cognitive accessibility of
+negative racial stereotypes and self-doubt (23).
+They did [self-reported belonging uncertainty,
+t(36) = –2.01, P = 0.052; accessibility of negative
+racial stereotypes, t(66) = –2.01, P = 0.049;
+accessibility of self-doubt, t(64) = –2.64, P =
+0.010] (Fig. 3) (23).
+Given the importance of social belonging for
+reducing stress and improving immune function
+and physical health (5, 8–11, 19) and the relatively poorer health experienced by African
+Americans, even those high in socioeconomic
+status (3), we examined effects on health. We
+assessed self-reported health, an important predictor of morbidity and mortality (28), using the
+five-item general health component of the Medical Outcomes Study Short-Form Health Survey
+(23). We also asked participants how many times
+they had visited the doctor in the previous 3
+months (cohort 1) or 1 month (cohort 2). African
+Americans reported being healthier and visiting the doctor less frequently in the treatment
+condition than in the control condition [t(32) =
+2.48, P = 0.019 and t(63) = –2.23, P = 0.030,
+
+Fig. 2. Cumulative academic
+Campus-Wide Control Group
+performance from sophomore
+Randomized Control Group
+Percentage of Students in Top and Bottom 25%
+through senior year. Data were
+Social-Belonging Treatment
+of College Class
+combined across cohorts. (A) ResidA
+B In Residual Postintervention GPA C
+Mean Residual
+ual sophomore-through-seniorIn Raw Postintervention GPA
+70%
+70%
+0.25 Postintervention GPA
+year GPAs adjusted for student
+gender and preintervention (fall
+0.20
+60%
+60%
+term, first year) GPA. Error bars
+0.15
+50%
+50%
+represent T1 SE. Means repre0.10
+sent the degree to which stu40%
+40%
+dents performed better (positive
+0.05
+30%
+30%
+values) or worse (negative val0.00
+ues) than expected after the in20%
+20%
+tervention in GPA units based on -0.05
+-0.10
+10%
+10%
+their gender and preintervention
+performance. (B) Percentage of -0.15
+0%
+0%
+students in the top and bottom
+-0.20
+In
+Top
+of
+In
+Top
+of
+In
+Bottom
+In
+Bottom
+In Top of In Bottom In Top of In Bottom
+25% of their college class in
+Class of Class Class of Class
+Class of Class Class of Class
+residual postintervention GPA -0.25
+(i.e., postintervention GPA adEuropean African
+justed for student gender and
+American American
+European American African American
+European American African American
+Students Students
+preintervention GPA). (C) PercentStudents
+Students
+Students
+Students
+age of students in the top and
+bottom 25% of their college class
+in raw postintervention GPA. For analytic details, see (23). Sample sizes for European Americans are Ncampus-wide control group = 1362 and Nexperimental groups = 33; for African
+Americans, Ncampus-wide control group = 194 and Nexperimental groups = 37.
+www.sciencemag.org
+
+SCIENCE
+
+VOL 331
+
+18 MARCH 2011
+
+Downloaded from http://science.sciencemag.org/ on September 20, 2017
+
+versity officials precludes the reporting of raw or
+adjusted means in this sample. To honor this
+agreement but present the results graphically, we
+performed analyses on residual postintervention
+GPA with preintervention GPA and gender controlled. Multiple regression on change in GPA
+and on raw postintervention GPA with preintervention GPA included as a covariate yield virtually identical results (23). As shown in Fig. 2A,
+treated African Americans had higher residual
+GPA scores than did African Americans campuswide [B = 0.28, t(1620) = 3.97, P = 0.00008] and
+African Americans in the randomized control group
+[B = 0.24, t(1620) = 2.62, P = 0.009]. The latter
+two groups did not differ [t < 1]. (Fig. 2A) (23).
+Illustrating its broad impact, the intervention tripled the percentage of African Americans
+earning postintervention GPAs in the top 25%
+of their class, as measured by both residual and
+raw postintervention GPA, and tended to reduce
+the percentage of African Americans performing
+in the bottom 25% of their class on both indices
+(Fig. 2, B and C) (23).
+What accounts for these treatment effects?
+Daily surveys, collected the week after the intervention, suggest that the intervention buffered
+African Americans against adversity (23). Among
+untreated African Americans, feelings of belonging in school rose and fell with the degree
+of adversity students reported having experienced
+earlier that day and the day before. As adversity
+rose, belonging fell (mean within-subjects R =
+–0.45, derived from the average of individual
+participants’ within-subjects correlations, after
+each was subjected to a Fisher r-to-z transformation) (23). For treated African Americans,
+this relationship was reduced to nil [mean withinsubjects R = 0.01], a significant reduction [t(59) =
+
+1449
+
+REPORTS
+
+1450
+
+proved the academic performance, self-reported
+health, and well-being of ethnic minority students
+over 3 years. The results suggest that inequality
+between marginalized and nonmarginalized groups
+arises not only from structural factors but also
+from concern about social belonging.
+This concern can be mitigated by using a
+psychological remedy. The intervention provided
+students a nonthreatening frame for interpreting
+the daily challenges of school. By encouraging
+students to adopt this message as their own, the
+intervention made this message stick psychologically. Along with other recent research, this study
+
+highlights how the impact of adversity depends
+on its perceived meaning—how it is subjectively construed (24–26, 31–33). Changing subjective construal is a fruitful avenue for intervention
+because many events are ambiguous and amenable to multiple interpretations. Moreover, a
+change in construal can become self-reinforcing.
+Students who feel confident in their belonging
+may experience the social world in a way that reinforces this feeling. They may initiate more relationships and thus obtain more opportunities for
+belonging and growth. Brief interventions that
+shore up belonging can thus promote performance
+
+Social-Belonging Treatment
+Rasdgasg
+
+Randomized Control Group
+
+A
+
+Self-Reported
+Belonging Uncertainty
+
+7
+6
+5
+
+B
+4.0
+
+Accessibility of
+Negative Racial
+Stereotypes
+
+3.0
+
+3.0
+
+2.5
+
+4
+
+2.0
+
+3
+
+1.5
+
+1.5
+1.0
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+European African
+American American
+Students Students
+
+European African
+American American
+Students Students
+
+Accessibility of
+Self-Doubt
+
+2.0
+
+1.0
+
+1
+
+3.5
+
+3.5
+
+2.5
+
+2
+
+C
+
+European African
+American American
+Students Students
+
+Fig. 3. Self-reported belonging uncertainty and the cognitive accessibility of negative racial stereotypes
+and of self-doubt 3 years postintervention. Error bars represent T1 SE. Data were combined across cohorts
+where measures were completed by both cohorts. (A) Self-reported belonging uncertainty (cohort 2). (B)
+Accessibility of negative racial stereotypes (cohorts 1 and 2). (C) Accessibility of self-doubt (cohorts 1 and
+2). The y axis in (A) represents the full range of the scale. The y axes in (B) and (C) represent about 3.00
+standard deviations. Sample sizes in cohort 2 only are NEuropean Americans = 20 and NAfrican Americans = 23.
+Sample sizes in cohorts 1 and 2 are NEuropean Americans = 31 and NAfrican Americans = 38.
+
+Social-Belonging Treatment
+Randomized ControlRasdgasg
+Group
+
+A
+100
+90
+
+Self-Assessed
+General Health
+
+B
+
+1.50
+1.25
+
+80
+70
+
+Number of Reported
+Doctor Visits in the
+Previous Month
+
+C
+
+7
+
+Subjective
+Happiness
+
+6
+
+1.00
+
+5
+
+0.75
+
+4
+
+0.50
+
+3
+
+0.25
+
+2
+
+0.00
+
+1
+
+60
+50
+40
+30
+20
+10
+0
+
+European African
+American American
+Students Students
+
+European African
+American American
+Students Students
+
+European
+American
+Students
+
+African
+American
+Students
+
+Fig. 4. Self-reported health and happiness 3 years postintervention. Error bars represent T1 SE. Data
+were combined across cohorts where measures were completed by both cohorts. (A) Self-assessed general
+health (cohort 2). (B) Reported doctor visits in the previous month (cohorts 1 and 2). (C) Subjective
+happiness (cohort 2). The y axes in (A) and (C) represent the full range of each scale. The y axis in (B)
+represents about 2.00 standard deviations. Sample sizes in cohort 2 only are NEuropean Americans = 20 and
+NAfrican Americans = 23. Sample sizes in cohorts 1 and 2 are NEuropean Americans = 31 and NAfrican Americans = 38.
+
+18 MARCH 2011
+
+VOL 331
+
+SCIENCE
+
+www.sciencemag.org
+
+Downloaded from http://science.sciencemag.org/ on September 20, 2017
+
+respectively] (Fig. 4, A and B). Whereas 60% of
+untreated African Americans had seen a doctor
+recently, only 28% of treated African Americans
+had [c2(1, N = 38) = 3.98, P = 0.046]. The race
+gap in self-reported health was eliminated in the
+treatment condition; interestingly, there was no
+gap for doctor visits (23). Future research should
+examine whether these patterns generalize to
+physiological and physical indicators of health
+(9) to assess the robustness of the effect beyond
+self-report outcomes and to identify biological
+pathways (11).
+As further evidence of improved well-being,
+African Americans also scored higher on the
+Subjective Happiness Scale (23) [t(35) = 2.61, P =
+0.013] (Fig. 4C). The happiness gap with European Americans higher than African Americans
+disappeared in the treatment condition (23). The
+finding of a lasting positive impact on subjective
+happiness is noteworthy in light of research
+showing that individual happiness is relatively
+stable (6).
+Participants were unaware of the intervention’s effect, suggesting that its efficacy did not
+depend on conscious awareness. Most students
+reported that they remembered participating in
+the study 3 years earlier (79% did). But when
+asked to describe “the most memorable and
+important” information they had learned in the
+study, few recalled the key content of the survey
+they had read (8% did), and few reported that the
+study had had “any” effect on their college experience (14% did) (table S3). There was no
+condition difference on any of these outcomes for
+African Americans [c2(1, N = 37 to 38) values <
+1.40, P values > 0.20]; treated African Americans
+ascribed no more effect to the study than untreated African Americans. However, indirect measures of recall and beliefs did show treatment
+effects. When asked to “guess” the process of
+change described in the survey they had read,
+more treated than untreated African Americans
+wrote that it concerned how students’ social experiences in college improve over time (50%
+versus 20%) [c2(1, N = 38) = 3.79, P = 0.052].
+Additionally, treated students endorsed this message. When asked to describe their own experiences, more treated than untreated African Americans
+volunteered that their own social experiences in
+college had improved over time (50% versus 20%)
+[c2(1, N = 38) = 3.79, P = 0.052]. The subtle nature
+of this intervention, with its influence occurring
+outside conscious awareness (29), may contribute
+to its efficacy. In some cases, conscious awareness may undo the effects of an intervention (30).
+More overt interventions risk sending the stigmatizing message that the beneficiaries are seen
+as in need of help. They may also cause resistance and reactance and undermine the sense of
+accomplishment people take in their success (26).
+This study provides an experimental, longitudinal demonstration that a brief intervention to
+buttress feelings of social belonging can have
+significant effects on a wide range of important
+outcomes. The social-belonging intervention im-
+
+REPORTS
+and well-being even long after their delivery
+(7, 20, 25, 31, 34).
+Importantly, the effectiveness of socialpsychological interventions depends on factors
+in the context. Such interventions are unlikely to
+be effective in contexts without opportunities for
+learning. Also, because the present intervention
+works by changing people’s subjective interpretation of ambiguous events, it may be ineffective
+in openly hostile environments. Lastly, whether
+this intervention would work among younger or
+less-select students, or students from other marginalized groups, is an important question for
+future research (20, 31, 34). These qualifications noted, the results underscore the importance of social belonging and subjective construal
+in contributing to social inequality and show
+how this insight can inform our collective efforts
+to promote equality in performance, health, and
+well-being.
+
+Direct Interaction of RNA
+Polymerase II and Mediator
+Required for Transcription in Vivo
+Julie Soutourina,1* Sandra Wydau,1† Yves Ambroise,2 Claire Boschiero,1 Michel Werner1*
+Gene transcription is highly regulated. Altered transcription can lead to cancer or developmental
+diseases. Mediator, a multisubunit complex conserved among eukaryotes, is generally required
+for RNA polymerase II (Pol II) transcription. An interaction between the two complexes is known, but its
+molecular nature and physiological role are unclear. We identify a direct physical interaction between
+the Rpb3 Pol II subunit of Saccharomyces cerevisiae and the essential Mediator subunit, Med17.
+Furthermore, we demonstrate a functional element in the Mediator–Pol II interface that is important
+for genome-wide Pol II recruitment in vivo. Our findings suggest that a direct interaction between
+Mediator and Pol II is generally required for transcription of class II genes in eukaryotes.
+
+M
+
+ediator is a large multisubunit complex
+conserved in all eukaryotes (1). It acts
+as a link between specific protein regu-
+
+1
+
+Commissariat à l’Energie Atomique et aux Energies Alternatives (CEA), iBiTec-S, Service de Biologie Intégrative et
+Génétique Moléculaire, F-91191 Gif-sur-Yvette cedex, France.
+2
+CEA, iBiTec-S, Service de Chimie Bio-organique et Marquage,
+F-91191 Gif-sur-Yvette cedex, France.
+*To whom correspondence should be addressed. E-mail:
+julie.soutourina@cea.fr (J.S.); michel.werner@cea.fr (M.W.)
+†Present address: Université Paris Descartes, EA 4065, Faculté
+des Sciences Pharmaceutiques et Biologiques, 75006 Paris, France.
+
+lators and the RNA polymerase II (Pol II) transcription machinery (2). Mediator is required at
+most Pol II–transcribed gene promoters for regulated gene expression (3–5). In Saccharomyces
+cerevisiae, Mediator is composed of 25 subunits
+and is organized in four structural modules: the
+tail, middle, head, and Cdk8 modules (6). A direct Mediator–Pol II interaction is indicated
+by previous copurification, coimmunoprecipitation (CoIP) experiments (7–9) and by in vivo formaldehyde cross-linking (10). A model of the
+Mediator–Pol II complex determined by electron
+
+www.sciencemag.org
+
+SCIENCE
+
+VOL 331
+
+27. J. Crocker, C. T. Wolfe, Psychol. Rev. 108, 593
+(2001).
+28. E. L. Idler, Y. Benyamini, J. Health Soc. Behav. 38,
+21 (1997).
+29. T. D. Wilson, Strangers to Ourselves: Discovering the
+Adaptive Unconscious (Harvard Univ. Press, Cambridge,
+MA, 2002).
+30. D. K. Sherman et al., J. Pers. Soc. Psychol. 97, 745
+(2009).
+31. L. S. Blackwell, K. H. Trzesniewski, C. S. Dweck, Child Dev.
+78, 246 (2007).
+32. J. J. Gross, R. A. Thompson, in Handbook of Emotion
+Regulation, J. J. Gross, Ed. (Guilford, New York, 2007),
+pp. 3–24.
+33. J. P. Jamieson, W. B. Mendes, E. Blackstock, T. Schmader,
+J. Exp. Soc. Psychol. 46, 208 (2010).
+34. G. L. Cohen, J. Garcia, N. Apfel, A. Master, Science 313,
+1307 (2006).
+35. We thank participating students and helpful
+administrators at an anonymous university for their
+involvement. We also thank P. Carr, E. Chen, C. Dweck,
+C. Logel, G. Miller, D. Paunesku, D. Sherman,
+S. Spencer, C. Steele, and D. Yeager for input and
+L. Cai, K. Crockett, J. Darwall, L. Egan, A. Master,
+M. Silverio, and R. Titcombe for assistance. This
+research was supported by grants from the American
+Psychological Association, the Society for the
+Psychological Study of Social Issues, and the Spencer
+Foundation awarded to G.M.W. and by a grant from
+the Russell Sage Foundation awarded to G.L.C.
+
+Supporting Online Material
+www.sciencemag.org/cgi/content/full/331/6023/1447/DC1
+Materials and Methods
+Tables S1 to S3
+References
+28 September 2010; accepted 14 February 2011
+10.1126/science.1198364
+
+microscopy (EM) at 35 Å resolution suggests
+that several Pol II subunits (Rpb1, 2, 3, 6, and 11)
+might contact the middle or the head of Mediator
+(11). It was recently suggested that Rpb4 and
+Rpb7 could also be implicated in interactions
+with Mediator (12–14). However, the requirement
+of a direct interaction between Mediator and Pol II
+for transcription activation has not been demonstrated. Moreover, the identity of the Mediator
+subunits contacting Pol II is unknown because of
+the low resolution of the Mediator structure. As a
+consequence, the mechanism by which Mediator
+recruits Pol II is poorly understood.
+To identify the subunit(s) of Mediator that
+directly contact Pol II and determine the role of
+these interactions in transcription regulation, we
+used an in vivo photo–cross-linking approach based
+on the incorporation by the cell-translation system of photo-activable analogs of methionine and
+leucine in proteins [see supporting online material
+(SOM) text and figs. S1 and S2] (15, 16).
+Because EM results (11) suggested potential
+interactions of 16 Mediator subunits belonging to
+the head (Med6, 8, 11, 17, 18, 19, 20, 22) and
+middle (Med1, 4, 5, 7, 9, 10, 21, 31) modules with
+Rpb1, 2, 3, 6, or 11 Pol II subunits, we immunoprecipitated hemagglutinin (HA)–tagged proteins after in vivo cross-linking. Among the 80
+pairwise contacts that we tested, only Myc-tagged
+Rpb3 and HA-tagged Med17 cross-linked (Fig. 1).
+These results demonstrate that the Rpb3 Pol II
+
+18 MARCH 2011
+
+Downloaded from http://science.sciencemag.org/ on September 20, 2017
+
+References and Notes
+1. K. Magnuson, J. Waldfogel, Steady Gains and Stalled
+Progress: Inequality and the Black-White Test Score Gap
+(Russell Sage Foundation, New York, 2008).
+2. C. M. Steele, S. J. Spencer, J. Aronson, in Advances in
+Experimental Social Psychology, M. P. Zanna, Ed.
+(Academic Press, San Diego, CA, 2002), pp. 379–440.
+3. D. R. Williams, Ann. N. Y. Acad. Sci. 896, 173 (1999).
+4. R. F. Baumeister, M. R. Leary, Psychol. Bull. 117, 497 (1995).
+5. J. T. Cacioppo, B. Patrick, Loneliness: Human Nature and
+the Need for Social Connection (Norton, New York, 2008)
+6. S. Lyubomirsky, K. M. Sheldon, D. Schkade, Rev. Gen.
+Psychol. 9, 111 (2005).
+
+7. G. M. Walton, G. L. Cohen, J. Pers. Soc. Psychol. 92,
+82 (2007).
+8. L. F. Berkman, S. L. Syme, Am. J. Epidemiol. 109, 186 (1979).
+9. S. Cohen, D. Janicki-Deverts, Perspect. Psychol. Sci. 4,
+375 (2009).
+10. G. E. Miller, N. Rohleder, S. W. Cole, Psychosom. Med.
+71, 57 (2009).
+11. B. N. Uchino, J. Behav. Med. 29, 377 (2006).
+12. N. I. Eisenberger, M. D. Lieberman, K. D. Williams,
+Science 302, 290 (2003).
+13. K. D. Williams, in Advances in Experimental Social
+Psychology, M. P. Zanna, Ed. (Academic Press, San Diego,
+CA, 2009), pp. 279–314.
+14. R. F. Baumeister, J. M. Twenge, C. K. Nuss, J. Pers. Soc.
+Psychol. 83, 817 (2002).
+15. E. Goffman, Stigma: Notes on the Management of Spoiled
+Identity (Simon and Schuster, New York, 1963), p. 8.
+16. R. Mendoza-Denton, G. Downey, V. J. Purdie, A. Davis,
+J. Pietrzak, J. Pers. Soc. Psychol. 83, 896 (2002).
+17. J. Blascovich, S. J. Spencer, D. Quinn, C. Steele,
+Psychol. Sci. 12, 225 (2001).
+18. S. W. Cole, M. E. Kemeny, S. E. Taylor, J. Pers. Soc.
+Psychol. 72, 320 (1997).
+19. S. Cohen et al., Health Psychol. 27, 268 (2008).
+20. G. L. Cohen, J. Garcia, V. Purdie-Vaughns, N. Apfel,
+P. Brzustoski, Science 324, 400 (2009).
+21. T. D. Wilson, Science 313, 1251 (2006).
+22. A previous paper reports relatively short-term results of
+this intervention from the first cohort of students (7).
+23. Information on materials and methods is available as
+supporting material on Science Online.
+24. T. D. Wilson, M. Damiani, N. Shelton, in Improving
+Academic Achievement: Impact of Psychological Factors
+on Education, J. Aronson, Ed. (Academic Press, Oxford,
+2002), pp. 91–110.
+25. J. Aronson, C. B. Fried, C. Good, J. Exp. Soc. Psychol. 38,
+113 (2002).
+26. L. Ross, R. Nisbett, The Person and the Situation
+(McGraw-Hill, New York, 1991).
+
+1451
+
+A Brief Social-Belonging Intervention Improves Academic and Health Outcomes of Minority
+Students
+Gregory M. Walton and Geoffrey L. Cohen
+
+Science 331 (6023), 1447-1451.
+DOI: 10.1126/science.1198364
+
+http://science.sciencemag.org/content/331/6023/1447
+
+SUPPLEMENTARY
+MATERIALS
+
+http://science.sciencemag.org/content/suppl/2011/03/15/331.6023.1447.DC1
+
+REFERENCES
+
+This article cites 23 articles, 5 of which you can access for free
+http://science.sciencemag.org/content/331/6023/1447#BIBL
+
+PERMISSIONS
+
+http://www.sciencemag.org/help/reprints-and-permissions
+
+Use of this article is subject to the Terms of Service
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement of
+Science, 1200 New York Avenue NW, Washington, DC 20005. 2017 © The Authors, some rights reserved; exclusive
+licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. The title
+Science is a registered trademark of AAAS.
+
+Downloaded from http://science.sciencemag.org/ on September 20, 2017
+
+ARTICLE TOOLS
+
+

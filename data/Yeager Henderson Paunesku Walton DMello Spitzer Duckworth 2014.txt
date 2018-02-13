@@ -1,0 +1,2444 @@
+ATTITUDES AND SOCIAL COGNITION
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Boring but Important: A Self-Transcendent Purpose for Learning Fosters
+Academic Self-Regulation
+David S. Yeager and Marlone D. Henderson
+
+David Paunesku and Gregory M. Walton
+
+University of Texas at Austin
+
+Stanford University
+
+Sidney D’Mello
+
+Brian J. Spitzer
+
+University of Notre Dame
+
+New York University
+
+Angela Lee Duckworth
+University of Pennsylvania
+Many important learning tasks feel uninteresting and tedious to learners. This research proposed that
+promoting a prosocial, self-transcendent purpose could improve academic self-regulation on such
+tasks. This proposal was supported in 4 studies with over 2,000 adolescents and young adults. Study
+1 documented a correlation between a self-transcendent purpose for learning and self-reported trait
+measures of academic self-regulation. Those with more of a purpose for learning also persisted
+longer on a boring task rather than giving in to a tempting alternative and, many months later, were
+less likely to drop out of college. Study 2 addressed causality. It showed that a brief, one-time
+psychological intervention promoting a self-transcendent purpose for learning could improve high
+school science and math grade point average (GPA) over several months. Studies 3 and 4 were
+short-term experiments that explored possible mechanisms. They showed that the self-transcendent
+purpose manipulation could increase deeper learning behavior on tedious test review materials
+(Study 3), and sustain self-regulation over the course of an increasingly boring task (Study 4). More
+self-oriented motives for learning—such as the desire to have an interesting or enjoyable career—
+did not, on their own, consistently produce these benefits (Studies 1 and 4).
+Keywords: self-regulation, motivation, purpose, meaning, psychological intervention
+Supplemental materials: http://dx.doi.org/10.1037/a0037637.supp
+
+Many of the tasks that contribute most to the development of
+valuable skills are also, unfortunately, commonly experienced as
+
+tedious and unpleasant (Duckworth, Kirby, Tsukayama, Berstein,
+& Ericsson, 2011; also see Ericsson, 2006, 2007, 2009; Ericsson &
+Ward, 2007; Ericsson, Krampe, & Tesch-Romer, 1993). For example, skills in science, technology, engineering, and mathematics
+(STEM) are in high demand, and, according to some estimates, jobs
+in the STEM sector will grow by more than 20% in the next few
+decades (U.S. Congress Joint Economic Committee, 2012). Yet in a
+
+David S. Yeager and Marlone D. Henderson, Department of Psychology,
+University of Texas at Austin; David Paunesku and Gregory M. Walton,
+Department of Psychology, Stanford University; Sidney D’Mello, Department of Psychology and Department of Computer Science, University of
+Notre Dame; Brian J. Spitzer, Department of Applied Psychology, New
+York University; Angela Lee Duckworth, Department of Psychology,
+University of Pennsylvania.
+This research was supported by funding from the Bill and Melinda Gates
+Foundation, the Raikes Foundation, the National Science Foundation
+(HCC 0834847, DRL 1235958, to Sidney D’Mello), the National Institutes
+of Health (5-K01-AG033182-02, to Angela Lee Duckworth), the New
+Paths to Purpose project at the Booth Center for Decision Research, and a
+
+University of Texas Summer Research Assignment grant. Any opinions,
+findings and conclusions, or recommendations expressed in this article are
+those of the authors and do not necessarily reflect the views of the funding
+agencies. The ideas in this research benefitted from discussions with
+Matthew Andrews and Matthew Bundick. The authors are grateful to the
+students, teachers, and school administrators who participated in this
+research. We are also grateful to Bill Swann, Christopher Hulleman, Judy
+Harackiewicz, Robin Vallacher, Geoffrey Cohen, and Carol Dweck for
+their helpful feedback. Any remaining errors are the authors’.
+Correspondence concerning this article should be addressed to David S.
+Yeager, 108 East Dean Keeton, Stop A8000, Austin, TX 78712-104.
+E-mail: dyeager@utexas.edu
+
+It’s only when you hitch your wagon to something larger than yourself
+that you realize your true potential and discover the role that you’ll
+play in writing the next great chapter in the American story.
+—President Barack Obama, Wesleyan University
+Commencement Speech, 2008
+
+Journal of Personality and Social Psychology, 2014, Vol. 107, No. 4, 559 –580
+© 2014 American Psychological Association 0022-3514/14/$12.00
+http://dx.doi.org/10.1037/a0037637
+
+559
+
+YEAGER ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+560
+
+representative sample survey, over half of middle school students said
+they would rather eat broccoli than do their math homework; 44%
+would rather take out the trash (Raytheon Company, 2012).
+To achieve longer-term aims, learners must sometimes regulate
+attention, emotion, and behavior in the face of tempting alternatives
+(Duckworth & Carlson, 2013; Fujita, 2011; Mischel, Shoda, & Rodriguez, 1989). Indeed, individual differences in factors such as “grit”
+and self-control are predictive of eventual skill acquisition and expert
+performance, controlling for cognitive ability (Duckworth, Peterson,
+Matthews, & Kelly, 2007; Duckworth, Tsukayama, & Kirby, 2013;
+Moffitt et al., 2011). Where do these factors come from? Individuals
+are known to marshal self-discipline more when they are pursuing
+personally meaningful goals (see Fishbach & Trope, 2005; Fishbach,
+Zhang, & Trope, 2010; Loewenstein, 1996; Mischel, Cantor, & Feldman, 1996; Rachlin, Brown, & Cross, 2000; Thaler & Shefrin, 1981;
+Trope & Fishbach, 2000; also see Eccles, 2009; Marshall, 2001). In
+the present research we propose that what has been called a purpose
+for learning (Andrews, 2011; Yeager, Bundick, & Johnson, 2012) can
+foster greater meaning in schoolwork and promote academic selfregulation as students take on tedious learning tasks.
+
+Defining a “Purpose for Learning”
+An enormous amount of research has focused on the wide variety
+of possible motives for engaging in and succeeding at learning tasks
+(e.g., Ames, 1992; Atkinson, 1957; Carver & Scheier, 1981; Eccles &
+Wigfield, 2002; Elliot, Conroy, Barron, & Murayama, 2010; Emmons, 1986; Ford & Nichols, 1987; Harackiewicz & Sansone, 1991;
+Higgins, 2005; Lepper, Corpus, & Iyengar, 2005; Little, 1983;
+Markus & Nurius, 1986; Nicholls, 1984; Oyserman & Destin, 2010;
+Ryan & Deci, 2000). Here we focus on only one distinction—that
+between self-interest and self-transcendence. Learners may view a
+task as likely to benefit the self, believing it will be intrinsically
+enjoyable or lead to a personally fulfilling career (see Eccles &
+Wigfield, 1995). Learners may also have motives that transcend
+self-interest. These may involve service to other individuals, to an
+ideal, to a social justice cause, or to a spiritual entity (Damon, Menon,
+& Bronk, 2003; Frankl, 1963; Koltko-Rivera, 2006; Maslow, 1969;
+Schwartz, 1992; also see Eccles, 2009).
+We define a purpose for learning as a goal that is motivated
+both by an opportunity to benefit the self and by the potential to
+have some effect on or connection to the world beyond the self
+(Yeager & Bundick, 2009; Yeager et al., 2012; see Burrow & Hill,
+2011; Damon et al., 2003). Embedded in this definition is a focus
+on the motive or rationale for the goal (e.g., “helping people”)
+rather than on content of a goal (e.g., “being an engineer”; Massey,
+Gebhardt, & Garnefski, 2008). For example, a purpose for learning
+in a high school science class might be that a student would one
+day like to use the acquired knowledge to build bridges that help
+people (a self-transcendent component). The same student might
+also believe that engineering would be a fulfilling, interesting, and
+enjoyable career (a self-oriented component). Both of these types
+of motives—self-oriented and self-transcendent— can be important for learners and can motivate task persistence (Eccles, 2009;
+Eccles & Wigfield, 2002). These different motives also frequently
+coexist (Batson, 1998; also see Feiler, Tost, & Grant, 2012). In
+fact, in a series of qualitative interviews conducted with a diverse
+group of high school adolescents, it was common for teens to pair
+self-transcendent motives with self-oriented motives—much more
+
+common in fact than having only a self-transcendent motive (Yeager & Bundick, 2009; Yeager et al., 2012). Here we examine
+whether adding self-transcendent motives to self-oriented ones—
+what we call a “purpose for learning”— could produce benefits
+that self-oriented motives alone could not achieve.
+
+Purpose, Meaning, and Persistence
+There is good reason to believe that a purpose for learning could
+promote the view that a task is personally meaningful (e.g., Grant,
+2007, 2013; Olivola & Shafir, 2013; also see Duffy & Dik, 2009;
+Steger, 2012; Steger, Kashdan, & Oishi, 2008).1 A classic example
+comes from Viktor Frankl (1963). In writing about the psychology
+of surviving a concentration camp, he describes how a selftranscendent purpose in life creates a feeling that one’s actions are
+important for the world, empowering a person to persist even in the
+most appalling circumstances. He wrote “A [person] who becomes
+conscious of the responsibility he bears toward a human being who
+affectionately waits for him, or to an unfinished work, will never
+be able to throw away his life” (p. 80). Channeling Neitzche,
+Frankl stated “He knows the ‘why’ for his existence and will be
+able to bear almost any ‘how’” (1963, p. 80).
+Further support comes from observational research of people
+working in “dirty” jobs—jobs with low status and requiring extremely repetitive tasks (e.g., trash collectors, hospital orderlies,
+prison guards). Individuals with these jobs find their work more
+meaningful and carry it out more effectively when they focus on
+the benefit of these tasks for helping others or society at large
+(Ashforth & Kreiner, 1999; Hughes, 1958, 1962; also see Dutton,
+Roberts, & Bednar, 2010; Wrzesniewski, Dutton, & Debebe, 2003;
+cf. Olivola & Shafir, 2013). Altogether, highly aversive experiences may become more bearable when they are viewed as having
+consequences that transcend the self.
+More directly relevant, Yeager et al. (2012) found that some high
+school-aged adolescents spontaneously generated a purpose for learning during interviews—mentioning both a self-transcendent motive
+and an intrinsic, self-oriented motive for their future work, such as
+“being a doctor to help people and because it would be enjoyable.”
+Students with a purpose rated their schoolwork in general as more
+personally meaningful than adolescents with no career goal or only
+extrinsic motives (making money, gaining respect), even at a
+2-year follow-up (also see Lepper et al., 2005; Ryan & Deci,
+2000). Other high school students discussed only typical interestbased, self-oriented motives. This group rated their schoolwork as
+no more meaningful compared to students with no future work
+goals or only extrinsic motives (Yeager et al., 2012). However, this
+study was limited in that it did not directly assess perceptions of
+tedious, skill-building tasks. Nor did it assess behavior or address
+causality with experimental designs. These limitations are addressed in the present research.
+Some past experiments have linked prosocial, selftranscendent motives to behavioral persistence on tasks at work,
+not school. For example, telemarketers raised more money
+1
+A purpose is distinct from but related to personal meaning. The former
+includes a person’s goal and his or her motives for pursuing it. The latter
+refers to the sense that something matters and makes sense in the context
+of one’s life or worldview (Steger, Kashdan, & Oishi, 2008; Yeager &
+Bundick, 2009).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PURPOSE AND SELF-REGULATION
+
+when they were asked to focus on the benefits of their efforts
+for poor children compared to benefits for the self, while
+medical professionals were more likely to stop and wash their
+hands when they focused on others’ health as opposed to their
+own health (Grant, 2008; Grant & Hofmann, 2011; also see
+Feiler et al., 2012; for findings from other workplaces see,
+Grant & Rothbard, 2013; cf. Sansone, Weir, Harpster, & Morgan, 1992). Note that a self-transcendent motive makes aversive
+experiences more bearable, not more enjoyable; prosocial motives diminish the correlation between feeling bad during a task
+and the reduced motivation to complete it (Grant & Sonnentag,
+2010; also see Grant & Campbell, 2007). Prosocial trash men do
+not find trash more appealing, but they collect it more effectively (Hughes, 1958, 1962).
+The present research is among the first to test whether students with more of a self-transcendent purpose for learning can
+show greater persistence even on tedious learning activities that
+provide a foundation for uncertain future contributions to the
+world beyond the self (see Harackiewicz & Sansone, 1991).
+Some past studies investigated, for instance, raising money for
+poor children (Grant, 2008; also see Dunn, Aknin, & Norton,
+2008) or preventing infection (Grant & Hofmann, 2011). It is
+easy to see how these actions help others. But when high school
+students engage in a learning task such as factoring trinomials
+in algebra, or balancing stoichiometric equations in chemistry,
+it can be difficult to see the steps through which deeply learning
+from these tasks can help them benefit others. That is, raising
+money for poor people is directly prosocial, but learning fractions must be construed as such.
+Other past research has found that providing intrinsic versus
+extrinsic motives for learning tasks (e.g., becoming healthy vs.
+looking physically attractive) can lead to greater task persistence and deeper processing of information (e.g., Vansteenkiste, Simons, Lens, Sheldon, & Deci, 2004; also see Jang, 2008;
+for a review, see Vansteenkiste, Lens, & Deci, 2006, or Patall,
+Cooper, & Robinson, 2008). Similarly, some research has found
+that asking students to generate reasons why a learning task
+could be relevant to their daily lives and future goals could
+improve course performance among low-performers, by enhancing the perceived utility value of a task (Hulleman, Godes,
+Hendricks, & Harackiewicz, 2010; Hulleman & Harackiewicz,
+2009). These studies were foundational to the present research.
+However they were not designed to distinguish the intended
+beneficiary of the learning—the self versus something that
+transcends the self—as the present research seeks to do.
+In addition, past studies have focused on the perceived prosocial value of completing a given task or learning objective
+(Eccles & Wigfield, 1995)—for instance, learning about correlation coefficients to interpret education research (Jang, 2008),
+or using the week’s science class lessons to help out on the
+family farm (Hulleman & Harackiewicz, 2009; see Eccles,
+2009; Eccles et al., 1983). However, an important skill for
+self-regulation is to abstract up a level from the task at hand to
+one’s motives for being involved in an educational enterprise
+more generally— e.g., “science” or “math” or even “school.” It
+is often uncertain whether or how one will use the knowledge
+gained from a given learning objective or task. Indeed, teachers
+very rarely provide any rationale for mastering a learning objective
+(Stipek, 2004; also see Eccles, 2009), let alone a self-transcendent ratio-
+
+561
+
+nale. This is especially true in STEM courses, where many tasks are
+unexplained (Carnevale & Desrochers, 2003; also see Diekman, Clark,
+Johnston, Brown, & Steinberg, 2011). It may be helpful to reconstrue a
+foundational task—such as practicing math facts—more generally in
+terms of their relation to one’s broader, self-transcendent motives for
+working hard in school or in a subject area.
+
+The Present Research
+Four studies investigated the hypothesis that a higher order,
+self-transcendent purpose for learning in school would promote
+academic self-regulation on tedious schoolwork. In Study 1 we
+hypothesized that a self-transcendent purpose for learning would
+be correlated with indicators of academic self-regulation both at
+the trait level (self-reported grit and self-control) and at the behavioral level (short-term persistence on a boring math task and
+longitudinal persistence in college). We further hypothesized that
+these relations would be found above and beyond the effects of
+more intrinsic, self-oriented motives (e.g., following one’s intellectual interests), and of cognitive ability.
+Study 2 examined a possible causal effect of a self-transcendent
+purpose for learning. In order to do so it was necessary to create an
+exercise to adjust adolescents’ purposes for learning, which past
+research has had difficulty doing (Dik, Steger, Gibson, & Peisner,
+2011). Indeed, a purpose is likely to be highly personal and represent
+the product of a large number of influences in life, including teachers,
+parents, friends and the media, perhaps making it difficult to manipulate (e.g., Damon, 2008; Harackiewicz, Rozek, Hulleman, & Hydes,
+2012; Moran, Bundick, Malin, & Reilly, 2013; Steger, Bundick, &
+Yeager, 2012). Yet advances have been made in recent years in the
+optimal design of psychological interventions in educational settings
+(e.g., Blackwell, Trzesniewski, & Dweck, 2007; G. L. Cohen &
+Sherman, 2014; Garcia & Cohen, 2012; Hulleman & Harackiewicz,
+2009; Walton & Cohen, 2011; also see Walton, 2014; Wilson &
+Linville, 1982). We were informed by these. We hypothesized that a
+novel self-transcendent purpose for learning intervention could improve grades in subject areas likely to be seen as tedious, such as high
+school math and science classes.
+Studies 3 and 4 examined potential behavioral antecedents to
+the outcomes studies in Studies 1 and 2. Specifically, Study 3
+examined effects of the novel intervention on behavior on a
+shorter time-course, testing the hypothesis that a selftranscendent purpose for learning could lead students to learn
+more deeply from an immediate, real-world academic task.
+Study 4 sought to isolate the effect of a purpose for learning
+manipulation on self-regulation more precisely by administering a dependent measure that pitted a boring math activity
+directly against tempting alternatives.
+
+Study 1: An Initial Correlational Investigation
+Study 1 was a correlational study among a low socioeconomic status (SES) group of high school seniors. Based on prior
+research, they might have significant difficulty regulating immediate motivations in the service of long-term goals (Evans &
+Rosenbaum, 2008; Vohs, 2013). We hypothesized that in this
+population a self-transcendent purpose would correlate with
+indicators of self-discipline— both self-reported and behavioral—assessed at the same measurement time. We further hypoth-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+562
+
+YEAGER ET AL.
+
+esized that, in a multiple regression controlling for more selforiented motives— even intrinsic-interest-focused ones—a
+purpose for learning would continue to predict greater success
+at self-regulation.
+We also examined longitudinal relations with goal persistence.
+This was done by collecting data on whether students were enrolled in college in the Fall semester following high school graduation, as they intended to do. Low-income students of color more
+commonly drop out of the college pipeline in the summer after
+college or during their first Fall semester, even when they have
+successfully graduated high school and been admitted to a college
+of their choice (Ryu, 2012). We hypothesized that a selftranscendent purpose would predict college persistence over
+time—a potential indicator of successfully regulating competing
+demands for time and attention in this low-income population. We
+also hypothesized that this relation would be found when controlling for self-oriented motives in a multiple regression.
+
+Method
+Participants. Participants were N ⫽ 1,364 seniors in their
+final semester at one of 17 participating urban public high schools
+(eight charters and two district schools). Ninety-nine percent said
+that they had applied for college and were planning on attending
+college in the Fall semester. They were located in Los Angeles,
+CA; Oakland, CA; New York, NY; Austin, TX; Houston, TX; or
+Little Rock, AR. They were from low socioeconomic backgrounds: over 90% received free or reduced-price lunch, a measure
+of low socioeconomic status, and only 9% had one parent who had
+completed a 2 or 4-year degree; by contrast, 25% of parents did not
+have a high school diploma. The sample overall was nearly evenly
+split on gender (57% female) and had a large proportion of
+students that are typically underrepresented in higher education in
+the United States, 38% African American, 48% Hispanic/Latino,
+5% Asian, 4% White. Some participants did not provide data on
+some measures, and so degrees of freedom varied across analyses.
+No other participants were excluded from analyses. There was no
+stopping rule for data collection because all college-going students
+in each school were invited to participate.
+Procedures. Participants completed a web-based survey in the
+school’s computer lab during the school day in the Spring semester
+(February to May) of senior year. Teachers directed students to a
+website (http://www.perts.net) that delivered the survey session,
+which lasted one class period. Many months later, toward the end of
+what was the Fall semester for students in college, college persistence
+data were collected from the National Student Clearinghouse (NSC).
+Measures.
+Motives for going to college. The primary predictor variables
+were self-transcendent motives, intrinsic self-oriented motives,
+and extrinsic self-oriented motives. The preface for the items
+assessing these motives was: “How true for you personally are
+each of the following reasons for going to college?” Each was
+rated on a 5-point scale (1 ⫽ Not at all true, 2 ⫽ Slightly true, 3 ⫽
+Somewhat true, 4 ⫽ Very true, 5 ⫽ Completely true).
+Self-transcendent motives (purpose for learning). We averaged
+across the following three items to assess students’ self-transcendent
+motives for going to college (a purpose for learning), operationalized
+as a personally relevant desire to learn in order to make a contribution
+to the world beyond the self: “I want to learn things that will help me
+
+make a positive impact on the world,” “I want to gain skills that I can
+use in a job that help others,” and “I want to become an educated
+citizen that can contribute to society” (␣ ⫽ .75).
+Self-oriented motives. We averaged across the following three
+items adapted from Stephens, Fryberg, Markus, Johnson, and
+Covarrubias’s (2012) assessment of self-oriented, interest-driven
+motives for going to college: “I want to expand my knowledge of
+the world,” “I want to become an independent thinker,” and “I
+want to learn more about my interests” (␣ ⫽ .70). Note that these
+are still personally important intrinsic motives for learning, and
+might be expected to predict greater self-regulation, thus providing
+a high standard of comparison for the self-transcendent motives.
+Extrinsic motives. Finally, we measured typical extrinsic, selforiented motives for going to college: “I want to get a good job,”
+“I want to leave my parents’ house,” “I want to earn more money,”
+and “I want to have fun and make new friends.” We wrote these
+items in collaboration with college counselors at the participating
+high schools. They were designed to reflect the counselors’ perceptions of why students want to go to college. Although the
+internal consistency reliability for these items was somewhat low
+(␣ ⫽ .50), they were face-valid. Below we show that a composite
+of these items produced relations with each of the constructs
+measured that replicates past research (Lee, McInerney, Liem, &
+Ortiga, 2010), supporting the validity of the composite despite low
+internal consistency. The same findings emerged when analyzing
+these items separately.
+Meaningfulness of schoolwork. To assess individual differences in the meaningfulness of everyday academic tasks, we
+adapted a measure commonly used in research on actionidentification theory: the Behavioral Identification Form (BIF;
+Vallacher & Wegner, 1989). The standard BIF asks participants to
+view a task and choose a description of it that either aligns with
+personally meaningful values or goals, or with concrete actions
+required to complete the task. In the present research, we treat the
+choice of the former, more goal-directed description as an indication that a person is viewing it more meaningfully. Indeed, Michaels, Parkin, and Vallacher (2013) stated that “people take
+meaning from their goals and values rather than the details of their
+actions” (p. 109).
+We created a four-item version of the BIF that was tailored to
+assess whether students chronically make meaning out of boring
+and uninteresting everyday academic tasks in high school. See
+Figure 1 for an example. The measure presented participants with
+a description of each behavior, accompanied by a picture, and
+asked participants to select which of two action identifications best
+matched how they thought about the behavior. The four behaviors
+were “Taking the SAT,” “Doing your math homework,” “Writing
+an essay,” and “Using a planner to record upcoming tasks” (for
+pictures and response options, see the online supplement). In
+pretesting focus groups with high school students, all four behaviors were evaluated as very tedious and very common. For each of
+the behaviors (e.g., taking the SAT), we asked students whether a
+2
+Pilot research confirmed that the present measure indicated greater
+personal meaning as expected by theory (Michaels, Parkin, & Vallacher,
+2013). In a pilot survey with N ⫽ 151 high school students, our measure
+correlated with the presence of meaning in life scale (e.g., “I have a good
+sense of what makes my life meaningful”; Steger, Frazier, Oishi, & Kaler,
+2006) at r ⫽ .30, p ⬍ .001.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PURPOSE AND SELF-REGULATION
+
+563
+
+Figure 1. Sample item for assessing the meaningfulness of schoolwork. Image from “File:Ti83plus.jpg,” by
+Westernelectric555, 2008 (http://commons.wikimedia.org/wiki/File:Ti83plus.jpg). In the public domain. See the
+online article for the color version of this figure.
+
+more concrete, lower level statement (a description that emphasizes the means by which the action is performed, e.g., “Filling out
+bubbles on the SAT”) or a more goal-directed, personally meaningful statement (a description emphasizing the meaning the action
+can have for a person’s pursuits in life, e.g., “Taking steps toward
+a college degree”) best described that behavior. The latter was our
+operationalization of whether the task was seen as more personally
+meaningful. We summed across the items, so that higher values
+corresponded to a greater tendency to see schoolwork as meaningful (Range: 0 to 4).2
+Grit scale. Participants completed an abbreviated version of
+the validated grit scale (Duckworth & Quinn, 2009), a measure
+that signals strong self-regulation in a number of past studies. The
+scale includes the following: “I finish whatever I begin”; “I work
+very hard. I keep working when others stop to take a break”; “I
+stay interested in my goals, even if they take a long time (months
+or years) to complete”; and “I am diligent. I never give up.”
+Participants answered all items on 5-point fully labeled scales (1 ⫽
+Not at all like me, 2 ⫽ Not much like me, 3 ⫽ Somewhat like me,
+4 ⫽ Mostly like me, 5 ⫽ Very much like me). We averaged across
+the responses, with higher values corresponding to higher levels of
+grit (␣ ⫽ .78).
+Self-control scale. Participants completed a validated measure of self-control when completing academic work (Patrick &
+Duckworth, 2013; Tsukayama, Duckworth, & Kim, 2013).
+Items were “I come to class prepared,” “I pay attention and
+resist distractions in class,” “I remember and follow directions,”
+and “I get to work right away rather than procrastinating” (1 ⫽
+Not at all like me, 2 ⫽ Not much like me, 3 ⫽ Somewhat like me,
+4 ⫽ Mostly like me, 5 ⫽ Very much like me). We averaged
+across these items, with higher values corresponding to greater
+academic self-control (␣ ⫽ .71). Past research has shown that
+
+these items are correlated with other measures of self-regulation
+(such as grit; e.g., Table 1) but demonstrate divergent validity
+from them (Duckworth et al., 2007).
+The “diligence task”: A behavioral measure of academic
+self-regulation. At the end of the survey, participants completed
+a novel standardized behavioral measure of self-regulation, called
+“the diligence task” (Galla et al., 2014). This task was designed to
+mirror the real-world choices students confront when completing
+homework and being tempted by the distractions of the digital age.
+Specifically, this task involved the choice of completing boring
+math problems (single-digit subtraction) or consuming captivating
+but time-wasting media (watching one or several entertaining,
+brief, viral videos [lasting 20 – 60 s] or playing the video game
+Tetris). At any time, participants could click on the left side of the
+screen and complete math problems (“Do Math”) or click on the
+right side of the screen and consume media (“Play game or watch
+movie”). Participants were told there were no negative consequences for their choices and that they could do whatever they
+preferred. See Figure 2. The software (unknown to the participant)
+tracked the number of math problems completed successfully,
+producing our focal dependent measure.
+To make the math problems potentially meaningful in students’
+eyes—and worth completing—we told participants that successfully completing the tasks could possibly help them sharpen their
+math skills and stay prepared for their future careers. As a part of
+this cover story, we presented participants with summaries of
+actual scientific studies showing that increasingly as people rely on
+technology to do simple tasks, their grasp of basic skills can
+atrophy. As a result, all participants could plausibly see the successful completion of boring math problems as preparatory for a
+future career, if they so desired.
+
+YEAGER ET AL.
+
+564
+Table 1
+Zero-Order Correlations for Study 1 Measures
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Self-transcendent motives
+(“Purpose for learning”)
+Self-oriented, intrinsic motives
+Extrinsic motives
+Meaningfulness of schoolwork
+Self-reported grit
+Self-reported self-control
+No. of boring math problems solved
+during the diligence task
+ⴱ
+
+p ⬍ .05.
+
+ⴱⴱ
+
+p ⬍ .01.
+
+ⴱⴱⴱ
+
+Self-transcendent motives
+(“Purpose for learning”)
+
+Self-oriented,
+intrinsic motives
+
+—
+.66ⴱⴱⴱ
+.61ⴱⴱⴱ
+.23ⴱⴱⴱ
+.39ⴱⴱⴱ
+.33ⴱⴱⴱ
+
+—
+.48ⴱⴱⴱ
+.20ⴱⴱⴱ
+.32ⴱⴱⴱ
+.26ⴱⴱⴱ
+
+.09ⴱⴱ
+
+.04
+
+Extrinsic
+motives
+
+—
+.19ⴱⴱⴱ
+.32ⴱⴱⴱ
+.21ⴱⴱⴱ
+⫺.09ⴱⴱ
+
+Meaningfulness
+of schoolwork
+
+Self-reported
+grit
+
+Self-reported
+self-control
+
+—
+.26ⴱⴱⴱ
+.22ⴱⴱⴱ
+
+—
+.58ⴱⴱⴱ
+
+—
+
+.09ⴱⴱ
+
+.07ⴱ
+
+.16ⴱⴱⴱ
+
+p ⬍ .001.
+
+The task itself involved three blocks. Block 0 was a warm-up
+block to become familiar with the layout of the task. It involved a
+brief (1-min) set of math problems, but without the option to play
+videos or video games. It is not discussed further. Blocks 1 and 2
+lasted 4 min each and involved the key behavioral choice: toggling
+between the math problems and the media (videos or Tetris). See
+Figure 2. We totaled the number of correct math responses in each
+block. In a separate validation study, five blocks were administered and boredom was assessed after each. A large increase in
+self-reported boredom occurred between the first block and the
+second, a significant difference, t(1019) ⫽ 4.69, p ⬍ .001, and
+boredom appeared to level-off after that. Therefore in the present
+study, values from Block 2, the more boring of the two blocks,
+were used in analyses. The same overall pattern of results and level
+of statistical significance was found when Blocks 1 and 2 were
+averaged and analyzed as a single metric.3
+Finally, to ensure that the task elicited boredom as expected, one
+question assessed boredom on the math problems, immediately
+after Block 2: “How bored were you when working on the math
+problems?” (1 ⫽ Not bored at all, 2 ⫽ A little bored, 3 ⫽
+Somewhat bored, 4 ⫽ Very bored, 5 ⫽ Extremely bored).
+College persistence. College enrollment data were obtained
+from the NSC, which is a nonprofit database that reports on
+students receiving financial aid to both private and federal loan
+providers (Dynarski, Scott-Clayton, & Wiederspan, 2013). Colleges submit student names to this database, and so it allows for
+objective, longitudinal assessment of student behavior with little or
+no missing data. In the present study, a value of 1 indicates that
+students were still enrolled at a 4-year college during the Fall of
+2013 after the “census date” (the date after which students owe
+tuition, normally 4 – 8 weeks into the term). A value of 0 means
+that they did not have an official enrollment value in the database
+at that time. Possible reasons for not being enrolled in the Fall
+include students who were admitted to a college but did not ever
+appear at their college in the Fall, or students who appeared at their
+college but withdrew during the semester.4
+Initial analyses support the interpretation that college persistence was indeed meaningfully affected by self-regulation. The
+number of boring math problems solved during the diligence task
+positively predicted college persistence six to 10 months later
+(odds ratio [OR] ⫽ 1.006, Z ⫽ 4.05, p ⬍ .001, r ⫽ .14), and the
+number of tempting videos or games consumed negatively did so
+(OR ⫽ .91, Z ⫽ 2.09, p ⫽ .036, r ⫽ ⫺.08). This was true even
+
+controlling for cognitive ability (measure described below). Thus
+college persistence was at least one informative variable for assessing theory regarding longitudinal behavioral self-regulation.
+Cognitive ability. To rule out the alternative hypothesis that
+observed correlations between variables were due to shared variance in cognitive ability, we administered a brief (10-item) set of
+moderately challenging problems from Raven’s progressive matrices (Raven, Raven, & Court, 1998). We used a subset of items
+rather than the full battery due to time limitations in the school
+setting. Although brief, this set of items showed substantial convergent validity with other measures of cognitive ability in a
+validation study that administered a full battery of IQ measures to
+a subsample of the present study’s participants (see online supplemental materials).
+
+Results
+Our primary hypothesis was that a greater endorsement of
+self-transcendent motives for going to college would predict (a)
+the tendency to view tedious academic tasks in a more personally
+meaningful fashion and (b) the tendency to display greater academic self-regulation. Analyses focus first on the concurrently
+measured variables, followed by the analysis of the longitudinal
+3
+There were some missing data for Block 2 because some participants
+(10%) did not even begin the block and instead waited for the browser to
+advance, without playing games or watching videos. Reports from teachers
+administering the task suggested that this was likely because students found
+Block 1 so aversive that they gave up on the task. Thus, rather than treating
+these participants’ performance on Block 2 as missing data— effectively
+dropping participants—they were instead coded as having completed zero
+problems. We found that doing this and retaining all participants for analysis
+did not sacrifice validity—for instance, the correlation of boring math problems solved and self-reported trait self-control was r ⫽ .15, p ⬍ .001, both
+when we counted these students’ Block 2 performance as missing data and
+when we counted the students as having completed zero problems. All conclusions about the significance of the predictors of diligence task data remained the same regardless of the missing data technique.
+4
+The large majority of students said that their goal was to attend and
+graduate from a 4-year college (85%), while the remaining students said their
+goal was to attend a 2-year college. Interestingly, many students who said in
+May they would attend a 2-year college ended up at a 4-year college in the
+Fall, and so, to be conservative, our primary analyses included all participants
+regardless of their stated goal during senior year. However, we conducted
+supplemental analyses of the college persistence outcomes that were limited
+only to the subgroup who said they were planning on attending a 4-year
+college. The significance tests for the focal variables were no different.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PURPOSE AND SELF-REGULATION
+
+565
+
+Figure 2. The “diligence task”: a behavioral measure of academic self-regulation. See the online article for the
+color version of this figure.
+
+behavioral outcome: college persistence. Our secondary hypothesis was whether individual differences in the endorsement of the
+self-oriented motives showed the same pattern as the selftranscendent motives.
+Concurrent measures. When inspecting zero-order correlations (Table 1), students who reported more of a selftranscendent purpose for learning also scored higher on the
+meaningfulness of schoolwork measure (r ⫽ .23, p ⬍ .001),
+conceptually replicating past research (Yeager & Bundick,
+2009) but with a novel and more theoretically precise measure.
+A self-transcendent purpose for learning also predicted more
+grit (r ⫽ .39, p ⬍ .001) and more academic self-control (r ⫽
+.33, p ⬍ .001) and showed a modest correlation with a greater
+number of boring math problems solved in the face of tempting
+media (r ⫽ .09, p ⬍ .01).
+Supplemental analyses of survey questions asked after the diligence task help clarify those results. Students who endorsed a
+self-transcendent purpose for learning did not perceive the single-
+
+digit subtraction problems as less boring (r ⫽ ⫺.02, p ⫽ .47).
+Furthermore, 91% of participants reported at least some boredom,
+and 72% were “Extremely,” “Very,” or “Somewhat” bored. Thus
+the task was indeed boring. Yet those with more of a purpose
+solved somewhat more math problems despite the boredom (also
+see Grant & Sonnentag, 2010).
+The overall correlations with measures of self-regulation
+were maintained when controlling for potential confounding
+variables in a multiple regression: self-oriented, intrinsic motives for learning (e.g., exploring your interests), extrinsic motives for going to college (e.g., making more money), as well as
+sex, race and ethnicity, and cognitive ability. Regression models are shown in Table 2. Inspecting the standardized regression
+coefficients in Table 2 shows that a self-transcendent purpose
+for learning predicted greater personal meaningfulness of⬎
+schoolwork (␤ ⫽ .15, p ⬍ .001), grit (␤ ⫽ .27, p ⬍ .001),
+academic self-control (␤ ⫽ .29, p ⬍ .001), and the number of
+correctly solved boring math problems (␤ ⫽ .09, p ⫽ .01). In
+
+Table 2
+Ordinary Least Squares Regressions Predicting Construal and Academic Self-Regulation in Study 1
+Dependent measure
+Meaningfulness of
+schoolwork
+
+Grit
+
+No. of boring math
+problems solved during
+the diligence task
+
+Self-control
+
+Predictor
+
+␤
+
+t
+
+p
+
+␤
+
+t
+
+p
+
+␤
+
+t
+
+p
+
+␤
+
+t
+
+p
+
+Self-transcendent motives
+(“Purpose for learning”)
+Self-oriented, intrinsic motives
+Extrinsic motives
+Cognitive ability
+Sex
+Ethnicity
+Adjusted R2
+N
+
+.15
+.09
+⫺.10
+⫺.07
+⫺.02
+⫺.07
+
+4.06
+2.74
+⫺3.50
+2.78
+⫺.76
+⫺2.61
+.07
+1,360
+
+.00
+.01
+.00
+.01
+.45
+.01
+
+.27
+.10
+⫺.09
+⫺.10
+⫺.10
+⫺.11
+
+7.04
+2.63
+⫺3.04
+⫺2.49
+⫺4.25
+⫺4.21
+.20
+1,358
+
+.00
+.01
+.00
+.01
+.00
+.00
+
+.29
+.09
+⫺.10
+⫺.02
+⫺.05
+⫺.10
+
+7.05
+2.45
+⫺3.47
+⫺0.34
+⫺1.87
+⫺3.75
+.13
+1,358
+
+.00
+.01
+.00
+.73
+.06
+.00
+
+.09
+.01
+⫺.11
+⫺.02
+⫺.05
+⫺.10
+
+2.59
+0.41
+⫺3.58
+⫺0.34
+⫺1.87
+⫺3.75
+.09
+1,234
+
+.01
+.68
+.00
+.73
+.06
+.00
+
+Note.
+
+␤ ⫽ standardized regression coefficient. Sex: 1 ⫽ female, 0 ⫽ male. Ethnicity: 1 ⫽ Hispanic/Latino, 0 ⫽ non-Hispanic.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+566
+
+YEAGER ET AL.
+
+this multiple regression, a self-oriented, intrinsic motive for
+learning did not significantly predict number of math problems
+solved (see Row 2 in Table 2), and it was a significantly weaker
+predictor of reported grit and self-control compared to a purpose for learning, Wald test of equality of coefficients, F(1,
+1349) ⫽ 4.74, p ⫽ .03.
+Note that these analyses do not show that self-oriented motives are unimportant. Almost all participants who reported at
+least some self-transcendent motives (e.g., at or above the scale
+midpoint) also expressed at least modest levels of intrinsic,
+self-oriented motives (also at or above the scale midpoint; also
+see Yeager et al. 2012). Nevertheless, more strongly endorsing
+a self-oriented motive was not related to individual differences
+self-regulation. By contrast, in a sample of adolescents with at
+least some level of self-oriented motivation, greater endorsement of self-transcendent motives consistently predicted greater
+self-regulation.
+Finally, zero-order correlations showed that intuitively appealing extrinsic self-oriented motives such as making money in a
+future job were significant positive predictors of meaningfulness
+of schoolwork and trait-level self-regulation (Table 1). However,
+this appeared to be due to shared variance with the other motives.
+The extrinsic self-oriented items include variance both due to a
+general motivation to go to college—which would be shared with
+the purpose items—as well as variance due to more specific
+extrinsic motives (making money, getting out of the house), which
+might not be. In regression analyses that presumably remove the
+former source of variance, extrinsic motives were in every case
+strong negative predictors of both personal meaningfulness of
+schoolwork and academic self-regulation (see Row 3 in Table 2).
+That is, wanting to go to college in order to make money or get out
+of the house predicted significantly worse academic selfregulation, net of other motives to go to college.
+Longitudinal measure: College persistence. Many factors
+are likely to affect whether high-school graduates follow through
+with their college aspirations. These include academic preparation
+or the need for financial aid. Yet students also face barriers that
+require self-regulation, such as navigating the bureaucratic difficulties of completing the paperwork for enrollment, housing,
+course and major selection, etc., as well as the need to take
+entry-level, sometimes-tedious or disconnected introductory
+courses (Ryu, 2012). College students also have more freedom
+with their time compared to high school students, and they must
+freely choose to work in service of their long-term goals even as
+they face daily temptations to engage in social activities or consume entertaining media. Because self-regulation, in theory,
+should help students complete these tasks and therefore persist in
+college—and recall that diligence task behavior predicted college
+enrollment—we hypothesized that a purpose for learning might
+predict goal persistence across the socially, academically, and
+bureaucratically difficult transition to college.
+Consistent with this theoretical expectation, in a logistic regression with no covariates, a self-transcendent purpose for learning
+significantly predicted college enrollment (OR ⫽ 1.40, Z ⫽ 4.82,
+p ⬍ .001). Controlling for sex, race and ethnicity, cognitive ability,
+as well as cumulative high school grade point average (GPA), did
+not diminish this relation (OR ⫽ 1.40, Z ⫽ 4.62, p ⬍ .001).
+Estimated values from this model are depicted in Figure 3. This
+figure shows that for students with responses at the bottom of the
+
+Figure 3. A self-transcendent purpose for learning predicts long-term
+persistence toward an academic goal (enrollment at a 4-year college 6 –10
+months postassessment, among college-going high school graduates) in
+Study 1. Predicted values that adjusted for cognitive ability, gender, racial
+minority status, and high school grade point average are depicted. All
+participants were high school graduates who stated that their goal was to
+graduate from college.
+
+purpose scale (the lowest two out of five points), only 30% of
+students were still enrolled at college in the Fall immediately
+following high school graduation. Among students at the midpoint
+of the purpose scale, 57% were still enrolled in college. For
+students at the highest two out of five scale points, this number was
+even greater: 64%.5 Controlling for self-oriented, intrinsic motives
+for learning as well as extrinsic motives for going to college did
+not diminish the significant relation between a purpose for learning
+and college enrollment (OR ⫽ 1.34, Z ⫽ 2.77, p ⫽ .006).6 These
+additional motives did not significantly predict college enrollment:
+self-oriented, intrinsic motives (OR ⫽ 1.10, Z ⫽ .85, p ⫽ .40), and
+extrinsic motives (OR ⫽ 1.11, Z ⫽ 1.05, p ⫽ .30). Wald tests
+comparing the sizes of these coefficients to a self-transcendent
+purpose for learning failed to reach statistical significance (ps ⫽
+.35 and .22, respectively). Altogether, a self-transcendent purpose
+for learning predicted persistence toward the eventual goal of
+college graduation. In the full regression model, other, more selforiented motives did not.
+
+Discussion
+This research was conducted with a large sample of low-income,
+mostly racial minority students, many of whom would be the first
+in their families to graduate from college. In this sample, those
+who expressed more of a self-transcendent purpose for learning as
+they were leaving high school also viewed tedious academic
+activities as more personally meaningful and both reported and
+behaviorally displayed greater academic self-regulation. They
+5
+The relation was not exclusively driven by the low-purpose individuals. When reconducting analyses only with the sample at or above the
+midpoint of the purpose scale (3, 4, or 5, excluding 1 and 2; see Figure 3),
+a self-transcendent purpose for learning remained a significant predictor of
+college enrollment (OR ⫽ 1.32, Z ⫽ 2.77, p ⫽ .006).
+6
+For a subset of students, we were able to obtain college-admissions test
+scores (SATs and ACTs). When reconducting analyses with test scores as
+covariates, all conclusions about the significance of each of the motives
+(self-oriented and self-transcendent) were unchanged (ps ⬍ .05).
+
+PURPOSE AND SELF-REGULATION
+
+were also more likely to continue toward their stated goal of
+persisting in college. These effects were independent of cognitive
+ability. In addition, stronger endorsement of more typical selforiented motives did not as consistently predict greater selfregulation, suggesting that there is a unique contribution of adding
+more self-transcendent motives.
+More generally, the results of Study 1 raise the intriguing
+possibility that an intervention designed to promote a selftranscendent purpose for learning might improve adolescents’ academic performance over time. We tested this in Study 2.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Study 2: A Longitudinal Intervention Experiment
+Study 1 was the first to show that a self-transcendent purpose for
+learning could predict a tendency to display greater diligence and
+self-regulation on academic activities as well as greater college
+persistence. Although encouraging support for our theory, these
+correlational analyses are limited in their ability to isolate causal
+processes. We therefore created a novel purpose for learning
+intervention and assessed its effects on behavior over time. This
+was informed most directly by pioneering research by Hulleman
+and Harackiewicz (2009; also see Hulleman, Durik, Schweigert, &
+Harackiewicz, 2008; Hulleman, Godes, Hendricks, & Harackiewicz, 2010). It was also informed by past studies showing that
+even brief persuasive messages that alter students’ appraisals of
+recurring events in school can improve student achievement
+months or years later (Aronson, Fried, & Good, 2002; Blackwell et
+al., 2007; G. L. Cohen, Garcia, Purdie-Vaughns, Apfel, & Brzustoski, 2009; Sherman, Hartson, Binning, Purdie-Vaughns, Garcia,
+Taborsky-Barba, Tomassetti, & Cohen, 2013; Walton & Cohen,
+2011; see Garcia & Cohen, 2012; Yeager & Walton, 2011). Building on this, a one-time purpose intervention might produce a shift
+in students’ thinking that buffers them from a loss in selfregulation when confronted with uninteresting tasks on a daily
+basis (cf. Grant & Sonnentag, 2010). Specifically, we hypothesized that an intervention promoting a self-transcendent purpose
+for learning could improve GPA in STEM courses several months
+later, compared to a control group that completed a neutral exercise.
+
+Method
+Participants. Participants were 338 ninth grade students at a
+middle class suburban high school in the Bay Area of Northern
+California. Exactly half were male and half were female; 60%
+were Asian, 28% were White, 9% were Hispanic/Latino, and 1%
+were African American. The present study’s population adds to
+Study 1’s, which showed the importance of a purpose for learning
+among predominately low-income students of color attending urban public schools. In the present study, poverty and poor quality
+instruction were not common barriers for students; only 8% percent were eligible for free or reduced-price lunch and over 85%
+were considered proficient in math and science on state tests. Thus
+it was possible to examine whether the effects of a selftranscendent purpose could generalize beyond the type of sample
+employed in Study 1. There was no stopping rule for data collection in the present study because all students in the school were
+invited to participate.
+Procedures. The intervention was delivered in the school’s
+computer lab during the school day. Teachers directed students to
+
+567
+
+a website (http://www.perts.net) that delivered the session via a
+computer. All that was required of the teachers was to keep the
+class orderly. The materials took less than one class period (20 –30
+min) to complete.
+The school has four grading periods in the year, each producing
+independent grades, and each lasting one fourth of the school year.
+In the first week of the fourth grading period of the year (in
+March), students completed Study 2’s web-based self-transcendent
+purpose intervention or a control intervention (see below). This
+allowed for a test of the intervention on grades in the final quarter
+of the year, controlling for prior grades in the third quarter.
+The intervention was delivered during an elective period, not in
+a math or science class. This provides a strict test of the hypothesis
+that students themselves could create a purposeful framework that
+they could apply even with no explicit associations between the
+intervention content and STEM course learning objectives. We
+made no mention to students that the purpose intervention was
+designed to affect their thinking or behavior—instead, it was a
+framed as a student survey requiring their input. No teacher at the
+school had access to the intervention materials (so they could not
+reinforce it knowingly), and they were unaware of treatment and
+control assignments.
+Purpose for learning intervention. A number of insights informed our intervention design. First, in past qualitative research
+(Moran et al., 2013; Yeager & Bundick, 2009; Yeager et al., 2012)
+many high school students spontaneously named both self-oriented
+motives and self-transcendent motives. Students who did so
+showed the greatest improvements in terms of the meaning of their
+schoolwork over a 2-year period (Yeager et al., 2012; for analogous research in the workplace, see Grant, 2008). Almost no
+adolescents (8%), however, mentioned only self-transcendent motives. We therefore expected that teens would find it implausible to
+only focus on the world beyond the self, especially because high
+school is transparently a preparation for one’s future personal
+academic and professional goals. Therefore the intervention asked
+students to connect self-transcendent aims to self-relevant reasons
+for learning, rather than asking them to be completely altruistic.
+Next, a premise of our approach is that it is either not possible
+or extremely difficult to tell a teenager what his or her purpose for
+learning should be. Doing this could threaten autonomy, a key
+concern for adolescents (Erikson, 1968; Hasebe, Nucci, & Nucci,
+2004; Nucci, 1996). Indeed, teens commonly express reactance in
+response to adults’ attempts to influence their personal goals
+(Brehm, 1966; Erikson, 1968), rejecting adult’s suggestions— or
+even endorsing their opposite—to reassert autonomy (see Lapsley
+& Yeager, in press). Furthermore, Vansteenkiste et al. (2004)
+showed that autonomy-supportive framing was especially important when providing intrinsic motives for a learning task. At the
+same time, it may be possible to lead a teenager to reflect on and
+construct motives in a certain direction, in a way that leads them
+to develop their own self-transcendent purposes for learning (see
+Hulleman & Harackiewicz, 2009). In past research on service
+learning activities with adolescents, reflecting on the personal
+meaning of one’s past prosocial behaviors led to changes in
+beliefs, attitudes, and thinking styles (Eyler, 2002; Eyler & Giles,
+1999). Informed by these insights, our intervention did not seek to
+give a personally relevant, self-transcendent purpose to a student.
+Instead it sought to serve as an “enzyme” to catalyze students’
+
+568
+
+YEAGER ET AL.
+
+reflections about their own self-transcendent purposes for learning
+and facilitate connections to self-oriented motives.
+More concretely, the intervention first primed students’ selftranscendent thoughts by asking them to write an open-ended
+essay response to a question about social injustices they found
+particularly egregious. The prompt was,
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+How could the world be a better place? Sometimes the world isn’t fair,
+and so everyone thinks it could be better in one way or another. Some
+people want there to be less hunger, some want less prejudice, and
+others want less violence or disease. Other people want lots of other
+changes. What are some ways that you think the world could be a
+better place?
+
+Student responses dealt with issues such as war, poverty, or
+politics. Some examples were “Without discrimination, there
+would be much less violence and war in this world” or “The
+hunger problem can be solved if we have proper energy sources.”
+With those prosocial concerns in mind, students next completed a
+structured reading and writing exercise.
+In doing so, the intervention drew on a variety of strategies
+designed to be maximally persuasive without threatening autonomy (Yeager & Walton, 2011; see Aronson et al., 2002; Walton &
+Cohen, 2011). The intervention conveyed the social norm that
+“many students like you” have a self-transcendent purpose for
+learning. Such descriptive norms can motivate behavior change
+(Cialdini, Reno, & Kallgren, 1990; Goldstein, Cialdini, &
+Griskevicius, 2008; see Cialdini, 2003), especially during adolescence (G. L. Cohen & Prinstein, 2006). To create a descriptive
+norm, we presented results of a survey that communicated that, in
+addition to common motives like making money or having freedom, most students also (sometimes secretly) are motivated to do
+well in school in order to gain skills that can be used for prosocial
+ends. Survey statistics presented to participants indicated that most
+students were motivated to do well in high school at least in part
+“to gain knowledge so that they can have a career that they
+personally enjoy” and “to learn so they can make a positive
+contribution to the world.” These statistics were also designed to
+counteract pluralistic ignorance about the norm that people are
+purely self-interested (also see Grant & Patil, 2012; Miller, 1999).
+As in similar social-psychological interventions (e.g., Walton &
+Cohen, 2011), summary statistics were accompanied by representative quotes purportedly from upperclassmen at the school that
+reinforced the focal message. One such quote stated,
+For me, getting an education is all about learning things that will help
+me do something I can feel good about, something that matters for the
+world. I used to do my schoolwork just to earn a better grade and look
+smart. I still think doing well in school is important, but for me it’s
+definitely not just about a grade anymore. I’m growing up, and doing
+well in school is all about preparing myself to do something that
+matters, something that I care about.
+
+Finally, building on self-perception and cognitive dissonance
+(Bem, 1972; Festinger, 1957), past research finds that when a
+person freely chooses to advocate for a message this can lead a
+person to internalize it (Aronson, 1999; Aronson et al., 2002).
+Therefore, students next wrote brief testimonials to future students
+about their reasons for learning. Specifically, students explained
+how learning in high school would help them be the kind of person
+they want to be or help them make the kind of impact they want
+
+on the people around them or society in general. Participants on
+average wrote two to four sentences. In this way, rather than being
+passive recipients of the intervention, students themselves authored it. This allowed students to make the message both personal
+and persuasive to the self (Yeager & Walton, 2011).
+We conducted a pilot experiment to confirm that the selftranscendent purpose intervention could indeed promote personal
+meaning in school as expected by theory (Yeager & Bundick,
+2009; also see Study 1). This pilot involved N ⫽ 451 high school
+students from 13 different high schools across the United States
+(extensive detail is presented in the online supplemental material).
+In the pilot, students were randomized to the purpose intervention
+or a neutral control activity (see below). Students then completed
+a more extended version of the Study 1 meaningfulness of schoolwork measure—the academically oriented BIF (Figure 1; cf. Vallacher & Wegner, 1989). As expected, in this pilot the purpose
+manipulation led to greater personal meaningfulness of tedious
+academic tasks compared to a neutral control, t(446) ⫽ 2.67, p ⫽
+.007, d ⫽ 0.25 (Control raw M ⫽ 4.78, SD ⫽ 2.53 vs. Purpose raw
+M ⫽ 5.39, SD ⫽ 2.41). This confirms that the purpose intervention
+can operate as expected, at least in the short term in the pilot
+sample.
+Control exercise. In a control condition, participants read
+about and then explained how high school was different from
+middle school. As in the purpose condition, participants saw
+summary statistics, read messages purportedly from helpful upperclassman (e.g., statements discussing the differences in the number
+of teachers or difficulty of time management), and wrote essays
+about how their lives were different now compared to when they
+were in middle school. Thus the control exercise was ageappropriate, social, and engaging but was devoid of the focus on
+motives for learning. It primarily rules out the alternative explanation that any positive and friendly message about school from
+older students could create a sense of connection with others and
+facilitate prosocial motivation.
+Measures.
+STEM GPA. The primary dependent variable was grades in
+STEM courses (math and science) for the fourth grading period of
+the year. As is common, we scored grades from individual courses
+on a 4-point GPA scale (i.e., A ⫽ 4, A⫺ ⫽ 3.67, B⫹ ⫽ 3.33, etc.)
+and then averaged them. We did the same for the preintervention
+grading periods. Math courses were Algebra 1, Algebra 2, or
+geometry (depending on where guidance counselors placed students); all students took biology, although some students were in
+more advanced biology classes than others.
+
+Results
+Preliminary analyses. The two conditions did not differ in
+terms of word count of their written responses, t(319) ⫽ ⫺0.10,
+p ⫽ .92, suggesting that, at least along this index, the two interventions elicited similar levels of engagement with the activity.
+Next, students successfully responded to the prompt. Some examples for the purpose intervention condition were:
+I would like to get a job as some sort of genetic researcher. I would
+use this job to help improve the world by possibly engineering crops
+to produce more food, or something like that.
+
+or
+
+PURPOSE AND SELF-REGULATION
+I believe learning in school will give me the rudimentary skills to
+survive in the world. Science will give me a good base for my career
+in environmental engineering. I want to be able to solve our energy
+problems.
+
+or
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+I think that having an education allows you to understand the world
+around you. It also allows me to form well-supported, well-thought
+opinions about the world. I will not be able to help anyone without
+first going to school.
+
+GPA analyses. Did the purpose intervention improve overall
+grades in STEM-related courses (math and science)? It did, as
+shown in Figure 4. In an OLS regression, there was a full-sample
+effect of the one-time intervention on STEM-course GPA in the
+months following the experiment (Control covariate-adjusted M ⫽
+2.93, SD ⫽ 1.03; Purpose covariate-adjusted M ⫽ 3.04, SD ⫽
+0.89), t(337) ⫽ 3.20, p ⫽ .001, d ⫽ 0.11.7 As is standard procedure in analyses of psychological intervention effects on GPA
+(Blackwell et al., 2007; G. L. Cohen et al., 2009; Walton & Cohen,
+2011; Yeager et al., 2014), this analysis was conducted controlling
+for prior performance (in the present case, third grading period
+grades; the same findings emerged controlling for all prior grading
+periods). Indeed, doing so reduced the standard errors associated
+with the condition variable, allowing for more precise estimates of
+treatment effects and maximization of statistical power.8 Additional models that added controls for race, gender, age and level of
+math course did not change the finding of a main effect of
+condition on GPA (p ⫽ .001). These control variables also did not
+moderate treatment effects (all interaction effect ps ⬎ .15).9
+Under the assumption that low-achieving math and science
+students might be more likely to be disinterested (see, e.g., Skinner, Kindermann, & Furrer, 2009; also see Hulleman & Harackiewicz, 2009), we tested whether the purpose for learning would
+have the greatest effect on students who were earning the lowest
+math and science grades preintervention. Indeed, there was a
+significant Purpose Intervention ⫻ Preintervention GPA interaction, t(338) ⫽ ⫺2.92, p ⫽ .004, such that lower performing
+students benefitted more. To illustrate this interaction, which was
+tested using the continuous preintervention GPA variable, it is
+
+569
+
+possible to examine simple effects within meaningful subgroups of
+lower performers (students with a GPA ⬍ 3.0) and higher performers (GPA of 3.0 or higher). A cut-point of a GPA of 3.0 was
+selected for this illustration because an analysis of high school
+transcripts and college enrollment statistics identified this as the
+best GPA threshold for college readiness (Roderick, Nagaoka, &
+Allensworth, 2006). Among lower performers, who are typically
+less likely to successfully complete college on the basis of their
+high school GPAs, there was a significant treatment effect of 0.2
+grade points, t(119) ⫽ 2.90, p ⫽ .005, d ⫽ 0.21. This is shown in
+Figure 4. Among higher performers, there was a nonsignificant
+effect of 0.05 grade points, t(207) ⫽ 1.38, p ⫽ .17, d ⫽ 0.06.
+Thus, the self-transcendent purpose for learning increased
+STEM-course grades for students overall, but especially so for
+low-performers who were on track for being underprepared for
+higher education. This result mirrors past intervention studies,
+which have found that lower performing students tend to benefit
+most from activities that redirect their thinking about academic
+work in a positive way (e.g., G. L. Cohen et al., 2009; Hulleman
+& Harackiewicz, 2009; also see Wilson & Linville, 1982). It is of
+course possible that this moderation by baseline grades is a statistical issue; indeed, A, A⫺, and B ⫹ students have less room to
+improve. At the same time, to the extent that lower grades could be
+caused by disinterest and disengagement (see, e.g., Skinner et al.,
+2009), the present moderation is consistent with the theory that the
+purpose intervention would confer the greatest benefits when
+disinterest and disengagement are greatest.
+
+Discussion
+Extending the Study 1 correlational findings, Study 2 showed
+that a self-transcendent purpose intervention could affect overall
+achievement in STEM courses several months into the future. How
+could a brief purpose intervention increase official GPA? In the
+next two studies we sought to illuminate some of the behavioral
+processes that might be set in motion by the self-transcendent
+purpose manipulation.
+
+Study 3: Deeper Learning During Tedious
+Multiple-Choice Questions
+Study 2 was a contribution in showing a causal effect of a
+one-time self-transcendent purpose intervention on accumulated
+behavior over time—specifically, GPA in high school STEM
+classes. It provides causal evidence for the kinds of achievement
+effects that may have produced the Study 1 correlational finding
+that purpose for learning predicted college persistence. However, a
+
+Figure 4. A self-transcendent purpose for learning intervention raises
+grades in math and science for all students but especially for poor performers in Study 2 (students with a GPA below 3.0 in the preintervention
+quarter). Error bars indicate 1 standard error. STEM ⫽ science, technology, engineering, and mathematics.
+
+7
+Cohen’s d effect sizes were calculated by dividing the covariateadjusted treatment effect by the raw, pooled standard deviation.
+8
+Even without controlling for baseline performance—which reduced the
+standard error for the treatment effect by more than 250%—the treatment
+effect on final grades was marginally significant (p ⫽ .06).
+9
+While our primary focus was on STEM course GPA, the participating
+school also provided students’ English grades. Supplemental analyses
+showed that there was a full-sample effect of the purpose intervention on
+fourth grading period English grades of .15 grade points, t(329) ⫽ 2.18,
+p ⫽ .03, including the same covariates noted above. Perhaps this was
+because students found freshman year English to be boring, or perhaps this
+is because the intervention led to a general increase in engagement in
+school that spilled over to English class.
+
+YEAGER ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+570
+
+number of issues remain. Study 2 did not document which shortterm behaviors were affected by the intervention and that subsequently added up to the long-term treatment effect. For instance,
+we do not know if a self-transcendent purpose increased overall
+grades by making students more likely to truly learn from their
+academic experiences, as opposed to moving as quickly as possible
+through their academic work without trying to retain the information for future use (see Jang, 2008).
+Study 3 was a naturalistic field experiment conducted among
+undergraduates preparing for one of their final exams in their
+psychology course. A few days before the exam, the instructor
+e-mailed students a survey link that randomized them to a purpose
+intervention or a control exercise. The survey then directed students to complete a tedious (⬎100-question) web-based test review. Our hypothesis was that the self-transcendent purpose intervention would increase students’ attempts to seriously review the
+material, operationalized as the average amount of time spent on
+each question. Notably, the materials were presented as an actual
+extra-credit exercise, not as a study, in order to more closely
+recreate the real-world choices students might have been making
+in Study 2.
+
+Method
+Participants. A total of 89 second- through fifth-year students
+in an undergraduate psychology course received an e-mail inviting
+them to access a test review and receive extra credit. A total of 71
+(80%) completed the intervention materials and provided any data
+on dependent measures. Of these, 78% were women. There was no
+stopping rule because all students in the class were invited. No data
+were excluded.
+Note that in this study (and Study 4), participants are college
+students, not high school students. In part this is because of our
+interest in understanding the processes that lead to the attainment
+of long-term educational goals such as college graduation (e.g.,
+Study 1). This sample was also convenient. This difference in
+sample provides the benefit of possibly generalizing the prior
+results. It would be informative if a self-transcendent purpose for
+learning intervention produced analogous effects among high
+school freshmen (Study 2), high school seniors (Study 1), and
+college students (Studies 3 and 4).
+Procedure. Near the end of the term, students completed the
+online purpose intervention and exam review activity. During the
+review activity, the survey software tracked students’ behavior
+(e.g., time spent on each practice problem), and this constituted the
+primary dependent measure.
+More specifically, 2 days before an exam, students were sent the
+following e-mail from their professor:
+Hello class. I’m currently working on an online activity to help the
+students in my class do better. This online activity involves two
+things. First, it helps you think about how our psychology class fits
+into the context of your lives. Second, I’ve created an online activity
+to help you study the course material and prepare for your next exam,
+which involves showing you several sample multiple-choice questions
+that are similar to the kinds of questions that you will be tested on
+during EXAM 3. Since this online tool is still a work in progress, I’m
+offering you 2 points extra credit (to be applied to your lowest exam
+score) if you decide to go through it and help refine it. . . . [It] will take
+as long as you’d like–you can answer as many or as few questions as
+you want.
+
+Purpose and control exercises. The self-transcendent purpose
+materials were highly similar to those used in Study 2. They were
+edited slightly to refer to reasons for learning psychology, so that
+the materials could conceivably be seen as related to the psychology course. The normative quotes were also framed as coming
+from former students in the course, as opposed to upperclassmen
+in general. The control exercise was highly similar to the Study 2
+control group, only it discussed how learning in college is different
+from learning in high school. Both of these changes were made
+because the experiment was conducted as institutional research,
+which means that the goal of the study was to improve instructional practice, although the data could also be used for generalizable knowledge. And in fact the review boosted grades, dramatically so for the lowest performers across conditions (see online
+supplemental materials). This ethics arrangement also had implications for random assignment. Because the research team already
+possessed evidence that the intervention could benefit students
+(e.g., Study 2) and because there were real-world grades at stake
+for students, for ethical reasons 75% of students received the
+purpose intervention and 25% received the control. Furthermore,
+no self-report attitudes or other psychological measures were assessed. Only students’ postmanipulation behaviors on the review
+materials were measured.
+Measures. As a dependent measure, we created a situation
+that was tedious: reviewing for a test by answering over 100
+multiple-choice questions. We then measured behavior that could
+signify an intention to truly learn from it: time spent on each
+review question. All questions were taken from a psychology test
+bank. On average, students answered 90 questions and spent 40
+min doing so. Review questions were programmed so that students
+could not proceed to the next question until they answered it
+correctly, and task instructions clearly stated that spending more
+time on each question—rather than just guessing randomly until
+they got it right and could move on—signaled a desire for deeper
+learning. The instructions were,
+IMPORTANT: HOW TO ACTUALLY LEARN FROM THESE
+QUESTIONS
+New cognitive psychology research shows that simply guessing on
+multiple-choice questions does not promote deep learning on the
+activity, because it doesn’t force you to retrieve the information. . . .
+So, if you want to deeply learn from this activity, it is best to look
+through your notes and the textbook and try to recall the information
+while answering the questions, as if you were really taking an important exam.
+
+Students were also given web links to actual published empirical
+articles showing that memory is improved only by earnest retrieval
+behaviors. Thus, we created a situation in which the longer students thought about each question before trying to answer it, and
+the longer they spent clarifying their understanding before moving
+on, the more they were choosing to “learn deeply” from the
+activity. We conducted a number of additional analyses to confirm
+this theoretical interpretation of the data, and they are reported in
+the online supplement.
+The survey software recorded the number of milliseconds that
+each question was displayed before students ultimately submitted
+a correct answer. These values were summed and then divided by
+the number of questions attempted, to produce an average time per
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PURPOSE AND SELF-REGULATION
+
+question per person. Treatment versus control students did not
+differ in terms of the number of questions students completed (p ⫽
+.38), but the effect was in the direction of treated students completing more problems (see online). As is common in analyses of
+time, our measure showed significant skew and kurtosis (joint test
+p ⬍ .00001). We therefore conducted a “ladder of powers” analysis (Tukey, 1977) to identify the transformation that best reduced
+deviation from normality (it was one divided by the square root of
+the number of seconds). The ladder analysis and subsequent transformation were done blind to the effect of the transformations on
+the significance of the intervention effect. The transformed measure had no significant skew or kurtosis (joint test p ⫽ .90). Time
+was ultimately coded so that higher numbers corresponded to more
+time on average on each page, and then z-scored to have a mean of
+zero and a standard deviation of 1. All analyses are from regressions that control for prior test performance, which significantly
+predicted time per page and reduced standard errors associated
+with treatment effects.
+
+Results
+Results showed that a self-transcendent purpose for learning
+increased the tendency to attempt to deeply learn from the tedious
+academic task. Students who completed the self-transcendent purpose intervention spent more time working on each review question (Z-scored time per question: Control M ⫽ ⫺0.43, SD ⫽ 1.11;
+Purpose M ⫽ 0.13, SD ⫽ 0.93), t(69) ⫽ 2.11, p ⫽ .038, d ⫽ 0.56.
+In the untransformed data, this corresponded to spending roughly
+twice as much time on each question (Control M ⫽ 25 s per
+question vs. Treatment M ⫽ 49 s per question).10
+
+Discussion
+Study 3 investigated one of the short-term behaviors that might
+have led to the long-term effects of a purpose in Study 2: deeper
+learning on a tedious exam review. Students spent twice as long on
+their review questions when they had just written about how truly
+understanding the subject area could allow them to contribute to
+the world beyond the self, compared to controls. Importantly, this
+was done in a naturalistic setting—that is, looking at real world
+student behavior on an authentic examination review. Perhaps the
+purpose intervention increased grades over time in Study 2 because it led students to complete their academic work in a qualitatively distinct fashion— one that privileged learning and retention over “getting through it.”
+
+Study 4: Working Hard in the Face of Temptations
+The findings from Study 3 suggest one way in which a one-time
+self-transcendent purpose intervention might have increased overall grades in STEM courses in Study 2: deeper learning during
+review activities. However we have not shown that the purpose
+manipulation altered students’ abilities to regulate their competing
+desires. That is, we have not shown effects in situations that clearly
+require self-regulation. To begin to answer this, a more precise
+behavioral test is required— one that pits the desire to meet one’s
+learning goals against the desire to give up and engage in a
+tempting alternative.
+Therefore Study 4 examined behavior on the “diligence task”
+described in Study 1 (also see Figure 2). This task simulates a
+
+571
+
+common experience for students: having to complete problem sets
+for math and science classes while being tempted to consume
+entertaining media on the Internet. Thus, the present study allowed
+for a face-valid test of our hypothesis that a self-transcendent
+purpose for learning could lead students to continue to solve math
+problems and eschew tempting alternatives even as boredom is
+increasing.
+Second, it would be helpful to know if a self-transcendent
+purpose could benefit all learners, but especially when a task is
+most uninteresting. Therefore, instead of examining betweenperson differences that might moderate treatment effects, as in
+Study 2, Study 4 focused on within-person differences. That is,
+Study 4 examined whether the purpose manipulation would lead to
+more math problems solved on the later trials of the diligence task,
+when boredom is greatest.
+Study 4 was primarily designed to address these two research
+questions. However a third objective was to test whether simply
+emphasizing the self-oriented benefits of learning in school
+would be sufficient to promote academic self-regulation. Recall
+that Studies 2 and 3 compared the purpose manipulation to a
+neutral control exercise, something that has often been done in
+many past social-psychological interventions that have affected
+long-term educational outcomes (e.g., Hulleman & Harackiewicz, 2009; Walton & Cohen, 2011). Yet it is unknown whether
+an analogous self-oriented manipulation would show the same
+benefits as the purpose manipulation. While Study 1 is helpful
+in showing the unique correlational effect of a self-transcendent
+purpose, an analogous experimental study has not been conducted. To address this, in the second of the two samples
+included in the present study we added a self-oriented condition, making it a three-cell design. We hypothesized that the
+self-oriented condition would not be sufficient to lead to higher
+numbers of math problems solved when boredom was greatest,
+compared to controls. We did not have a strong prediction about
+the comparison between the self-oriented condition and the
+purpose condition, however, because the former was intentionally designed to share much of the same content, and because
+past research has found these two groups do not differ significantly (Yeager et al., 2012; also recall the inconsistent Wald
+test results in Study 1).
+
+Method
+Participants. Participants (total N ⫽ 429) were two samples
+of students taking introductory psychology at the University of
+Texas at Austin in consecutive semesters. They participated in
+exchange for partial course credit. Forty-eight percent were male,
+and 52% were female. Race and ethnicity information was not
+collected from these students; however, the freshmen cohort at the
+university (which historically closely mirrors introductory psychology) is 57% White, 18% Asian, 17% Hispanic/Latino, and 5%
+African American. Students were predominately first- or secondyear students: 37% were 18 years old, 36% were 19 years old, and
+10
+It was also possible to explore treatment effects on actual scores on
+the final exam administered a few days after the study. Exploratory
+analyses found that the large majority of students showed greater improvement in test scores in the purpose condition compared to the control.
+Analyses are presented in the online supplemental materials.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+572
+
+YEAGER ET AL.
+
+15% were 20 years old. Data were collected during daytime hours
+in the last few days of the semester, a time when self-regulation
+might have been precarious due to final exams.
+Sample 1 had no stopping rule. We sought to collect as much
+data as possible (final n ⫽ 117) before the end of the term, and data
+were not analyzed until after the term was over. Sample 2 was
+collected the following semester and so it was possible to conduct
+a power analysis based on the results of Sample 1 before collecting
+data. This led to a target sample size of 300 for Sample 2, because
+a power analysis revealed that roughly 95 participants per cell
+would be required to have 80% power to detect an effect of d ⫽
+0.41 between any two conditions (the effect size estimate for the
+purpose intervention from Sample 1). Ultimately Sample 2 involved usable data from a maximum of n ⫽ 312 students (data
+collection was stopped at the end of the first day on which more
+than 300 complete responses had been collected). Some students
+did not provide data for some measures, and so degrees of freedom
+varied across analyses. No data were excluded except for those
+mentioned here or in the online supplement.
+Procedures. The intervention procedures were nearly identical to those used in Study 3. Immediately after completing the
+intervention materials, participants completed the diligence task as
+described in Study 1.
+Purpose and control exercises. These were nearly identical to
+those used in Study 2.
+Self-oriented control exercise. Sample 2 had a three-cell design that added a self-oriented (and intrinsic) condition to the
+control and self-transcendent purpose conditions. The self-oriented
+manipulation was similar to the purpose manipulation in nearly
+every way except for the elimination of self-transcendent prompts
+in the stimuli. It was future-oriented, goal-directed, and highly
+focused on learning and on developing skills—all things expected
+by theory to promote a commitment to learning (e.g., Lepper et al.,
+2005; Ryan & Deci, 2000; Vansteenkiste et al., 2006). This is a
+highly conservative test in that the manipulations shared much of
+the same content—approximately 90% of the text was the same.
+Also recall that Study 1 indicated that self-transcendent and selforiented motives were strongly correlated (r ⫽ .66). The present
+self-oriented control group was designed to rule out the alternative
+explanation that any manipulation involving reading and writing
+about intrinsic personal motives for learning would be sufficient to
+lead to greater self-regulation on an uninteresting task.
+In the self-oriented exercise, an initial essay question asked
+about changes in the world. This held time-perspective and counterfactual thinking constant, both shown to affect level of construal, which could promote self-regulation (Trope & Liberman,
+2010, 2011). However, this prompt asked how the world might be
+changed to benefit the self, rather than to address an injustice in the
+world:
+How could the world be better for you? Sometimes the world isn’t
+what you want it to be, and so everyone thinks it could be better for
+them in one way or another. Some people want more fun, some want
+it to be less stressful, and others want to be more interested in what
+they’re doing. Other people want lots of other changes. What are some
+ways that you think the world could be better for you?
+
+All but one of the summary statistics and all but one of the
+representative quotes were identical across conditions. For the one
+quote that was not the same, we removed self-transcendent infor-
+
+mation without sacrificing a focus on building skills, so that it
+read,
+For me, getting an education is all about learning things that will help
+me do something I can be good at—something that I can be the best
+at. I used to do my homework just to earn a better grade and look
+smart. I still think doing well in school is important, but for me it’s
+definitely not just about a grade anymore. I’m growing up, and doing
+well in school is all about preparing myself to do a job that I can be
+good at. That seems really rewarding to me— knowing that at the end
+of the day you completed an important job, and you did an awesome
+job at it. [Differences from the quotation in Study 2 shown in italics.]
+
+Next, participants were asked to share their own testimonials.
+The prompt closely mirrored the purpose condition and strongly
+emphasized the acquisition of skills (rather than the accumulation
+of extrinsic benefits). It asked “Why is learning important to your
+goals,” and “How will learning in school help you be the kind of
+person you want to be and help you have a career in life that you
+enjoy or are interested in?” It was designed to promote a suite of
+self-oriented motives, including task value (i.e., personal interest)
+and utility value (i.e., gaining a fulfilling career; Eccles & Wigfield, 1995, 2002). Supplementing this was a clear invocation of
+mastery goals for learning (Elliot & McGregor, 2001). All of these
+motives, on their own, might be expected to promote persistence.
+Yet this manipulation lacks explicit mention of the potential to use
+that mastery to benefit others, allowing for a test of our theory
+regarding the benefits of adding self-transcendent motives, above
+and beyond this suite of more self-oriented motives.
+Measures. Participants completed the same behavioral measure of academic self-regulation (i.e., the diligence task) that was
+used in Study 1 (see Figure 2). As in Study 1, we analyzed the total
+number of correct math responses.11 Performance on each of the
+two blocks was analyzed separately to allow for a test of whether
+self-regulatory benefits would be greatest when boredom had
+increased. To verify the extent to which the task was boring for
+participants in all conditions, at the end we asked participants
+whether the task was in fact boring, using the same item described
+in Study 1.
+
+Results
+Analytic plan. The primary theoretical interest was in
+whether the purpose for learning condition differed from the
+control condition in terms of behavior on the diligence task.
+Because, as will be shown, this focal comparison was significant
+independently within Samples 1 and 2, we primarily analyze a
+stacked data set and in statistical models we include a dummy
+variable for sample (and of course the self-oriented condition data
+are excluded in those analyses).
+A secondary question was whether the self-oriented manipulation produced the same or a different pattern of results as the
+purpose for learning manipulation. Therefore we next conducted
+analyses of the self-oriented manipulation using only data from
+Sample 2. We hypothesized that the self-oriented condition would
+11
+As in Study 1, we treated people who stopped the task altogether after
+the first block as a “0,” as in Study 1, to avoid dropping data. The statistical
+significance levels of the focal analyses (Block 2 math problems successfully answered) were no different when omitting participants who did not
+begin Block 2.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PURPOSE AND SELF-REGULATION
+
+not differ from controls. We did not have strong hypotheses about
+differences from the purpose condition, given the overlap between
+the two manipulations and the strong endorsement of learning
+goals in the self-oriented condition.
+Preliminary analyses. The experimental manipulations again
+appeared to elicit similar levels of thinking and writing about their
+respective topics; there were no differences across conditions in
+terms of the word count on the open-ended essay prompts: Sample
+1 t(116) ⫽ 0.50, ns; Sample 2 F(2, 282) ⫽ 0.13, ns. Next, the
+diligence task was experienced as truly boring. Fully 73% of
+participants said they were “Extremely,” “Very” or “Somewhat”
+bored when working on the math problems, while only 4% said
+they were “not bored at all.” Ratings of boredom did not differ by
+condition: Sample 1 t(116) ⫽ 0.47, ns; Sample 2: F(2, 282) ⫽
+1.27, ns. Thus, this study was a test of whether participants would
+display greater self-regulation on a task that was experienced as
+equally boring across conditions.
+Primary analyses. Did the self-transcendent purpose manipulation affect the number of math problems correctly solved? On
+the first block in the stacked data set, the purpose manipulation had
+no effect compared to the control, t(310) ⫽ 0.18, p ⫽ .86 (or in
+either sample): Sample 1 t(116) ⫽ 0.19, p ⫽ .85; Sample 2 F(2,
+283) ⫽ 0.57, p ⫽ .56). However recall from the methods of Study
+1 that the second block in the diligence task is experienced as
+much more tedious and aversive compared to the first block (and
+significantly so). Therefore differences were predicted to emerge
+precisely when participants became most bored, in Block 2.
+This is what the data showed, as depicted in Figure 5. Specifically, for participants in the control condition, the number of math
+problems solved dropped precipitously from the first to the second
+block. Control participants completed 44% fewer problems in
+Block 2 compared to Block 1 (Control Block 1 raw M ⫽ 66.47,
+SD ⫽ 46.29; Control Block 2 raw M ⫽ 37.12, SD ⫽ 45.10), a
+significant difference, paired t(164) ⫽ 7.51, p ⬍ .001, d ⫽ 0.65.
+However, for participants who completed the purpose manipulation, the drop in math problems solved from the first to the second
+block was mitigated. Purpose condition participants completed
+only 26% fewer problems in Block 2 (Purpose Block 1 M ⫽ 68.62,
+SD ⫽ 45.11; Purpose Block 2 M ⫽ 50.56, SD ⫽ 49.00), still a
+significant difference, paired t(165) ⫽ 4.21, p ⬍ .001, d ⫽ 0.38.
+Importantly, an OLS regression analysis comparing difference
+scores (Block 2 problems solved minus Block 1 problems solved,
+by condition) showed that the decline experienced by the purpose
+
+573
+
+condition was significantly smaller than that experienced by participants in the control condition, b ⫽ 12.45, t(309) ⫽ 2.10, p ⫽
+.03, d ⫽ 0.28. Thus, by the second block, there was a significant
+effect of the purpose manipulation compared to the control,
+t(309) ⫽ 2.81, p ⫽ .005, d ⫽ 0.32, such that purpose condition
+participants completed 36% more boring math problems compared
+to controls in the second block. This condition difference in Block
+2 was significant independently within Sample 1, t(115) ⫽ 2.14,
+p ⫽ .03, d ⫽ 0.40, and Sample 2, t(192) ⫽ 2.13, p ⫽ .03, d ⫽ 0.31,
+and did not differ across samples, interaction t(308) ⫽ 0.11, p ⫽
+.90. Hence, it was a reproducible finding (see Figure 5).
+Comparison to the self-oriented control group. By contrast,
+the highly similar self-oriented control group— emphasizing intrinsic motives for learning— did not appear to improve selfregulation on the boring math task compared to controls. Recall
+that these analyses could only be conducted with data from Sample
+2, which is the sample that involved the three-cell experiment. The
+self-oriented condition did not differ from the control in terms of
+number of math problems solved, either in Block 1, t(287) ⫽ 0.90,
+p ⫽ .39, d ⫽ 0.11, or Block 2, t(287) ⫽ 0.92, p ⫽ .38, d ⫽ 0.11,
+although comparisons were in the direction of more math problems
+solved for the self-oriented group versus the control. Note that this
+nonsignificant difference is not likely due to limited statistical
+power; the purpose condition showed a significant difference from
+control on Block 2 in Sample 2 (see Figure 5). The self-oriented
+condition did not differ from the purpose condition in either block,
+Block 1, t(285) ⫽ 1.37, p ⫽ .17, d ⫽ 0.16, Block 2,
+t(285) ⫽ ⫺0.99, p ⫽ .32, d ⫽ 0.11.
+Also informative is an analysis of changes across blocks. Participants in the self-oriented condition showed a decline in the
+number of math problems solved that mirrored the control condition, as shown in Figure 5. Participants in the self-oriented manipulation condition solved 32% fewer problems in Block 2 than in
+Block 1 (Self-oriented Block 1 M ⫽ 82.43, SD ⫽ 73.52; Block 2
+M ⫽ 55.63, SD ⫽ 45.65), t(86) ⫽ 6.00, p ⬍ .001, d ⫽ 0.45. An
+analysis of difference scores found that this change across blocks
+did not differ from the same changes seen in the control condition,
+t(286) ⫽ 0.35, p ⫽ .73. However the change score did differ
+significantly from the changes seen in the purpose condition,
+t(286) ⫽ ⫺2.17, p ⫽ .03, d ⫽ 0.26, showing that the purpose
+manipulation was significantly better at warding off a decline in
+math problems solved across blocks compared to the highly similar self-oriented manipulation.
+
+Figure 5. A self-transcendent purpose for learning intervention sustains self-regulation on the “diligence task”
+in Study 4. Error bars indicate 1 standard error.
+
+YEAGER ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+574
+
+Inspecting Figure 5, it is interesting that students in the selforiented manipulation condition showed an initial, nonsignificant
+boost in Block 1 problems solved compared to controls. This may
+have been contributing to the significant comparison between the
+purpose and self-oriented conditions in terms of difference scores
+across blocks. It is possible that the self-oriented manipulation led
+individuals to try harder initially, on Block 1, but this effort sapped
+their self-regulatory ability on the subsequent trial, Block 2. This
+will be important to investigate in future research. Regardless,
+simply reading and writing about intrinsic self-relevant motives for
+learning did not lead to significant differences from controls when
+the task became most boring. By contrast, a highly similar activity
+that added self-transcendent motives was effective at sustaining
+self-regulation.
+
+Discussion
+Study 4 extended the evidence about the effects of a selftranscendent purpose on academic self-regulation. It put learners in
+a situation in which they were asked to complete a tedious,
+low-level task that had only a tenuous relationship to future work
+goals, and they were told they could quit at any time and entertain
+themselves online. In many regards this is the modern dilemma:
+With ubiquitous entertainment at our fingertips, learners must
+exercise self-discipline even when they do not know whether they
+themselves or someone else will benefit from their hard work in
+the long term. We showed that learners could be helped in such
+situations when they reflected on how their future role in society
+might contribute in some ways to the world beyond the self. These
+individuals were better able to maintain their level of persistence
+and overcome temptation even when boredom was growing.
+
+General Discussion
+Many repetitive, foundational, skill-building math and science
+tasks are experienced as tedious or boring (Raytheon Company,
+2012; Stigler & Hiebert, 1999). Our research found that when it is
+difficult to make a task interesting it can be helpful to focus on
+creating personal meaning by promoting a prosocial, selftranscendent purpose for learning (see Brophy, 2008).
+In correlational, experimental, and longitudinal studies involving roughly 2,000 high school and college students, a purpose for
+learning predicted or caused more effective academic selfregulation in the immediate term and over time. A selftranscendent purpose was correlated with more diligence in the
+face of tempting alternatives and also greater college persistence
+rates among low-income, urban, predominantly minority students
+(Study 1). A brief experimental intervention to promote a selftranscendent purpose increased overall STEM-course grades several months later (Study 2). Studies 3 and 4 clarified the nearerterm effects of this manipulation. A self-transcendent purpose
+doubled the amount of time students spent on tedious exam review
+questions (Study 3) and increased by 35% the number of boring
+math problems students solved compared to controls, even when
+they had the option to consume entertaining Internet media at any
+time (Study 4). Adolescents with more of a self-transcendent
+purpose for learning also literally saw learning tasks differently.
+They were more likely to say that pictures and descriptions of
+quotidian academic tasks were linked to important and personally
+
+meaningful academic goals (Study 1; for causal evidence, also see
+the pilot randomized experiment reported in the online supplement
+and referenced in Study 2). All told, it seems that when adolescents
+had a personally important and self-transcendent “why” for learning they were able to bear even a tedious and unpleasant “how” (cf.
+Frankl, 1963).
+Previous research has shown that having a prosocial, selftranscendent motive for engaging in a behavior can lead to
+greater persistence on repetitive and uninteresting tasks at work
+(see Grant, 2007, 2013). The present research extended this by
+examining situations in which a person was completing skillbuilding tasks that have no immediate payoff for others but may
+prepare one to make a contribution in the future—such as doing
+single-digit subtraction or completing tedious multiple-choice
+questions. We found that a self-transcendent purpose for learning could alter a person’s self-regulation in such circumstances.
+This type of result might well generalize to nonschool settings. Do armed forces cadets engage in more vigorous physical
+exercise when they see themselves as preparing to protect
+civilians from harm versus protecting themselves from harm?
+Do computer hackers spend more hours learning syntax when
+they anticipate using it to resist an oppressive government
+versus stealing money or content for personal consumption? We
+believe the findings here might offer a perspective on the causes
+of persistence on foundational skill-development tasks in a
+number of settings.
+The present research is also an advance because it documents
+the development of a new research tool to examine the causal
+impact of a self-transcendent purpose for learning. Unlike research
+that has developed psychological interventions to undo the belief
+that academic struggle might mean you are “dumb” (Aronson et
+al., 2002; Blackwell et al., 2007; Wilson & Linville, 1982), or that
+you might not belong or be valued in a setting (G. L. Cohen et al.,
+2009; G. L. Cohen & Sherman, 2014; Harackiewicz et al., 2014;
+Walton & Cohen, 2011), research on youth purpose has to date
+been limited mostly to correlational survey analyses or qualitative
+interviews, preventing strong causal inferences (Bronk, 2012; Burrow & Hill, 2011; Yeager & Bundick, 2009; see Hill, Burrow, &
+Sumner, 2013; but see Hulleman & Harackiewicz, 2009). The
+intervention developed here has the advantage of web-based scalability and replicable effects in different populations using different outcomes. It will hopefully spawn future experimental investigations on the effect of a purpose for learning and perhaps,
+eventually, improvements to educational practice.
+Another innovation of this research stems from the fact that the
+self-transcendent purpose predicted or affected consequential educational behaviors, even among disengaged students or students
+attending urban public high schools. Behavioral economic strategies to reduce inequality such as paying low-income students for
+completing their homework have been applied broadly and found
+to have no consistent positive effects on overall achievement
+(Fryer, 2011). Yet a free, roughly 20-min, web-based intervention
+led students to choose to persist on unpleasant academic tasks and
+also earn higher grades. This is a testament to the power of
+psychological theory (e.g., Damon et al., 2003; Hulleman & Harackiewicz, 2009), to lead to behavior change in situations where
+more traditional economic efforts fail (also see Ross & Nisbett,
+1991). Furthermore, this research counteracts potential stereotypes
+about how to motivate low-income students attending urban public
+
+PURPOSE AND SELF-REGULATION
+
+schools. Many of the students in Study 1 said that they wanted to
+contribute to the world beyond themselves, not just make money.
+And when they said this, they were more likely to demonstrate
+self-control and make progress toward long-term goals. This suggests that telling these students to focus on how they can make
+more money if they go to college may not give them the motives
+they need to actually make it to college graduation. Instead,
+perhaps cultivating motives that transcend the self could provide
+them with the personal meaning they need to sustain selfregulation.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Understanding Long-Term Effects
+Social psychology has a long history of documenting counterintuitive but reproducible effects of brief interventions that affect
+health, stress, or achievement months or years later, even though
+the mechanisms for these effects have remained obscure (e.g.,
+G. L. Cohen & Sherman, 2014; Wilson & Linville, 1982; see
+Pennebaker, 2004). In these past studies and in the present research, it is often easier to understand why a manipulation would
+affect immediate outcomes than it is to understand why the intervention would “stick” over time, resulting in effects on overall
+GPA (G. L. Cohen & Sherman, 2014; Yeager & Walton, 2011).
+High school students undoubtedly receive many messages from
+valued adults entreating them to pay greater attention to their
+schoolwork. Why would the brief message delivered over the
+Internet in Study 2 stand out?
+Extant theory and some of the present data speak to this issue,
+but more research is needed. Specifically, theory has pointed to the
+fact that school is an environment in which recursive processes
+abound. Later knowledge builds on prior knowledge, later interactions with peers or teachers depend on relationships and reputations built in prior interactions, and later self-views and goals
+depend on prior thoughts and experiences (G. L. Cohen et al.,
+2009; G. L. Cohen & Sherman, 2014; Yeager & Walton, 2011).
+When a social-psychological intervention redirects a key motive
+for doing well in school, then it is possible for a “virtuous cycle”
+to gain momentum and affect diverse outcomes. A social psychological intervention might add up to accumulated effects via small
+adjustments in the probabilities of exerting self-control or deeply
+learning during tedious tasks (Abelson, 1985; also see G. L. Cohen
+& Sherman, 2014; Garcia & Cohen, 2012; Walton, 2014). Studies
+3 and 4 speak to this possibility directly, but the full mediational
+process remains undocumented.
+
+Limitations and Future Directions
+One limitation of our research is that we did not investigate
+participants’ strategies for self-regulation. Did participants with
+more of a self-transcendent purpose engage in mental actions to
+make uninteresting tasks more appealing or were they simply
+better at suppressing the urge to quit and engage in the tempting
+alternative? Past research suggests that both are possible (e.g.,
+Fishbach & Shah, 2006; Fishbach et al., 2010; Fishbach, Zhang, &
+Koo, 2009). For instance, Sansone et al. (1992) showed that when
+participants were asked to complete an uninteresting task and were
+given a rationale for why it might be personally important, participants implemented ways to make it feel subjectively more interesting. They randomly varied their method of completing the task
+
+575
+
+(also see Sansone, Wiebe, & Morgan, 1999). Meanwhile, Mischel,
+Ebbensen, and Zeiss (1972) found that self-regulation on a delay of
+gratification task was facilitated through cognitive strategies to
+mentally transform the tempting alternative into something that
+felt less appealing. Unpacking which of these alternative strategies
+emerge from the self-transcendent purpose for learning could shed
+light on the underlying psychological processes in the present
+research.
+A crucial caveat is that our research does not definitively
+show that intrinsic interest-driven motives are unimportant for
+self-regulation. Instead, what we showed was that with the same
+statistical power the self-transcendent purpose manipulation—
+which also invoked self-oriented motives–was more reliably
+different from the control manipulation that focuses exclusively
+on self-oriented motives (Study 4; also see the Study 2 pilot
+reported in the online supplement). Self-transcendent motives
+were sometimes but not always stronger predictors than selforiented ones in a multiple regression (Study 1). The finding
+that the intrinsic-interest-driven motives were “in the middle”
+mirrors past longitudinal research (Yeager et al., 2012) and has
+some intuitive appeal. If learners are seeking tasks that interest
+them or have some other intrinsic benefit to them, then they
+may show a general boost in motivation on school-related tasks.
+However, those only seeking benefits for the self may not
+persist on aversively tedious, low-level learning tasks in the
+face of alternatives that more readily satisfy their desire for
+interesting activities.
+The present research has focused on the role of a purpose for
+learning in skill-building activities. However when expert performance is of interest, then the belief that others are counting on you
+to perform well may not be beneficial. Such worries may interfere
+with working memory and increase the chance that a person will
+“choke” due to heightened anxiety (Beilock, 2011). Indeed, experimental procedures designed to induce anxiety and undermine
+performance sometimes explicitly involve telling participants that
+others’ outcomes will be negatively affected if they fail (e.g., see
+Beilock, Kulp, Holt, & Carr, 2004). Perhaps a self-transcendent
+purpose would undermine high-stakes performance. Thus, an important avenue for future research will be to illuminate whether a
+self-transcendent purpose is as effective in performance contexts
+as it appears to be in learning contexts.
+Finally, it is crucial to underscore that the self-transcendent
+purpose intervention is not a “magic bullet” for underachievement.
+Rather, it is a context-dependent solution to a particular psychological barrier (G. L. Cohen & Sherman, 2014; Yeager & Walton,
+2011)—in this case, the feeling that tedious academic tasks are
+meaningless and school has no connection to one’s purposes in
+life. In settings or among individuals where this belief is not
+prominent— or in settings that are not quite as recursive—then the
+type of intervention tested here would not be predicted to have a
+lasting effect. We think of the present results as an existence proof,
+not a guaranteed effect size across all settings. Research designed
+to understand the moderating mechanisms of brief interventions
+and likely boundary conditions for them is a high priority in social
+and developmental psychology (G. L. Cohen & Sherman, 2014;
+Garcia & Cohen, 2012; Walton, 2014; Yeager & Walton, 2011;
+also see Wilson, 2011).
+
+YEAGER ET AL.
+
+576
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Conclusion
+In a recent nationally representative survey, 69% of American
+K–12 teachers reported that students’ lack of interest in learning
+was a problem in their classrooms. In fact, this was the classroom
+problem most frequently cited by teachers (Bridgeland, Bruce, &
+Hariharan, 2013). Of course, sometimes low motivation can be
+addressed by simply making coursework more interesting. Yet not
+all assignments can be made interesting at all times. If a teacher
+connects the day’s lesson to the idiosyncratic interest of one
+student (e.g., emphasizing the relevance of math for understanding
+sports) it may disengage another student (e.g., a student who does
+not like sports). Even when relevant connections can be made for
+large groups of students, it can be difficult, logistically and convincingly, to do this for all tasks every day.
+In such instances a higher order, self-transcendent purpose for
+working hard and learning in school might effectively lead to
+self-regulation. Strikingly, however, there is little or no focus on
+promoting self-transcendent aims in expert guides for educational
+practitioners (e.g., Mitchell et al., 2005; National Research Council, 2000; National Research Council & the Institute of Medicine,
+2004; Pintrich & Schunk, 2002). We hope the present experimental interventions, combined with past experimental research (e.g.,
+Grant, 2007, 2013), can begin to encourage a shift in thinking
+toward beyond-the-self aims. Of course, encouraging a selftranscendent motive is not a replacement for other motivational
+strategies, especially not self-oriented, interest-based ones. But the
+data presented here show that a self-transcendent motive can in
+some cases serve as an important addition to interest-based approaches.
+
+References
+Abelson, R. P. (1985). A variance explanation paradox: When a little is a
+lot. Psychological Bulletin, 97, 129 –133. doi:10.1037/0033-2909.97.1
+.129
+Ames, C. (1992). Classrooms: Goals, structures, and student motivation.
+Journal of Educational Psychology, 84, 261–271. doi:10.1037/00220663.84.3.261
+Andrews, M. C. (2011). Meaningful engagement in educational activity
+and purposes for learning (Doctoral dissertation, Stanford University).
+Retrieved from https://stacks.stanford.edu/file/druid:qp476bx9339/
+Andrews_PurposesforLearning_6-1-11-augmented.pdf
+Aronson, E. (1999). The power of self-persuasion. American Psychologist,
+54, 875– 884. doi:10.1037/h0088188
+Aronson, J., Fried, C., & Good, C. (2002). Reducing the effects of stereotype threat on African American college students by shaping theories of
+intelligence. Journal of Experimental Social Psychology, 38, 113–125.
+doi:10.1006/jesp.2001.1491
+Ashforth, B. E., & Kreiner, G. E. (1999). “How can you do it?” Dirty work
+and the challenge of constructing a positive identity. Academy of Management Review, 24, 413– 434. doi:10.5465/AMR.1999.2202129
+Atkinson, J. W. (1957). Motivational determinants of risk taking behavior.
+Psychological Review, 64, 359 –372. doi:10.1037/h0043445
+Batson, C. D. (1998). Altruism and prosocial behavior. In D. T. Gilbert,
+S. T. Fiske, & G. Lindzey (Eds.), The handbook of social psychology
+(4th ed., Vol. 2, pp. 282–316). Boston, MA: McGraw-Hill.
+Beilock, S. (2011). Choke: What the secrets of the brain reveal about
+getting it right when you have to. New York, NY: Free Press.
+Beilock, S. L., Kulp, C. A., Holt, L. E., & Carr, T. H. (2004). More on the
+fragility of performance: Choking under pressure in mathematical prob-
+
+lem solving. Journal of Experimental Psychology: General, 133, 584 –
+600. doi:10.1037/0096-3445.133.4.584
+Bem, D. J. (1972). Self-perception theory. In L. Berkowitz (Ed.), Advances
+in experimental social psychology (Vol. 6, pp. 1– 62). New York, NY:
+Academic Press.
+Blackwell, L., Trzesniewski, K., & Dweck, C. S. (2007). Implicit theories
+of intelligence predict achievement across an adolescent transition: A
+longitudinal study and an intervention. Child Development, 78, 246 –
+263. doi:10.1111/j.1467-8624.2007.00995.x
+Brehm, J. W. (1966). A theory of psychological reactance. In W. W. Burke,
+D. G. Lake, & W. Paine (Eds.), Organization change: A comprehensive
+reader (pp. 337–390). San Francisco, CA: Jossey-Bass.
+Bridgeland, J., Bruce, M., & Hariharan, A. (2013). The missing piece: A
+national teacher survey on how social and emotional learning can
+empower children and transform schools. Retrieved from http://
+www.civicenterprises.net/MediaLibrary/Docs/CASEL-Report-lowres-FINAL.pdf
+Bronk, K. C. (2012). A grounded theory of youth purpose. Journal of
+Adolescent Research, 27, 78 –109. doi:10.1177/0743558411412958
+Brophy, J. (2008). Developing students’ appreciation for what is taught
+in school. Educational Psychologist, 43, 132–141. doi:10.1080/
+00461520701756511
+Buhrmester, M., Kwang, T., & Gosling, S. D. (2011). Amazon’s Mechanical Turk: A new source of inexpensive, yet high-quality, data? Perspectives on Psychological Science, 6, 3–5. doi:10.1177/
+1745691610393980
+Burrow, A. L., & Hill, P. L. (2011). Purpose as a form of identity capital
+for positive youth adjustment. Developmental Psychology, 47, 1196 –
+1206. doi:10.1037/a0023818
+Carnevale, A. P., & Desrochers, D. M. (2003). Standards for what? The
+economic roots of K–16 reform. Princeton, NJ: Communication and
+Public Affairs, Office of Assessment, Equity, and Careers, Educational
+Testing Service.
+Carver, C. S., & Scheier, M. F. (1981). Attention and self-regulation: A
+control-theory approach to human behavior. New York, NY: SpringerVerlag. doi:10.1007/978-1-4612-5887-2
+Cialdini, R. B. (2003). Crafting normative messages to protect the environment. Current Directions in Psychological Science, 12, 105–109.
+doi:10.1111/1467-8721.01242
+Cialdini, R. B., Reno, R. R., & Kallgren, C. A. (1990). A focus theory of
+normative conduct: Recycling the concept of norms to reduce littering in
+public places. Journal of Personality and Social Psychology, 58, 1015–
+1026. doi:10.1037/0022-3514.58.6.1015
+Cohen, G. L., Garcia, J., Purdie-Vaughns, V., Apfel, N., & Brzustoski, P.
+(2009). Recursive processes in self-affirmation: Intervening to close the
+minority achievement gap. Science, 324, 400 – 403. doi:10.1126/science
+.1170769
+Cohen, G. L., & Prinstein, M. J. (2006). Peer contagion of aggression and
+health risk behavior among adolescent males: An experimental investigation of effects on public conduct and private attitudes. Child Development, 77, 967–983. doi:10.1111/j.1467-8624.2006.00913.x
+Cohen, G. L., & Sherman, D. (2014). The psychology of change: Selfaffirmation and social psychological intervention. Annual Review of
+Psychology, 65, 333–371. doi:10.1146/annurev-psych-010213-115137
+Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple
+regression/correlation analysis for the behavioral sciences (3rd ed.).
+Mahwah, NJ: Erlbaum.
+Damon, W. (2008). The path to purpose: Helping our children find their
+calling in life. New York, NY: Free Press.
+Damon, W., Menon, J., & Bronk, K. C. (2003). The development of
+purpose during adolescence. Applied Developmental Science, 7, 119 –
+128. doi:10.1207/S1532480XADS0703_2
+Diekman, A. B., Clark, E. K., Johnston, A. M., Brown, E. R., & Steinberg,
+M. (2011). Malleability in communal goals and beliefs influences at-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PURPOSE AND SELF-REGULATION
+traction to stem careers: Evidence for a goal congruity perspective.
+Journal of Personality and Social Psychology, 101, 902–918. doi:
+10.1037/a0025199
+Dik, B. J., Steger, M. F., Gibson, A., & Peisner, W. (2011). Make your
+work matter: Development and pilot evaluation of a purpose-centered
+career education intervention. New Directions for Youth Development,
+2011, 59 –73. doi:10.1002/yd.428
+Duckworth, A. L., & Carlson, S. M. (2013). Self-regulation and school
+success. In B. W. Sokol, F. M. E. Grouzet, & U. Müller (Eds.), Selfregulation and autonomy: Social and developmental dimensions of
+human conduct (pp. 208 –230). New York, NY: Cambridge University
+Press. doi:10.1017/CBO9781139152198.015
+Duckworth, A., Kirby, T., Tsukayama, E., Berstein, H., & Ericsson, K.
+(2011). Deliberate practice spells success: Why grittier competitors
+triumph at the National Spelling Bee. Social Psychological and Personality Science, 2, 174 –181. doi:10.1177/1948550610385872
+Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007).
+Grit: Perseverance and passion for long-term goals. Journal of Personality and Social Psychology, 92, 1087–1101. doi:10.1037/0022-3514.92
+.6.1087
+Duckworth, A. L., & Quinn, P. D. (2009). Development and validation of
+the Short Grit Scale (GRIT–S). Journal of Personality Assessment, 91,
+166 –174. doi:10.1080/00223890802634290
+Duckworth, A. L., Tsukayama, E., & Kirby, T. (2013). Is it really selfcontrol? Examining the predictive power of the delay of gratification
+task. Personality and Social Psychology Bulletin, 39, 843– 855. doi:
+10.1177/0146167213482589
+Duffy, R. D., & Dik, B. J. (2009). Beyond the self: External influences in
+the career development process. The Career Development Quarterly, 58,
+29 – 43. doi:10.1002/j.2161-0045.2009.tb00171.x
+Dunn, E. W., Aknin, L. B., & Norton, M. I. (2008). Spending money on
+others promotes happiness. Science, 319, 1687–1688. doi:10.1126/
+science.1150952
+Dutton, J. E., Roberts, L. M., & Bednar, J. (2010). Pathways for positive
+identity construction at work: Four types of positive identity and the
+building of social resources. The Academy of Management Review, 35,
+265–293. doi:10.5465/AMR.2010.48463334
+Dynarski, S., Scott-Clayton, J., & Wiederspan, M. (2013). Simplifying tax
+incentives and aid for college: Progress and prospects. In J. R. Brown
+(Ed.), Tax policy and the economy (Vol. 27, pp. 161–202). Chicago, IL:
+University of Chicago Press. doi:10.1086/671247
+Eccles, J. S. (2009). Who am I and what am I going to do with my life?
+Personal and collective identities as motivators of action. Educational
+Psychologist, 44, 78 – 89. doi:10.1080/00461520902832368
+Eccles, J. S., Adler, T. F., Futterman, R., Goff, S. B., Kaczala, C. M.,
+Meece, J. L., & Midgley, C. (1983). Expectancies, values, and academic
+behaviors. In J. T. Spence (Ed.), Achievement and achievement motivation (pp. 75–146). San Francisco, CA: Freeman.
+Eccles, J. S., & Wigfield, A. (1995). In the mind of the actor: The structure
+of adolescents’ achievement task values and expectancy-related beliefs.
+Personality and Social Psychology Bulletin, 21, 215–225. doi:10.1177/
+0146167295213003
+Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and
+goals. Annual Review of Psychology, 53, 109 –132. doi:10.1146/annurev
+.psych.53.100901.135153
+Elliot, A. J., Conroy, D. E., Barron, K. E., & Murayama, K. (2010).
+Achievement motives and goals: A developmental analysis. In R. M.
+Lerner, M. E. Lamb, & A. M. Freund (Eds.), The handbook of life-span
+development (Vol. 2, pp. 474 –510). New York, NY: Wiley. doi:
+10.1002/9780470880166.hlsd002013
+Elliot, A. J., & McGregor, H. A. (2001). A 2 ⫻ 2 achievement goal
+framework. Journal of Personality and Social Psychology, 80, 501–519.
+doi:10.1037/0022-3514.80.3.501
+
+577
+
+Emmons, R. A. (1986). Personal strivings: An approach to personality and
+subjective well-being. Journal of Personality and Social Psychology, 51,
+1058 –1068. doi:10.1037/0022-3514.51.5.1058
+Ericsson, K. A. (2006). The influence of experience and deliberate
+practice on the development of superior expert performance. In K. A.
+Ericsson, N. Charness, P. J. Feltovich, & R. R. Hoffman (Eds.), The
+Cambridge handbook of expertise and expert performance (pp. 683–
+704). New York, NY: Cambridge University Press. doi:10.1017/
+CBO9780511816796.038
+Ericsson, K. A. (2007). An expert-performance perspective of research on
+medical expertise: The study of clinical performance. Medical Education, 41, 1124 –1130. doi:10.1111/j.1365-2923.2007.02946.x
+Ericsson, K. A. (Ed.). (2009). Development of professional expertise:
+Toward measurement of expert performance and design of optimal
+learning environments. New York, NY: Cambridge University Press.
+doi:10.1017/CBO9780511609817
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of
+deliberate practice in the acquisition of expert performance. Psychological Review, 100, 363– 406. doi:10.1037/0033-295X.100.3.363
+Ericsson, K. A., & Ward, P. (2007). Capturing the naturally occurring
+superior performance of experts in the laboratory toward a science of
+expert and exceptional performance. Current Directions in Psychological Science, 16, 346 –350. doi:10.1111/j.1467-8721.2007.00533.x
+Erikson, E. H. (1968). Identity: Youth and crisis. New York, NY: Norton.
+Evans, G. W., & Rosenbaum, J. (2008). Self-regulation and the incomeachievement gap. Early Childhood Research Quarterly, 23, 504 –514.
+doi:10.1016/j.ecresq.2008.07.002
+Eyler, J. (2002). Reflection: Linking service and learning-linking students
+and communities. Journal of Social Issues, 58, 517–534. doi:10.1111/
+1540-4560.00274
+Eyler, J., & Giles, D. E., Jr. (1999). Where’s the learning in servicelearning? San Francisco, CA: Jossey-Bass.
+Feiler, D. C., Tost, L. P., & Grant, A. M. (2012). Mixed reasons, missed
+givings: The costs of blending egoistic and altruistic reasons in donation
+requests. Journal of Experimental Social Psychology, 48, 1322–1328.
+doi:10.1016/j.jesp.2012.05.014
+Festinger, L. (1957). A theory of cognitive dissonance. Stanford, CA:
+Stanford University Press.
+Fishbach, A., & Shah, J. Y. (2006). Self-control in action: Implicit dispositions toward goals and away from temptations. Journal of Personality
+and Social Psychology, 90, 820 – 832. doi:10.1037/0022-3514.90.5.820
+Fishbach, A., & Trope, Y. (2005). The substitutability of external control
+and self-control. Journal of Experimental Social Psychology, 41, 256 –
+270. doi:10.1016/j.jesp.2004.07.002
+Fishbach, A., Zhang, Y., & Koo, M. (2009). The dynamics of selfregulation. European Review of Social Psychology, 20, 315–344. doi:
+10.1080/10463280903275375
+Fishbach, A., Zhang, Y., & Trope, Y. (2010). Counteractive evaluation:
+Asymmetric shifts in the implicit value of conflicting motivations.
+Journal of Experimental Social Psychology, 46, 29 –38. doi:10.1016/j
+.jesp.2009.09.008
+Ford, M. E., & Nichols, C. W. (1987). A taxonomy of human goals and
+some possible applications. In M. E. Ford & D. H. Ford (Eds.), Humans
+as self-constructing living systems: Putting the framework to work (pp.
+289 –311). Hillsdale, NJ: Erlbaum.
+Frankl, V. E. (1963). Man’s search for meaning. New York, NY: Washington Square Press.
+Fryer, R. G. (2011). Financial incentives and student achievement: Evidence from randomized trials. The Quarterly Journal of Economics, 126,
+1755–1798. doi:10.1093/qje/qjr045
+Fujita, K. (2011). On conceptualizing self-control as more than the effortful
+inhibition of impulses. Personality and Social Psychology Review, 15,
+352–366. doi:10.1177/1088868311411165
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+578
+
+YEAGER ET AL.
+
+Galla, B., Plummer, B., White, R., Meketon, D., D’Mello, S. K., &
+Duckworth, A. (2014). Development and validation of the diligence
+task: A behavioral measure of individual differences in academic diligence. Unpublished manuscript, Department of Psychology, University
+of Pennsylvania, Philadelphia, PA.
+Garcia, J., & Cohen, G. L. (2012). A social-psychological approach to
+educational intervention. In E. Shafir (Ed.), Behavioral foundations of
+policy (pp. 329 –350). Princeton, NJ: Princeton University Press.
+Goldstein, N. J., Cialdini, R. B., & Griskevicius, V. (2008). A room with
+a viewpoint: Using social norms to motivate environmental conservation
+in hotels. Journal of Consumer Research, 35, 472– 482. doi:10.1086/
+586910
+Grant, A. M. (2007). Relational job design and the motivation to make a
+prosocial difference. The Academy of Management Review, 32, 393–
+417. doi:10.5465/AMR.2007.24351328
+Grant, A. M. (2008). Does intrinsic motivation fuel the prosocial fire?
+Motivational synergy in predicting persistence, performance, and productivity. Journal of Applied Psychology, 93, 48 –58. doi:10.1037/00219010.93.1.48
+Grant, A. M. (2013). Rethinking the extraverted sales ideal: The ambivert
+advantage. Psychological Science, 24, 1024 –1030. doi:10.1177/
+0956797612463706
+Grant, A. M., & Campbell, E. M. (2007). Doing good, doing harm, being
+well and burning out: The interactions of perceived prosocial and antisocial impact in service work. Journal of Occupational and Organizational Psychology, 80, 665– 691. doi:10.1348/096317906X169553
+Grant, A. M., & Hofmann, D. A. (2011). It’s not all about me: Motivating
+hospital hand hygiene by focusing on patients. Psychological Science,
+22, 1494 –1499. doi:10.1177/0956797611419172
+Grant, A. M., & Patil, S. V. (2012). Challenging the norm of self-interest:
+Minority influence and transitions to helping norms in work units. The
+Academy of Management Review, 37, 547–568. doi:10.5465/amr.2010
+.0437
+Grant, A. M., & Rothbard, N. P. (2013). When in doubt, seize the day?
+Security values, prosocial values, and proactivity under ambiguity. Journal of Applied Psychology, 98, 810 – 819. doi:10.1037/a0032873
+Grant, A. M., & Sonnentag, S. (2010). Doing good buffers against feeling
+bad: Prosocial impact compensates for negative task and selfevaluations. Organizational Behavior and Human Decision Processes,
+111, 13–22. doi:10.1016/j.obhdp.2009.07.003
+Harackiewicz, J. M., Canning, E. A., Tibbetts, Y., Giffen, C. J., Blair, S. S.,
+Rouse, D. I., & Hyde, J. S. (2014). Closing the social class achievement
+gap for first-generation students in undergraduate biology. Journal of
+Educational Psychology, 106, 375–389. doi:10.1037/a0034679
+Harackiewicz, J. M., Rozek, C. R., Hulleman, C. S., & Hydes, J. S. (2012).
+Helping parents to motivate adolescents in mathematics and science: An
+experimental test of a utility-value intervention. Psychological Science,
+23, 899 –906. doi:10.1177/0956797611435530
+Harackiewicz, J. M., & Sansone, C. (1991). Goals and intrinsic motivation:
+You can get there from here. In M. L. Maehr & P. R. Pintrich (Eds.),
+Advances in motivation and achievement: Goals and self-regulatory
+processes (Vol. 7, pp. 21– 45). Greenwich, CT: JAI Press.
+Hasebe, Y., Nucci, L., & Nucci, M. S. (2004). Parental control of the
+personal domain and adolescent symptoms of psychopathology: A crossnational study in the United States and Japan. Child Development, 75,
+815– 828. doi:10.1111/j.1467-8624.2004.00708.x
+Higgins, E. T. (2005). Value from regulatory fit. Current Directions in
+Psychological Science, 14, 209 –213. doi:10.1111/j.0963-7214.2005
+.00366.x
+Hill, P. L., Burrow, A. L., & Sumner, R. (2013). Addressing important
+questions in the field of adolescent purpose. Child Development Perspectives, 7, 232–236. doi:10.1111/cdep.12048
+Hughes, E. C. (1958). Men and their work. Glencoe, IL: Free Press.
+
+Hughes, E. C. (1962). Good people and dirty work. Social Problems, 10,
+3–11. doi:10.2307/799402
+Hulleman, C. S., Durik, A. M., Schweigert, S. B., & Harackiewicz, J. M.
+(2008). Task values, achievement goals, and interest: An integrative
+analysis. Journal of Educational Psychology, 100, 398 – 416. doi:
+10.1037/0022-0663.100.2.398
+Hulleman, C. S., Godes, O., Hendricks, B. L., & Harackiewicz, J. M.
+(2010). Enhancing interest and performance with a utility value intervention. Journal of Educational Psychology, 102, 880 – 895. doi:
+10.1037/a0019506
+Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting interest and
+performance in high school science classes. Science, 326, 1410 –1412.
+doi:10.1126/science.1177067
+Jang, H. (2008). Supporting students’ motivation, engagement, and learning during an uninteresting activity. Journal of Educational Psychology,
+100, 798 – 811. doi:10.1037/a0012841
+Kane, M. J., Hambrick, D. Z., Tuholski, S. W., Wilhelm, O., Payne, T. W.,
+& Engle, R. W. (2004). The generality of working memory capacity: A
+latent variable approach to verbal and visuospatial memory span and
+reasoning. Journal of Experimental Psychology: General, 133, 189 –
+217. doi:10.1037/0096-3445.133.2.189
+Kaufman, A. S., & Kaufman, N. L. (1990). Manual for the Kaufman Brief
+Intelligence Test. Circle Pines, MN: American Guidance Service.
+Koltko-Rivera, M. E. (2006). Rediscovering the later version of Maslow’s
+hierarchy of needs: Self-transcendence and opportunities for theory,
+research, and unification. Review of General Psychology, 10, 302–317.
+doi:10.1037/1089-2680.10.4.302
+Lapsley, D., & Yeager, D. (in press). Moral-character education. In I.
+Weiner (Ed.), Handbook of psychology (pp. 1– 42). New York, NY:
+Wiley.
+Lee, J. Q., McInerney, D. M., Liem, G. A. D., & Ortiga, Y. P. (2010). The
+relationships between future goals and achievement goal orientations:
+An intrinsic-extrinsic motivation perspective. Contemporary Educational Psychology, 35, 264 –279. doi:10.1016/j.cedpsych.2010.04.004
+Lepper, M. R., Corpus, J. H., & Iyengar, S. S. (2005). Intrinsic and
+extrinsic motivational orientations in the classroom: Age differences and
+academic correlates. Journal of Educational Psychology, 97, 184 –196.
+doi:10.1037/0022-0663.97.2.184
+Little, B. (1983). Personal projects: A rationale and method for investigation. Environment and Behavior, 15, 273–309. doi:10.1177/
+0013916583153002
+Loewenstein, G. (1996). Out of control: Visceral influences on behavior.
+Organizational Behavior and Human Decision Processes, 65, 272–292.
+doi:10.1006/obhd.1996.0028
+Markus, H., & Nurius, P. (1986). Possible selves. American Psychologist,
+41, 954 –969. doi:10.1037/0003-066X.41.9.954
+Marshall, S. K. (2001). Do I matter? Construct validation of adolescents’
+perceived mattering to parents and friends. Journal of Adolescence, 24,
+473– 490. doi:10.1006/jado.2001.0384
+Maslow, A. H. (1969). The farther reaches of human nature. Journal of
+Transpersonal Psychology, 1, 1–9.
+Massey, E. K., Gebhardt, W. A., & Garnefski, N. (2008). Adolescent goal
+content and pursuit: A review of the literature from the past 16 years.
+Developmental Review, 28, 421– 460. doi:10.1016/j.dr.2008.03.002
+Michaels, J. L., Parkin, S. S., & Vallacher, R. R. (2013). Destiny is in the
+details: Action identification in the construction and destruction of
+meaning. In J. Hicks & C. Routledge (Eds.), The experience of meaning
+in life: Emerging themes and controversies (pp. 103–115). New York,
+NY: Springer Press. doi:10.1007/978-94-007-6527-6_8
+Miller, D. T. (1999). The norm of self-interest. American Psychologist, 54,
+1053–1060. doi:10.1037/0003-066X.54.12.1053
+Mischel, W., Cantor, N., & Feldman, S. (1996). Principles of self-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PURPOSE AND SELF-REGULATION
+regulation: The nature of willpower and self-control. In E. T. Higgins &
+A. W. Kruglanski (Eds.), Social psychology: Handbook of basic principles (pp. 329 –360). New York, NY: Guilford Press.
+Mischel, W., Ebbensen, E. B., & Zeiss, A. R. (1972). Cognitive and
+attentional mechanisms in delay of gratification. Journal of Personality
+and Social Psychology, 21, 204 –218. doi:10.1037/h0032198
+Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989). Delay of gratification
+in children. Science, 244, 933–938. doi:10.1126/science.2658056
+Mitchell, K., Shkolnik, J., Song, M., Uekawa, K., Murphy, R., Garet, M.,
+& Means, B. (2005). Rigor, relevance and results: The quality of teacher
+assignments and student work in new and conventional high schools.
+Washington, DC: American Institute for Research.
+Moffitt, T. E., Arseneault, L., Belsky, D., Dickson, N., Hancox, R. J.,
+Harrington, H., . . . Caspi, A. (2011). A gradient of childhood selfcontrol predicts health, wealth, and public safety. Proceedings of the
+National Academy of Sciences of the United States of America, 108,
+2693–2698. doi:10.1073/pnas.1010076108
+Moran, S., Bundick, M. J., Malin, H., & Reilly, T. S. (2013). How
+supportive of their specific purposes do youth believe their family and
+friends are? Journal of Adolescent Research, 28, 348 –377. doi:10.1177/
+0743558412457816
+National Research Council. (2000). How people learn: Brain, mind, and
+school. Washington, DC: The National Academic Press.
+National Research Council & the Institute of Medicine. (2004). Engaging
+schools: Fostering high school students’ motivation to learn. Washington, DC: The National Academies Press.
+Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability,
+subjective experience, task choice, and performance. Psychological Review, 91, 328 –346. doi:10.1037/0033-295X.91.3.328
+Nucci, L. (1996). Morality and the personal sphere of actions. In E. S.
+Reed, E. Turiel, & T. Brown (Eds.), Values and knowledge (pp. 41– 60).
+Hillsdale, NJ: Erlbaum.
+Olivola, C. Y., & Shafir, E. (2013). The martyrdom effect: When pain and
+effort increase prosocial contributions. Journal of Behavioral Decision
+Making, 26, 91–105. doi:10.1002/bdm.767
+Oyserman, D., & Destin, M. (2010). Identity-based motivation: Implications for intervention. The Counseling Psychologist, 38, 1001–1043.
+doi:10.1177/0011000010374775
+Patall, E., Cooper, H., & Robinson, J. (2008). The effects of choice on
+intrinsic motivation and related outcomes: A meta-analysis of research
+findings. Psychological Bulletin, 134, 270 –300. doi:10.1037/0033-2909
+.134.2.270
+Patrick, S. D., & Duckworth, A. L. (2013, May). Empirical support for a
+tripartite taxonomy of character in adolescents. Poster presented at the
+25th annual convention of the Association for Psychological Science,
+Washington, DC.
+Pennebaker, J. W. (2004). Theories, therapies, and taxpayers: On the
+complexities of the expressive writing paradigm. Clinical Psychology:
+Science and Practice, 11, 138 –142. doi:10.1093/clipsy.bph063
+Pintrich, P. R., & Schunk, D. H. (2002). Motivation in education: Theory,
+research, and applications (2nd ed.). Upper Saddle River, NJ: Prentice
+Hall Merrill.
+Rachlin, H., Brown, J., & Cross, D. (2000). Discounting in judgments of
+delay and probability. Journal of Behavioral Decision Making, 13,
+145–159. doi:10.1002/(SICI)1099-0771(200004/06)13:2⬍145::AIDBDM320⬎3.0.CO;2-4
+Raven, J., Raven, J. C., & Court, J. H. (1998). Manual for Raven’s
+Progressive Matrices and Vocabulary scales. Section 3: The standard
+progressive matrices. Oxford, England: Oxford Psychologists Press.
+Raytheon Company. (2012). Math relevance to U.S. middle school students. Retrieved from http://www.raytheon.com/newsroom/rtnwcm/
+groups/corporate/documents/content/rtn12_studentsmth_results.pdf
+Roderick, M., Nagaoka, J., & Allensworth, E. (2006). From high school to
+the future: A first look at Chicago Public School graduates’ college
+
+579
+
+enrollment, college preparation, and graduation from four-year colleges. Chicago, IL: Consortium on Chicago School Research.
+Ross, L., & Nisbett, R. E. (1991). The person and the situation: Perspectives of social psychology. New York, NY: McGraw-Hill Book Company.
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the
+facilitation of intrinsic motivation, social development, and well-being.
+American Psychologist, 55, 68 –78. doi:10.1037/0003-066X.55.1.68
+Ryu, M. (2012). The education gap: Understanding African American and
+Hispanic attainment disparities in higher education. Washington, DC:
+American Council on Education.
+Sansone, C., Weir, C., Harpster, L., & Morgan, C. (1992). Once a boring
+task always a boring task? Interest as a self-regulatory mechanism.
+Journal of Personality and Social Psychology, 63, 379 –390. doi:
+10.1037/0022-3514.63.3.379
+Sansone, C., Wiebe, D. J., & Morgan, C. (1999). Self-regulating interest:
+The moderating role of hardiness and conscientiousness. Journal of
+Personality, 67, 701–733. doi:10.1111/1467-6494.00070
+Schwartz, S. H. (1992). Universals in the content and structure of values:
+Theoretical advance and empirical tests in 20 countries. Advances in
+Experimental Social Psychology, 25, 1– 65. doi:10.1016/S00652601(08)60281-6
+Sherman, D. K., Hartson, K. A., Binning, K. R., Purdie-Vaughns, V.,
+Garcia, J., Taborsky-Barba, S., . . . Cohen, G. L. (2013). Deflecting the
+trajectory and changing the narrative: How self-affirmation affects academic performance and motivation under identity threat. Journal of
+Personality and Social Psychology, 104, 591– 618. doi:10.1037/
+a0031495
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive
+psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22,
+1359 –1366. doi:10.1177/0956797611417632
+Skinner, E. A., Kindermann, T. A., & Furrer, C. J. (2009). A motivational
+perspective on engagement and disaffection conceptualization and assessment of children’s behavioral and emotional participation in academic activities in the classroom. Educational and Psychological Measurement, 69, 493–525. doi:10.1177/0013164408323233
+Steger, M. F. (2012). Experiencing meaning in life: Optimal functioning at
+the nexus of spirituality, psychopathology, and well-being. In P. T. P.
+Wong (Ed.), The human quest for meaning (2nd ed., pp. 165–184). New
+York, NY: Routledge.
+Steger, M. F., Bundick, M., & Yeager, D. S. (2012). The development of
+meaning during adolescence. In R. J. Levesque (Ed.), Encyclopedia of
+adolescence (pp. 1666 –1777). New York, NY: Springer Press.
+Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in
+Life Questionnaire: Assessing the presence of and search for meaning in
+life. Journal of Counseling Psychology, 53, 80 –93. doi:10.1037/00220167.53.1.80
+Steger, M. F., Kashdan, T. B., & Oishi, S. (2008). Being good by doing
+good: Daily eudaimonic activity and well-being. Journal of Research in
+Personality, 42, 22– 42. doi:10.1016/j.jrp.2007.03.004
+Stephens, N. M., Fryberg, S. A., Markus, H. R., Johnson, C., & Covarrubias, R. (2012). Unseen disadvantage: How American universities’ focus
+on independence undermines the academic performance of firstgeneration college students. Journal of Personality and Social Psychology, 102, 1178 –1197. doi:10.1037/a0027143
+Stigler, J. W., & Hiebert, J. (1999). The teaching gap: Best ideas from the
+world’s teachers for improving education in the classroom. New York,
+NY: Free Press.
+Stipek, D. J. (2004). Motivation to learn: Integrating theory and practice.
+Boston, MA: Allyn & Bacon.
+Thaler, R. H., & Shefrin, H. M. (1981). An economic theory of self-control.
+Journal of Political Economy, 89, 392– 406. doi:10.1086/260971
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+580
+
+YEAGER ET AL.
+
+Trope, Y., & Fishbach, A. (2000). Counteractive self-control in overcoming temptation. Journal of Personality and Social Psychology, 79, 493–
+506. doi:10.1037/0022-3514.79.4.493
+Trope, Y., & Liberman, N. (2010). Construal-level theory of psychological
+distance. Psychological Review, 117, 440 – 463. doi:10.1037/a0018963
+Trope, Y., & Liberman, N. (2011). Construal level theory. In P. Van Lange,
+A. W. Kruglanski, & E. T. Higgins (Eds.), Handbook of theories of
+social psychology (pp. 118 –134). London, England: Sage. doi:10.4135/
+9781446249215.n7
+Tsukayama, E., Duckworth, A. L., & Kim, B. E. (2013). Domain-specific
+impulsivity in school-age children. Developmental Science, 16, 879 –
+893. doi:10.1111/desc.12067
+Tukey, J. W. (1977). Exploratory data analysis. Reading, MA: AddisonWesley.
+U.S. Congress Joint Economic Committee. (2012). STEM education: Preparing jobs for the future. Retrieved from http://www.jec.senate.gov/
+public//index.cfm?a⫽Files.Serve&File_id⫽6aaa7e1f-9586-47be-82e7326f47658320
+Vallacher, R. R., & Wegner, D. M. (1989). Levels of personal agency:
+Individual variation in action identification. Journal of Personality and
+Social Psychology, 57, 660 – 671. doi:10.1037/0022-3514.57.4.660
+Vansteenkiste, M., Lens, W., & Deci, E. L. (2006). Intrinsic versus extrinsic goal contents in self-determination theory: Another look at the
+quality of academic motivation. Educational Psychologist, 41, 19 –31.
+doi:10.1207/s15326985ep4101_4
+Vansteenkiste, M., Simons, J., Lens, W., Sheldon, K. M., & Deci, E. L.
+(2004). Motivating learning, performance, and persistence: The synergistic effects of intrinsic goal contents and autonomy-supportive contexts. Journal of Personality and Social Psychology, 87, 246 –260.
+doi:10.1037/0022-3514.87.2.246
+Vohs, K. D. (2013). The poor’s poor mental power. Science, 341, 969 –970.
+doi:10.1126/science.1244172
+Walton, G. M. (2014). The new science of wise psychological interventions. Current Directions in Psychological Science, 23, 73– 82. doi:
+10.1177/0963721413512856
+
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes among minority students.
+Science, 331, 1447–1451. doi:10.1126/science.1198364
+Westernelectric555. (2008). File: Ti83plus.jpg [Image file]. Retrieved from
+http://commons.wikimedia.org/wiki/File:Ti83plus.jpg
+Wilson, T. D. (2011). Redirect: The surprising new science of psychological change. New York, NY: Little, Brown and Company.
+Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. Journal of
+Personality and Social Psychology, 42, 367–376. doi:10.1037/00223514.42.2.367
+Wrzesniewski, A., Dutton, J. E., & Debebe, G. (2003). Interpersonal
+sensemaking and the meaning of work. In B. M. Staw & R. Kramer
+(Eds.), Research in organizational behavior (Vol. 25, pp. 93–135). New
+York, NY: Elsevier Science. doi:10.1016/S0191-3085(03)25003-6
+Yeager, D. S., & Bundick, M. J. (2009). The role of purposeful work
+goals in promoting meaning in life and in schoolwork during adolescence. Journal of Adolescent Research, 24, 423– 452. doi:10.1177/
+0743558409336749
+Yeager, D. S., Bundick, M. J., & Johnson, R. (2012). The role of future
+work goal motives in adolescent identity development: A longitudinal
+mixed-methods investigation. Contemporary Educational Psychology,
+37, 206 –217. doi:10.1016/j.cedpsych.2012.01.004
+Yeager, D. S., Purdie-Vaughns, V., Garcia, J., Apfel, N., Brzustoski, P.,
+Master, A., . . . Cohen, G. L. (2014). Breaking the cycle of mistrust:
+Wise interventions to provide critical feedback across the racial divide.
+Journal of Experimental Psychology: General, 143, 804 – 824. doi:
+10.1037/a0033906
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions
+in education: They’re not magic. Review of Educational Research, 81,
+267–301. doi:10.3102/0034654311405999
+
+Received September 16, 2013
+Revision received March 10, 2014
+Accepted March 31, 2014 䡲
+
+

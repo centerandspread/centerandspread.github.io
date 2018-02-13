@@ -1,0 +1,4484 @@
+Journal of Personality and Social Psychology
+Much Ado About Grit: A Meta-Analytic Synthesis of the Grit
+Literature
+Marcus Credé, Michael C. Tynan, and Peter D. Harms
+Online First Publication, June 16, 2016. http://dx.doi.org/10.1037/pspp0000102
+
+CITATION
+Credé, M., Tynan, M. C., & Harms, P. D. (2016, June 16). Much Ado About Grit: A Meta-Analytic
+Synthesis of the Grit Literature. Journal of Personality and Social Psychology. Advance online
+publication. http://dx.doi.org/10.1037/pspp0000102
+
+Journal of Personality and Social Psychology
+2016, Vol. 110, No. 4, 000
+
+© 2016 American Psychological Association
+0022-3514/16/$12.00 http://dx.doi.org/10.1037/pspp0000102
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Much Ado About Grit: A Meta-Analytic Synthesis of the Grit Literature
+Marcus Credé and Michael C. Tynan
+
+Peter D. Harms
+
+Iowa State University
+
+University of Alabama
+
+Grit has been presented as a higher order personality trait that is highly predictive of both success and
+performance and distinct from other traits such as conscientiousness. This paper provides a meta-analytic
+review of the grit literature with a particular focus on the structure of grit and the relation between grit
+and performance, retention, conscientiousness, cognitive ability, and demographic variables. Our results
+based on 584 effect sizes from 88 independent samples representing 66,807 individuals indicate that the
+higher order structure of grit is not confirmed, that grit is only moderately correlated with performance
+and retention, and that grit is very strongly correlated with conscientiousness. We also find that the
+perseverance of effort facet has significantly stronger criterion validities than the consistency of interest
+facet and that perseverance of effort explains variance in academic performance even after controlling for
+conscientiousness. In aggregate our results suggest that interventions designed to enhance grit may only
+have weak effects on performance and success, that the construct validity of grit is in question, and that
+the primary utility of the grit construct may lie in the perseverance facet.
+Keywords: grit, performance, meta-analysis, perseverance of effort, consistency of interest
+
+over many years” (Duckworth as quoted in Perkins-Gough, 2013,
+p. 16). Duckworth et al. argue that grit can help to explain why
+some individuals perform better than their scores on ability tests
+might predict and that grit was a core contributor to the success of
+highly accomplished individuals such as Albert Einstein. Recently,
+Duckworth (2013a) has even argued that grit is as good or even a
+better predictor of success than cognitive ability; a strong claim
+given meta-analytic findings that cognitive ability correlates about
+␳ ⫽ .50 with performance in academic and work settings (Sackett
+et al., 2012; Schmidt & Hunter, 1998).
+Despite the widespread enthusiasm for grit as a potentially novel
+predictor and determinant of performance there are sound empirical and theoretical reasons why a critical reappraisal of the nature
+of the grit construct, its contribution to our understanding of
+performance, and its general position within the nomological network may be warranted. It is the goal of this paper to present
+findings from a meta-analytic synthesis of the rapidly growing
+empirical literature on grit to help shed light on the nature and
+construct validity of grit, and to highlight potentially new areas of
+inquiry for grit researchers. We begin by reviewing the literature
+relating to five core theoretical features of grit: (a) the proposed
+hierarchical structure of grit, (b) the relation of grit with performance, (c) the distinction of grit from conscientiousness, (d) the
+distinction of grit from cognitive ability, and (e) the lack of group
+differences on grit.
+
+Interest in noncognitive variables as potential predictors and
+determinants of academic performance has been spurred by metaanalytic findings that variables such as study habits and study
+skills (Credé & Kuncel, 2008; Robbins et al., 2004), personality
+traits such as conscientiousness (Poropat, 2009, 2014), test anxiety
+(Hembree, 1988; Seipp, 1991), adjustment (Credé & Niehorster,
+2012), emotional intelligence (Perera & DiGiacomo, 2013), and
+learning strategies (Credé & Phillips, 2011; Richardson, Abraham
+& Bond, 2012), exhibit relations with academic performance that
+are often comparable to relations between admissions test scores
+and academic performance (e.g., Hezlett et al., 2001). Many of
+these noncognitive characteristics also appear to be responsive to
+interventions. For example, meta-analytic reviews have demonstrated that interventions can reduce anxiety (Hembree, 1988), and
+improve study skills (Hattie, Biggs, & Purdie, 1996) as well as
+social and personal skills (Durlak, Weissberg, & Pachan, 2010).
+One additional noncognitive variable that has received widespread attention and that has been widely touted as an important
+predictor of success and performance is a personality trait referred
+to as grit (Duckworth, Peterson, Matthews, & Kelly, 2007; Duckworth & Quinn, 2009). Grit is defined as “perseverance and
+passion for long-term goals” (Duckworth, Peterson, Matthews, &
+Kelly, 2007, p. 1087) and as “. . . not just resilience in the face of
+failure, but also having deep commitments that you remain loyal to
+
+Grit as a Hierarchical Construct
+Grit is typically operationalized as a higher-order construct with
+two lower order facets: “perseverance of effort” and “consistency
+of interest.” These two facets (hereafter referred to as perseverance
+and consistency), respectively refer to the tendency to work hard
+even in the face of setbacks and the tendency to not frequently
+change goals and interests. Both are thought to contribute to
+success: persistence because the process of attaining mastery in a
+
+Marcus Credé and Michael C. Tynan, Department of Psychology, Iowa
+State University; Peter D. Harms, School of Management, University of
+Alabama.
+Correspondence concerning this article should be addressed to Marcus
+Credé, Department of Psychology, Iowa State University, W112 Lagomarcino Hall, 901 Stange Road, Ames, IA 50011-1041. E-mail: mcrede@
+iastate.edu
+1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2
+
+CREDÉ, TYNAN, AND HARMS
+
+field often involves initial failures that the individual must persist
+through, and consistency because many hours of deliberate practice are normally required to achieve mastery (Ericsson, Krampe,
+& Tesch-Römer, 1993). That is, individuals who either disengage
+their efforts in the face of obstacles or who constantly change their
+interests are unlikely to ever engage in enough deliberate practice
+to achieve high levels of performance. The distinction between the
+two facets is reflected in the subscales of the two primary selfreport inventories used to measure grit: the Grit Scale (Duckworth
+et al., 2007) and the Short Grit Scale (Duckworth & Quinn,
+2009)— both of which can be found on Angela Duckworth’s
+homepage (https://sites.sas.upenn.edu/duckworth/pages/research).
+Although some researchers examine perseverance and consistency
+as two separate constructs, most research on grit only reports
+findings at the level of the overall grit score.
+This practice appears to be informed by two factors. First,
+Duckworth et al. (2007) in their discussion of the two facets state
+that “. . . neither factor was consistently more predictive of outcomes than the other, and in most cases, the two together were
+more predictive than either alone” (p. 1091). Second, Duckworth
+and Quinn (2009) reported examining the theoretical higher-order
+factor structure of grit using confirmatory factor analysis, and
+claimed support for the higher-order structure based on their
+finding that the higher order model (comprised of two first-order
+factors and one second-order factor) exhibits significantly better fit
+than a single-factor model. However, the reported analysis is
+problematic because a model with one second-order factor and two
+first-order factors is not identified at the higher-order level (Kline,
+2011); this means that no unique loadings onto the higher-order
+factor can be computed without additional constraints being imposed. However, it does not appear that Duckworth and Quinn
+imposed the type of equality constraints on the loadings of the
+first-order factors onto the higher-order factor that would be required to achieve identification because they report nonidentical
+loadings of the first-order factors onto the higher-order factor.
+Importantly, even if an equality constraint had been imposed at the
+higher-order level the resultant higher-order model would have
+exhibited identical fit to a model with two correlated first-order
+factors and no higher-order factor (see Credé & Harms, 2015 for
+a discussion). That is, a model in which the persistence and
+consistency facets are simply two correlated constructs would
+exhibit identical fit to the higher-order model. Interestingly, Duckworth and colleagues had tested the fit of such a two-factor model
+in an earlier paper (Duckworth et al., 2007), and reported relatively
+poor fit for the model (i.e., comparative fit index ⫽ .83, root mean
+square error of approximation ⫽ .11). The confirmatory factor
+analysis strategy for determining whether a higher-order grit construct exists is therefore not particularly meaningful because standard indexes of model fit cannot be used to distinguish between a
+higher-order model and a model with two correlated factors.
+A potentially more useful approach would involve examining
+the correlation between the two theoretical facets of grit; high
+correlations would suggest that a higher order construct is plausible. However, empirical estimates of the strength of this relation
+exhibit substantial variability, with some reporting correlations
+that are close to zero (e.g., Chang, 2014; Datu, Valdez, & King,
+2015; Jordan, Gabriel, Teasley, Walker, & Schraeder, 2015), while
+others have reported very strong correlations (e.g., Arslan, Akin, &
+Çîtemel, 2013; Meriac, Slifka, & LaBat, 2015). A meta-analytic
+
+synthesis will help to establish a population estimate of the correlation between the two facets and thereby allow readers to make a
+more informed judgment about whether or not grit exhibits the
+hypothesized higher-order structure. This will in turn help to
+determine whether the practice of simply summing across the
+perseverance and persistence items to compute an overall grit
+score (as recommended by Duckworth et al., 2007) is reasonable,
+or whether the two facets should be considered separately.
+
+Grit as a Predictor of Success and Performance
+Proponents of grit as a predictor of performance have argued
+that between-person differences in grit can help to explain why
+two individuals with the same level of ability in a particular
+domain are often observed to perform at substantially different
+levels. Specifically, individuals with high levels of grit are thought
+to be able to better utilize their capabilities because they are less
+distracted by short-term goals and less discouraged by the failures
+and setbacks that are commonly encountered in many performance
+domains. Indeed, Duckworth et al. (2007) described that the importance of grit for success had long been noted by prior research
+into highly accomplished individuals (e.g., Howe, 1999). Arguments for the importance of grit are also in line with work on the
+development of expertise that has highlighted the importance of
+sustained deliberative practice (e.g., Ericsson, Krampe, & TeschRömer, 1993; Krampe & Ericcson, 1996). Indeed, recent work by
+Duckworth, Kirby, Tsukayama, Berstein and Ericsson (2011) has
+explicitly tied grit to success in spelling bees via the mediating
+mechanism of deliberative practice. That is, individuals who are
+high on grit are more likely to engage in the amount of deliberative
+practice that is required to achieve expertise.
+At the same time, there are a number of theoretically plausible
+moderators of the grit-performance relation that suggest that the
+relation may not be strong in all— or even most—settings. First,
+the grit-performance relation may be moderated by the nature of
+the performance domain. Specifically, high levels of grit may be
+most useful when the task is difficult but well defined; that is, high
+levels of sustained effort and deliberative practice are required to
+succeed and the manner in which performance is to be attained is
+relatively clear (see MacNamara, Hambrick & Oswald, 2014).
+Thus, grit may be an excellent predictor of an individual’s ability
+to complete military basic training or succeed in well-defined
+academic tasks, but be less well related to performance on tasks
+that are very easy (thus not requiring grit) or performance on tasks
+that are novel and ill-defined and that therefore require both
+creativity and the willingness to abandon unsuccessful strategies
+(i.e., tasks on which grit may be counterproductive). Second, the
+grit-performance relation may be moderated by other individual
+differences such as ability and metacognition (Credé & Phillips,
+2011). That is, high levels of grit may not necessarily be adaptive
+unless it is accompanied by the general potential or ability to
+succeed in a domain and the ability to engage in the type of
+reflection and self-monitoring that the self-regulated learning literature (e.g., Zimmerman, 1990) and the social– cognitive view of
+learning (e.g., Ryan & Pintrich, 1997; Zimmerman, 1994, see also
+Kohn, 2014) has identified as important determinants of learning
+and performance. For example, cadets who lack some minimum
+level of physical ability to pass the highly strenuous tests of
+physical ability in a military academy are unlikely to benefit
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GRIT META-ANALYSIS
+
+substantially from grit. Similarly, a cadet who is unable to recognize that a particular approach to studying for class material is not
+working is unlikely to perform well in academic courses.
+Third, the grit-performance relation may be moderated by the
+level of grit itself. Very high levels of grit may become dysfunctional if they reduce the likelihood of help-seeking behaviors that
+have themselves been linked to performance (e.g., Karabenick,
+2003) or if they increase the likelihood that an individual persists
+too long in attempting to solve a problem that is particularly
+difficult rather than spending their time on other, more solvable
+problems (see Lucas, Gratch, Cheng, & Marsella, 2015). This
+would, in turn, suggest that interventions designed to enhance grit
+levels may not benefit all individual equally. A recent large-scale
+evaluation of the impact of resiliency interventions (Paunesku et
+al., 2015) found that such interventions benefit primarily those
+students who were most at risk of dropping out of high schools and
+provided less benefit for other students. Meta-analytic evidence
+suggests similar effects for resilience interventions in working
+populations (Vanhove, Herian, Perez, Harms, & Lester, 2015). A
+similar nonlinear relation may also exist for grit.
+A more nuanced conceptualization of grit’s contribution to performance also seems warranted when reconsidering the biographical
+details of some of the highly accomplished scientific figures referenced by Duckworth et al. (2007) to highlight the importance of grit.
+For example, it is true that Albert Einstein persisted for many years in
+his attempt to develop the field equations that represent the mathematical description of general theory of relativity, but it is also true
+that Einstein persisted for years in pursuing an avenue of investigation
+that was based on an earlier mathematical error. Einstein also appears
+to have only resolved some of the challenging mathematical obstacles
+after consulting with the mathematicians Marcel Grossman and (later)
+David Hilbert (Earman & Glymour, 1978) who, according to some
+accounts (e.g., Parker, 2004), almost scooped Einstein in the development of the mathematical framework for the general theory of
+relativity because of Einstein’s delay in seeking assistance. That is,
+persistence in this narrow case almost resulted in “failure” and Einstein only “succeeded” in this particular endeavor once he recognized
+his mathematical limitations and sought the help of more accomplished mathematicians.
+The possibility that the grit-performance relation is not uniformly
+strong is also strongly suggested by an examination of the empirical
+literature. Some have found that grit scores are relatively strongly
+related to success as suggested by the initial findings by Duckworth
+and colleagues (e.g., Strayhorn, 2013), but many others (e.g., Chang,
+2014; Cross, 2013; Davidson, 2014; Hogan, 2013; Sheehan, 2014)
+have failed to find strong relations between grit scores and indicators
+of success. This is particularly the case for studies examining academic success. Indeed, many of the reported relations between grit
+and academic success are weaker or equal to the relation of ␳ ⫽ .21
+and ␳ ⫽ .23 that has been reported between conscientiousness and
+academic performance in two recent large-scale meta-analytic reviews (e.g., Porapat, 2009; Richardson, Abraham, & Bond, 2012).
+Meta-analytic synthesis will not only help to clarify the strength of the
+relation between grit and success but will also help to clarify whether
+the observed variability in relations is simply a function of sampling
+error and other study artifacts (e.g., differences in the reliability in the
+measurement of variables), or if this variability reflects the presence
+of meaningful moderators.
+
+3
+
+A meta-analytic summary should also help to address possible
+confusion among readers of the grit literature about the ability of grit
+to predict the successful completion of rigorous programs. This confusion may have arisen because the authors of both of the foundational papers (Duckworth et al., 2007; Duckworth & Quinn, 2009)
+appear to confuse odds ratios with probabilities in their discussion of
+logistic regression results, resulting in incorrect inferences about the
+size of observed effects. This misunderstanding may have led readers
+to infer a much greater predictive power for grit scores than is
+warranted. For example, Duckworth and Quinn (2009) discussed the
+ability of grit scores to predict the successful completion a summer
+program for cadets from the United States Military Academy at West
+Point and interpret an odds ratio of 1.99 to mean that “Cadets who
+scored a standard deviation higher than average on the Grit-S were
+99% more likely to complete summer training” (p. 171). This interpretation is incorrect because approximately 94% of all cadets successfully completed the program. A relatively small increase in the
+completion rate from, say, 95% to 97.5% associated with a one point
+increase in grit scores would, of course, represent an odds ratio of 2,
+but this is only a 2.6% increase in the likelihood of completing the
+program.
+A meta-analytic synthesis will also help to establish whether
+either of the two facets of grit exhibit higher levels of criterion
+validity than the other or whether the two are largely equivalent in
+their relation with important outcomes as suggested by Duckworth
+and colleagues (2007, p. 1091). This might, in turn, change the
+manner in which grit scores are presented and interpreted. Many
+grit researchers follow the recommendations by Duckworth et al.
+and examine only an overall grit score. However, facets are often
+better predictors than broad traits (e.g., Paunonen & Ashton,
+2001), and substantial differences between the grit facets to predict
+important criteria might suggest that this scoring strategy should
+be revisited.
+A meta-analytic synthesis of the strength of the relation between
+grit and success will also help to inform judgments about whether
+interventions designed to enhance grit are likely to have an impact
+on performance. Initial reports of the high predictive validity of
+grit scores and their relative independence from indicators of
+cognitive ability, combined with claims that grit can be taught
+(Perkins-Gough, 2013), has resulted in some schools implementing interventions designed to increase students’ levels of grit. For
+example, The Knowledge is Power Program network of public
+charter schools is training its teachers to foster grit in their pupils
+(Shechtman, DeBarger, Dornsife, Rosier, & Yarnall, 2013), while
+many school districts across the US are reportedly considering
+integrating the teaching of grit into curricula (Cohen, 2015). Grit
+was even highlighted as a promising focus of school interventions
+in a U.S. Department of Education report (Shechtman et al., 2013).
+The time and resources that are likely to be devoted to grit-based
+interventions in schools are likely to be nontrivial and should
+therefore only be based on the best available knowledge about the
+role of grit in predicting and determining performance.
+
+The Distinction of Grit From Conscientiousness
+An interest in what Duckworth and colleagues refer to as grit,
+perseverance, and consistency is not new to psychology. Studies of
+attributes such as will power, tenacity, determination, persistence
+of motives, and volitional perseveration date back over 80 years
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+4
+
+CREDÉ, TYNAN, AND HARMS
+
+(see Ryans, 1939 for an early review). More recently, researchers
+have investigated a variety of other trait-like constructs that are
+characterized by persistence and consistency including proactivity
+(e.g., Crant, 1995), persistence (e.g., De Fruyt, Van de Wiele, &
+Van Heeringen, 2000), industriousness (e.g., Eisenberger, 1992;
+Jackson, Paunonen, & Tremblay, 2000), need for achievement
+(McClelland, 1985), conscientiousness, and some of the facets of
+conscientiousness such as industriousness, self-control, and order
+(Roberts, Chernyshenko, Stark & Goldberg, 2005). The conceptual
+similarities between these constructs and grit raises the possibility
+that the proponents of grit may have fallen victim to what Kelley
+(1927) referred to as the “jangle fallacy”—the belief that two
+things are different simply because they have different names. The
+contribution of grit to the psychological literature would, of
+course, be severely limited if the construct was simply a case of
+“old wine in new bottles” and it would therefore appear to be
+important to formally establish the discriminant validity of grit
+relative to these related constructs. There has however been almost
+no empirical investigation of the discriminant validity of grit from
+these other constructs using the types of methodologies (e.g.,
+Mulitrait-multimethod matrices, confirmatory factor analyses)
+commonly employed to determine discriminant validity, despite
+the fact that grit has been explicitly presented as a construct that is
+distinct from these previously examined constructs—particularly
+conscientiousness and need for achievement (Duckworth et al.,
+2007; Duckworth & Quinn, 2009; Perkins-Gough, 2013). The
+bivariate relation of grit with conscientiousness has often been
+reported by researchers but even for conscientiousness (and its
+facets) there are both empirical and theoretical reasons for suspecting that the overlap with grit may be stronger than is widely
+assumed.
+For example, the definition of grit as “perseverance and passion
+for long-term goals” (Duckworth et al., 2007) is highly similar to
+the definitions given by Costa and McCrae (1992) for the selfdiscipline facet (“capacity to begin tasks and follow through to
+completion despite boredom or distractions”) and the achievement
+striving facet of conscientiousness (“need for personal achievement and sense of direction”). This theoretical similarity is also
+reflected in the considerable similarity in the items that are found
+in the Duckworth et al. (2007) perseverance subscale and items in
+widely used inventories of conscientiousness such as those provided by the International Personality Item Pool (IPIP, Goldberg,
+1999). For example, perseverance items such as “I finish whatever
+I begin” and “I am a hard worker” are very similar to IPIP items
+used to measure achievement striving such as “I carry out my
+plans” and “I work hard.” Items from the consistency scale overlap
+less strongly with items from conscientiousness inventories and
+are instead more similar to IPIP items used to measure the adventurousness facet of openness to experience and the IPIP measure of
+planfulness that is modeled after the Achievement via Conformance scale found in the California Personality Inventory (Gough,
+1996).
+A cursory examination of the empirical grit literature also suggests that the grit— conscientiousness relation may be much stronger than is commonly assumed. While some (e.g., Cooper, 2014)
+have presented evidence the grit is largely distinct from conscientiousness, numerous others have reported correlations between grit
+and conscientiousness that approach unity when correcting the
+observed correlations for unreliability. Reed, Pritschet and Cutton
+
+(2012), for example, report a correlation of ␳ ⫽ .92 based on 1165
+college students, Engel (2013) reports a correlation of ␳ ⫽ .95
+based on a smaller sample of 88, and Meriac, Slifka, and LaBat
+(2015) report a disattenuated correlation of ␳ ⫽ .98 based on a
+sample of 322 students. Even Duckworth et al. (2007) and Duckworth and Quinn (2009) report correlations between conscientiousness and grit scores that rise to ␳ ⫽ .97 (N ⫽ 1,554); ␳ ⫽ .90
+(N ⫽ 706), ␳ ⫽ .83 (N ⫽ 190), and ␳ ⫽ .80 (N ⫽ 1,308) after
+correcting for the unreliability of both conscientiousness scores
+and grit scores. High correlations such as these have led some
+(e.g., MacCann & Roberts, 2010) to suggest that grit should be
+considered a facet of conscientiousness—a position that seems
+theoretically plausible when considering that both grit and the
+self-control or self-discipline facet of conscientiousness focus on
+the deferment of short-term gain for long-term goals (see Costa &
+McCrae, 1992; Roberts, Bogg, Walton, Chernyshenko, & Stark,
+2004). High observed correlations between grit and conscientiousness are also of concern when considering that a concurrent
+assessment of the same personality trait using different scales
+typically yields much lower correlations of around r ⫽ .50 (e.g.,
+Pace & Brannick, 2010; Miller, Price & Campbell, 2012). Metaanalytic synthesis of the literature on the grit-conscientiousness
+relation will help clarify whether the strength of the relation is such
+that grit might be a case of the “old wine in new bottles” phenomenon.
+
+The Distinction of Grit From Cognitive Ability
+Grit is typically described as being largely distinct from cognitive ability (Duckworth et al., 2007; Duckworth & Quinn, 2009;
+Perkins-Gough, 2013), although Duckworth (2013a, 2013b) has
+also suggested a negative relation between grit and cognitive
+ability in noting that “. . . gritty people, on average, tend to be
+slightly less talented” Duckworth (2013b, p. 18). This distinction,
+if correct, suggests that grit might explain unique variance in
+performance over and above the substantial variance in performance accounted for by cognitive ability (e.g., Kuncel, Hezlett,
+Ones, 2004). Further, a finding that grit is largely orthogonal from
+general cognitive ability would also suggest that interventions
+designed to enhance grit levels might result in substantial increases
+in performance. Primary research findings have found broad support for the assertion that cognitive ability and grit are largely
+distinct. Many of the studies in this domain utilize admissions test
+scores as a proxy for cognitive ability test scores but this approach
+seems reasonable when considering that cognitive ability tests
+administered in research settings have questionable validity because many test takers will not be motivated to exert maximal
+effort on ability tests in a low-stake setting (Duckworth, Quinn,
+Lynam, Loeber, & Stouthamer-Loeber, 2011). Most commonly
+used college admissions test scores are highly correlated with
+cognitive ability test scores (e.g., Frey & Dotterman, 2004) and are
+also taken under maximal performance (i.e., high stakes) conditions and are therefore likely to represent a sound indicator of
+cognitive ability. Research examining the relation between grit
+scores and admissions test scores have largely found very weak
+relations (e.g., Chang, 2014; Duckworth et al., 2007; EskreisWinkler, Duckworth, Shulman, & Beal, 2014; Kelly, Matthews, &
+Bartone, 2014).
+
+GRIT META-ANALYSIS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Group Differences in Grit Scores
+Concerns about the reliance on cognitive ability tests for the
+prediction of success and performance have often revolved around
+the persistent finding that groups exhibit nontrivial mean score
+differences on such tests (e.g., Camara & Schmidt, 1999; Davis et
+al., 2013). A finding that grit exhibits smaller differences between
+groups is likely to make the construct more attractive in settings
+where scores are used for selection purposes or for making other
+high-stakes decisions because the likelihood of adverse impact on
+legally protected groups is reduced. Prior research suggests only
+one type of group difference. Duckworth et al. suggested that grit
+might increase with age—a phenomenon that has also been observed for conscientiousness (Roberts, Walton, & Viechtbauer,
+2006)— but prior findings from the personality literature (e.g.,
+Costa, Terracciano, & McCrae, 2001; Foldes, Duehr, & Ones,
+2008) suggest that differences across ethnicities and gender are
+likely to be more modest than those observed for ability measures.
+Empirical findings on the direction and strength of the relation
+between grit scores and demographic variables such as age (e.g.,
+Engel, 2013, Eskreis-Winkler et al., 2014), gender (e.g., Allen,
+2014; Davidson, 2014), and ethnicity (e.g., Chang, 2014; EskreisWinkler, Shulman, & Duckworth, 2014) have been mixed and a
+meta-analytic synthesis will help to clarify whether average grit
+scores are largely similar across groups.
+
+The General Position of Grit Within the
+Nomological Network
+Grit has been not only been related to performance, cognitive
+ability, and conscientiousness but also to a wide array of other
+variables reflecting either states or traits. These include Big Five
+traits (e.g., Eskreis-Winkler et al., 2014), optimism (e.g., Lovering
+et al., 2015), psychological well-being (e.g., MacCann & Roberts,
+2010); suicide ideation (Blalock, Young, & Kleiman, 2015), intended persistence in academic programs (e.g., Bowman et al.,
+2015), and life satisfaction (e.g., Samson et al., 2011). A metaanalytic synthesis of the relation of grit with these other variables
+will further help to clarify the general position of grit within the
+broader nomological network.
+
+5
+
+with academic performance in college: (a) indicators of cognitive
+ability such as scores on the SAT and (b) prior academic performance such as high school grade point average (GPA; Sackett et
+al., 2012). Other predictors that correlate approximately at ␳ ⫽ .40
+with academic performance include study skills and study habits
+(Credé & Kuncel, 2008), academic adjustment (Credé & Niehorster, 2012), academic self-efficacy (Robbins et al., 2004), and class
+attendance (Credé et al., 2010). These appear to be the best known
+predictors of academic performance in college. Other variables
+that meta-analyses have shown to exhibit weaker but practically
+still very meaningful relations of around ␳ ⫽ .20 with academic
+performance include (a) specific learning strategies (Credé &
+Phillips, 2011), (b) emotional intelligence (Perera & DiGiacomo,
+2013), (c) conscientiousness (Porapat, 2009), and (d) test anxiety
+(Hembree, 1988).
+The ability to predict retention is typically weaker. Metaanalytic findings indicate that the best predictors are: academic
+self-efficacy (␳ ⫽ .36) and academic-related skills (␳ ⫽ .37,
+Robbins et al., 2004), institutional attachment (␳ ⫽ .29) and social
+adjustment (␳ ⫽ .25, Credé & Niehorster, 2012), high school
+grades (␳ ⫽ .20, Robbins, Allen, Casillas, Peterson, & Le, 2006),
+and SAT and ACT scores (␳ ⫽ .17, Mattern & Patterson, 2009;
+Robbins et al., 2006).
+
+Method
+Search Strategy
+Potential sources for inclusion in our review were identified
+using keyword, abstract, and title searches of the PsycINFO,
+Dissertations Abstracts, and ERIC databases using the search term
+“grit.” This yielded a total of 778 potential data sources. These
+search results were supplemented by an examination of the reference lists of identified sources. We also examined the first 500
+search results of the Internet using the Google search engine and
+the search term “grit” to identify additional unpublished sources of
+information. Potential sources for inclusion were first screened by
+examining the abstract and title of the source and all possible
+sources were then examined more closely to determine if the
+reported data met the inclusion or exclusion criteria.
+
+Interpreting Criterion-Related Validity Estimates
+Cohen’s (1988) guidelines for what constitutes small (r ⫽ .10),
+medium (r ⫽ .30), and large (r ⫽ .50) effect sizes are widely used
+to describe the size of the relation between a predictor variable and
+a criterion variable. However, the American Psychological Association (Wilkinson, 1999) has also encouraged researchers to place
+effect sizes in a practical and theoretical context. To this end we
+briefly discuss meta-analytic estimates of the criterion-related validity of various widely studied predictors of academic performance and retention. We use these meta-analytic estimates to
+inform our assessment of the relative ability of grit to predict
+academic performance and retention, although it is also important
+to note that even a relatively low criterion validity can be practically very important— especially when the predictor provides information about the criterion that is not provided by other predictors and when the criterion is important.
+Prior meta-analyses of predictors of academic performance have
+identified two variables that correlate at approximately ␳ ⫽ .50
+
+Inclusion and Exclusion Criteria
+Sources were included in our review if they reported on the
+Pearson correlation between scores on any of the Duckworth et al.
+(2007, 2009) measures of grit and other variables— or if they
+reported information that could be used to estimate the size of such
+a correlation (e.g., means and standard deviations for two criteria
+groups). The year of publication, source of the material, and
+country of origin of the data were not used to exclude any sources,
+although non-English sources were excluded. Sources were also
+excluded if they reported correlations for individuals below a
+middle school age because personality is still highly fluid at earlier
+ages, and because prior meta-analyses on personality as a predictor
+of achievement (Poropat, 2014) found that the strength of the
+relation at younger ages was very different to the relation at older
+ages. We also excluded one study that only reported on significant
+correlations (and excluded nonsignificant correlations) because the
+inclusion of this data would have resulted in an upwardly biased
+
+6
+
+CREDÉ, TYNAN, AND HARMS
+
+effect size estimate. When studies did not report data in a format
+that could be coded and when these studies had been published in
+the last five years we attempted to contact the authors to request
+the necessary information. Data from a total of 73 studies representing data from 88 unique samples and 66,807 individuals was
+ultimately included in the analyses.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Coding Procedure
+All articles were coded by two of the authors using a systematic
+coding procedure, one of whom has extensive experience coding
+articles for meta-analytic analyses. An accuracy check revealed
+98.8% agreement in coding across the four most important coding
+categories. 60% of coding errors were errors of commission (e.g.,
+incorrect coding of an effect size) and 40% were errors of omission
+(e.g., an effect size that could have been computed was not coded).
+All disagreements were resolved via discussion. Each correlation
+that was included in our review was described using 10 coding
+categories: (a) the size of the correlation, (b) the sample size, (c)
+the reliability of the grit scores, (d) the reliability of the correlate
+scores, (e) the name of the correlate, (f) the source of grit ratings
+(self-ratings or other-ratings), (g) the source of the correlate data
+(self-ratings, other-ratings, records), (h) whether the grit scores
+reflected overall grit or either of the two facets: consistency and
+perseverance, (i) the source of the publication (peer-reviewed vs.
+not peer-reviewed), and (j) the year of publication. Self-reported
+grades are very highly correlated with actual grades (Kuncel,
+Credé, & Thomas, 2005), and we therefore included correlations
+with grades irrespective of whether the grade information was
+based on self-reports or were obtained from records. When sources
+reported correlations involving both self-reported grades and
+grades obtained from records we coded the correlations involving
+grades obtained from records. A summary of the coding of the
+most important variables is included in the Appendix.
+
+Transformations
+Our coding process involved three transformations of data. First,
+we used formulas presented by Hunter and Schmidt (2004) to
+calculate estimates of the correlation between grit and correlate
+variables when the original sources had artificially dichotomized
+the correlate variable (e.g., presenting grit scores for “low” and
+“high” scoring students). The artificial dichotomization of data
+results in downwardly biased estimates of the population correlation if such a correction is not made. Second, we used the formula
+presented by Ghiselli, Campbell, and Zedeck (1981) to calculate
+composite correlations when the original source only presented
+correlations involving the facets of grit and/or facets of the correlate variable. For example, Bowman et al. (2015), presents correlations among the two facets of grit, fall GPA, and spring GPA; the
+six correlations among these four variables were used to arrive at
+an estimate of the correlation between overall grit and overall
+GPA. Mosier reliability estimates for composite variables (Mosier,
+1943) were also calculated whenever possible. Finally, we computed point-biserial correlations between retention and grit when
+the mean and standard deviation of grit scores were reported for
+both the retained and nonretained group.
+
+Criterion Categories
+Grit researchers have examined the relation of grit with a wide
+variety of indicators of success. Meta-analytic synthesis requires a
+grouping of similar criteria with each other but because success
+criteria can be grouped in a wide variety of ways we present
+meta-analytic estimates for 10 criterion categories. First, we present separate meta-analytic estimates of the relation between grit
+and high school GPA, college GPA, and postgraduate GPA. Second, we aggregate these into a broader general GPA criterion
+category (i.e., GPA across all three educational levels). For this
+general GPA criterion category we relied on the correlations for
+the more recent college GPA when authors reported correlations
+involving both high school GPA and college GPA. We then also
+combined this general GPA category further with correlations
+involving grades in individual courses to form an academic performance criterion category. Third, we present meta-analytic estimates of the point-biserial correlation between grit and retention.
+Most studies examining retention do so in an academic or military
+setting (e.g., degree completion, completion of basic training) but
+one study also examined marital status as an indicator of retention
+(i.e., staying married vs. getting a divorce or separating), and we
+therefore present meta-analytic estimates both with and without
+the study on marital retention. We also present findings for a
+criterion representing a collection of nonacademic criteria comprised of performance in spelling bees, military settings, and
+athletics. Finally, we also present meta-analytic estimates of the
+relation between grit and the intent to persist in both college and
+with a particular employer.
+
+State, Trait, and Demographic Categories
+Grit researchers have examined the relation between grit and a
+variety of other variables that represent both relatively stable
+personality traits such as the Big Five personality traits and cognitive ability, and variables that have a strong mood and emotion
+component and that could therefore be described as falling somewhere along the state-trait continuum (e.g., happiness, depression,
+positive affect). We use the descriptors of these variables as given
+in our source articles to group these various state and trait variables
+into categories and computed meta-analytic estimates for those
+categories for which at least three effect sizes were reported. We
+also report meta-analytic estimates of the relation between grit and
+four demographic variables (gender, age, year in school and ethnicity).
+
+Statistical Method
+We used the Hunter and Schmidt (2004) interactive metaanalytic method based on a random-effects model to arrive at
+population estimates of the size of the relations between grit and
+other variables. The Schmidt and Le (2004) software was used to
+compute meta-analytic estimates of the relations involving grit and
+we corrected for unreliability in the measurement of the dependent
+variable and unreliability in the measurement of the independent
+variable. Grit scores are likely to be exhibit some level of range
+restriction in many samples but the absence of normative data on
+grit scores and variance in how grit is measured (e.g., number of
+items, number of response options) did not allow us to correct for
+range restriction.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GRIT META-ANALYSIS
+
+Corrections for unreliability. To correct for the attenuating
+effect of measurement error on the size of the observed correlations we constructed reliability artifact distributions from the reliability information that was described in the included studies.
+These reliability distributions are described in Table 1. The included studies did not report information on the reliability of
+grades but to facilitate an apples-to-apples comparison with the
+recent meta-analytic summary of the relation between conscientiousness and academic performance by Poropat (2009) we corrected for the unreliability of grades using a distribution of reliability estimates for that was largely similar to the reliability
+estimates used by Poropat (2009). For GPA information taken
+from records we used the average of reliability estimates (␣ ⫽ .90)
+for all courses across four years as reported by Bacon and Bean
+(2006) while for self-reported GPA we used the operational validity estimates of .90 for college GPA and .82 for high school
+GPA as reported in the meta-analysis by Kuncel et al. (2005).
+Other analytic decisions. For the meta-analysis involving the
+retention criteria we took a dual analytical approach. More than
+half of the studies examining the relation between grit and retention did not report means and standard deviations for those individuals who dropped out of a program and for those individual
+who stayed in the program. Instead these authors reported odds
+ratios, but odds ratios cannot be directly transformed into a pointbiserial correlation when the independent variable is treated as a
+continuous variable. We therefore present two meta-analytic estimates for the grit-retention relation. We provide one estimate
+Table 1
+Artifact Distributions Used for Meta-Analytic Computations
+Variable
+
+k␣
+
+Mean ␣
+
+SD␣
+
+Overall grit
+Perseverance
+Consistency
+Overall academic performance
+Overall GPA
+College GPA
+Graduate school GPA
+High school GPA
+Intent to persist at current employer
+Intent to persist in college
+Cognitive ability
+Agreeableness
+Conscientiousness
+Emotional stability
+Extroversion
+Openness to experience
+Generalized self-efficacy
+Optimism
+Gratitude
+Mental toughness
+Hope
+Positive affect
+Life satisfaction
+Work satisfaction (college and job)
+Depression
+Happiness
+Resiliency
+Self-control
+
+46
+10
+11
+4
+4
+2
+2
+2
+4
+2
+2
+11
+17
+11
+11
+12
+2
+1
+3
+3
+4
+1
+5
+1
+5
+3
+3
+3
+
+.79
+.71
+.74
+.88
+.88
+.90
+.90
+.86
+.93
+.70
+.87
+.75
+.79
+.81
+.83
+.76
+.90
+.86
+.81
+.84
+.77
+.89
+.87
+.89
+.86
+.69
+.88
+.84
+
+.07
+.13
+.11
+.04
+.04
+.00
+.00
+.06
+.05
+.25
+.07
+.14
+.09
+.07
+.10
+.06
+.06
+.08
+.12
+.17
+.03
+.05
+.14
+.07
+.04
+
+Note. k␣ ⫽ number of reliability estimates in distribution; Mean ␣ ⫽
+mean of the reliability estimates; SD␣ ⫽ standard deviation of the reliability estimates; GPA ⫽ grade point average.
+
+7
+
+based purely on those studies that report data that could be transformed into a point-biserial correlation, and then provide another
+estimate that includes correlation values computed by taking the
+root of the Nagelkerke R2 values reported for those studies that
+reported odds ratios from bivariate logistic regression models.
+Nagelkerke R2 values tend to be too high as an estimate of the
+strength of the bivariate relation (Allison, 2014) but we include
+these values to provide readers with an estimate based on the most
+complete data. We remind readers that this estimate is likely to be
+upwardly biased.
+We present meta-analytic estimates of the relations of overall
+grit (or the two grit facets) with other variables whenever at least
+three studies reported on such a relation. We summarize our
+meta-analytic findings for each relation using six pieces of information: (a) k refers to the number of studies used to compute the
+estimates, (b) N refers to the total sample size used to compute the
+estimate, (c) robs refers to the sample-size weighted average observed correlation, (d) ␳ refers to the estimate of the population
+correlation, (e) SD␳ refers to the estimate of the standard deviation
+of effect sizes after taking into account the variability that is due to
+sampling error and differences in the reliability of measurement
+between studies, and (f) 10% and 90% coefficients of variation
+represent the upper and lower bounds of the 80% credibility
+interval. The width of the credibility interval is indicative of the
+presence of undetected moderators. That is, wide credibility intervals indicate that the correlation can be expected to vary widely
+across settings.
+To examine whether grit scores explain incremental variance in
+academic performance outcomes over and above the variance
+explained by conscientiousness we constructed a full meta-analytic
+intercorrelations matrix between grit, conscientiousness, and academic performance by importing the conscientiousness correlations of ␳ ⫽ .21 for high school GPA and ␳ ⫽ .23 for college GPA
+as reported by Poropat (2009), and using the average of these (␳ ⫽
+.22) for overall academic performance. These correlation matrices
+were then used to perform hierarchical regression analyses based
+on the harmonic mean of sample sizes.
+
+Results
+Before proceeding with our primary analyses we first examined
+the data from the studies included in this meta-analytic review for
+publication and source bias.
+
+Publication and Source Bias
+We examine the possibility that the literature included in this
+meta-analytic review represents a biased sample of the research on
+grit in two ways. First, to examine whether the published and
+unpublished literature report grit-performance relations of different magnitudes we report separate meta-analytic estimates based
+on those studies that were published in peer-reviewed journals and
+all other studies (e.g., dissertations, conference presentations).
+Because of the limited number of total studies that report correlations at the facet level we only perform this analysis for overall
+grit. Results are presented in Table 2. In general the evidence for
+source bias is weak with only small differences in correlations
+reported for overall academic performance, the overall GPA criterion, and undergraduate GPA. None of the differences in correlations were significant at ␣ ⫽ .05.
+
+CREDÉ, TYNAN, AND HARMS
+
+8
+
+Table 2
+Separate Meta-Analytic Estimates of Grit-Criteria Relations for Peer-Reviewed and Nonpeer-Reviewed Publications
+Peer-reviewed publications
+
+Nonpeer-reviewed publications
+
+Criterion
+
+k
+
+N
+
+robs
+
+␳
+
+SD␳
+
+10% CV
+
+90% CV
+
+k
+
+N
+
+robs
+
+␳
+
+SD␳
+
+10% CV
+
+90% CV
+
+Academic performance
+GPA (all levels)
+Undergraduate GPA
+High school GPA
+
+14
+14
+11
+8
+
+6,440
+6,440
+5,657
+4,381
+
+.15
+.15
+.15
+.14
+
+.18
+.18
+.17
+.17
+
+.12
+.12
+.12
+.15
+
+.03
+.03
+.02
+⫺.02
+
+.34
+.34
+.33
+.36
+
+25
+23
+19
+9
+
+6,701
+6,159
+4,869
+1,983
+
+.15
+.13
+.13
+.11
+
+.17
+.16
+.16
+.14
+
+.09
+.07
+.07
+.10
+
+.07
+.07
+.07
+.01
+
+.28
+.25
+.25
+.27
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Note. k ⫽ number of studies; N ⫽ number of subjects; robs ⫽ sample size weighted mean observed correlation; ␳ ⫽ true score correlation; SD␳ ⫽ standard
+deviation of true score correlation; 10% CV and 90% CV ⫽ lower and upper bound of 80% credibility intervals; GPA ⫽ grade point average. Confidence
+intervals are not shown here due to space limitations but can be obtained from first author by request.
+
+Second, we use Egger’s test of funnel-plot asymmetry (Eggers,
+Smith, Schneider, & Minder, 1997) to examine whether there is
+evidence in the meta-analysis for the exclusion of small studies
+with weak effects. Studies with small sample sizes that find weak
+effects may not be published and not found via literature searches
+and their exclusion may result in an overestimate of the strength of
+an effect. Egger’s test regresses the standard normal deviate of the
+effect size for each sample onto the precision of the effect size
+estimate. The intercept of the regression line provides information
+about the size of any asymmetry; statistically significant negative
+intercepts suggesting that small studies with weak effects may
+have been suppressed from the literature. Because of the relatively
+small number of studies that examined any one relation we only
+perform a single test of asymmetry for the relation based on the
+largest number of studies: the relation between grit and overall
+academic performance. For this relation Egger’s test indicated no
+significant asymmetry with the intercept being negative but weak
+and not significantly different from zero (a ⫽ ⫺.15, p ⫽ .85).
+The absence of evidence for strong source bias and publication
+bias suggests that our meta-analytic estimates are unlikely to be
+substantially biased in either a positive or negative direction by
+missing studies. We therefore present meta-analytic estimates of
+the relation of grit with criteria, state and trait variables, and
+demographic variables in Tables 3, 4, and 5.
+
+Relation Between Perseverance and Consistency
+Our meta-analytic estimate of the relation between perseverance and consistency (k ⫽ 17, N ⫽ 22,048, ␳ ⫽ .60, SD␳ ⫽ .21),
+indicates a generally strong relation although the width of the
+credibility interval suggests that the strength of this relation is
+substantially moderated. As an exploratory follow-up analysis
+we compared the relation observed for the two different grit
+scales and found a stronger relation when researchers relied on
+the short grit scale (k ⫽ 11, N ⫽ 18,996, ␳ ⫽ .66, SD␳ ⫽ .15)
+than when the original grit scale was used (k ⫽ 6, N ⫽ 3,052,
+␳ ⫽ .27, SD␳ ⫽ .17).
+
+Relations With Criteria
+Overall grit exhibits a relation with overall academic performance of ␳ ⫽ .18 (k ⫽ 39, N ⫽ 13,141, SD␳ ⫽ .11) and ␳ ⫽ .17
+with the overall GPA criterion (k ⫽ 37, N ⫽ 12,601, SD␳ ⫽ .10).
+Among the academic performance criteria grit was approximately
+as strongly related to college GPA (k ⫽ 30, N ⫽ 10,526, ␳ ⫽ .17,
+SD␳ ⫽ .10) as it was to high school GPA (k ⫽ 17, N ⫽ 6,364, ␳ ⫽
+
+.16, SD␳ ⫽ .14). Contrary to early assertions by Duckworth et al.
+(2007) that both facets predicted success outcomes equally well,
+the perseverance facet of grit exhibited much stronger relations
+with all academic performance criteria than the consistency facet.
+For example, perseverance correlated at ␳ ⫽ .26 (k ⫽ 11, N ⫽
+5,221, SD␳ ⫽ .12) with overall academic performance while consistency correlated at only ␳ ⫽ .10 (k ⫽ 11, N ⫽ 5,221, SD␳ ⫽
+.02). A comparison of the correlations of perseverance and consistency with four academic performance criteria using the procedure for comparing correlated correlation coefficients described by
+Meng, Rosenthal, and Rubin (1992) showed that the correlations
+differed significantly (p ⬍ .001) in all four cases.
+Grit correlated with retention at ␳ ⫽ .12 when the marital
+success study is included (k ⫽ 11, N ⫽ 17,525, SD␳ ⫽ .09), at ␳ ⫽
+.18 (k ⫽ 10, N ⫽ 11,163 SD␳ ⫽ .03) when it was excluded, and at,
+␳ ⫽ .16 (k ⫽ 5, N ⫽ 2,705, SD␳ ⫽ .06) if the upwardly biased
+correlations estimated from Nagelkerke R2 values are excluded.
+Grit was correlated at ␳ ⫽ .21 (k ⫽ 7, N ⫽ 4,116, SD␳ ⫽ .00) with
+performance in nonacademic domains. The relation between grit
+and the intent to persist in college and with the current employer
+was ␳ ⫽ .18 (k ⫽ 5, N ⫽ 3,967, SD␳ ⫽ .00), and ␳ ⫽ .15 (k ⫽ 4,
+N ⫽ 519, SD␳ ⫽ .00), respectively.
+
+Relation With State and Trait Variables
+Consistent with the claim that grit and cognitive ability are
+largely orthogonal, grit exhibited only a very weak relation with
+cognitive ability (k ⫽ 21, N ⫽ 11,513, ␳ ⫽ .05, SD␳ ⫽ .12).
+Similarly weak relations with cognitive ability were also observed
+for both the perseverance facet (k ⫽ 5, N ⫽ 2,204, ␳ ⫽ ⫺.01,
+SD␳ ⫽ .04) and consistency facet (k ⫽ 5, N ⫽ 2,204, ␳ ⫽ .00,
+SD␳ ⫽ .00).
+Grit exhibited much stronger relations with other trait variables.
+Conscientiousness was very strongly correlated with overall grit
+(k ⫽ 22, N ⫽ 18,826, ␳ ⫽ .84, SD␳ ⫽ .07) and also with
+perseverance (k ⫽ 8, N ⫽ 4,967, ␳ ⫽ .83, SD␳ ⫽ .14) and
+consistency (k ⫽ 8, N ⫽ 4,967, ␳ ⫽ .61, SD␳ ⫽ .17). Grit also
+exhibited a very strong relation with self-control (k ⫽ 4, N ⫽
+2,615, ␳ ⫽ .72, SD␳ ⫽ .05), a variable that is often seen to be a
+facet of conscientiousness (e.g., Roberts et al., 2005). Grit also
+exhibited a relatively strong relation with emotional stability (k ⫽
+14, N ⫽ 14,501, ␳ ⫽ .41, SD␳ ⫽ .04), but this should not be
+surprising when considering that low levels of emotional stability
+are likely to be associated with an inconsistency of interest because
+negative affect states may be interpreted as a signal that the
+activity being engaged in is no longer interesting. Grit also
+
+519
+
+4
+
+.13
+
+.15
+.14
+.14
+.13
+.07
+.14
+.10
+.16
+.19
+.13
+
+robs
+
+.15
+
+.18
+.17
+.17
+.16
+.08
+.16
+.12
+.18
+.21
+.18
+
+␳
+
+.00
+
+.11
+.10
+.10
+.14
+.00
+.06
+.09
+.03
+.00
+.00
+
+SD␳
+
+.15
+
+.04
+.04
+.04
+⫺.02
+.08
+.08
+.00
+.14
+.21
+.18
+
+10% CV
+
+.15
+
+.31
+.30
+.30
+.34
+.08
+.23
+.24
+.23
+.21
+.18
+
+90% CV
+5,221
+5,065
+4,595
+3,313
+
+2,959
+
+4
+
+N
+
+11
+10
+8
+7
+
+k
+
+.15
+
+.20
+.20
+.20
+.22
+
+robs
+
+.22
+
+.26
+.26
+.25
+.29
+
+␳
+
+.00
+
+.12
+.12
+.12
+.08
+
+SD␳
+
+.22
+
+.11
+.11
+.11
+.19
+
+10% CV
+
+Perseverance of effort
+
+.22
+
+.41
+.41
+.40
+.39
+
+90% CV
+
+2,959
+
+5,221
+5,065
+4,595
+3,313
+
+N
+
+17 22,048
+
+4
+
+11
+10
+8
+7
+
+k
+
+.44
+
+.09
+
+.08
+.08
+.08
+.11
+
+robs
+
+.60
+
+.12
+
+.10
+.10
+.09
+.13
+
+␳
+
+.21
+
+.05
+
+.02
+.03
+.03
+.06
+
+SD␳
+
+.34
+
+.06
+
+.07
+.06
+.05
+.05
+
+10% CV
+
+Consistency of interest
+
+.87
+
+.19
+
+.13
+.13
+.14
+.21
+
+90% CV
+
+13
+22
+14
+13
+14
+21
+4
+3
+3
+3
+6
+5
+3
+9
+6
+5
+4
+3
+4
+
+Agreeableness
+Conscientiousness
+Emotional stability
+Extraversion
+Openness
+Cognitive ability
+Whole candidate score (military)
+Generalized self-efficacy
+Optimism
+Gratitude
+Mental toughness
+Hope
+Positive affect
+Life satisfaction
+Work satisfaction (college and job)
+Depression
+Happiness
+Resiliency
+Self-control
+
+14,395
+18,826
+14,501
+14,395
+14,585
+11,513
+4,770
+1,908
+2,059
+1,415
+3,817
+2,378
+670
+2,266
+3,439
+3,865
+726
+480
+2,615
+
+N
+.25
+.66
+.33
+.19
+.15
+.04
+.02
+.36
+⫺.04
+.24
+.37
+.33
+.38
+.25
+.10
+⫺.40
+.22
+.08
+.59
+
+robs
+.33
+.84
+.41
+.23
+.19
+.05
+.02
+.43
+⫺.04
+.30
+.46
+.42
+.46
+.30
+.11
+⫺.48
+.30
+.09
+.72
+
+␳
+.07
+.07
+.04
+.09
+.14
+.12
+.00
+.11
+.12
+.09
+.08
+.05
+.03
+.08
+.02
+.10
+.00
+.09
+.05
+
+SD␳
+.23
+.75
+.36
+.12
+.01
+⫺.11
+.02
+.28
+⫺.20
+.19
+.35
+.35
+.42
+.20
+.09
+⫺.61
+.30
+⫺.02
+.66
+
+10% CV
+.42
+.92
+.46
+.35
+.37
+.20
+.02
+.57
+.11
+.41
+.56
+.49
+.49
+.40
+.13
+⫺.35
+.30
+.21
+.78
+
+90% CV
+3,203
+4,967
+3,203
+3,203
+3,203
+2,204
+
+975
+3,243
+
+3
+5
+
+N
+
+3
+8
+3
+3
+3
+5
+
+k
+
+.41
+.19
+
+.28
+.61
+.30
+.32
+.32
+⫺.01
+
+robs
+
+.54
+.25
+
+.39
+.83
+.40
+.41
+.45
+⫺.01
+
+␳
+
+.00
+.08
+
+.03
+.14
+.14
+.09
+.07
+.04
+
+SD␳
+
+.54
+.15
+
+.36
+.65
+.22
+.29
+.11
+⫺.06
+
+10% CV
+
+Perseverance of effort
+
+.54
+.34
+
+.43
+1.00
+.58
+.53
+.78
+.04
+
+90% CV
+
+3
+5
+
+3
+8
+3
+3
+3
+5
+
+k
+
+975
+3,243
+
+3,203
+4,967
+3,203
+3,203
+3,203
+2,204
+
+N
+
+.16
+.04
+
+.23
+.47
+.29
+.07
+⫺.02
+⫺.00
+
+robs
+
+.20
+.05
+
+.17
+.61
+.37
+.09
+⫺.03
+⫺.00
+
+␳
+
+.00
+.09
+
+.00
+.17
+.00
+.05
+.05
+.00
+
+SD␳
+
+.20
+⫺.07
+
+.22
+.39
+.37
+.02
+⫺.09
+⫺.00
+
+10% CV
+
+Consistency of interest
+
+.20
+.17
+
+.23
+.84
+.37
+.15
+.03
+⫺.00
+
+90% CV
+
+Note. k ⫽ number of studies; N ⫽ number of subjects; robs ⫽ sample size weighted mean observed correlation; ␳ ⫽ true score correlation; SD␳ ⫽ standard deviation of true score correlation; 10%
+CV and 90% CV ⫽ lower and upper bound of 80% credibility intervals. Confidence intervals are not shown here due to space limitations but can be obtained from first author by request.
+
+k
+
+Correlate
+
+Overall grit
+
+Table 4
+Meta-Analytic Estimates of the Relations Between Grit and Trait and State Variables
+
+Note. k ⫽ number of studies; N ⫽ number of subjects; robs ⫽ sample size weighted mean observed correlation; ␳ ⫽ true score correlation; SD␳ ⫽ standard deviation of true score correlation; 10%
+CV and 90% CV ⫽ lower and upper bound of 80% credibility intervals; GPA ⫽ grade point average. Confidence intervals are not shown here due to space limitations but can be obtained from first
+author by request.
+a
+Estimates include estimates of point-biserial correlations computed by taking root of Nagelkerke R2 values.
+
+13,141
+12,601
+10,526
+6,364
+1,141
+2,705
+17,525
+11,163
+4,116
+3,967
+
+39
+37
+30
+17
+3
+5
+11
+10
+7
+5
+
+Academic performance
+GPA (all levels)
+Undergraduate GPA
+High school GPA
+Graduate school GPA
+Retention (general)
+Retention (general)a
+Retention (without marriage)a
+Nonacademic performance
+Intent to persist in college
+Intent to persist with current
+employer
+Grit—perseverance
+
+N
+
+k
+
+Correlate/Criterion
+
+Overall grit
+
+Table 3
+Meta-Analytic Estimates of the Relations Between Grit and Performance Criteria
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GRIT META-ANALYSIS
+
+9
+
+.07
+.04
+.06
+.01
+.01
+⫺.07
+.11
+⫺.02
+⫺.02
+.05
+.00
+.00
+4 2,961
+.04
+.06
+5 3,301 ⫺.02 ⫺.02
+4 2,786 ⫺.02 ⫺.02
+
+⫺.01
+⫺.02
+⫺.02
+
+4 2,961
+5 3,301
+4 2,786
+
+.03
+.02
+.00
+
+.04
+.02
+⫺.00
+
+.02
+.01
+.05
+
+.09
+⫺.03
+.05
+.03
+.03
+8 5,040
+.09
+⫺.04
+.05
+.03
+.02
+8 5,040
+
+.14
+.18
+.12
+.02
+.08
+.02
+.05
+⫺.03
+.07
+⫺.02
+.00
+⫺.02
+.02
+⫺.09
+.07
+.04
+.05
+.01
+.04
+.00
+.05
+Gender (Male ⫽ 0, Female ⫽ 1) 25 18,750
+.05
+.05
+Age
+22 12,349
+.11
+.12
+Year in school
+4 2,961
+.05
+.05
+Ethnic minority status
+9 15,261
+.01
+.01
+African American
+7 14,403
+.03
+.03
+Asian
+4 11,959
+.01
+.02
+Hispanic
+5 12,302 ⫺.02 ⫺.02
+
+SD␳ 10% CV 90% CV
+␳
+robs
+Correlate
+
+k
+
+N
+
+robs
+
+␳
+
+SD␳ 10% CV 90% CV k
+
+N
+
+robs
+
+␳
+
+SD␳ 10% CV 90% CV k
+
+N
+
+Consistency of interest
+Perseverance of effort
+Overall grit
+
+Table 5
+Meta-Analytic Estimates of the Relations Between Grit and Demographic Variables
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Note. k ⫽ number of studies; N ⫽ number of subjects; robs ⫽ sample size weighted mean observed correlation; ␳ ⫽ true score correlation; SD␳ ⫽ standard deviation of true score correlation; 10%
+CV and 90% CV ⫽ lower and upper bound of 80% credibility intervals. Confidence intervals are not shown here due to space limitations but can be obtained from first author by request.
+
+CREDÉ, TYNAN, AND HARMS
+
+10
+
+exhibited relatively strong relations with a number of other
+variables that are sometimes presented as having a causal
+influence on success and performance, including, generalized
+self-efficacy (k ⫽ 3, N ⫽ 1,908, ␳ ⫽ .43, SD␳ ⫽ .11), mental
+toughness (k ⫽ 6, N ⫽ 3,817, ␳ ⫽ .46, SD␳ ⫽ .08), positive
+affect (k ⫽ 3, N ⫽ 670, ␳ ⫽ .46, SD␳ ⫽ .03), and depression
+(k ⫽ 5, N ⫽ 3,865, ␳ ⫽ ⫺.48, SD␳ ⫽ .12).
+
+Relation With Demographic Variables
+As expected, the relations between grit and demographic variables such as gender (k ⫽ 25, N ⫽ 18,750, ␳ ⫽ .05, SD␳ ⫽ .07),
+year in school (k ⫽ 4, N ⫽ 2,961, ␳ ⫽ .05, SD␳ ⫽ .05), and ethnic
+minority status (k ⫽ 9, N ⫽ 15,261, ␳ ⫽ .01, SD␳ ⫽ .01) were all
+very weak with the exception of age, which exhibited a slight
+positive correlation with overall grit (k ⫽ 22, N ⫽ 12,349, ␳ ⫽ .12,
+SD␳ ⫽ .04) in line with the prediction by Duckworth et al. (2007)
+that grit would increase with age. This increase is similar to the
+general increase in conscientiousness observed with age (Roberts
+et al., 2006).
+
+Incremental Validity
+The incremental validity estimates from these regression results
+are summarized in Table 6. Results for Model 1 indicate that
+overall grit explains no variance in either overall academic performance or high school GPA after controlling for conscientiousness, and explains only a very small amount of incremental
+variance in college GPA (i.e., ⌬R ⫽ .004). Importantly, conscientiousness explains incremental variance in these outcomes if first
+controlling for overall grit. Results for Model 2 show that perseverance explained a substantial amount of incremental variance in
+overall academic performance (⌬R ⫽ .040), high school GPA
+(⌬R ⫽ .085), and a somewhat lower amount for college GPA
+(⌬R ⫽ .023). Consistency explained almost no unique variance in
+the three criteria after controlling for either conscientiousness (see
+Model 3) or both conscientiousness and persistence (Model 4) and
+the negative sign of the regression coefficients for consistency for
+the overall academic performance and college GPA criteria also
+suggests a possible suppressor effect. Perseverance explained relatively large amounts of unique variance in three criteria even after
+controlling for both conscientiousness and consistency (Model 5).
+Overall, the incremental validity findings suggest that both overall
+grit and the consistency facet of grit add little to our ability to
+understand or predict academic performance, while the perseverance facet does offer an important improvement in explanatory
+power.
+
+Discussion
+Proponents of grit have asserted that grit is a higher order
+construct composed of a perseverance facet and a consistency
+facet, that grit scores are highly predictive of success (and a better
+predictor of success than cognitive ability), and that grit scores
+provide information about individuals that is meaningfully distinct
+from conscientiousness. Three primary findings from our metaanalytic review of the grit literature suggest that the validity of
+these assertions may need to be revisited; although our findings
+also suggest that a revised approach to the study of grit may still
+
+GRIT META-ANALYSIS
+
+11
+
+Table 6
+Incremental Validity Estimates Based on Hierarchical Regression Analysis Using Meta-Analytic Intercorrelations
+Criteria
+Overall academic
+performance
+Model
+Model 1
+
+Model 4
+
+Step
+Step
+Step
+Step
+Step
+Step
+Step
+
+Model 5
+
+Step 2
+Step 1
+
+Model 2
+Model 3
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Step
+1
+2
+1
+2
+1
+2
+1
+
+Step 2
+
+High school GPA
+
+College GPA
+
+Predictor
+
+␤
+
+⌬R
+
+␤
+
+⌬R
+
+␤
+
+⌬R
+
+Conscientiousness
+Overall grit
+Conscientiousness
+Perseverance
+Conscientiousness
+Consistency
+Conscientiousness
+Perseverance
+Consistency
+Conscientiousness
+Consistency
+Perseverance
+
+.23
+⫺.02
+.01
+.25
+.25
+⫺.05
+.05
+.28
+⫺.10
+.05
+⫺.10
+.28
+
+.220 (.040)
+.000 (.180)
+.220 (.000)
+.040 (.260)
+.220 (.114)
+.004 (.100)
+.260 (.171)
+
+.26
+⫺.06
+⫺.10
+.37
+.21
+.00
+⫺.08
+⫺.06
+.39
+⫺.08
+⫺.06
+.39
+
+.210 (.052)
+.002 (.160)
+.210 (.005)
+.085 (.290)
+.210 (.080)
+.000 (.130)
+.295 (.168)
+
+.33
+⫺.11
+.07
+.19
+.28
+⫺.08
+.11
+.22
+⫺.11
+.11
+⫺.11
+.22
+
+.230 (.064)
+.004 (.170)
+.230 (.003)
+.023 (.250)
+.230 (.149)
+.009 (.090)
+.253 (.178)
+
+.011 (.100)
+.224 (.011)
+.047 (.260)
+
+.003 (.130)
+.210 (.008)
+.088 (.290)
+
+.015 (.090)
+.239 (.016)
+.027 (.250)
+
+Note. GPA ⫽ grade point average. ⌬R values in table are all adjusted values based on the harmonic mean of sample sizes. Standardized betas are those
+observed at Step 2 for all variables. Incremental R values in parentheses are those observed if the order of variables for the hierarchical regression is
+reversed. Harmonic means ranged from 5,540 to 18,774.
+
+hold value for our understanding of the determinants of performance.
+First, our findings indicate that the current evidence does not
+support the claim that grit is a higher-order construct that is
+characterized by two lower-order facets. The original factor analytic studies could not speak to the presence of a higher-order
+factor structure because of methodological limitations, and our
+results indicate that the practice of combining perseverance scores
+and consistency scores into an overall grit score appears to result
+in a significant loss in the ability to predict performance. That is,
+perseverance is a much better predictor of performance than either
+consistency or overall grit and should therefore probably be treated
+as a construct that is largely distinct from consistency to maximize
+its utility.
+Second, overall grit exhibits relations with academic performance and retention that are only modest and that do not compare
+favorably with other well-known predictors of academic performance such as cognitive ability (Sackett et al., 2012), study habits
+and skills (Credé & Kuncel, 2008), and academic adjustment
+(Credé & Niehorster, 2012). Indeed, meta-analytic reviews of the
+literatures for some of these other predictors report correlations
+with academic performance and retention that are more than twice
+as big as those observed for overall grit in this review. At the
+same time it should be remembered that variables that exhibit
+small to moderate effect sizes can still be very useful in highstakes settings because even marginal improvements in individuals’ performance— or organizations ability to predict this performance— can have very meaningful positive effects. For
+example, a grit intervention that increasing the retention rate in
+college by even a single percentage point would potentially
+benefit thousands of college students. Similarly, even a small
+increase in the ability to predict future performance in a selection setting may yield very substantial financial benefits for an
+organization (see Hunter & Hunter, 1984 for a discussion).
+Such a benefit would be particularly large if the variable in
+question reflected information about individuals that was dis-
+
+tinct from the information reflected by other well-known predictors of performance and retention.
+Our third primary finding suggests that the incremental value of
+grit for the prediction of performance is likely to be limited. Grit
+scores exhibited very strong correlations with conscientiousness
+and with self-control—a facet of conscientiousness. Indeed, the
+size of the correlation (␳ ⫽ .84) with overall conscientiousness is
+so strong as to not only limit the incremental value of grit scores
+for the prediction of performance over and above conscientiousness but also suggest that grit may be redundant with conscientiousness. Indeed, the correlation between overall grit and conscientiousness, and between persistence and conscientiousness (␳ ⫽
+.89) is much stronger than what is typically found between scores
+on two different global measures of conscientiousness (␳ ⫽ .63;
+Pace & Brannick, 2010). This, in turn, suggests that grit research
+may have fallen victim to the jangle fallacy and that grit as
+currently measured is simply a repackaging of conscientiousness
+or one of the facets of conscientiousness. McCornack (1956), of
+course, illustrated that two variables can be very strongly correlated but still exhibit very different correlations with a third variable but the meta-analytic estimates of the relation between overall
+grit and GPA in middle/high school (␳ ⫽ .16) and college (␳ ⫽
+.17) are largely identical (if somewhat weaker) to those reported
+for conscientiousness in the recent meta-analytic review by Porapat (2009): ␳ ⫽ .21 for middle/high school GPA and ␳ ⫽ .23 for
+college GPA.
+Although our findings indicate that a critical reappraisal of
+the grit construct is warranted, three meta-analytic findings
+reported in this paper do hold some promise for proponents of
+grit as a predictor of success and as a potential focus of
+interventions. First, grit predicts retention approximately as
+well as many more traditional predictors of retention such as
+cognitive ability and high school grades—although not as well
+as some other noncognitive predictors. This suggests that the
+assessment of grit may be useful in settings in which retention
+is problematic (e.g., higher education) because it may allow
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+12
+
+CREDÉ, TYNAN, AND HARMS
+
+researchers to identify individuals who might benefit the most
+from interventions that target grit or offer assistance in some
+other fashion. Second—as noted earlier— our meta-analytic
+results show that the perseverance of effort facet of grit exhibits
+substantially higher criterion validity for the grade criteria than
+the consistency of interest facet. Indeed, the observed criterion
+validity of perseverance for the high school GPA criterion is
+also significantly higher than the criterion validity observed for
+overall grit scores and also for conscientiousness (Poropat,
+2009). This suggests that the focus of grit researchers should
+shift to perseverance as the most promising avenue of future
+research. Third, our hierarchical regression results based on
+meta-analytic estimates suggest that perseverance of effort
+scores explain incremental variance over and above conscientiousness in the various grade criteria. This is, of course,
+encouraging, but the only moderately high correlations among
+scores on most personality traits assessed via two different
+inventories (see Pace & Brannick, 2010) mean that such incremental validity findings would be observed even if grit was
+simply a different manifestation of conscientiousness as our
+other results suggest.
+Even modest predictor-criterion relations can be very important in applied settings, especially when individuals’ standing
+on the predictor can be impacted by simple interventions.
+Whether it is possible to enhance grit via interventions is not yet
+clear although evidence that social and personal skills as well as
+resiliency are responsive to interventions (Durlak et al., 2010;
+Paunesku et al., 2015) suggest that grit interventions may have
+some positive effect. Although we do believe that our results
+regarding the validity of the perseverance facet offer some
+promise we also believe that our overall results should lead to
+a reevaluation of the appropriateness of planned or existing grit
+interventions. Schools and colleges have limited resources to
+devote to interventions and are likely to be best served by
+focusing those resources on variables that have been demonstrated to be (a) most strongly related to performance and
+persistence/retention and (b) responsive to interventions. Fortunately there are a number of variables that meet both of those
+requirements. For example, study skills and habits have been
+shown to correlate approximately ␳ ⫽ .40 with college GPA
+(Credé & Kuncel, 2008), while Hattie et al. (1996) showed that
+study skills interventions can have moderate positive effects on
+study skills. College students’ adjustment to college has been
+shown to be similarly predictive of academic performance (␳ ⫽
+.39 for academic adjustment), is also one of the best predictors
+of retention in college (␳ ⫽ .29 for institutional attachment) and
+can be slightly improved by simple interventions such as orientation programs (see Credé & Niehorster, 2012 for a review).
+Simple class attendance is also very strongly related to academic performance, and making class attendance compulsory
+appears to dramatically reduce the proportion of students who
+fail a class (Credé et al., 2010). Study skills and study habits,
+adjustment to college, and class attendance are thus far more
+strongly related to academic performance and retention than
+grit, and there is sound evidence that interventions can improve
+students’ standing on these constructs (especially for study
+skills and habits).
+
+Limitations and Future Research
+Meta-analyses are limited by the nature and quality of the
+data present in a literature. As such this meta-analysis of the grit
+literature has some notable limitations. First, the literature
+relating grit to academic performance is primarily based on
+concurrent designs. This, in turn, may have resulted in inflated
+estimates of the grit-academic performance relation because
+individuals’ knowledge of their academic performance may
+influence their responses to the measure of grit. Second, there
+are at least three reasons why the grit literature may be characterized by a nontrivial amount of range restriction. All of the
+examined studies relied on self-reports of grit and the social
+desirability of grit items may have resulted in range restriction
+in self-reported grit scores. Individuals may also generally not
+be aware of their true level of grit and unintentionally report
+inflated levels of grit (Kruger & Dunning, 1999). Further,
+samples drawn from populations that have been selected based
+on prior performance may exhibit some range restriction on
+grit. For example, cadets at the US Military Academy at West
+Point have likely exhibited outstanding academic performance
+in high school and may therefore have a lower range of grit
+scores than the range found in the general population. We were
+unable to correct for range restriction in our meta-analysis
+because of the lack of normative data and the variability in how
+the grit scales were used by researchers but future research may
+be able to estimate the level of range restriction that is present
+in samples. Third, many of the studies examining the relation
+between grit and retention were characterized by very high base
+rates of retention (i.e., low rates of dropout). Duckworth et al.
+(2007) for example report data on one sample from the United
+States Military Academy in which 94.2% of the sample were
+retained through the examined period. Such low base rates
+severely attenuate the size of the correlation that can be observed. In such circumstances meta-analyses could make corrections for range restriction, but such a correction would
+require information about the size of the standard deviation for
+the retention criteria in the general population and we are not
+aware of a reasonable estimate for this value. Finally, although
+the empirical grit literature is sufficiently large to allow us to
+comment with relative confidence on average population effect
+sizes the literature is not yet large enough to allow moderator
+analyses characterized by high power (Hunter & Schmidt,
+2004). An exploration of the reasons for the occasionally wide
+credibility intervals will require the accumulation of further
+data.
+We believe that future research in this domain should consider five broad issues. First, researchers should attempt to
+examine whether grit exhibit the type of stability that is associated with other personality traits or whether it is responsive to
+interventions. Grit interventions will need to be tested to evaluate the malleability of grit but there are sound theoretical
+reasons why such interventions may be effective. Eisenberger
+(1992) argued that industriousness—a construct that is similar
+to grit— can be acquired via reinforcement and that repeated
+reinforcement for high effort (i.e., grit) can eventually result in
+a generalized increase in effort across tasks even when these
+tasks are not extrinsically reinforced. This work will not only
+require long-term experimental manipulations in the form of
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GRIT META-ANALYSIS
+
+reinforcements for high effort but should help to establish the
+degree to which grit is truly trait-like and also help to clarify the
+type of grit interventions that are likely to be most effective.
+Second, grit researchers should consider examining criteria that
+span to different domains (e.g., work settings), a greater range
+of difficulty and a greater variety of task types (e.g., intellective
+tasks vs. creative tasks). This may help to establish boundary
+conditions for the influence of grit on success and performance.
+Third, grit researchers should consider examining the potential
+moderators of the grit-performance relation discussed earlier:
+the moderating role of the performance domain; the moderating
+role of individual differences such as ability and metacognition;
+and the moderating role of the level of grit. Fourth, it may also
+be useful to examine the degree to which scores on measures of
+grit are related to scores on measures of motivation. A popular
+definition of motivation is that it reflects “an individual’s
+intensity, direction, and persistence of effort toward achieving
+a goal” (e.g., Robbins, Judge, & Campbell, 2010) and as such
+bears clear conceptual similarities to grit. Finally, it is possible
+that the grit literature may benefit from a refinement of the grit
+scale using methods based on Item Response Theory. It is
+unlikely that the relatively short measures of grit are equally
+good at assessing low, medium, and high levels of grit. This
+lack of depth and breadth in item content could lead to attenuation of the reported effects (see Credé, Harms, Niehorster, &
+Gaye-Valentine, 2012). Better measures of grit would not only
+help to clarify the nature of the grit-performance relation but
+would also be important for the evaluation of future grit interventions.
+
+Conclusion
+Grit as a predictor of performance and success and as a focus of
+interventions holds much intuitive appeal, but grit as it is currently
+measured does not appear to be particularly predictive of success
+and performance and also does not appear to be all that different to
+conscientiousness. We hope that greater rigor in scale development, a greater focus on the perseverance facet, and a more
+nuanced approach in study design will help future grit researchers
+to develop boundary conditions for grit in its role as in influence
+on performance and success.
+
+References
+References marked with an asterisk indicate studies included in the
+meta-analysis.
+ⴱ
+
+Allen, B. R. (2014). An analysis of student success predictors for technical
+college persistence. (Unpublished doctoral thesis). Edgewood College,
+Madison, WI.
+Allison, P. D. (2014). Measuring fit for logistic regression. Research paper
+1485–2014. SAS Institute.
+ⴱ
+Anestis, M. D., Kleiman, E. M., Lavender, J. M., Tull, M. T., & Gratz,
+K. L. (2014). The pursuit of death versus escape from negative affect:
+An examination of the nature of the relationship between emotion
+dysregulation and both suicidal behavior and non-suicidal self-injury.
+Comprehensive Psychiatry, 55, 1820 –1830. http://dx.doi.org/10.1016/j
+.comppsych.2014.07.007
+ⴱ
+Anestis, M. D., & Shelby, E. A. (2015). Grit and perseverance in suicidal
+behavior and non-suicidal self-injury. Death Studies, 39, 211–218.
+http://dx.doi.org/10.1080/07481187.2014.946629
+
+ⴱ
+
+13
+
+Arouty, D. (2015). Does character matter? The role of grit and resilience
+in predicting academic success. (Unpublished doctoral dissertation).
+Hofstra University, Hempstead, NY.
+ⴱ
+Arslan, S., Akin, A., & Çîtemel, N. (2013). The predictive role of grit on
+metacognition in Turkish university students. Studia Psychologica, 55,
+311–320.
+Bacon, D. R., & Bean, B. (2006). GPA in research studies: An invaluable
+but neglected opportunity. Journal of Advanced Academics, 26, 274 –
+293.
+ⴱ
+Batres, I. (2011). The relationship of grit, subjective happiness, and
+meaning in life on alternative education students’ GPA and attendance.
+(Unpublished doctoral thesis). University of La Verne, La Verne, CA.
+ⴱ
+Black, K. R. (2014). Grit in college students: Associations with achievement and parental influences. (Unpublished master’s thesis). West Virginia University, Morgantown, WV.
+Blalock, D. V., Young, K. C., & Kleiman, E. M. (2015). Stability amidst
+turmoil: Grit buffers the effects of negative life events on suicide
+ideation. Psychiatry Research, 228, 781–784. http://dx.doi.org/10.1016/
+j.psychres.2015.04.041
+ⴱ
+Bowman, N. A., Hill, P. L., Denson, N., & Bronkema, R. (2015). Keep on
+truckin’ or stay the course? Exploring grit dimensions as differential
+predictors of educational achievement, satisfaction, and intentions. Social Psychological & Personality Science, 6, 639 – 654. http://dx.doi.org/
+10.1177/1948550615574300
+ⴱ
+Buller, E. F. (2012). The relationship between grit and academic, military
+and physical performance at the United States Military Academy. (Unpublished doctoral dissertation). University of Kansas, Lawrence, KS.
+Camara, W. J., & Schmidt, A. E. (1999). Group differences in standardized
+testing and social stratification. New York, NY: College Entrance
+Examination Board.
+ⴱ
+Chambers, R., Brawley, A. M., Castille, C. M., & Tubré, T. (2012).
+Examining the validity of the resilience quotient. Poster presented at the
+26th National Conference on Undergraduate Research, Ogden, UT.
+Chamorro-Premuzic, T., Furnham, A., & Ackerman, P. L. (2006). Incremental
+validity of the Typical Intellectual Engagement Scale as predictor of different academic performance measures. Journal of Personality Assessment, 87,
+261–268. http://dx.doi.org/10.1207/s15327752jpa8703_07
+ⴱ
+Chang, W. (2014). Grit and academic performance: Is being grittier
+better? (Unpublished doctoral dissertation). University of Miami, Miami, FL.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences
+(2nd ed.). Hillsdale, NJ: Erlbaum.
+Cohen, R. M. (2015). Will students soon be tested for “grit”? The American Prospect. Retrieved from http://prospect.org/blog/tapped/willstudents-soon-be-tested-grit
+ⴱ
+Cooper, A. D. (2014). Exploring the use of non-cognitive factors in
+predicting college academic outcomes. (Unpublished master’s thesis).
+University of Tennessee, Chattanooga, TN.
+Costa, P. T., & McCrae, R. R. (1992). Revised NEO Personality Inventory
+(NEO-PI-R) and NEO Five-Factor Inventory (NEO-FFI) Professional
+Manual. Odessa, FL: Psychological Assessment Resources.
+Costa, P. T., & McCrae, R. R. (1992). The NEO PI-R professional manual.
+Odessa, FL: Psychological Assessment Resources.
+Costa, P. T., Terracciano, A., & McCrae, R. R. (2001). Gender differences
+in personality traits across cultures: Robust and surprising findings.
+Journal of Personality and Social Psychology, 81, 322–331. http://dx
+.doi.org/10.1037/0022-3514.81.2.322
+Crant, J. M. (1995). The proactive personality scale and objective job
+performance among real estate agents. Journal of Applied Psychology,
+80, 532–537. http://dx.doi.org/10.1037/0021-9010.80.4.532
+Credé, M., & Harms, P. D. (2015). 25 years of higher order confirmatory
+factor analysis in the organizational sciences: A critical review and
+development of reporting recommendations. Journal of Organizational
+Behavior, 36, 845– 872. http://dx.doi.org/10.1002/job.2008
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+14
+
+CREDÉ, TYNAN, AND HARMS
+
+Credé, M., Harms, P. D., Niehorster, S., & Gaye-Valentine, A. (2012). An
+evaluation of the consequences of using short measures of the Big Five
+personality traits. Journal of Personality and Social Psychology, 102,
+874 – 888. http://dx.doi.org/10.1037/a0027403
+Credé, M., & Kuncel, N. R. (2008). Study habits, study skills, and study
+attitudes: The third pillar supporting collegiate academic performance.
+Perspectives on Psychological Science, 3, 415– 453. http://dx.doi.org/10
+.1111/j.1745-6924.2008.00089.x
+Credé, M., & Niehorster, S. (2012). Adjustment to college as measured by
+the Student Adaptation to College Questionnaire: A quantitative review
+of its structure and relationships with correlates and consequences.
+Educational Psychology Review, 24, 133–165. http://dx.doi.org/10
+.1007/s10648-011-9184-5
+Credé, M., & Phillips, L. A. (2011). A meta-analytic review of the
+Motivated Strategies for Learning Questionnaire. Learning and Individual Differences, 21, 337–346. http://dx.doi.org/10.1016/j.lindif.2011.03
+.002
+Credé, M., Roch, S., & Kieszczynska, U. M. (2010). Class attendance in
+college: A meta-analytic review of the relationship of class attendance
+with grades and student characteristics. Review of Educational Research,
+80, 272–295. http://dx.doi.org/10.3102/0034654310362998
+ⴱ
+Cross, T. M. (2013). Staying the course: Grit, academic success and
+non-traditional doctoral students. (Unpublished doctoral dissertation).
+Pepperdine University, Malibu, CA.
+ⴱ
+Datu, J. A. D., Valdez, J. P. M., & King, R. B. (2015). Perseverance
+counts but consistency does not! Validating the Short Grit Scale in a
+collectivist setting. Current Psychology. Advance online publication.
+ⴱ
+Davidson, B. A. (2014). Examining the relationship between noncognitive skills and leadership: The influence of hope and grit on
+transformational leadership behavior. (Unpublished doctoral dissertation). University of Kansas, Lawrence, KS.
+Davis, D., Dorsey, J. K., Franks, R. D., Sackett, P. R., Cynthia, A., & Zhao,
+X. (2013). Do racial and ethnic group differences in performance on the
+MCAT exam reflect test bias? Academic Medicine, 88, 593– 602. http://
+dx.doi.org/10.1097/ACM.0b013e318286803a
+ⴱ
+DeCandia, G. M. (2014). Relationships between academic identity and
+academic achievement in low-income urban adolescents. (Unpublished doctoral dissertation). State University of New Jersey, New
+Brunswick, NJ.
+De Fruyt, F., Van De Wiele, L., & Van Heeringen, C. (2000). Cloninger’s
+psychobiological model of temperament and character and the fivefactor model of personality. Personality and Individual Differences, 29,
+441– 452. http://dx.doi.org/10.1016/S0191-8869(99)00204-4
+ⴱ
+DiMenichi, B. C., & Richmond, L. L. (2015). Reflecting on past failures
+leads to increased perseverance and sustained attention. Journal of
+Cognitive Psychology, 27, 180 –193. http://dx.doi.org/10.1080/
+20445911.2014.995104
+Duckworth, A. L. (2013a). The key to success? Grit. Retrieved from
+https://www.ted.com/talks/angela_lee_duckworth_the_key_to_
+success_grit?language⫽en#t-9644
+Duckworth, A. L. (2013b). Research psychologist Angela Duckworth,
+2013 MacArthur Fellow/MacArthur Foundation. Retrieved from https://
+www.youtube.com/watch?v⫽_hAwj1eGvDw
+ⴱ
+Duckworth, A. L., Kirby, T. A., Tsukayama, E., Berstein, H., & Ericsson,
+K. A. (2011). Deliberate practice spells success: Why grittier competitors
+triumph at the national spelling bee. Social Psychological & Personality
+Science, 2, 174 –181. http://dx.doi.org/10.1177/1948550610385872
+ⴱ
+Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007).
+Grit: Perseverance and passion for long term goals. Journal of Personality and Social Psychology, 92, 1087–1101. http://dx.doi.org/10.1037/
+0022-3514.92.6.1087
+ⴱ
+Duckworth, A. L., & Quinn, P. D. (2009). Development and validation of
+the short grit scale (Grit-S). Journal of Personality Assessment, 91,
+166 –174. http://dx.doi.org/10.1080/00223890802634290
+
+Duckworth, A. L., Quinn, P. D., Lynam, D. R., Loeber, R., & StouthamerLoeber, M. (2011). Role of test motivation in intelligence testing.
+Proceedings of the National Academy of Sciences of the United States of
+America, 198, 7716 –7720. http://dx.doi.org/10.1073/pnas.1018601108
+Durlak, J. A., Weissberg, R. P., & Pachan, M. (2010). A meta-analysis of
+After-School Programs that seek to promote personal and social skills in
+children and adolescents. American Journal of Community Psychology,
+45, 294 –309. http://dx.doi.org/10.1007/s10464-010-9300-6
+Earman, J., & Glymour, C. (1978). Lost in the tensors: Einstein’s struggles
+with covariance principles 1912–1916. Studies in History and Philosophy of Science, 9, 251–278. http://dx.doi.org/10.1016/00393681(78)90008-0
+Eggers, M., Smith, G. D., Schneider, M., & Minder, C. (1997). Bias in
+meta-analysis detected by a simple, graphical test. British Medical
+Journal, 315, 629 – 634. http://dx.doi.org/10.1136/bmj.315.7109.629
+Eisenberger, R. (1992). Learned industriousness. Psychological Review,
+99, 248 –267. http://dx.doi.org/10.1037//0033-295x.99.2.248
+ⴱ
+Engel, L. I. (2013). What predicts first semester college performance?
+Cognitive ability, SAT, conscientiousness, and grit. (Unpublished doctoral dissertation). Hofstra University, Hempstead, NY.
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of
+deliberate practice in the acquisition of expert performance. Psychological Review, 100, 363– 406. http://dx.doi.org/10.1037/0033-295X.100.3
+.363
+ⴱ
+Eskreis-Winkler, L., Duckworth, A. L., Shulman, E. P., & Beal, S. (2014).
+The grit effect: Predicting retention in the military, the workplace,
+school and marriage. Frontiers in Psychology. Advance online publication. http://dx.doi.org/10.3389/fpsyg.2014.00036
+ⴱ
+Eskreis-Winkler, L., Shulman, E. P., & Duckworth, A. L. (2014). Survivor
+mission: Do those who survive have a drive to thrive at work? The
+Journal of Positive Psychology, 9, 209 –218. http://dx.doi.org/10.1080/
+17439760.2014.888579
+Field, A., & Gillett, R. (2010). How to do meta-analysis. The British
+Journal of Mathematical and Statistical Psychology, 63, 665– 694.
+http://dx.doi.org/10.1348/000711010X502733
+ⴱ
+Fillmore, E. P. (2015). Grit and beliefs about intelligence: The relationship and the role these factors play in the self-regulatory processes
+involved in medical students learning gross anatomy. (Unpublished
+doctoral dissertation). Indiana University, Bloomington, IN.
+Foldes, H. J., Duehr, E. E., & Ones, D. S. (2008). Group differences in
+personality: Meta-analysis comparing five U.S. racial groups. Personnel
+Psychology, 61, 579 – 616. http://dx.doi.org/10.1111/j.1744-6570.2008
+.00123.x
+Frey, M. C., & Dotterman, D. K. (2004). Scholastic assessment or g? The
+relationship between the Scholastic Assessment Test and General Cognitive Ability. Psychological Science, 15, 373–378. http://dx.doi.org/10
+.1111/j.0956-7976.2004.00687.x
+Ghiselli, E. E., Campbell, J. P., & Zedeck, S. (1981). Measurement theory
+for the behavioral sciences. San Francisco, CA: Freeman & Company.
+Goldberg, L. R. (1999). A broad-bandwidth, public domain, personality
+inventory measuring the lower level facets of several five-factor models.
+In I. Mervielde, I. Deary, F. De Fruyt, & F. Ostendorf (Eds.), Personality
+psychology in Europe (Vol. 7, pp. 7–28). Tilburg, The Netherlands:
+Tilburg University Press.
+Gough, H. G. (1996). CPI manual (3rd ed.). Palo Alto, CA: Consulting
+Psychologists Press.
+ⴱ
+Hammer, J. H., & Good, G. E. (2010). Positive psychology: An empirical
+examination of beneficial aspects of endorsement of masculine norms.
+Psychology of Men & Masculinity, 11, 303–318. http://dx.doi.org/10
+.1037/a0019056
+ⴱ
+Haran, U., Ritov, I., & Mellers, B. A. (2013). The role of actively
+open-minded thinking in information acquisition, accuracy, and calibration. Judgment and Decision Making, 8, 188 –201.
+
+GRIT META-ANALYSIS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ⴱ
+
+Harms, P. D. (2015). [Grit, Conscientiousness, Performance, & Satisfaction]. Unpublished raw data.
+Hattie, J., Biggs, J., & Purdie, N. (1996). Effects of learning skills interventions on student learning: A meta-analysis. Review of Educational
+Research, 66, 99 –136. http://dx.doi.org/10.3102/00346543066002099
+Hembree, R. (1988). Correlates, causes, effects, and treatment of test
+anxiety. Review of Educational Research, 58, 47–77. http://dx.doi.org/
+10.3102/00346543058001047
+Hezlett, S. A., Kuncel, N. R., Vey, M. A., Ahart, A., Ones, D. S.,
+Campbell, J. P., & Camara, W. (2001). The predictive validity of the
+SAT: A comprehensive meta-analysis. In D. S. Ones & S. A. Hezlett
+(Eds.), Predicting performance: The interface of I/O psychology and
+educational research. Symposia presented at the annual conference
+of the Society for Industrial and Organizational Psychology, San
+Diego, CA.
+ⴱ
+Hill, P. L., Burrow, A. L., & Bronk, K. C. (2014). Persevering with
+positivity and purpose: An examination of purpose commitment and
+positive affect as predictors of grit. Journal of Happiness Studies.
+Advance online publication.
+ⴱ
+Hogan, M. L. (2013). Non-cognitive traits that impact female success in
+BigLaw. (Unpublished doctoral dissertation). University of Pennsylvania, Philadelphia, PA. http://dx.doi.org/10.1037/a0019056
+Howe, M. J. A. (1999). Genius explained. New York, NY: Cambridge
+University Press.
+Hunter, J. E., & Hunter, R. F. (1984). Validity and utility of alternative
+predictors of job performance. Psychological Bulletin, 96, 72–98. http://
+dx.doi.org/10.1037/0033-2909.96.1.72
+Hunter, J. E., & Schmidt, F. L. (2004). Methods of meta-analysis: Correcting error and bias in research findings (2nd ed.). Thousand Oaks,
+CA: Sage.
+ⴱ
+Incantalupo-Kuhner, J. (2015). Teacher dispositions and perceived environment: The relationship among grit, resiliency, and perceptions of
+school climate. (Unpublished doctoral dissertation). Hofstra University,
+Hempstead, NY.
+ⴱ
+Ivcevic, Z., & Brackett, M. (2014). Predicting school success: Comparing
+conscientiousness, grit, and emotion regulation ability. Journal of Research in Personality, 52, 29 –36. http://dx.doi.org/10.1016/j.jrp.2014.06
+.005
+Jackson, D. N., Paunonen, S. V., & Tremblay, P. F. (2000). Six factor
+personality questionnaire manual. Port Huron, MI: Sigma Assessment
+Systems.
+ⴱ
+Jordan, M. H., Gabriel, T. J., Teasley, R., Walker, W. J., & Schraeder, M.
+(2015). An integrative approach to identifying factors related to longterm career commitments: A military example. Career Development
+International, 20, 163–178. http://dx.doi.org/10.1108/CDI-05-20130071
+ⴱ
+Joseph, A. I. (2009). The role of grit in predicting performance in
+collegiate athletes. (Unpublished doctoral dissertation). Capella University, Minneapolis, MN.
+Karabenick, S. A. (2003). Seeking help in large college classes: A personcentered approach. Contemporary Educational Psychology, 28, 37–58.
+http://dx.doi.org/10.1016/S0361-476X(02)00012-7
+ⴱ
+Karlson, R. W. (2014). Perry’s scheme of intellectual and ethical development influence on Duckworth’s Short Grit Score in interior design
+students. (Unpublished master’s thesis). University of Minnesota, Minneapolis, MN.
+Kelley, T. L. (1927). Interpretation of Educational Measurement. World
+Books: Yonkers-on-Hudson, NY.
+ⴱ
+Kelly, D. R., Matthews, M. D., & Bartone, P. T. (2014). Grit and hardiness
+as predictors of performance among West Point cadets. Military Psychology, 26, 327–342. http://dx.doi.org/10.1037/mil0000050
+ⴱ
+Khaler, K. L. (2014). On beating the odds: A study of successful community college students. (Unpublished doctoral dissertation). Michigan
+State University, East Lansing, MI.
+
+ⴱ
+
+15
+
+Kleiman, E. M., Adams, L. M., Kashdan, T. B., & Riskind, J. H. (2013).
+Gratitude and grit indirectly reduce risk of suicidal ideations by enhancing meaning in life: Evidence for a mediated moderation model. Journal
+of Research in Personality, 47, 539 –546. http://dx.doi.org/10.1016/j.jrp
+.2013.04.007
+Kline, R. B. (2011). Principles and practices of structural equation modeling (3rd ed.). New York, NY: Guilford Press.
+Kohn, A. (2014, April 6). The downside of “grit.” Washington Post.
+Retrieved from http://www.alfiekohn.org/article/downside-grit/
+Krampe, R. T., & Ericsson, K. A. (1996). Maintaining excellence: Deliberate practice and elite performance in young and older pianists. Journal
+of Experimental Psychology: General, 125, 331–359. http://dx.doi.org/
+10.1037/0096-3445.125.4.331
+Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How
+difficulties in recognizing one’s own incompetence lead to inflated
+self-assessments. Journal of Personality and Social Psychology, 77,
+1121–1134. http://dx.doi.org/10.1037/0022-3514.77.6.1121
+Kuncel, N. R., Credé, M., & Thomas, L. L. (2005). The reliability of
+self-reported grade point averages: A meta-analysis and summary of the
+literature. Review of Educational Research, 75, 63– 82. http://dx.doi.org/
+10.3102/00346543075001063
+Kuncel, N. R., Hezlett, S. A., & Ones, D. S. (2004). Academic performance, career potential, creativity, and job performance: Can one construct predict them all? Journal of Personality and Social Psychology,
+86, 148 –161. http://dx.doi.org/10.1037/0022-3514.86.1.148
+ⴱ
+Lovering, M. E., Heaton, K. J., Banderet, L. E., Neises, K., Andrews, J.,
+& Cohen, B. S. (2015). Psychological and physical characteristics of
+U.S. marine recruits. Military Psychology, 27, 261–275. http://dx.doi
+.org/10.1037/mil0000082
+Lucas, G. M., Gratch, J., Cheng, L., & Marsella, S. (2015). When the going
+gets tough: Grit predicts costly perseverance. Journal of Research in
+Personality, 59, 15–22. http://dx.doi.org/10.1016/j.jrp.2015.08.004
+MacCann, C., & Roberts, R. D. (2010). Do time management, grit, and
+self-control relate to academic achievement independently of conscientiousness? In R. Hicks (Ed.), Personality and individual differences:
+Current directions (pp. 79 –90). Queensland, Australia: Australian Academic Press.
+MacNamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate
+practice and performance in music, games, sports, education, and professions: A meta-analysis. Psychological Science, 25, 1608 –1618. http://
+dx.doi.org/10.1177/0956797614535810
+ⴱ
+Maddi, S. R., Erwin, L. M., Carmody, C. L., Villareal, B. J., White, M.,
+& Gundersen, K. K. (2013). Relationship of hardiness, grit, and emotional intelligence to internet addiction, excessive consumer spending,
+and gambling. The Journal of Positive Psychology, 8, 128 –134. http://
+dx.doi.org/10.1080/17439760.2012.758306
+ⴱ
+Maddi, S. R., Matthews, M. D., Kelly, D. R., Villareal, B., & White, M.
+(2012). The role of hardiness and grit in predicting performance and
+retention of USMA cadets. Military Psychology, 24, 19 –28. http://dx
+.doi.org/10.1080/08995605.2012.639672
+Mattern, K. D., & Patterson, B. F. (2009). Is performance on the SAT
+related to college retention? Research Report 2009 –7. The College
+Board, New York, NY.
+McClelland, D. C. (1985). How motives, skills, and values determine what
+people do. American Psychologist, 40, 812– 825. http://dx.doi.org/10
+.1037/0003-066X.40.7.812
+McCornack, R. L. (1956). A criticism of studies comparing weighting
+methods. Journal of Applied Psychology, 40, 343–345. http://dx.doi.org/
+10.1037/h0045635
+ⴱ
+McCutcheon, C. A. (2014). Perseverance and persistence in achieving
+educational goals: A case study of an adult charter high school examining perseverance of students utilizing a mixed methods approach.
+(Unpublished doctoral dissertation). Ball State University, Muncie, IN.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+16
+
+CREDÉ, TYNAN, AND HARMS
+
+Meng, X. L., Rosenthal, R., & Rubin, D. B. (1992). Comparing correlated
+correlation coefficients. Psychological Bulletin, 111, 172–175. http://dx
+.doi.org/10.1037/0033-2909.111.1.172
+ⴱ
+Meriac, J. P., Slifka, J. S., & LaBat, L. R. (2015). Work ethic and grit: An
+examination of empirical redundancy. Personality and Individual Differences, 86, 401– 405. http://dx.doi.org/10.1016/j.paid.2015.07.009
+Miller, J. D., Price, J., & Campbell, W. K. (2012). Is the Narcissistic
+Personality Inventory still relevant? A test of independent grandiosity
+and entitlement scales in the assessment of narcissism. Assessment, 19,
+8 –13. http://dx.doi.org/10.1177/1073191111429390
+ⴱ
+Morris, R. B. (2011). Can chameleons lead change? The effect of
+resistance to change on high self-monitoring leaders’ strength of
+purpose. (Unpublished doctoral dissertation). Columbia University,
+New York, NY.
+Mosier, C. I. (1943). On the reliability of a weighted composite. Psychometrika, 8, 161–168. http://dx.doi.org/10.1007/BF02288700
+ⴱ
+Office of Institutional Research & Assessment. (2012). Social Science
+Survey: GRIT & AMBITION Scales. (Unpublished manuscript). Metropolitan Community College-Blue River, Independence, MO. Retrieved from http://www.mcckc.edu/services/research/files/GRIT%
+20Report%20S12.pdf
+Pace, V. L., & Brannick, M. T. (2010). How similar are personality scales
+of the “same” construct? A meta-analytic investigation. Personality and
+Individual Differences, 49, 669 – 676. http://dx.doi.org/10.1016/j.paid
+.2010.06.014
+Parker, B. (2004). Albert Einstein’s vision: Remarkable discoveries that
+shaped modern science. Amherst, NY: Prometheus Books.
+Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., &
+Dweck, C. S. (2015). Mind set interventions are a scalable treatment for
+academic underachievement. Psychological Science, 26, 784 –793.
+http://dx.doi.org/10.1177/0956797615571017
+Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and
+the prediction of behavior. Journal of Personality and Social Psychology, 81, 524 –539.
+ⴱ
+Pennings, S. M., Law, K. C., Green, B. A., & Anestis, M. D. (2015). The
+impact of grit on the relationship between hopelessness and suicidiality.
+International Journal of Cognitive Therapy, 8, 130 –142. http://dx.doi
+.org/10.1521/ijct.2015.8.2.130
+Perera, H. N., & DiGiacomo, M. (2013). The relationship of trait emotional
+intelligence with academic performance: A meta-analytic review. Learning and Individual Differences, 28, 20 –33. http://dx.doi.org/10.1016/j
+.lindif.2013.08.002
+Perkins-Gough, D. (2013). The significance of grit: A conversation with
+Angela Lee Duckworth. Educational Leadership, 71, 14 –20.
+ⴱ
+Piña-Watson, B., López, B., Ojeda, L., & Rodriguez, K. M. (2015).
+Cultural and cognitive predictors of academic motivation among Mexican American adolescents: Caution against discounting the impact of
+cultural processes. Journal of Multicultural Counseling and Development, 43, 109 –121. http://dx.doi.org/10.1002/j.2161-1912.2015.00068.x
+Poropat, A. E. (2009). A meta-analysis of the five-factor model of personality and academic performance. Psychological Bulletin, 135, 322–338.
+http://dx.doi.org/10.1037/a0014996
+Poropat, A. E. (2014). A meta-analysis of adult-rated personality and
+academic performance in primary education. The British Journal of
+Educational Psychology, 84, 239 –252. http://dx.doi.org/10.1111/bjep
+.12019
+ⴱ
+Reed, J., Pritschet, B. L., & Cutton, D. M. (2012). Grit, conscientiousness,
+and the transtheoretical model of change for exercise behavior. Journal
+of Health Psychology, 18, 612– 619. http://dx.doi.org/10.1177/
+1359105312451866
+Richardson, M., Abraham, C., & Bond, R. (2012). Psychological correlates
+of university students’ academic performance: A systematic review and
+meta-analysis. Psychological Bulletin, 138, 353–387. http://dx.doi.org/
+10.1037/a0026838
+
+ⴱ
+
+Richmond, M. (2015). g and non-g influences on GPA for Hispanics and
+Whites: A structural equation modeling (SEM) approach to Spearman’s
+law of diminishing returns (SLDOR). (Unpublished doctoral dissertation). The University of Texas at San Antonio, San Antonio, TX.
+Robbins, S. B., Allen, J., Casillas, A., Peterson, C. H., & Le, H. (2006).
+Unravelling the differential effects of motivational and skills, social, and
+self-management measures from traditional predictors of college outcomes. Journal of Educational Psychology, 98, 598 – 616.
+Robbins, S. P., Judge, T. A., & Campbell, T. T. (2010). Organizational
+Behavior. Financial Times Prentice Hall: Harlow, England.
+Robbins, S. B., Lauver, K., Le, H., Davis, D., Langley, R., & Carlstrom, A.
+(2004). Do psychosocial and study skills factors predict college outcomes? A meta-analysis. Psychological Bulletin, 130, 261–288. http://
+dx.doi.org/10.1037/0033-2909.130.2.261
+Roberts, B. W., Bogg, T., Walton, K. E., Chernyshenko, O. S., & Stark,
+S. E. (2004). A lexical investigation of the lower order structure of
+conscientiousness. Journal of Research in Personality, 38, 164 –178.
+http://dx.doi.org/10.1016/S0092-6566(03)00065-5
+Roberts, B. W., Chernyshenko, O. S., Stark, S., & Goldberg, L. R. (2005).
+The structure of conscientiousness: An empirical investigation based on
+seven major personality questionnaires. Personnel Psychology, 58, 103–
+139. http://dx.doi.org/10.1111/j.1744-6570.2005.00301.x
+Roberts, B. W., Walton, K., & Viechtbauer, W. (2006). Patterns of meanlevel change in personality traits across the life course: A meta-analysis
+of longitudinal studies. Psychological Bulletin, 132, 1–25. http://dx.doi
+.org/10.1037/0033-2909.132.1.1
+ⴱ
+Robertson-Kraft, C. (2014). Teachers’ motivational responses to new
+teacher performance management systems: An evaluation of the pilot of
+Aldine ISD’s INVEST system. (Unpublished doctoral dissertation). University of Pennsylvania, Philadelphia, PA.
+ⴱ
+Robertson-Kraft, C., & Duckworth, A. L. (2014). True grit: Trait-level
+perseverance and passion for long-term goals predicts effectiveness and
+retention among novice teachers. Teachers College Record, 116,
+030302.
+ⴱ
+Rojas, J. P. (2015). The relationship among creativity, grit, academic
+motivation, and academic success in college students. Theses and
+Dissertations–Educational, School, and Counseling Psychology. Paper
+39. Retrieved from http://uknowledge.uky.edu/edp_etds/39
+Ryan, A. M., & Pintrich, P. R. (1997). “Should I ask for help?” The role
+of motivation and attitudes in adolescents’ help seeking in math class.
+Journal of Educational Psychology, 89, 329 –341. http://dx.doi.org/10
+.1037/0022-0663.89.2.329
+Ryans, D. G. (1939). The measurement of persistence: An historical
+review. Psychological Bulletin, 36, 715–739. http://dx.doi.org/10.1037/
+h0060780
+Sackett, P. R., Kuncel, N. R., Beatty, A. S., Rigdon, J. L., Shen, W., &
+Kiger, T. B. (2012). The role of socioeconomic status in SAT-grade
+relationships and in college admissions decisions. Psychological Science, 23, 1000 –1007. http://dx.doi.org/10.1177/0956797612438732
+ⴱ
+Samson, A. C., Proyer, R. T., Ceschi, G., Pedrini, P. P., & Ruch, W.
+(2011). The fear of being laughed at in Switzerland: Regional differences and the role of positive psychology. Swiss Journal of Psychology,
+70, 53– 62. http://dx.doi.org/10.1024/1421-0185/a000039
+Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection
+methods in personnel psychology: Practical and theoretical implications
+of 85 years of research findings. Psychological Bulletin, 124, 262–274.
+http://dx.doi.org/10.1037/0033-2909.124.2.262
+Schmidt, F. L., & Le, H. A. (2004). Software for the Hunter-Schmidt
+meta-analysis method: Version 2.0. [Computer Software]. Iowa city, IA:
+University of Iowa.
+ⴱ
+Schrepfer-Tarter, A. (2013). An exploratory study of the academic optimism of principals. (Unpublished doctoral dissertation). The Ohio State
+University, Columbus, OH.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+GRIT META-ANALYSIS
+Seipp, B. (1991). Anxiety and academic performance: A meta-analysis of
+findings. Anxiety Research, 4, 27– 41. http://dx.doi.org/10.1080/
+08917779108248762
+Shechtman, N., DeBarger, A. H., Dornsife, C., Rosier, S., & Yarnall, L.
+(2013). Promoting grit, tenacity, and perseverance: Critical factors for
+success in the 21st century. Washington, DC: U.S. Department of
+Education, Office of Education Technology. Retrieved from http://
+pgbovine.net/OET-Draft-Grit-Report-2-17-13.pdf
+ⴱ
+Sheehan, K. (2014). Storm clouds in the mind: A comparison of hope, grit,
+happiness, and life satisfaction in traditional and alternative high school
+students. (Unpublished doctoral dissertation). Hofstra University,
+Hempstead, NY.
+ⴱ
+Shishim, M. D. (2012). The relationship between college student success
+and well-being determinants: An exploratory study of measures. (Unpublished doctoral dissertation). University of California, Santa Barbara,
+CA. California Polytechnic University, San Luis Obispo, CA.
+ⴱ
+Singh, K., & Jha, S. D. (2008). Positive and negative affect, and grit as
+predictors of happiness and life satisfaction. Journal of the Indian
+Academy of Applied Psychology, 34, 40 – 45.
+ⴱ
+Stewart, S. B. (2015). Grit and self-control as predictors of first-year
+student success. (Unpublished doctoral dissertation). The University of
+Southern Maine, Portland, ME.
+ⴱ
+Strayhorn, T. L. (2013). What role does grit play in the academic success
+of black male collegians at predominantly white institutions? Journal of
+African American Studies, 18, 1–10. http://dx.doi.org/10.1007/s12111012-9243-0
+ⴱ
+Suzuki, Y., Tamesue, D., Asahi, K., & Ishikawa, Y. (2015). Grit and work
+engagement: A cross-sectional study. PLoS ONE, 10, e0137501. http://
+dx.doi.org/10.1371/journal.pone.0137501
+Vanhove, A., Herian, M., Perez, A., Harms, P. D., & Lester, P. (2015). Can
+resilience be developed at work? A meta-analytic review of resiliencebuilding program effectiveness. Journal of Occupational and Organizational Psychology. Advance online publication. http://dx.doi.org/10
+.1111/joop.12123
+ⴱ
+Von Culin, K. R., Tsukayama, E., & Duckworth, A. L. (2014). Unpacking
+grit: Motivational correlates of perseverance and passion for long-term
+
+17
+
+goals. The Journal of Positive Psychology, 9, 306 –312. http://dx.doi.org/
+10.1080/17439760.2014.898320
+ⴱ
+Warden, D., Myers, C., & Harrell, B. (2015). Academic Achievement of
+Tradition and Nontraditional College Students. Poster presented at the
+61st Annual Meeting of the Southeastern Psychological Association,
+March 18 –21, 2015.
+ⴱ
+Waring, A. (2015). The influence of attachment and grit on life satisfaction and romantic relationship satisfaction. (Unpublished doctoral dissertation). University of La Verne, La Verne, CA.
+ⴱ
+Watson, H. (2013). Predicting college students’ positive psychology
+attributes with dimensions of executive functioning. (Unpublished
+master’s thesis). Middle Tennessee State University, Murfreesboro,
+TN.
+ⴱ
+Wenner, J. R. (2015). Predictors of prosocial behavior and civic involvement: Differences in middle aged and older adults. (Unpublished master’s thesis). North Dakota State University, Fargo, ND.
+ⴱ
+Weston, L. C. (2015). A replication and extension of psychometric research on the grit scale. (Unpublished master’s thesis). University of
+Maryland, College Park, MD.
+Wilkinson, L. (1999). Statistical methods in psychology journals: Guidelines and explanations. American Psychologist, 54, 594 – 604. http://dx
+.doi.org/10.1037/0003-066X.54.8.594
+ⴱ
+Wolters, C. A., & Hussain, M. (2015). Investigating grit and its relation
+with college students’ self-regulated learning and academic achievement. Metacognition and Learning, 10, 293–311. http://dx.doi.org/10
+.1007/s11409-014-9128-9
+Zimmerman, B. J. (1990). Self-regulated learning and academic achievement: An overview. Educational Psychology, 25, 3–17. http://dx.doi
+.org/10.1207/s15326985ep2501_2
+Zimmerman, B. J. (1994). Dimensions of academic self-regulation: A
+conceptual framework for education. In D. Schunk & B. Zimmerman
+(Eds.), Self-regulation of learning and performance: Issues and educational applications (pp. 283–301). Hillsdale, NJ: Erlbaum.
+ⴱ
+Zimmerman, E., & Brogan, L. (2015). Grit and legal education. Pace Law
+Review, 36, 112.
+
+(Appendix follows)
+
+CREDÉ, TYNAN, AND HARMS
+
+18
+
+Appendix
+Summary of Studies That Reported Relations Between Grit and Performance, Retention,
+Big Five Personality Traits, and Cognitive Ability
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Authors
+Allen (2014)
+Arouty (2015):
+Sample 1
+Arouty (2015):
+Sample 1
+Arouty (2015):
+Sample 2
+Black (2014)
+Bowman et al. (2015):
+Sample 1
+Bowman et al. (2015):
+Sample 1
+Bowman et al. (2015):
+Sample 1
+Bowman et al. (2015):
+Sample 2
+Bowman et al. (2015):
+Sample 2
+Bowman et al. (2015):
+Sample 2
+Bowman et al. (2015):
+Sample 2
+Bowman et al. (2015):
+Sample 2
+Bowman et al. (2015):
+Sample 2
+Bowman et al. (2015):
+Sample 3
+Bowman et al. (2015):
+Sample 3
+Bowman et al. (2015):
+Sample 3
+Bowman et al. (2015):
+Sample 3
+Bowman et al. (2015):
+Sample 3
+Bowman et al. (2015):
+Sample 3
+Buller (2012)
+Buller (2012)
+Buller (2012)
+Chambers et al.
+(2012)
+Chang (2014)
+Chang (2014)
+Chang (2014)
+Cooper (2014)
+Cooper (2014)
+Cooper (2014)
+Cooper (2014)
+Cooper (2014)
+Cooper (2014)
+Cross (2013)
+Davidson (2014)
+Davidson (2014)
+DeCandia (2014)
+Duckworth & Quinn
+(2009): Study 2
+Duckworth & Quinn
+(2009): Study 2
+Duckworth & Quinn
+(2009): Study 2
+Duckworth & Quinn
+(2009): Study 4
+
+N
+
+Grit type
+
+Grit
+␣
+
+Performance
+r
+
+Type
+
+⫺.02
+
+College GPA
+
+.75
+
+⫺.06
+
+College GPA
+
+Overall
+
+.75
+
+⫺.08
+
+High school GPA
+
+110
+97
+
+Overall
+Overall
+
+.82
+.77
+
+.02
+.22
+
+High school GPA
+College GPA
+
+417
+
+Consistency
+
+.14
+
+College GPA
+
+417
+
+Overall
+
+.31
+
+College GPA
+
+417
+
+Perseverance
+
+.26
+
+College GPA
+
+938
+
+Consistency
+
+.13
+
+High school GPA
+
+938
+
+Consistency
+
+.10
+
+College GPA
+
+938
+
+Overall
+
+.26
+
+High school GPA
+
+938
+
+Overall
+
+.23
+
+College GPA
+
+938
+
+Perseverance
+
+.30
+
+High school GPA
+
+938
+
+Perseverance
+
+.29
+
+College GPA
+
+1,089
+
+Consistency
+
+.11
+
+High school GPA
+
+1,089
+
+Consistency
+
+.09
+
+College GPA
+
+1,089
+
+Overall
+
+.20
+
+High school GPA
+
+1,089
+
+Overall
+
+.21
+
+College GPA
+
+1,089
+
+Perseverance
+
+.22
+
+High school GPA
+
+1,089
+968
+968
+1,123
+
+Perseverance
+Overall
+Overall
+Overall
+
+.25
+.10
+.22
+
+College GPA
+College GPA
+Nonacademic
+
+106
+342
+342
+342
+515
+515
+515
+515
+515
+515
+669
+116
+116
+413
+
+Overall
+Consistency
+Overall
+Perseverance
+Consistency
+Consistency
+Overall
+Overall
+Perseverance
+Perseverance
+Overall
+Overall
+Overall
+Overall
+
+.79
+.79
+.81
+.81
+.79
+.79
+
+.18
+⫺.08
+.09
+.21
+.14
+.07
+.18
+.16
+.16
+.19
+.09
+⫺.03
+.05
+.18
+
+1,554
+
+Consistency
+
+.77
+
+1,554
+
+Overall
+
+1,554
+
+Perseverance
+
+.70
+
+Overall
+
+.86
+
+30
+
+Overall
+
+124
+
+Overall
+
+124
+
+279
+
+.32
+
+Retention
+r
+
+Type
+
+.07
+
+General
+
+C
+r
+
+A
+␣
+
+r
+
+E
+␣
+
+r
+
+ES
+␣
+
+r
+
+O
+␣
+
+r
+
+g
+␣
+
+r
+
+⫺.15
+
+.25
+
+General
+
+.08
+
+General
+
+College GPA
+College GPA
+College GPA
+College GPA
+High school GPA
+College GPA
+High school GPA
+College GPA
+High school GPA
+College GPA
+Graduate GPA
+High school GPA
+College GPA
+High school GPA
+
+High school GPA
+
+(Appendix continues)
+
+⫺.07
+
+.74
+
+.50
+
+.38
+
+.79
+
+.10
+
+.82
+
+.04
+
+.89
+
+.24
+
+.84
+
+.07
+
+.77
+
+.08
+.03
+⫺.07
+⫺.03
+
+.49
+
+.79
+
+.20
+
+.82
+
+.17
+
+.89
+
+.28
+
+.84
+
+.24
+
+.77
+
+.00
+
+.42
+
+.79
+
+.23
+
+.82
+
+.25
+
+.89
+
+.21
+
+.84
+
+.34
+
+.77
+
+.04
+
+.64
+
+.84
+
+.18
+
+.80
+
+.12
+
+.88
+
+.32
+
+.87
+
+⫺.02
+
+.82
+
+.73
+
+.84
+
+.23
+
+.80
+
+.19
+
+.88
+
+.37
+
+.87
+
+.07
+
+.82
+
+.74
+
+.84
+
+.25
+
+.80
+
+.26
+
+.88
+
+.42
+
+.87
+
+.14
+
+.82
+
+GRIT META-ANALYSIS
+
+19
+
+Appendix (continued)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Authors
+Duckworth & Quinn
+(2009): Study 6
+Duckworth et al.
+(2011)
+Duckworth et al.
+(2007): Study 2
+Duckworth et al.
+(2007): Study 3
+Duckworth et al.
+(2007): Study 4
+Duckworth et al.
+(2007): Study 4
+Duckworth et al.
+(2007): Study 4
+Duckworth et al.
+(2007): Study 5
+Duckworth et al.
+(2007): Study 5
+Duckworth et al.
+(2007): Study 6
+Engel (2013)
+Eskreis-Winkler et al.
+(2014): Study 1
+Eskreis-Winkler et al.
+(2014): Study 2
+Eskreis-Winkler et al.
+(2014): Study 3
+Eskreis-Winkler et al.
+(2014): Study 4
+Fillmore (2015)
+Hill et al. (2014)
+Hogan (2013)
+Hogan (2013)
+Hogan (2013)
+Hogan (2013)
+Ivcevic & Brackett
+(2014)
+Ivcevic & Brackett
+(2014)
+Joseph (2009)
+Karlson (2014)
+Kelly et al. (2014)
+Kelly et al. (2014)
+Kelly et al. (2014)
+Kelly et al. (2014)
+Kelly et al. (2014)
+Khaler (2014)
+MacCann & Roberts
+(2010)
+MacCann & Roberts
+(2010)
+MacCann & Roberts
+(2010)
+McCutcheon (2014)
+Meriac et al. (2015)
+Meriac et al. (2015)
+Meriac et al. (2015)
+Morris (2011):
+Sample 1
+Morris (2011):
+Sample 2
+Office of Institutional
+Research &
+Assessment (2012)
+Reed et al. (2012)
+Richmond (2015):
+Sample 1
+Richmond (2015):
+Sample 2
+
+N
+
+Grit type
+
+Grit
+␣
+
+190
+
+Overall
+
+.82
+
+190
+
+Overall
+
+.82
+
+706
+
+Overall
+
+.85
+
+139
+
+Overall
+
+1,218
+
+Overall
+
+1,218
+1,218
+
+Performance
+r
+
+.17
+
+Type
+
+Retention
+r
+
+Type
+
+A
+
+E
+
+ES
+
+O
+
+r
+
+␣
+
+r
+
+␣
+
+r
+
+␣
+
+r
+
+␣
+
+.70
+
+.86
+
+.44
+
+.84
+
+.12
+
+.84
+
+.28
+
+.79
+
+Nonacademic
+.77
+
+.86
+
+.24
+
+.82
+
+.22
+
+.89
+
+.38
+
+.85
+
+r
+
+g
+␣
+
+.18
+
+.68
+
+.17
+
+.68
+
+.14
+
+.84
+
+r
+
+.25
+
+College GPA
+
+⫺.20
+
+.79
+
+.06
+
+College GPA
+
+⫺.05
+
+Overall
+
+.79
+
+.19
+
+Nonacademic
+
+Overall
+
+.79
+
+.20a
+
+General
+
+a
+
+General
+
+1,308
+
+Overall
+
+.79
+
+1,308
+
+Overall
+
+.79
+
+79
+88
+
+Overall
+Overall
+
+.80
+.82
+
+677
+
+Overall
+
+.77
+
+.14a
+
+General
+
+a
+
+.12
+
+General
+
+.02
+
+College GPA
+
+442
+
+Overall
+
+.79
+
+.18
+
+4,813
+
+Overall
+
+.90
+
+.18
+
+6,362
+384
+337
+405
+425
+423
+477
+
+Overall
+Overall
+Overall
+Overall
+Overall
+Overall
+Overall
+
+.79
+
+213
+
+Overall
+
+.00
+.35
+
+.71
+
+.82
+
+⫺.08
+
+.77
+
+.80
+
+.02
+⫺.09
+⫺.07
+
+.64
+
+.39
+
+.25
+
+.48
+
+.19
+
+General
+a
+
+.15
+
+Marriage .71
+.60
+
+High school GPA
+College GPA
+Graduate GPA
+Non–Academic
+
+.72
+
+.14
+
+High school GPA
+
+Overall
+Overall
+Overall
+Consistency
+Overall
+Overall
+Overall
+Perseverance
+Overall
+
+.72
+.80
+
+.18
+.01
+
+Nonacademic
+Nonacademic
+
+.06
+.05
+.14
+
+College GPA
+College GPA
+Nonacademic
+
+.02
+⫺.15
+
+College GPA
+College GPA
+
+.20
+
+.21
+
+.33
+
+.08
+
+291
+
+Consistency
+
+.81
+
+291
+
+Overall
+
+291
+134
+322
+322
+322
+
+Perseverance
+Overall
+Consistency
+Overall
+Perseverance
+
+74
+
+.81
+
+.27
+
+.80
+
+.16
+
+.86
+
+.37
+
+.83
+
+.05
+
+.77
+
+⫺.27
+⫺.02
+⫺.03
+.20
+
+.80
+
+.64
+
+Grade in class
+
+⫺.01
+.07
+.04
+.24
+
+213
+57
+15
+993
+993
+993
+1,308
+993
+21
+
+C
+
+General
+
+⫺.04
+
+.12
+
+High school GPA
+
+.46
+
+.14
+
+High school GPA
+
+.58
+
+.15
+
+High school GPA
+
+.84
+
+.00
+.05
+
+.70
+
+.84
+
+.75
+.78
+.65
+
+.69
+.77
+.63
+
+.79
+.79
+.79
+
+Overall
+
+.77
+
+.48
+
+.85
+
+.15
+
+.80
+
+.31
+
+.88
+
+.31
+
+.81
+
+.34
+
+.78
+
+76
+
+Overall
+
+.77
+
+.40
+
+.85
+
+.12
+
+.80
+
+.19
+
+.88
+
+.20
+
+.81
+
+⫺.06
+
+.78
+
+470
+1,165
+
+Overall
+Overall
+
+.79
+
+.72
+
+.78
+
+144
+
+Overall
+
+.75
+
+.23
+
+College GPA
+
+.72
+
+.72
+
+.13
+
+.81
+
+.08
+
+.89
+
+.34
+
+.79
+
+⫺.03
+
+.76
+
+⫺.22
+
+199
+
+Overall
+
+.64
+
+⫺.06
+
+College GPA
+
+.63
+
+.80
+
+.16
+
+.75
+
+.10
+
+.87
+
+.25
+
+.81
+
+.01
+
+.73
+
+⫺.11
+
+.01
+
+.20
+
+.10
+
+General
+
+College GPA
+
+(Appendix continues)
+
+CREDÉ, TYNAN, AND HARMS
+
+20
+Appendix (continued)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Authors
+Robertson-Kraft
+(2014)
+Robertson-Kraft &
+Duckworth (2014):
+Study 1
+Robertson-Kraft &
+Duckworth (2014):
+Study 2
+Robertson-Kraft &
+Duckworth (2014):
+Study 2
+Rojas (2015):
+Sample 1
+Rojas (2015):
+Sample 2
+Sheehan (2014)
+Sheehan (2014)
+Sheehan (2014)
+Stewart (2015)
+Stewart (2015)
+Stewart (2015)
+Stewart (2015)
+Stewart (2015)
+Stewart (2015)
+Strayhorn (2013)
+Strayhorn (2013)
+Suzuki et al. (2015)
+Suzuki et al. (2015)
+Suzuki et al. (2015)
+Third Author (2015):
+Sample 1
+Third Author (2015):
+Sample 1
+Third Author (2015):
+Sample 1
+Third Author (2015):
+Sample 2
+Third Author (2015):
+Sample 2
+Third Author (2015):
+Sample 2
+Warden et al. (2015):
+Sample 1
+Warden et al. (2015):
+Sample 2
+Weston (2015)
+Weston (2015)
+Weston (2015)
+Wolters & Hussain
+(2015)
+Wolters & Hussain
+(2015)
+Wolters & Hussain
+(2015)
+Wolters & Hussain
+(2015)
+Wolters & Hussain
+(2015)
+Wolters & Hussain
+(2015)
+Wolters & Hussain
+(2015)
+Zimmerman & Brogan
+(2015)
+
+N
+
+Grit type
+
+Grit
+␣
+
+Performance
+r
+
+Type
+
+2,662
+
+Overall
+
+.68
+
+154
+
+Overall
+
+.82
+
+.02
+
+College GPA
+
+307
+
+Overall
+
+.85
+
+⫺.09
+
+College GPA
+
+127
+
+Overall
+
+.85
+
+187
+
+Overall
+
+.84
+
+.11
+
+College GPA
+
+Overall
+Consistency
+Overall
+Perseverance
+Overall
+Overall
+Consistency
+Consistency
+Perseverance
+Perseverance
+Overall
+Overall
+Overall
+Consistency
+Perseverance
+
+.84
+.73
+.73
+.70
+
+.87
+.87
+.87
+.76
+.89
+
+.22
+.02
+.25
+.39
+.19
+.22
+.17
+.26
+.11
+.08
+.35
+.38
+
+College GPA
+High school GPA
+High school GPA
+High school GPA
+College GPA
+High school GPA
+College GPA
+High school GPA
+College GPA
+High school GPA
+High school GPA
+College GPA
+
+156
+
+Consistency
+
+.55
+
+.08
+
+156
+
+Overall
+
+.74
+
+156
+
+Perseverance
+
+.60
+
+971
+
+Consistency
+
+971
+971
+
+817
+179
+179
+179
+88
+88
+88
+88
+88
+88
+140
+140
+1,134
+1,134
+1,134
+
+Retention
+r
+
+Type
+
+C
+
+A
+
+E
+
+ES
+
+O
+
+r
+
+␣
+
+r
+
+␣
+
+r
+
+␣
+
+r
+
+␣
+
+.58
+
+.59
+
+.30
+
+.59
+
+.06
+
+.71
+
+.29
+
+.60
+
+r
+.24
+
+g
+␣
+
+r
+
+.65
+.16
+
+.06
+
+.05
+.09
+⫺.02
+.23
+.56
+.35
+.47
+
+.52
+.52
+.52
+
+Grade in class
+
+.22
+
+.80
+
+.10
+
+Grade in class
+
+.42
+
+.80
+
+.09
+
+Grade in class
+
+.52
+
+.80
+
+.86
+
+.35
+
+.86
+
+Overall
+
+.85
+
+.60
+
+.86
+
+Perseverance
+
+.81
+
+.68
+
+.86
+
+67
+
+Overall
+
+.31
+
+College GPA
+
+72
+33
+33
+33
+
+Overall
+Overall
+Consistency
+Perseverance
+
+.33
+
+College GPA
+
+.39
+.20
+.35
+
+.37
+.37
+.37
+
+.37
+.01
+.43
+
+.56
+.56
+.56
+
+.28
+.26
+.18
+
+.86
+.86
+.86
+
+.45
+⫺.07
+.57
+
+.85
+.85
+.85
+
+.65
+.52
+.51
+
+213
+
+Overall
+
+.72
+
+.26
+
+213
+
+Overall
+
+.72
+
+⫺.02
+
+College GPA
+
+213
+
+Consistency
+
+.74
+
+.1
+
+213
+
+Consistency
+
+.74
+
+⫺.12
+
+213
+
+Perseverance
+
+.64
+
+.29
+
+College GPA
+
+213
+
+Perseverance
+
+.64
+
+.09
+
+High school GPA
+
+High school GPA
+College GPA
+High school GPA
+
+49
+
+Overall
+
+.00
+
+Graduate GPA
+
+49
+
+Overall
+
+.17
+
+College GPA
+
+⫺.27
+
+Note. N ⫽ sample size; C ⫽ conscientiousness; A ⫽ agreeableness; E ⫽ extraversion; ES ⫽ emotional stability; O ⫽ openness; g ⫽ cognitive ability;
+GPA ⫽ grade point average. No local reliability estimates for cognitive ability were reported. This appendix only includes studies reporting on the relations
+between grit and grit facets on one hand and performance, retention, Big Five personality, and cognitive ability on the other hand. Coded results from all
+other studies are available from the first author on request.
+a
+Correlations estimate from Nagelkerke R2 values.
+
+Received November 4, 2015
+Revision received March 24, 2016
+Accepted April 4, 2016 䡲
+
+

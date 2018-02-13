@@ -1,0 +1,1132 @@
+See	discussions,	stats,	and	author	profiles	for	this	publication	at:	https://www.researchgate.net/publication/274781571
+
+Mindset	interventions	are	a	scalable	treatment
+for	academic	underachievement
+Article		in		Psychological	Science	·	April	2015
+DOI:	10.1177/0956797615571017	·	Source:	PubMed
+
+CITATIONS
+
+READS
+
+87
+
+691
+
+6	authors,	including:
+Gregory	M	Walton
+
+Eric	Smith
+
+Stanford	University
+
+Stanford	University
+
+38	PUBLICATIONS			2,199	CITATIONS			
+
+1	PUBLICATION			87	CITATIONS			
+
+SEE	PROFILE
+
+SEE	PROFILE
+
+David	S.	Yeager
+University	of	Texas	at	Austin
+41	PUBLICATIONS			1,483	CITATIONS			
+SEE	PROFILE
+
+Some	of	the	authors	of	this	publication	are	also	working	on	these	related	projects:
+
+Online	panels	data	quality	View	project
+
+All	content	following	this	page	was	uploaded	by	David	S.	Yeager	on	30	September	2015.
+The	user	has	requested	enhancement	of	the	downloaded	file.
+
+571017
+research-article2015
+
+PSSXXX10.1177/0956797615571017Paunesku et al.A Scalable Intervention for Academic Underachievement
+
+Psychological Science OnlineFirst, published on April 10, 2015 as doi:10.1177/0956797615571017
+
+Research Article
+
+Mind-Set Interventions Are a
+Scalable Treatment for Academic
+Underachievement
+
+Psychological Science
+1﻿ ­–10
+© The Author(s) 2015
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0956797615571017
+pss.sagepub.com
+
+David Paunesku1, Gregory M. Walton1, Carissa Romero1,
+Eric N. Smith1, David S. Yeager2, and Carol S. Dweck1
+1
+
+Stanford University and 2University of Texas, Austin
+
+Abstract
+The efficacy of academic-mind-set interventions has been demonstrated by small-scale, proof-of-concept interventions,
+generally delivered in person in one school at a time. Whether this approach could be a practical way to raise school
+achievement on a large scale remains unknown. We therefore delivered brief growth-mind-set and sense-of-purpose
+interventions through online modules to 1,594 students in 13 geographically diverse high schools. Both interventions
+were intended to help students persist when they experienced academic difficulty; thus, both were predicted to be
+most beneficial for poorly performing students. This was the case. Among students at risk of dropping out of high
+school (one third of the sample), each intervention raised students’ semester grade point averages in core academic
+courses and increased the rate at which students performed satisfactorily in core courses by 6.4 percentage points. We
+discuss implications for the pipeline from theory to practice and for education reform.
+Keywords
+academic achievement, motivation, intervention, educational psychology, adolescent development
+Received 6/25/14; Revision accepted 1/12/15
+
+Every year, high-quality articles published in the finest
+journals demonstrate the power of psychological interventions to bring about meaningful change in academic
+achievement (e.g., J. Aronson, Fried, & Good, 2002;
+Blackwell, Trzesniewski, & Dweck, 2007; Cohen, Garcia,
+Purdie-Vaughns, Apfel, & Brzustoski, 2009; Good, Aronson,
+& Inzlicht, 2003; Harackiewicz, Rozek, Hulleman, & Hyde,
+2012; Hulleman & Harackiewicz, 2009; Jamieson, Mendes,
+Blackstock, & Schmader, 2010; Sherman et  al., 2013;
+Walton & Cohen, 2011; Wilson & Linville, 1982, 1985). Yet
+a critical limitation of these interventions is they are rarely
+tested in ways that can be readily scaled up. They often
+require that researchers be extensively and personally
+involved at school sites to ensure appropriate delivery of
+the intervention (see Yeager & Walton, 2011). It is therefore unclear whether any published psychological intervention can move beyond a boutique remedy to raise
+achievement or close achievement gaps for large numbers
+of students. In the study reported here, we addressed that
+issue. We tested, for the first time, whether psychological
+interventions could practically be deployed to raise academic achievement on a wide-scale.
+
+Our focus is on underperformance in U.S. high
+schools. Millions of students drop out of high school
+every year. They tend to be unprepared for either college
+or the workforce and consequently suffer poorer job
+prospects, worse health, and higher incarceration rates
+than people who complete high school (Dianda, 2008).
+President Obama recently identified improvement in
+educational outcomes as one of the highest domestic priorities in the United States (U.S. Department of Education,
+2014). Of course, many reforms have been tried, including improvements to teacher training, accountability
+mechanisms, school structures, and curricula, often at
+high cost and with limited success (e.g., Fullan, 2001;
+Glazerman et  al., 2010). Yet no major reform has
+Corresponding Authors:
+David Paunesku, Department of Psychology, Stanford University,
+Jordan Hall, Bldg. 420, 450 Serra Mall, Stanford, CA 94305
+Email: paunesku@stanford.edu
+Gregory M. Walton, Department of Psychology, Stanford University,
+Jordan Hall, Bldg. 420, 450 Serra Mall, Stanford, CA 94305
+E-mail: gwalton@stanford.edu
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+Paunesku et al.
+
+2	
+prioritized students’ psychological experience in school
+or motivation to succeed, despite the fact that it is ultimately students themselves who must capitalize on learning opportunities. Can psychological science provide
+scalable techniques to improve students’ approach to
+learning and achievement in high school?
+Although social-psychological or academic-mind-set
+interventions (Farrington et al., 2012) have been influential, none of them have been tested in ways that are
+potentially scalable. The problem is not so much that
+past interventions included small samples but that they
+have generally been tested in only one context at a time
+and with far greater researcher involvement and control
+than would be feasible in a large-scale implementation
+(Farrington et  al., 2012; Yeager & Walton, 2011). This
+includes tailoring materials for each school site, extensive
+training of participating faculty, and exerting close control over the context and timing of intervention delivery.
+These studies provide important tests of psychological
+theory and its application. However, if interventions are
+not tested in realistic ways with broad samples and minimal researcher input, they remain only exemplary test
+cases whose practical impact on education outcomes is
+unclear. As Bryk, Gomez, and Grunow (2011) wrote, “the
+history of educational innovation is replete with stories
+that show how innovations work in the hands of a few,
+but lose effectiveness in the hands of the many” (p. 130).
+Are academic-mind-set interventions a practical way
+to raise achievement in the United States, especially for
+underperforming students? If so, this would constitute a
+major contribution of psychological science to social policy and justify increased investment in psychological
+approaches to educational and social improvement.
+To examine whether mind-set interventions could be
+effective at scale, we transformed existing in-person
+interventions into brief computer-based modules.
+Computerized interventions allow materials to be delivered to recipients exactly as designed without extensive
+researcher involvement or facilitator training; they eliminate geographic constraints, opening access to students
+at multiple school sites and sites far from research centers; and they drastically reduce logistical burdens, the
+marginal cost of additional participants, and the costs of
+data collection and large-scale evaluation (Marks,
+Cavanagh, & Gega, 2007).
+We tested two mind-set interventions—one for growth
+mind-set of intelligence1 and a second for sense of purpose—with more than 1,500 students in 13 high schools.
+The primary outcomes were grades and satisfactory completion rates in core academic subjects. We focused on
+effects among poorly performing students, because
+mind-sets matter most when students encounter challenges in school (Burnette, O’Boyle, VanEpps, Pollack, &
+Finkel, 2013; Dweck & Leggett, 1988).
+
+Academic-Mind-Set Interventions
+Academic-mind-set interventions target students’ core
+beliefs about school and learning, such as “Can I learn
+and grow my intelligence?” (growth-mind-set beliefs) and
+“Why should I learn?” (sense-of-purpose beliefs). In so
+doing, they can change how students interpret and
+respond to challenges in school, increase students’ resilience, and set in motion positive recursive cycles that
+increase success over time (Garcia & Cohen, 2012; Yeager
+& Walton, 2011).
+Growth-mind-set interventions convey that intelligence can grow when students work hard on challenging
+tasks—and thus that struggle is an opportunity for
+growth, not a sign that a student is incapable of learning.
+Past studies featuring activities led by researchers or
+researcher-trained tutors show that this message can raise
+students’ achievement. In a seminal study, J. Aronson and
+his colleagues (2002) taught a growth mind-set to college
+students in three 1-hr laboratory sessions and then
+encouraged students to internalize this message by teaching it to struggling middle school students. This experience raised the college students’ semester grade point
+averages (GPAs). In another study, an eight-session
+growth-mind-set workshop led by researchers raised the
+math grades of low-achieving seventh-grade students
+(Blackwell et  al., 2007; see also Good et  al., 2003).
+Because growth-mind-set interventions help students
+understand challenges in school in a way that promotes
+learning and resilience, they may be most beneficial for
+underperforming students (Burnette et al., 2013).
+Sense-of-purpose interventions encourage students to
+reflect on how working hard and learning in school can
+help them accomplish meaningful goals beyond the self,
+such as contributing to their community or being examples for other people (Yeager & Bundick, 2009; Yeager,
+Henderson, D’Mello, et al., 2014). They draw on relevance interventions (Hulleman & Harackiewicz, 2009),
+which help students relate course content to their lives.
+However, they are framed more broadly, in terms of the
+value of school in general. Like relevance interventions,
+sense-of-purpose interventions can sustain students’
+motivation when schoolwork is boring or frustrating but
+foundational to learning. In so doing, they can raise
+achievement, especially among underperforming students (Yeager, Henderson, D’Mello, et al., 2014).
+Because mind-set interventions typically target a single keystone belief, they can be brief (e.g., an hour or
+less) and can be delivered using standardized materials
+(Cohen et  al., 2009; Hulleman & Harackiewicz, 2009;
+Walton & Cohen, 2011; see Walton, 2014). We focused on
+growth-mind-set and sense-of-purpose interventions
+because they seemed most suitable to an initial effort to
+scale such interventions to heterogeneous settings. They
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+A Scalable Intervention for Academic Underachievement	3
+do not require customization to course content (unlike,
+e.g., Hulleman & Harackiewicz, 2009) or reference students’ school context (unlike, e.g., Walton & Cohen,
+2011). They use common narratives (e.g., stories from
+older students) and objective information (e.g., scientific
+concepts) to change core beliefs about school ( J. Aronson
+et al., 2002). In this way, such interventions can be distributed in a more flexible array of situations than more
+experiential interventions, which may need to take place
+within the classroom itself (e.g., Cohen et  al., 2009).
+Furthermore, they benefit underperforming students
+broadly, unlike interventions that focus on the psychological experience of students from negatively stereotyped groups (e.g., Cohen et al., 2009; Walton & Cohen,
+2011).
+We took a number of steps to test the interventions
+under realistic circumstances like those that would be in
+force when the interventions were scaled-up. We included
+a heterogeneous sample of schools even though this
+introduced more variance in outcomes, and we allowed
+schools to control when and by whom intervention activities would be administered. To retain schools that could
+not offer extended time for the study, we also dispensed
+with extensive survey batteries and psychological process measures such as daily diaries (e.g., Walton & Cohen,
+2011). By taking these steps and reducing the “superrealization bias” (Cronbach et al., 1980) that can lead to
+large effect sizes in trials with small, highly controlled
+samples (Ioannidis, Cappelleri, & Lau, 1998; Slavin &
+Smith, 2009), we expected to find more modest but more
+realistic and broadly reliable effects.
+When psychological-science researchers examine
+social problems, the remedies that emerge from their
+research are often impractical or not tested in ways that
+can be meaningfully scaled up. This is perhaps one reason why psychological science has played only a limited
+role in many major policy debates. In the current study,
+we tested whether academic-mind-set interventions can
+have a meaningful impact on academic outcomes when
+delivered to a large sample in a scalable way. If so, our
+results could stand as a model for research that takes
+theory into practice.
+
+Method
+Participating schools and students
+Thirteen high schools, recruited through a series of presentations to educators or brief phone meetings, agreed to
+participate and provide participating students’ academic
+records. The schools were located in the eastern, western,
+and southwestern United States. Eight were public schools,
+four were charter schools, and one was a private school.
+They varied widely in socioeconomic characteristics: In
+
+five schools, almost no students received free or reduced
+lunch because of low household income; in six, more
+than half of students did (see Table 1).
+To maximize external validity and power, we sought
+to include as many students as possible in the study.
+Consequently, we permitted all interested schools to take
+part provided that they agreed to try to enroll 100 or
+more students and to provide academic outcomes for
+participating students (not all schools reached this benchmark). Our analyses focus on the 1,594 students for
+whom both preintervention and postintervention semester grades were available.
+
+Procedure
+Participating schools were asked to select a study coordinator who would recruit teachers to participate and follow-up with teachers if classrooms lagged. The
+coordinator asked teachers to create accounts on the
+study Web site (http://www.perts.net) and to schedule
+two 45-min sessions about 2 weeks apart (mean = 13
+days). Both sessions were administered in the school
+computer lab during the spring semester, between
+January and May 2012. In an online registration process,
+teachers agreed to describe the activities to students as a
+part of an ongoing Stanford University study about why
+and how students learn. After signing into the study Web
+site, each student was individually randomly assigned to
+a control condition or to one of three intervention conditions: growth-mind-set intervention, sense-of-purpose
+intervention, or the two interventions combined. For all
+groups, the growth-mind-set intervention (or related control materials) was delivered in Session 1; the sense-ofpurpose intervention (or related control materials) was
+delivered in Session 2. Students from all four conditions
+thus took part in both sessions.
+The growth-mind-set intervention drew directly on
+past research ( J. Aronson et  al., 2002; Blackwell et  al.,
+2007; Good et al., 2003) for both content and procedures;
+however, the material was revised to be effective within
+a single 45-min online session. Students read an article
+describing the brain’s ability to grow and reorganize itself
+as a consequence of hard work and good strategies on
+challenging tasks. The article focused on the implications
+of neuroscience findings for students’ potential to become
+more intelligent through study and practice. In keeping
+with our focus on underperforming students, the article
+stressed the fact that struggle and setbacks in school do
+not indicate limited potential; rather, they provide opportunities to learn. This message was reinforced through
+two writing exercises (see E. Aronson, 1999; J. Aronson
+et al., 2002). In one, students summarized the scientific
+findings in their own words. In the second, they read
+about a hypothetical student who was becoming
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+Paunesku et al.
+
+4	
+Table 1.  Participating Schools and Their Demographics
+
+School
+
+School
+type
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+
+Public
+Public
+Public
+Public
+Public
+Public
+Charter
+Charter
+Public
+Charter
+Private
+Charter
+Public
+
+Students
+Total
+on free or
+Mean SAT
+Racial composition of school
+Number of
+school reduced-price score (out
+participants enrollment lunch (%)
+of 2400) Asian (%) Black (%) Hispanic (%) White (%) Other (%)
+361
+224
+172
+135
+132
+119
+79
+77
+76
+69
+68
+52
+30
+
+1,824
+1,129
+1,781
+238
+2,059
+2,037
+1,852
+416
+174
+297
+2,049
+709
+192
+
+8
+—
+68
+85
+0
+64
+6
+56
+71
+39
+31
+4
+90
+
+1795
+—
+1376
+1193
+1737
+1430
+1951
+—
+1268
+1255
+1785
+1562
+—
+
+60
+8
+1
+13
+8
+2
+23
+9
+4
+3
+11
+0
+—
+
+1
+14
+2
+27
+1
+1
+4
+24
+21
+64
+6
+1
+—
+
+9
+6
+90
+53
+6
+88
+9
+42
+56
+26
+39
+5
+—
+
+28
+54
+5
+2
+81
+8
+58
+15
+6
+4
+41
+93
+—
+
+2
+18
+2
+4
+4
+1
+7
+9
+13
+3
+2
+1
+—
+
+Note: Not all information was available for all schools. Total school enrollment is reported for the 2011–2012 school year.
+
+discouraged and beginning to think of himself as not
+smart enough to do well in school. Participating students
+were asked to use what they had read to advise this student. In the control condition, students read and completed similar-seeming materials; however, these materials
+focused on functional localization in the brain, not neural
+plasticity. They thus lacked the key psychological message that intelligence is malleable.
+The sense-of-purpose intervention was designed to
+help students articulate how schoolwork could help them
+accomplish meaningful, beyond-the-self life goals. The
+materials also drew directly on past research (Yeager,
+Henderson, D’Mello, et al., 2014). In the intervention, the
+students were first asked to write briefly about how they
+wished the world could be a better place. It went on to say
+that many students work hard in school because they want
+to grow up to “make a positive impact on the world,” to
+“make their families proud,” or to be “a good example for
+other people.” Students were then asked to think about
+their own goals and to write about how learning and
+working hard in school could help them achieve these
+goals. In the control condition, students completed either
+of two similarly formatted modules that did not differ from
+each other in their impact, ts < 1, and were combined in
+analyses. One asked students to describe how their lives
+were different in high school than before high school. The
+other was very similar to the sense-of-purpose treatment but
+put forward economic self-interest rather than prosocial
+contribution as a reason to work hard in school. We included
+this second control condition to establish that focusing on
+beyond-the-self goals, not just any personal future goal, is
+an important component of the intervention, a hypothesis
+
+supported by prior work (Yeager, Henderson, D’Mello,
+et al., 2014; Yeager & Bundick, 2009).
+All students who entered the study and for whom preand postintervention grades were available were included
+in the analyses (e.g., students who completed Session 1
+but not Session 2 are retained with their original random
+condition assignment). Thus, we performed an intentionto-treat analysis. Sample demographics are presented in
+Table 2. Degrees of freedom varied because not all students completed all survey questions.
+
+Psychological measures
+Brief psychological measures were administered at the
+start of Session 1 and at the end of Session 2. First, to
+confirm that the growth-mind-set intervention changed
+students’ beliefs about the malleability of intelligence, we
+assessed this belief using two items: “You can learn new
+things, but you can’t really change your basic intelligence” and “You have a certain amount of intelligence
+and you really can’t do much to change it” (α = .84; see
+Blackwell et  al., 2007). Second, we examined students’
+construal of mundane academic tasks using a meaningfulness-of-schoolwork task (Yeager, Henderson, D’Mello,
+et al., 2014; see also Steger, Bundick, & Yeager, 2012),
+which assesses whether students view schoolwork (e.g.,
+“Doing your math homework”) at a low, mechanical level
+(e.g., “Typing numbers into a calculator and writing formulas”) or at a high level relevant to learning and growth
+(“Building your problem-solving skills”; see Michaels,
+Parkin, & Vallacher, 2013). Eight items formed a reliable
+composite, α = .72. Although this measure is more closely
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+A Scalable Intervention for Academic Underachievement	5
+Table 2.  Demographic Characteristics of the Sample
+Characteristic
+Gender
+ Female
+ Male
+Race
+ Hispanic
+ White
+ Asian
+ Black
+  Other, mixed
+Grade level
+ 9th
+ 10th
+ 11th
+ 12th
+
+n
+
+%
+
+800
+794
+
+50
+50
+
+ 
+
+ 
+525
+371
+277
+174
+247
+1,307
+68
+156
+63
+
+33
+23
+17
+11
+15
+ 
+82
+4
+10
+4
+
+Note: Data on individual students’ socioeconomic status (SES) were
+not collected; however, the percentage of students receiving free or
+reduced-price lunches, a measure of school-level SES, was known
+for all public and charter schools (12 of 13 participating schools; see
+Table 1).
+
+matched to the purpose of schoolwork, it seemed reasonable that the results of the meaningfulness-of-schoolwork task could be influenced by both interventions
+insofar as both interventions attempted to induce students to perceive the purpose of schoolwork to be learning and growth.
+
+Measures of academic performance
+Schools provided participating students’ transcripts. Ten
+schools coded students’ performance on a five-letter
+grading scale (A, B, C, D, F), whereas three assigned “no
+credit” (NC) in place of Ds and Fs. To numerically transform letter grades for analysis, we always coded A, B, and
+C as 4, 3, and 2, respectively. Because there was no single
+a priori basis by which to code D, F, and NC, we used
+three schemes: D = 1, F = 0, and NC = missing; D = 1, F =
+1, and NC = 1 (because they are all unsatisfactory); or F =
+0, D = 1, and NC = 1 (because D and NC are immediately
+below C). The current results are presented using the
+final coding scheme because it (a) retained all data
+(unlike the first scheme) and (b) distinguished between F
+and D (unlike the second scheme); however, all three
+coding methods provided comparable results. We also
+created a dichotomous measure of unsatisfactory progress, with grades of D, F, NC, and incomplete (I) marked
+as unsatisfactory and grades of A, B, C, pass (P), and
+credit (CR) marked as satisfactory.
+We calculated each student’s end-of-semester GPA in
+core academic courses (i.e., math, English, science, and
+social studies) in the fall (preintervention) and in the spring
+(postintervention). We focused on core academic courses
+
+because these courses are generally most crucial to students’ success and because they are the most challenging
+(mean core GPA = 2.45; mean noncore GPA = 3.15). Thus,
+they are the most relevant to the interventions.2
+
+Results
+Baseline associations
+After we controlled for school, race, and gender, prestudy
+GPA was positively associated with baseline values for both
+growth mind-set, β = 0.06, 95% confidence interval (CI) =
+[0.03, 0.09], t(1561) = 3.47, p < .001, and sense of purpose,
+β = 0.05, 95% CI = [0.01, 0.08], t(1551) = 2.67, p = .008.
+
+Manipulation checks
+A linear regression analysis in which we controlled for
+prestudy beliefs about intelligence showed that the
+growth-mind-set intervention led to a more malleable
+view of intelligence, β = 0.17, 95% CI = [0.05, 0.28],
+t(1007) = 2.82, p = .005, but the sense-of-purpose and
+combined interventions did not, ps > .24.
+A linear regression controlling for preintervention
+meaningfulness of schoolwork showed that the sense-ofpurpose group perceived mundane academic tasks as
+more relevant to learning and growth than did the control group, β = 0.17, 95% CI = [0.03, 0.32], t(1000) = 2.37,
+p = .018; this was also true for the growth-mind-set group,
+but only marginally, β = 0.11, 95% CI = [−0.01, 0.23],
+t(1000) = 1.77, p = .078. The combined interventions
+again showed no significant effect, t < 1.
+
+Grade point average
+To determine whether the intervention influenced poststudy GPA and did so to a greater extent for students with
+a history of underperformance, we tested whether intervention effects would emerge among students who met
+“high-yield” indicators of dropping out from high school.
+This threshold was created by the Consortium for Chicago
+School Research using decades of official records from
+Chicago public schools (see Allensworth & Easton, 2007;
+Heppen & Therriault, 2008). In our sample, 519 students
+(33%) earned a baseline first-semester GPA of 2.0 or less
+or failed at least one core academic course.
+In the semester before the intervention, the intervention and control groups did not differ in GPA, ts < 1. We
+conducted a linear regression analysis that included risk
+(0 = not at risk, 1 = at risk), a dummy variable for each
+intervention condition, and a dummy variable for each
+Risk × Intervention (growth mind-set, sense of purpose,
+combined) interaction. The outcome was core GPA for
+the semester after intervention. We controlled for prestudy
+GPA, race, gender, and school. The regression revealed
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+Paunesku et al.
+
+6	
+Control Condition
+Growth-Mind-Set Condition
+Sense-of-Purpose Condition
+Combined-Interventions Condition
+
+Residual Standardized Poststudy Core GPA
+
+0.10
+
+0.05
+
+0.00
+
+−0.05
+
+−0.10
+
+Not At Risk for Dropping
+Out of High School
+
+At Risk for Dropping
+Out of High School
+
+Fig. 1.  The effect of the interventions on grade point average (GPA). Residual standardized poststudy core GPA is graphed as a function of risk (n = 519 students at risk of dropping out of high school; n = 1,075 students not at risk of dropping out) and condition.
+These residuals were calculated controlling for at-risk status, prior GPA, school, race, and
+gender. Error bars indicate ±1 SE.
+
+the predicted Risk × Intervention interaction for each
+intervention condition: This interaction was significant
+for the growth-mind-set intervention, b = 0.13, 95% CI =
+[0.00, 0.26], t(1568) = 1.97, p = .048, and the sense-ofpurpose intervention, b = 0.17, 95% CI = [0.03, 0.32],
+t(1568) = 2.31, p = .021, and it was marginally significant
+for the combined interventions, b = 0.14, 95% CI = [−0.01,
+0.28], t(1568) = 1.81, p = .071 (Fig. 1).
+Because our primary research question concerned the
+efficacy of academic-mind-set interventions in general
+when delivered via online modules, we then collapsed
+the intervention conditions into a single intervention
+dummy code (0 = control, 1 = intervention). We again
+controlled for prestudy GPA, race, gender, and school.
+The regression analysis revealed a significant At Risk ×
+Intervention interaction, b = 0.14, 95% CI = [0.03, 0.25],
+t(1572) = 2.56, p = .011, such that the intervention effect
+was significant among at-risk students, b = 0.13, 95% CI =
+[0.02, 0.25], t(499) = 2.30, p = .022, but not among other
+students, t < 1.3 The three intervention conditions produced similar benefits for at-risk students (mean change
+in GPA—control condition: 0.04; growth-mind-set condition: 0.15, sense-of-purpose condition: 0.18, combinedinterventions condition: 0.13),4 and the effect of
+intervention among at-risk students was not moderated
+by race or gender, ps > .21.
+
+It is intriguing that students who received both interventions did not show greater benefits. To our knowledge, only two past studies have tested the effects of
+combining mind-set interventions; neither found that the
+combination yielded greater benefits than the individual
+interventions (Good et al., 2003; Yeager, Walton, Brady,
+et al., 2014, Experiment 2). Why? In the case of the present study, one possibility is that the two psychological
+messages were not integrated. Absent this, it may have
+been difficult for students to fully incorporate two simultaneous and distinct changes to their basic beliefs about
+schoolwork; that is, students may have received only a
+partial “dose” of each intervention. This interpretation is
+consistent with the lack of manipulation-check effects in
+the combined condition (for a similar pattern, see Yeager,
+Walton, Brady, et al., 2014, Experiment 2). Future research
+on combined interventions should integrate the chosen
+interventions so that they enhance and support each
+other rather than presenting separate and possibly confusing messages about learning and school.5
+
+Satisfactory performance
+Satisfactory grades (e.g., A, B, C) denote minimal acceptable proficiency in a subject and are often required for
+entry into higher-level courses. To assess whether the
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+A Scalable Intervention for Academic Underachievement	7
+Intervention Conditions
+Control Condition
+
+a
+
+English
+
+b
+
+Math
+
+All Core Courses
+
+40%
+30%
+20%
+
+Science
+
+Social Studies
+
+50%
+40%
+
+Satisfactory Course Completion
+
+Satisfactory Course Completion
+
+50%
+50%
+
+40%
+
+30%
+
+30%
+20%
+
+20%
+Before
+
+After
+
+Before
+
+After
+
+Before
+
+Semester Relative to Intervention
+
+After
+
+Semester Relative to Intervention
+
+Fig. 2.  The effect of the interventions on satisfactory course completion in core courses among students at risk of dropping out of high
+school. The graphs in (a) show the percentage of students who received satisfactory grades (A, B, C, pass, or credit) in all core courses
+in the semesters before and after the interventions were conducted. The graph in (b) shows the average percentage of satisfactory course
+completion across all core courses in the same semesters. The error bars represent ±1 SE.
+
+interventions helped at-risk students clear this academic
+threshold, we used a logistic mixed-effect model to assess
+the effect of the intervention on students’ likelihood of
+satisfactory performance in each core academic class
+(Bates, Maechler, & Bolker, 2012). This analysis was
+restricted to at-risk students, because these students
+accounted for the vast majority of postintervention course
+failures. As the outcomes, we specified satisfactory course
+completion (earning A, B, C, P, or CR vs. D, F, NC, or I)
+in each core course before and after intervention; as
+fixed effects, we specified intervention (dummy-coded),
+time (0 = preintervention, 1 = postintervention), and their
+interaction; as random intercepts, we specified each student, course, and school.
+There was no effect of condition on preintervention
+satisfactory course completion rates, t < 1. However, the
+regression revealed a significant Time × Intervention
+interaction, odds ratio (OR) = 1.48, 95% CI = [1.04, 2.10],
+Z = 2.18, p = .029. Intervention-group students were significantly more likely to earn satisfactory grades in core
+academic classes after the intervention (raw mean = 49%)
+compared with control-group students (raw mean =
+41%), OR = 1.58, Z = 2.68, p = .007. Moreover, whereas
+there was no difference in satisfactory completion rates
+before and after the intervention among control-condition students (−0.4%), t < 1, students in the intervention
+
+group showed a significant increase (+6.0%), Z = 4.38,
+p < .001 (see Fig. 2). The 367 at-risk students in the intervention group took a total of 1,358 core courses; the
+intervention thus led them to earn satisfactory grades in
+87 more courses than would be expected on the basis of
+control-group rates (1,358 × 6.4%).
+
+Discussion
+Are academic-mind-set interventions effective on a small
+scale only with carefully managed administration? Or do
+they have the potential to scale up and thereby serve as a
+partial solution for pervasive underachievement in U.S.
+high schools? The goal of the present research was to
+answer these questions. Two interventions, each lasting
+about 45 min and delivered online, raised achievement in
+a large and diverse group of underperforming students
+over an academic semester. Among these students, who
+accounted for the bottom third of students in the sample,
+the interventions raised GPA in core academic classes and
+led students to earn satisfactory grades in more core
+classes. Crucially, these effects were obtained across a
+sample of heterogeneous schools and in response to
+interventions that could be scaled to virtually unlimited
+numbers of students at low marginal cost. Among the 4.93
+million students who constitute the lowest-performing
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+Paunesku et al.
+
+8	
+third of high school students nationwide, could this translate into a proportional 1.18 million additional successfully completed courses? The results suggest this possibility.
+Moreover, the methods tested here provide a feasible way
+to disseminate these interventions and evaluate them on a
+large scale.
+A critical next step is to examine how mind-set interventions interact with diverse contexts (Hanselman,
+Bruch, Gamoran, & Borman, 2014; Walton, Logel, Peach,
+Spencer, & Zanna, in press). Our sample was heterogeneous, but it was nonetheless a convenience sample.
+Mind-set interventions depend on resources and learning
+opportunities in the academic environment: They encourage students to take advantage of such opportunities and
+may be ineffective if these opportunities are absent.
+Evaluating mind-set interventions with a larger and more
+representative group of adolescents will help identify settings in which students’ beliefs serve as barriers to
+achievement; in such settings, mind-set interventions
+may be essential, but in other settings, the interventions
+may have less impact. For instance, further research
+might reveal settings in which mind-set interventions are
+redundant with messages already present or in which
+students lack access to challenging learning opportunities. In conducting this research, it will be critical to
+ensure that intervention modules retain their psychological essence; mind-set interventions “are not magic . . .
+they are tools to target important psychological processes
+in schools” (Yeager & Walton, 2011, p. 293). If a mind-set
+intervention does not speak to students’ psychological
+experience, it will not be effective. More broadly, this
+future research will deepen our understanding of the role
+of psychological processes in the context of other factors
+that shape student achievement.
+It is also important to examine potential long-term
+effects among high-achieving students, for whom the
+benefits of mind-set interventions may not emerge until
+schoolwork becomes challenging, such as when students
+take advanced coursework or transition to college.
+
+(e.g., Mueller & Dweck, 1998), and small-scale field
+experiments (e.g., J. Aronson et al., 2002; Blackwell et al.,
+2007). Our research simultaneously advances this lineage
+and addresses an important social problem in a scalable
+way.
+
+Conclusion
+
+1. This has also been called an incremental theory of intelligence in past research.
+2. When we included all reported grades, the pattern of results
+was similar to that derived from core GPA, albeit weaker. Even
+so, the contrast between the three intervention conditions and
+control condition remained significant (p < .05).
+3. Nearly identical results for the collapsed intervention conditions were obtained using a mixed model with individual course
+grade as the outcome, b = 0.14, 95% CI = [0.03, 0.25], p = .011.
+Individual intervention effects using a mixed model were also
+similar to those reported, .034 < ps < .054 (see Supplemental
+Material available online).
+4. Changes in psychological measures were not related to
+changes in achievement, ts < 1.50, a pattern in keeping with the
+
+In recent years, psychologists have called for a new
+emphasis on testing the replicability of psychological
+research (Pashler & Wagenmakers, 2012) and on examining real-world behavioral outcomes (Schneider, Gruman,
+& Coutts, 2011). In demonstrating the potential for academic-mind-set interventions to be effective on a wide
+scale, the present research provides a case study of the
+health of our field and its relevance to public concerns.
+The interventions we tested draw directly from an intellectual lineage in psychology, including basic theory (e.g.,
+Dweck & Leggett, 1988), careful laboratory experiments
+
+Author Contributions
+D. Paunesku and G. M. Walton developed the study concept.
+D. Paunesku, G. M. Walton, C. Romero, D. S. Yeager, and C. S.
+Dweck contributed to the study design. Data collection was
+performed by D. Paunesku and C. Romero. D. Paunesku and
+E. N. Smith performed the data analysis. D. Paunesku and G. M.
+Walton drafted the manuscript. All authors provided critical
+revisions and approved the final version of the manuscript for
+submission.
+
+Acknowledgments
+We thank the participating schools and the staff of the Stanford
+University Project for Education Research That Scales (PERTS),
+especially Benjamin Haley, Chris Macrander, Jacquie Beaubien,
+Rachel Herter, Abby Howard, and Brian Spitzer.
+
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with
+respect to their authorship or the publication of this article.
+
+Funding
+The research reported in this article was supported by William
+and Flora Hewlett Foundation Grants 2011-6513 and 2013-8860,
+by Raikes Foundation Grants 13027 and 227, and by National
+Science Foundation Research and Evaluation on Education in
+Science and Engineering (REESE) Program Grant DRL-1247283.
+The opinions expressed in the article are those of the authors
+only and do not reflect the opinions of the funders.
+
+Supplemental Material
+Additional supporting information can be found at http://pss
+.sagepub.com/content/by/supplemental-data
+
+Notes
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+A Scalable Intervention for Academic Underachievement	9
+inconsistency with which self-report measures mediate behavioral changes (e.g., J. Aronson et  al., 2002; Wilson & Linville,
+1982).
+5. A second possibility is that the two interventions, even though
+they differed in substantive ways, shared a common underlying
+ingredient and were therefore partly redundant. Indeed, each
+provided a reason to work hard in school for students who
+lacked such a reason. The lack of manipulation-check effects
+in the combined condition does not suggest this interpretation;
+however, other measures of beliefs/motivation could suggest
+such a common ingredient.
+
+References
+Allensworth, E. M., & Easton, J. Q. (2007). What matters for staying on track and graduating in Chicago public high schools.
+Chicago, IL: Consortium on Chicago School Research.
+Aronson, E. (1999). The power of self-persuasion. American
+Psychologist, 54, 875–884.
+Aronson, J., Fried, C. B., & Good, C. (2002). Reducing the effects
+of stereotype threat on African American college students
+by shaping theories of intelligence. Journal of Experimental
+Social Psychology, 38, 113–125.
+Bates, D., Maechler, M., & Bolker, B. (2012). lme4: Linear
+mixed-effects models using S4 classes [Software]. R package version 1.1-7. Retrieved from http://CRAN.R-project
+.org/package=lme4
+Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007).
+Implicit theories of intelligence predict achievement across
+an adolescent transition: A longitudinal study and an intervention. Child Development, 78, 246–263.
+Bryk, A. S., Gomez, L. M., & Grunow, A. (2011). Getting ideas
+into action: Building networked improvement communities
+in education. In M. T. Hallinan (Ed.), Frontiers in sociology
+of education (Vol. 1, pp. 127–162). New York, NY: Springer.
+Burnette, J. L., O’Boyle, E. H., VanEpps, E. M., Pollack, J. M.,
+& Finkel, E. J. (2013). Mind-sets matter: A meta-analytic
+review of implicit theories and self-regulation. Psychological
+Bulletin, 139, 655–701.
+Cohen, G. L., Garcia, J., Purdie-Vaughns, V., Apfel, N., &
+Brzustoski, P. (2009). Recursive processes in self-affirmation: Intervening to close the minority achievement gap.
+Science, 324, 400–403.
+Cronbach, L. J., Ambron, S. R., Dornbusch, S. M., Hess, R. D.,
+Hornik, R. C., Phillips, D. C., . . . Weiner, S. S. (1980).
+Toward reform of program evaluation: Aims, methods, and
+institutional arrangements. San Francisco, CA: Jossey-Bass.
+Dianda, M. (2008). Preventing future high school dropouts: An
+advocacy and action guide for NEA state and local affiliates. Washington, DC: National Education Association.
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive
+approach to motivation and personality. Psychological
+Review, 95, 256–273.
+Farrington, C. A., Roderick, M., Allensworth, E., Nagaoka, J.,
+Keyes, T. S., Johnson, D. W., & Beechum, N. O. (2012).
+Teaching adolescents to become learners: The role of noncognitive factors in shaping school performance. Chicago,
+IL: University of Chicago, Consortium on Chicago School
+Research.
+
+Fullan, M. (2001). The new meaning of educational change.
+New York, NY: Teachers College Press.
+Garcia, J., & Cohen, G. L. (2012). A social psychological perspective on educational intervention. In E. Shafir (Ed.),
+Behavioral foundations of policy (pp. 329–350). Princeton,
+NJ: Princeton University Press.
+Glazerman, S., Isenberg, E., Dolfin, S., Bleeker, M., Johnson, A.,
+Grider, M., & Jacobus, M. (2010). Impacts of comprehensive
+teacher induction: Final results from a randomized controlled study (Publication No. NCEE 20104027). Retrieved
+from U.S. Department of Education Web site: http://ies
+.ed.gov/ncee/pubs/20104027/pdf/20104027.pdf
+Good, C., Aronson, J., & Inzlicht, M. (2003). Improving adolescents’ standardized test performance: An intervention to
+reduce the effects of stereotype threat. Journal of Applied
+Developmental Psychology, 24, 645–662.
+Hanselman, P., Bruch, S. K., Gamoran, A., & Borman, G. D.
+(2014). Threat in context: School moderation of the impact
+of social identity threat on racial/ethnic achievement gaps.
+Sociology of Education, 87, 106–124.
+Harackiewicz, J. M., Rozek, C. S., Hulleman, C. S., & Hyde,
+J. S. (2012). Helping parents to motivate adolescents in
+mathematics and science: An experimental test of a utilityvalue intervention. Psychological Science, 23, 899–906.
+doi:10.1177/0956797611435530
+Heppen, J. B., & Therriault, S. B. (2008). Developing early
+warning systems to identify potential high school dropouts. Retrieved from National High School Center Web
+site at http://www.betterhighschools.org/pubs/documents/
+IssueBrief_EarlyWarningSystemsGuide.pdf
+Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting
+interest and performance in high school science classes.
+Science, 326, 1410–1412.
+Ioannidis, J. P., Cappelleri, J. C., & Lau, J. (1998). Issues in comparisons between meta-analyses and large trials. Journal of
+the American Medical Association, 279, 1089–1093.
+Jamieson, J. P., Mendes, W. B., Blackstock, E., & Schmader,
+T. (2010). Turning the knots in your stomach into bows:
+Reappraising arousal improves performance on the GRE.
+Journal of Experimental Social Psychology, 46, 208–212.
+Marks, I. M., Cavanagh, K., & Gega, L. (2007). Hands-on help:
+Computer-aided psychotherapy. New York, NY: Psychology
+Press.
+Michaels, J. L., Parkin, S. S., & Vallacher, R. R. (2013). Destiny
+is in the details: Action identification in the construction
+and destruction of meaning. In J. Hicks & C. Routledge
+(Eds.), The experience of meaning in life: Emerging themes
+and controversies (pp. 103–115). New York, NY: Springer.
+Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence
+can undermine children’s motivation and performance.
+Journal of Personality and Social Psychology, 75, 33–52.
+Pashler, H., & Wagenmakers, E. J. (2012). Editors’ introduction
+to the special section on replicability in psychological science: A crisis of confidence? Perspectives on Psychological
+Science, 7, 528–530.
+Schneider, F. W., Gruman, J. A., & Coutts, L. M. (Eds.).
+(2011). Applied social psychology: Understanding and
+addressing social and practical problems. Thousand
+Oaks, CA: Sage.
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+Paunesku et al.
+
+10	
+Sherman, D. K., Hartson, K. A., Binning, K. R., Purdie-Vaughns,
+V., Garcia, J., Taborsky-Barba, S., . . . Cohen, G. L. (2013).
+Deflecting the trajectory and changing the narrative: How
+self-affirmation affects academic performance and motivation under identity threat. Journal of Personality and Social
+Psychology, 104, 591–618.
+Slavin, R., & Smith, D. (2009). The relationship between sample sizes and effect sizes in systematic reviews in education. Educational Evaluation and Policy Analysis, 31,
+500–506.
+Steger, M., Bundick, M., & Yeager, D. S. (2012). The development of meaning during adolescence. In R. J. Levesque
+(Ed.), Encyclopedia of adolescence (pp. 1666–1777). New
+York, NY: Springer.
+U.S. Department of Education. (2014). Obama administration 2015 budget prioritizes key education investments
+to provide opportunities for all Americans [Press release].
+Retrieved from http://www.ed.gov/news/press-releases/
+obama-administration-2015-budget-prioritizes-key-educa
+tion-investments-provide-opportunities-all-americans
+Walton, G. M. (2014). The new science of wise psychological
+interventions. Current Directions in Psychological Science,
+23, 73–82.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging
+intervention improves academic and health outcomes of
+minority students. Science, 331, 1447–1451.
+Walton, G. M., Logel, C., Peach, J., Spencer, S., & Zanna, M. P.
+(in press). Two brief interventions to mitigate a “chilly
+
+climate” transform women’s experience, relationships,
+and achievement in engineering. Journal of Educational
+Psychology. doi:10.1037/a0037461
+Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college freshmen: Attribution therapy revisited. Journal of Personality and Social Psychology,
+42, 367–376.
+Wilson, T. D., & Linville, P. W. (1985). Improving the performance of college freshmen with attributional techniques.
+Journal of Personality and Social Psychology, 49, 287–
+293.
+Yeager, D. S., & Bundick, M. J. (2009). The role of purposeful
+work goals in promoting meaning in life and in schoolwork during adolescence. Journal of Adolescent Research,
+24, 423–452.
+Yeager, D. S., Henderson, M., D’Mello, S., Paunesku, D., Walton,
+G. M., Spitzer, B. J., & Duckworth, A. L. (2014). Boring but
+important: A self-transcendent purpose for learning fosters
+academic self-regulation. Journal of Personality and Social
+Psychology, 107, 559–580.
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological
+interventions in education: They’re not magic. Review of
+Educational Research, 81, 267–301.
+Yeager, D. S., Walton, G. M., Brady, S. T., Akcinar, E. N.,
+Paunesku, D., Keane, L., . . . Dweck, C. S. (2014). Brief
+psychological interventions can reduce post-secondary
+achievement gaps at scale. Manuscript submitted for
+publication.
+
+Downloaded from pss.sagepub.com at Stanford University Libraries on April 30, 2015
+
+View publication stats
+
+

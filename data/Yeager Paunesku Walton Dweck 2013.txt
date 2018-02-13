@@ -1,0 +1,1823 @@
+How Can We Instill Productive Mindsets at Scale?
+A Review of the Evidence and an Initial R&D Agenda
+David S. Yeager
+University of Texas at Austin
+Dave Paunesku
+Project for Education Research That Scales and Stanford University
+Gregory M. Walton
+Stanford University
+Carol S. Dweck
+Stanford University
+
+Revised June 10, 2013
+A White Paper prepared for the White House meeting on
+Excellence in Education: The Importance of Academic Mindsets
+
+David Yeager is a Fellow at the Carnegie Foundation for the Advancement of Teaching and a
+Faculty Research Fellow at the Charles A. Dana Center at the University of Texas at Austin.
+The authors wish to thank the students, teachers, and school staff who participated in the
+research described in this white paper. We also thank Geoffrey Cohen and Sian Beilock for their
+advice and/or comments. Please address correspondence to David Yeager
+(dyeager@utexas.edu).
+
+Academic Mindsets: An R&D Agenda
+
+2	  
+
+Executive Summary
+Research has increasingly shown that there is more to student success than cognitive ability,
+curriculum and instruction. Students’ mindsets—their beliefs about themselves and the school
+setting—can powerfully affect whether students learn and grow in school. For example, when
+students have a fixed mindset, they believe that their intelligence is something that is finite and
+unchangeable. This makes them doubt their intelligence when they experience difficulty and it
+undermines resilience and learning. However, when students have more of a growth mindset,
+they believe that intelligence can be developed. In this mindset, students respond more
+resiliently to challenges and show greater learning and achievement in the face of difficulty.
+Randomized experimental studies find that even brief interventions that convey a growth mindset
+can have important, lasting effects on student learning and performance. For instance:
+•
+
+In an experiment with over 250,000 students learning math concepts on the Khan
+Academy website, growth mindset encouragement presented at the top of the screen
+(e.g., “When you learn a new kind of math problem, you grow your math brain!”)
+increased the rate at which students successfully solved math problems even months after
+students no longer saw the message, compared to controls who did not see this message.
+
+•
+
+In an experiment conducted with over 1500 students at 13 high schools across the
+country, learning the growth mindset for one classroom session over the Internet reduced
+the percent of courses failed by low-achieving students by nearly 7 percentage points,
+compared to control group students.
+
+•
+
+In an experiment with over 7,500 students at a state university with high dropout rates, a
+web-based growth mindset intervention completed the summer before freshman year
+increased the percentage of students earning >12 credits in the first term by 3-4
+percentage points (vs. controls), an effect that was larger for African American students
+(10 percentage points). Earning >12 credits strongly predicts on-time graduation.
+
+How can we deploy research on students’ mindsets to help more students succeed in school?
+While it can be helpful to redirect students’ mindsets using brief interventions, it may also be
+helpful to create everyday experiences that reinforce productive mindsets. Doing so is not
+always straightforward, as there are many ways the essential psychological message can be lost
+at scale. Scaling responsibly will require dedicated R&D efforts in three areas:
+•
+•
+•
+
+Principles: Understanding how to maximize the effects of mindset interventions.
+Practices: Expanding the “toolkit” of day-to-day practices that instill adaptive mindsets.
+Assessments: Developing measures that allow for more rapid learning from practice.
+
+With significant investments in these areas, researchers and practitioners can more confidently
+apply research on mindsets to effect large-scale changes in education—to make educational
+outcomes more equitable by reducing achievement gaps, to make school more enjoyable by
+placing the focus on learning and improving rather than on demonstrating raw intelligence, and
+to make school more efficient by allowing students to take better advantage of learning resources
+already available to them.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+3	  
+
+About This Document
+This document was created to share the state of the field regarding academic mindsets with
+education policymakers and private and public funding agencies, in order to help with the
+organization of investment agendas. It is shared in the spirit of accelerating learning about
+strategies to create infrastructures that successfully address student mindsets. It is not meant as a
+final document. Indeed, some of the findings summarized here come from recently-conducted
+studies that have not yet been able to be accepted for publication. As a result, we ask that
+readers not quote the document or cite the data without written permission of the authors.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+4	  
+
+How Can We Instill Productive Mindsets at Scale?
+A Review of the Evidence and an Initial R&D Agenda
+Why do some students shrink from challenges and wilt in the face of difficulty while others
+thrive on challenges, achieve, and fulfill their potential? Imagine a low-income student who is
+not learning in school, even with a well-trained teacher using appropriate content and pedagogy.
+When the student is given hard tasks and critical feedback, the student shuts down, does not ask
+for help, and hides misunderstandings. Why? In recent years, a growing body of experimental
+research has begun to answer this question.
+This research shows that there is more to student success than cognitive ability or the quality of
+the classroom curriculum. Students’ mindsets—their beliefs about themselves and their school
+environments—can powerfully affect whether students engage and learn in school or do not.1
+Students who conclude “I’m dumb at this” or “People like me don’t belong here” may not
+exhibit the tenacity needed to persist in school, regardless of their cognitive ability or the quality
+of the instruction they receive. Yet when educators are armed with a precise understanding of
+the psychology of mindsets, they can create improvements in academic outcomes even among
+chronic low performers. Brief but theoretically-grounded interventions, sometimes delivered
+over the Internet directly to students and sometimes delivered by teachers in classroom
+workshops, can redirect negative thoughts like “I’m not a math person” or “I’m afraid to make
+mistakes” and refocus students on learning. When this is done, students often earn higher grades
+and are more likely to stay in school, in some cases months or years later. Crucially, many of
+these findings come from the strongest kind of research design for making causal inferences—
+double-blind field experiments involving large numbers of students each randomly assigned to a
+treatment or control condition, with student outcomes obtained from official school records.2
+While much research has shown that it is possible to redirect mindsets and raise achievement in
+the context of a randomized experiment, the field must understand how to do so reliably, at
+scale, for diverse populations of students in diverse contexts. The ultimate goal of these efforts is
+to create a specific psychological experience for students—one that removes a major barrier to
+learning and allows students to benefit fully from the educational resources in their
+environments. As with all research-based educational improvements, many factors can make it
+difficult to recreate a psychological experience at scale. The present document provides a
+potential R&D agenda that outlines how the field might begin to learn to successfully use
+mindset research to remove psychological barriers to learning in diverse contexts.
+Although the R&D recommendations outlined here apply to several different research-based
+mindset interventions—for instance, interventions to change students’ mindsets about their
+social-belonging in school, interventions to reduce the impact of negative stereotypes in school,
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+1
+Garcia and Cohen, 2012; Wilson, 2011; Yeager and Walton, 2011
+2
+See below for a description.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+5	  
+
+and interventions to remind students of the relevance of their schoolwork3— the present
+document focuses on mindsets about intelligence.4 This is because mindsets about intelligence
+have a great deal of data available in terms of implementation at multiple levels by multiple
+sources—teachers, researchers, parents, private industry, etc. These data provide a useful case
+study for illustrating broad themes relevant to other mindsets and perhaps to the “non-cognitive”
+field more generally.
+Definitions of Non-Cognitive Skills and Mindsets
+In recent years, there has been a growing understanding of the non-cognitive skills that promote
+student learning.5 These factors are called “non-cognitive” because they are not the specific or
+general intellectual skills that are typically implicated in learning. In another sense these socalled non-cognitive factors are quite “cognitive”—they often involve beliefs or learning
+strategies that students have developed. Nonetheless, we, along with the broader academic and
+non-academic community, tend to call the broad cluster of “non-intellectual” factors that affect
+academic or professional outcomes “non-cognitive skills.”6
+One set of non-cognitive factors involves academic mindsets. Academic mindsets, broadly
+defined, involve students’ perceptions of themselves and/or their learning environments, and can
+affect how students perform and whether they put forth or withdraw effort in the face of
+academic adversity. This includes, for instance, a belief that one’s intelligence is fixed versus
+can grow and improve, a belief that one belongs and will be valued in a setting, and a belief that
+one’s schoolwork has relevance for important life goals. It also involves the negative stereotypes
+that give rise to anxiety, which can interfere with performance.7 Past research has found that
+successfully addressing each of these mindsets, sometimes using brief (1-2 session) theory-based
+interventions (similar to those outlined below), can improve student performance and reduce
+achievement gaps in a way that endures over time.8 As noted above, we focus primarily on
+mindsets about intelligence, while acknowledging the important influence that other mindsets
+have on student outcomes. See the bibliography in Appendix 1 for some prominent examples of
+other targeted interventions that address student mindsets and related non-cognitive factors.
+What Are Mindsets About Intelligence?
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+3
+See Cohen, Garcia, Purdie-Vaugns, Apfel, and Brzustoski, 2009; Hulleman and Harackeiwicz,
+2009; Walton and Cohen, 2011; also see Ramirez and Beilock, 2011. Also see the bibliography
+in Appendix 1.
+4
+Blackwell, Trzesniewski, and Dweck, 2007; Dweck, 2006.
+5
+See Dweck, Walton, and Cohen, 2011; Farrington, Roderick, Allensowrth, Nagaoka, Keyes,
+Johnson, and Beechum 2012; U.S. Department of Education, Office of Educational Technology,
+2013.
+6
+See the Farrington et al. 2012 report for more background.
+7
+See Blackwell et al., 2007; Cohen et al., 2009; Ramirez and Beilock, 2011; Hulleman and
+Harackeiwicz, 2009; Walton and Cohen, 2011.
+8
+Also see Garcia and Cohen, 2012; Yeager and Walton, 2011.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+6	  
+
+Carol Dweck and others have shown that many students have what is called a “fixed mindset.”
+This is the idea that your intelligence is a fixed quantity—something you only have a certain
+amount of. Students with a fixed mindset tend to agree with survey items like: “You have a
+certain amount of intelligence, and there is not much you can do to change that.”
+In controlled laboratory experiments and in long-term studies in schools, a fixed mindset has
+many consequences.9 See Table 1 for an overview. First, fixed mindset students avoid
+challenges. They want easier problems that will make them look and feel smart. Second, a fixed
+mindset leads to unproductive beliefs about effort, like “If I have to try hard, I’m not smart” or
+“There’s no point in trying if I’m not a natural.” Last, fixed mindset students are not resilient.
+Instead, they hide their setbacks and deficiencies, not wanting people to see them as having low
+ability. They fail to ask for help and even lie about low scores when asked about their
+performance. And so it is not surprising that in a study of urban minority middle school
+students, holding a fixed mindset predicted lower math grades over several years.10 The same
+findings emerge in many other age groups and contexts.11
+Table 1. Fixed and growth mindsets about intelligence.
+Fixed mindset
+
+Growth mindset
+
+Goals
+
+Look smart (don’t look dumb)
+
+Learn
+
+Value of effort, help and
+strategies?
+
+Lower
+
+Higher
+
+Response to challenge
+
+Tendency to give up
+
+Work harder and smarter
+
+Changes in grades during
+times of adversity
+
+Decrease or remain low
+
+Increase
+
+Importantly, many students hold the opposite belief—what is called a “growth mindset.” This is
+the idea that your intelligence has the potential to grow and improve in response to effort, good
+strategies, and help from others. These students agree with survey items that portray intelligence
+as a quality that can be developed. From the perspective of a growth mindset, an academic
+challenge is not a threat to your raw ability; it is an opportunity for learning and improvement. In
+a growth mindset, effort is a good thing: a student might say “trying harder makes you smarter.”
+In the face of a problem they cannot solve, a growth mindset student will be resilient, seeking
+appropriate help or switching strategies, rather than hiding their confusion. In longitudinal
+studies, a growth mindset predicts an upward trajectory in grades even across difficult school
+transitions.12
+What is Known About How to Affect Mindsets?
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+9
+See Yeager and Dweck, 2012, for a review of this research.
+10
+Blackwell et al., 2007
+11
+Yeager, 2012
+12
+Blackwell et al., 2007
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+7	  
+
+There are at least two ways to think about how to influence students’ mindsets in educational
+settings. First, everyday interactions with students, such as the way parents and teachers praise
+performance, frame critical feedback, structure grading systems, or talk about race and gender,
+can have a profound effect on mindsets.13 Second, researchers have developed precise, theorybased interventions that redirect students’ thinking toward a growth mindset. These can
+involve classroom- or Internet-based reading, writing, or video activities lasting from one to
+several class sessions. Below, we briefly review research demonstrating both ways to affect
+student mindsets. Next, we outline the key areas of R&D that will help us to apply the lessons
+from this research more broadly.
+Everyday interactions. A number of studies have documented that subtle verbal feedback from
+adults can put children in a fixed mindset and undermine motivation, and that this can happen
+even from valued caregivers who are trying to encourage children. A classic paper by Claudia
+Mueller and Carol Dweck showed that praising young adolescents for their intelligence—saying
+they were “smart” when they did well—created a fixed mindset and its problems.14 It put
+students in a world in which people evaluate intelligence. In contrast, praising the student’s
+“process” (their effort or strategies) put children in a growth mindset and fostered resilience.15 In
+related research, Aneeta Rattan and Catherine Good showed that comforting struggling math
+students by saying the equivalent of “Overall, you’re smart, but it’s okay—some people just
+aren’t good at math” taught students a fixed mindset and compromised their motivation. In both
+cases, practitioners who say these things may be trying to help students feel good. But ironically,
+these well-intended practice undermine resilience.
+Thus, how adults talk to students can change their mindsets and increase their academic tenacity.
+Can such verbal input, if heard repeatedly, create longer-term changes in a child’s overall
+motivational framework? Two new studies suggest that it can. Gunderson and colleagues found
+that how parents praise 1-3 year-old children—whether they praise the child’s effort and process
+versus ability—predicts whether the child will have a growth mindset and a desire for challenge
+5 years later. Similarly, Pomerantz showed that children aged 8 to 12 whose mothers used
+person praise (“you are smart”) rather than process praise (“you tried hard”) showed more
+change in the direction of a fixed mindset over a six-month period.16 Children whose mothers
+praised smartness also tended to avoid challenges and instead chose tasks where they would
+learn less but would not fail. It is easy to see how those students, over time, would acquire less
+knowledge, especially in the face of the rising difficulty of academic work in the middle school
+years.
+In sum, both experiments and longitudinal studies show that even brief everyday interactions that
+support a growth versus fixed mindset can produce different motivational frameworks in students
+and powerfully affect learning.
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+13
+cf. Masten, 2001
+14
+Mueller and Dweck, 1998
+15
+Also see Kamins and Dweck, 1999.
+16
+Pomerantz and Kempner, in press.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+8	  
+
+Precise, theory-based persuasive interventions. As shown above, daily verbal feedback from
+valued adults, even if well-intended, can create a fixed mindset. Yet through precise theorybased interventions it is possible to soften the built-up residue of a fixed mindset and create
+lasting changes in motivation and learning. Crucially, this is possible both during adolescence
+and even later in adulthood. These interventions teach students about neuroscience studies that
+demonstrate the brain’s potential to grow and change as well as the implications of this fact—
+that if you get confused or stumble, it does not mean you are “dumb.” The intervention teaches
+that, in fact, by coping with difficulty and confusion you can grow new connections in your brain
+and become “smarter.” Below, we summarize several interventions that tested this strategy.
+Example 1: Classroom-based workshops. Lisa Blackwell and Carol Dweck created an eightsession workshop to teach a growth mindset and study skills and evaluated it with low-income
+and minority 7th graders in New York City.17 In it, students learned to think of their brains as
+muscles that get stronger as you exercise them. Students visualized new neuronal connections
+growing as they completed hard math problems. Treatment group students also received six
+sessions of study skills. Blackwell et al. compared this to a control workshop that learned only
+study skills for eight sessions. The researchers found that the study skills control group
+continued the normal decline in math grades commonly experienced by middle schoolers.
+Students who learned the growth mindset with the study skills, however, showed a sharp rebound
+in their grades, performing significantly better at the end of the semester. See Figure 1.
+
+Math Grade
+
+Figure 1. Effects of growth mindset training on 7th grade students’ math grades
+Source: Blackwell, Trzesniewski, and Dweck, 2007.
+2.70
+2.65
+2.60
+2.55
+2.50
+2.45
+2.40
+2.35
+2.30
+2.25
+2.20
+
+Growth mindset
++ Study skills
+Study skills only
+
+Before workshop
+
+After workshop
+
+Example 2: Internet-delivered one-time reading and writing exercises. Studies such as that
+conducted by Blackwell et al. have shown that it is possible to change student mindsets through
+informative workshops. However, at scale, it can be difficult to rely on this strategy because it
+involves intensive teacher training—something that can introduce heterogeneity in
+implementation and also be time and cost-intensive. Furthermore, teachers may prefer even
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+17
+Blackwell et al., 2007
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+9	  
+
+briefer interventions. In recent years, then, Dave Paunesku, Carissa Romero, Greg Walton, and
+David Yeager have tested whether it is possible to distill the essential messages in the classroombased mindset interventions into briefer activities (~ 30 minute) and deliver them over the
+Internet directly to students. If effective, this approach would allow researchers and practitioners
+to scale mindset interventions to large numbers of students without incurring the human resource
+costs of visiting every school with trained facilitators.
+In the past two years this strategy has been tested with thousands of students. Each test has
+followed the same general procedure. Below we describe the overall intervention materials and
+evaluation methods, followed by the results for each population. Because this approach is new,
+we cite the working papers reporting these results below.
+Overall intervention procedure. In each of the studies summarized below, a growth mindset was
+communicated to students via a custom website that students visited either in their school’s
+computer lab during school hours or on their own computer at a time of their choosing (for
+college students). When students visited this website, the computer randomly assigned them to
+be presented either with a growth mindset intervention or a control intervention. When they
+completed the intervention, they were thanked and, from their perspective, the study was over.
+Student academic records were then obtained from the school or from a national database,
+depending on the study.
+Students randomly assigned to the growth mindset intervention condition typically read an article
+describing the brain's ability to restructure itself as a consequence of effort and changing
+strategies. The article focused on the implications of these neuroscientific findings for students'
+potential to become more intelligent through study and practice. This message was reinforced
+through several writing exercises. In the first, students summarized the scientific findings in their
+own words. In the second exercise, they read about a hypothetical student who was becoming
+discouraged and starting to think of himself as “not smart enough” to do well in school. Students
+were asked to advise this target student based on what they had read about the growth mindset.
+In a control condition, students completed an analogous activity, usually one that taught facts
+about memory and the brain but did not mention that intellectual ability is malleable. Below, we
+describe the effects of this intervention procedure in several different populations.
+High school students. Some experiments have tested whether a growth mindset intervention
+could affect low-achieving high school students’ GPAs across all academic subjects (Math,
+Science, English and History). In the spring of 2012, students at 13 high schools (public, charter,
+and private) across the country (N = 1594) participated in a web-based growth mindset
+intervention experiment.18 At the end of the term, students’ official grades in academic subjects
+were collected. Analyses focused on changes in overall GPA and on the percent of courses
+failed.
+There were significant but small effects for the whole sample. However, among the lowachieving students (bottom tercile), the growth mindset treatment improved overall GPA by 0.18
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+18	  Paunesku, Yeager, Romero, and Walton, 2013.	  
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+10	  
+
+grade points, a significant improvement. Much of this effect was explained by preventing
+students from failing their courses. Within this high-risk population of students, control-group
+students passed 60% of their classes, compared to 67% among growth-mindset treatment group
+students. This is depicted in Figure 2.
+Figure 2. Effects of growth mindset training on high school students’ course passing rates,
+among low-performing students (the bottom third in terms of pre-intervention GPA).
+Source: Paunesku, Yeager, Romero, and Walton (2013)
+
+Community college students. Nationally, community college students are disproportionally more
+likely to be low-performing, low-income or students of color. Thus an important question for
+creating educational equality is whether it is possible to improve these students’ prospects for
+completing a college credential. Paunesku, Yeager and colleagues tested this in a study similar to
+that described above, conducted with students at a community college in the Los Angeles
+metropolitan area (predominately Latino students; N = 715) in the Fall of 2011.19 At the
+beginning of the Fall semester, students completed the one-session growth mindset intervention
+via the Internet. At the end of the term, researchers obtained official records from the registrar.
+The primary outcome was post-intervention GPAs in all academic subjects (Math, Science,
+English, History, etc.). Analyses showed that the one-time growth mindset intervention raised
+overall GPA by 0.18 grade points compared to the control group who learned facts about the
+brain, a significant difference.
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+19
+Yeager, Paunesku, Romero, Brown, Muhich, and Walton, 2013.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+11	  
+
+A secondary question was whether a growth mindset message might benefit students who might
+be most likely to have a strong belief that they are not “math people”—that is, students who have
+enrolled in community college but are taking developmental (pre-college) math. Indeed, in a
+survey of developmental math students at 21 colleges across the country conducted by the
+Carnegie Foundation for the Advancement of Teaching, nearly 70% of students endorsed a fixed
+mindset about math ability, saying a person is just a “math person” or not, and there is nothing
+they can do about it.20 In the present study, we looked at the effects of the intervention
+specifically on math course dropout among the sub-sample of developmental math students (N =
+292). The growth mindset treatment reduced dropout from the course by over half (Control:
+20% dropped out; Growth mindset treatment: 9% dropped out), a significant difference. Thus,
+learning that your “math brain” can grow and develop could benefit even adults who have likely
+experienced a lifetime of feeling “dumb” at math.
+Students transitioning out of a high-performing charter school. Other recent experiments have
+tested whether growth mindset interventions might help address college persistence problems
+faced by graduates of high-performing urban charter high schools. Many high-quality charter
+schools such as KIPP, YES Prep, Mastery, Aspire, or Achievement First achieve high graduation
+and college acceptance rates, relative to similar students at local district schools or lowerperforming charter schools. Yet many of these high-performing charters report that too few of
+their students successfully complete college within 6 years—in some cases fewer than half—
+even though relative to comparable district schools serving similar students their rate of college
+completion is quite high. Some might view the lower persistence rates of these charter students
+as a critique of the school curriculum or student body. Another possibility however is a
+psychological one. Perhaps the schools are adequately preparing students in terms of academics
+but students’ beliefs about whether they will be viewed as having intellectual potential in college
+contributes to their difficulty persisting until graduation.
+Building on past research by Joshua Aronson, Catherine Good, and Claude Steele,21 a new
+intervention conducted by Yeager, Walton, and Dweck rested on the notion that racial minority
+students may worry that their intellectual ability will be viewed negatively in college, and that
+this worry could be an impediment to persistence in college. If so, then learning that intelligence
+is not a fixed trait but can be developed through education might alleviate some of the threat of
+negative stereotypes and allow students to more readily embrace the challenges of college.
+In light of this possibility, Yeager and colleagues collaborated with staff at an urban charter
+school network on the East coast to conduct a growth mindset intervention with all outgoing
+seniors at two schools (N = 160) in the spring of 2012.22 Nearly all of the students were African
+American and low-income (i.e., received free or reduced-price lunch). In May of senior year
+students completed a version of the brief web-based growth mindset materials described above
+(randomly assigned at the individual level). Working closely with school staff, the intervention
+was customized through a four-month R&D process that drew on extensive focus groups,
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+20
+Silva and White, 2013; Yeager, 2012.
+21
+See Aronson, Fried, and Good, 2002; Steele, 1997.
+22
+Yeager, Walton, Powers, House, Keane, Kementz, and Dweck, 2013.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+12	  
+
+interviews, and pilot tests. The customized intervention emphasized not only that people’s
+intelligence can be developed but also that your “know how” in college—your skills in
+navigating the environment—can grow and improve as you face new challenges. It
+communicated that if you struggle adjusting to college it does not mean you are “dumb” or that
+you “don’t belong” but rather that you are growing your “know how” to succeed in college.
+Randomly-assigned control students learned brain facts.
+No contact was made with students after the intervention was delivered in May of their senior
+year. Instead, researchers, working with school officials, measured college persistence rates via
+the National Student Clearinghouse (NSC), a non-profit database that tracks full-time enrollment
+(at many colleges, full-time enrollment is defined as 12 credits or more; note that the NSC does
+not report GPA, so college grades are not available as an outcome in this study). Analyses of
+these data are ongoing, but the initial results are striking. Raw data show that 49% of controlcondition students were enrolled full-time in college but 66% of growth-mindset condition
+students were, a significant difference. This effect was not diminished and remained significant
+when controlling for other predictors of college persistence, like SAT scores. These findings are
+supportive of the overall idea that one barrier to college persistence is a concern that one’s
+intelligence could be negatively stereotyped and undermined by everyday setbacks. However,
+even brief one-time interventions that teach that intelligence is not static but can grow powerfully
+affected full-time college enrollment.
+Full-scale implementation at a large institution. Is full-scale implementation of a web-based
+growth mindset intervention within an institution possible? Yeager, Walton, and Dweck tested
+this in a randomized experiment conducted at a large four-year university in Texas. Students at
+this university graduate on-time at a lower rate than might be expected based on their academic
+credentials (roughly 50%)—rates that are especially low for African American students (39%)—
+making it a suitable place to test whether a growth mindset intervention might help increase
+those rates both in the general population and among students more likely to face negative
+intellectual stereotypes.23
+As a part of online freshman orientation activities—in which students filled out medical forms
+and learned how to sign up for classes—all incoming students were required to complete a 30minute overview of the “university mindset.” In this activity, students were randomized (at the
+individual level) to a version of the growth mindset intervention described above or to a placebo
+control group that discussed adjusting to the physical layout of a new city and a college campus.
+The growth mindset intervention from past studies was customized for this university by
+conducting interviews, focus groups, and pilot tests with current upperclassmen, who wrote
+about the difficulties they had making the transition to college.
+Over 91% of incoming students successfully completed the intervention (N = 7,342). Research
+assistants reliably coded the quality of the open-ended intervention responses and found that
+fully 96% provided substantive responses to the prompt. No participants were excluded from
+analyses on the basis of their responses, however, so as to estimate an “intent-to-treat” effect,
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+23
+Yeager, Walton, Ritter, and Dweck, 2013.	  
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+13	  
+
+which is important in estimating the effect of the treatment in real-world terms. Thus, this study
+is close to a census of the freshman class, making it a reasonable demonstration of what a fully
+“scaled-up” growth mindset intervention might look like.
+Students completed the growth mindset materials between May and July of 2012. It took
+roughly 22 minutes to complete and students did so using whatever computer they used to
+complete the rest of their orientation materials. Although students will continue to be tracked
+through college, for the present analyses credit attainment information was obtained from the
+University registrar for the Fall 2012 semester. The focal outcome was the percent of students
+who obtained more than the minimum number of credits (>12 gpa-bearing credits: a past analysis
+found that this was one of the strongest predictors of on-time graduation).24
+The growth mindset intervention increased the rate at which students in the full sample earned
+>12 credits from 61% in the control to 64% in the growth mindset treatment, a significant
+difference. These effects were larger for African American students, who may face negative
+stereotypes about their intellectual ability. While only 45% of African American students in the
+control group earned 12+ credits, this number was increased to 55% in the treatment condition,
+also a significant difference. This corresponded to a 63% reduction in the achievement gap in
+credit earning between White students and African American students, as a function of a onetime growth mindset intervention delivered over the Internet months before school started.
+These findings are illustrated in Figure 3. All of these findings remained significant and were
+slightly larger when adjusting for covariates that predict credit attainment, like SAT scores, high
+school class rank, and sex.
+Figure 3. Percent of students earning >12 credits in the first semester of college as a
+function of growth mindset treatment, among all students (N = 7,342) and African
+American students (N = 356). Source: Yeager, Walton, Ritter, and Dweck (2013).
+Control
+
+Growth Mindset
+
+70%
+65%
+
+64%
+61%
+
+60%
+55%
+55%
+50%
+45%
+45%
+40%
+All Students
+
+African American Students
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+24
+Diehl, 2012.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+14	  
+
+Relation to traditional interventions. Mindset interventions are, of course, only part of the
+solution to problems of low achievement and group disparities in education. Mindset
+interventions do not replace traditional school reforms; instead, they allow students to take
+advantage of educational opportunities available to them. Fully addressing systematic issues in
+education thus requires continuing investments in improvements to teaching and instruction as
+well as other programs to support children and families. Indeed, well-run schools are a
+fundamental human right for students, even apart from their impact on learning.
+At the same time, it can be helpful from a policy perspective to put the size of the effects of
+mindset interventions into context by comparing them to other non-mindset interventions in the
+literature. How do the effects of mindset interventions compare to traditional educational
+reforms tested at a similarly large scale? Many interventions are randomized at a school or
+classroom level, making them ill-suited for comparison to growth mindset training. However,
+one well-designed line of research by Goldrick-Rab and colleagues has examined the impact of
+offering entering college students $3,500 scholarships if they remain enrolled as full-time
+students. Because a sub-set of students in these studies were randomly assigned at the individual
+level to be offered these scholarships, researchers could evaluate the impact of doing this on
+analogous student outcomes to those summarized above, making this one interesting case against
+which to compare effects of growth mindset training. Goldrick-Rab found that offering students
+$3,500 scholarships had full-sample effects on full-time college enrollment of 2.4 percentage
+points.25 Comparable effects of growth mindset interventions on college outcomes were 3
+percentage points for full-time enrollment in the full sample, and 10 to 17 percentage points for
+African American students, who statistically are at higher risk of not persisting through college.
+Thus, the available evidence obtained from experiments with many thousands of students
+suggests that growth mindset interventions delivered over the Internet at no cost to institutions
+can be at least as effective as the effect of offering $3,500 scholarships.26
+Summary. These findings demonstrate the possibility that even brief but theoretically informed
+methods to communicate a growth mindset to students can affect their academic performance
+and resilience. However, additional research is needed to build on these demonstrations and
+provide specific guidance for practitioners to reliably affect student mindsets in diverse settings.
+Below we outline an R&D agenda that summarizes what more needs to be learned to effectively
+and responsibly use mindset research and to positively affect more students.
+What Do We Need to Learn to Effectively Scale Mindset Research in Education?
+Larger-scale experimental studies are needed to understand the conditions that maximize or
+reduce the impact of mindset interventions. For instance, what kinds of students benefit most? In
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+25
+See p. 38 in Goldrick-Rab, Harris, Kelchen, and Benson, 2012;
+http://finaidstudy.org/documents/GoldrickRab%20Harris%20Kelchen%20Benson%202012%20FULL.pdf
+26
+Goldrick-Rab et al., 2012
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+15	  
+
+what kind of contexts do students benefit most? And what kinds of strategies to impart a growth
+mindset are most effective?
+These research questions overlap with the interests of educational practitioners. Practitioners
+also want to affect student mindsets and raise achievement and they want to do it well. To do so
+they need a larger “toolkit” of validated everyday practices for changing mindsets and they need
+principles for how to apply these effectively in diverse classrooms. At the same time,
+practitioners often ask for assessments so they can learn whether they are effectively changing
+mindsets. For reasons we outline below, existing mindset assessments, while suitable for
+research purposes, are less suitable for informing rapid improvements in applied settings.
+Below, we outline three broad areas for R&D that represent the highest priorities for both
+researchers and practitioners: (1) Principles for effective interventions; (2) Everyday practices
+that affect mindsets; (3) Assessments that measure short-term changes in mindsets and related
+behaviors so as to provide data to inform improvement efforts.
+I.
+
+Principles: Understanding how to maximize the effects of mindset interventions.
+
+A crucial area for research and development is to better understand the conditions that allow
+mindset interventions to have maximal and sustained effects. Some research and theory can shed
+light on these conditions. However, many of these ideas require further testing on a much larger
+scale. This is a high priority for research going forward.
+Below, we show that past mindset interventions have three essential qualities: They (1)
+successfully target students’ beliefs about themselves and their educational environments, (2) are
+delivered in a psychologically precise and potent way, and (3) tap into recursive processes in
+school (virtuous cycles) that sustain the effects of the initial intervention.27 As we state below,
+these principles of effective interventions are grounded in theory and past research but require
+further testing to give practitioners more concrete guidance.
+Targeting students’ beliefs. Mindset interventions begin by understanding students’ beliefs and
+their impact. Mindset interventions may seem small to outside observers, and often they are brief
+and low-cost relative to other reforms. However, to a student who worries that a poor test score
+means that she is stupid or could be seen as stupid, or who believes that members of his racial
+group are not respected in school, learning that the brain is not static but can form new
+connections and become smarter when challenged can be powerful. This message assuages the
+specific fears that can stifle learning and can thus can have strikingly large effects on student
+outcomes.
+Because mindset interventions work by targeting student beliefs, research needs to identify the
+specific beliefs that matter in a given educational setting to have an impact. In many cases, this
+has led researchers to conduct extensive interviews, focus groups, and pilot tests to inform
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+27
+For other discussions of these ideas, see Garcia and Cohen, 2012; Yeager, Walton, and Cohen,
+2012; Yeager and Walton, 2011.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+16	  
+
+alterations to intervention materials. This was the case in the community college, charter school,
+and four-year college intervention experiments noted above. In other cases, however, materials
+are not customized but, rather, are designed to be effective for a wide-range of students and are
+simply administered to many students, as in the high school experiment noted above. It is
+important to conduct research on when mindset interventions require customization (and, if so,
+how and to what extent) and when they do not—when they are “robust” in different contexts and
+with different populations and how they can be made more robust.
+The finding that existing mindset interventions have had significant effects with diverse
+populations creates a significant opportunity: Can even non-customized mindset interventions be
+effective in changing students’ mindsets and improving academic outcomes on a national level?
+And what factors could cause it to have differential impact? We can answer these questions
+almost immediately, in the next few years. With coordination, we could evaluate an existing
+one-time, web-based growth-mindset interventions with a national probability sample of schools
+from various grade levels. Of course this would involve some thinking about logistics, but this is
+exactly the sort of problem that government-sponsored research routinely solves. The NSF funds
+the General Social Survey and the National Election Studies, the latter of which conducted a
+representative-sample web-based study in the 2008 election, demonstrating the feasibility of
+probability-based web surveys. With a panel of psychologists, education researchers,
+government officials, and experts in probability-based sampling, something analogous could be
+accomplished for mindsets. This type of free, web-based intervention would not address all
+causes of fixed mindsets in school (let alone all psychological causes of underachievement), and
+there will undoubtedly be heterogeneity in effect sizes. Thus, the rest of the R&D agenda
+outlined below involves ways to address mindsets in more contextually appropriate ways. In the
+meantime, however, a high-priority scientific objective we can achieve in the near term is to
+estimate how effective a “baseline” growth mindset intervention could be, especially for lowperforming or disadvantaged students, and what contextual or implementation factors predict
+differential impact.
+Customizing for Native American communities. In some cases research has customized the
+typical growth mindset intervention to make it more consistent with the beliefs of a particular
+population. Stephanie Fryberg observed that the traditional “individualistic” framing of a growth
+mindset—the idea that you can grow your own personal intelligence—was not as motivating for
+Native American populations, who tend to focus more on community-based goals like
+contributing to family or community. When the growth mindset message was reframed as a
+means to achieve valued collective outcomes, such as contributing to family, this seemed to
+produce important improvements. For instance, one school community adopted the new,
+collectivistic growth mindset framing throughout the school (and beyond)—teachers, principals,
+and parents employed the message that “you help your community when you grow your brain.”
+Although not evaluated experimentally, analysis of school records showed a remarkable
+turnaround—the school went from being one of the lowest-performing schools in the state in
+state test scores to a high performing one in only two years. Kindergarten and 1st grade students
+now lead the district in oral reading fluency, and the large majority of older students are showing
+more than one year of growth in terms of test scores. However, no published research has
+directly compared this community-oriented growth mindset framing to the more traditional
+independent one. Future research could directly test whether such revised framings are more
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+17	  
+
+evocative and effective for some populations.
+Future directions. There are at least two additional areas of “low hanging fruit” for which it may
+be important to customize growth mindset messages. We consider these below.
+Early childhood. The interventions summarized above rely on a person’s ability to learn facts
+about brain malleability and to understand the relevance of these ideas to schoolwork. How can
+such messages be adapted so they are developmentally appropriate for young children?
+Research shows that mindsets are operative in young children and affect their challenge-seeking
+and persistence. Even subtle hints that people from different groups are “good” or “bad” at
+certain tasks can produce in children a fixed mindset about those tasks and undermine resilience.
+For instance, Andrei Cimpian and colleagues showed that 4-7 year-old children who hear, for
+instance, that “boys are really good at this,” infer that raw ability is necessary to complete a
+given task.28 As a consequence, both boys and girls subsequently underperform when they
+attempt difficult problems on this task. In addition, as we have noted, praise directed at young
+children can affect children’s mindsets, challenge-seeking, and persistence.29 Research that
+builds on these findings could inform theories about how to customize messages to instill
+productive mindsets in young children. Can we train teachers in Head Start and other early
+childhood programs to communicate a growth mindset wisely? Would this be an economically
+efficient way to strengthen the long-term effects of early childhood interventions?
+Adult vocational education. As the US economy changes and adult workers are increasingly
+required to retrain in emerging technologies, it can be especially important for adults to have a
+growth mindset—to believe that “old dogs” can learn “new tricks.” In today’s economy, many
+employable adults have been laid off, for instance when their jobs became obsolete due to
+outsourcing or new technology. Adults with a fixed mindset may feel they cannot acquire
+expertise in emerging industries quickly enough to gain new employment. A tailored growth
+mindset intervention, however—one that focused on acquiring new job skills—might be a
+missing ingredient in adult education programs that seek to help unemployed adults reenter the
+workforce. A potential area for innovation is to investigate what would be necessary to apply
+growth mindset ideas effectively with this population.
+Specific recommendations:
+•
+
+•
+
+Use large-scale experiments to learn how robust the effects of a non-customized mindset
+intervention are for different groups of students (a “baseline” mindset intervention). For
+instance, a population-average effect size could be estimated if a probability-based
+sample of K-12 schools and universities participated in individual-level randomized
+experimental interventions.
+Conduct laboratory and field experiments to learn where it is helpful or necessary to
+customize mindset messages to yield larger effects for specific populations (e.g.,
+race/ethnic groups; gender groups; age groups; students in specific educational contexts).
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+28
+Cimpian, Mu, and Erickson, 2012
+29
+Mueller and Dweck, 1998
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+•
+
+•
+
+18	  
+
+Use RFPs or other mechanisms to accelerate growth mindset intervention research in
+areas ripe for innovation, such as early childhood and adult vocational training. If
+successful, consider public policies that facilitate the implementation of growth mindset
+interventions in early childhood and adult educational programs.
+Conduct research on the best methods for customizing mindset interventions effectively
+in diverse applied settings. For instance, can we develop protocols for conducting usercentered design and then train educational professionals to do this work?
+
+Psychologically wise delivery. As noted, mindset interventions change how students think or
+feel about themselves in school. If an intervention does not deliver its message in a way that
+leads to these changes, it will not be effective. Each intervention summarized earlier used a
+delivery mechanism that drew on research about how to make messages stick.
+Rather than simply presenting an appeal to a student, mindset interventions frequently enlist
+students to generate the intervention itself. These are active experiences, not passive exposures.
+For instance, one delivery mechanism involves asking students to write letters to younger
+students advocating for the intervention message (e.g., “Tell a younger student why the brain can
+grow”). As research on the “saying-is-believing” effect shows, encouraging students to author a
+persuasive appeal and advocate for it to a receptive audience is a powerful means of selfpersuasion.30
+Similarly, rather than telling students how they should use a growth mindset in their lives,
+interventions sometimes ask students to generate how they could. In these respects, the
+interventions provide a built-in element of personalization—individual students respond to
+intervention prompts in ways that customize the intervention message for themselves, potentially
+making the intervention message most relevant to their own personal experience and increasing
+the robustness of the intervention across diverse students. However, this element has not been
+tested in past research on the growth mindset.31 An important R&D question involves whether
+built-in personalization elements increase the robustness of interventions in diverse populations
+and how this robustness may be further improved.32
+Although these delivery mechanisms are psychologically powerful and reliable, they are often
+subtle. The web-based growth mindset interventions did not expose students to an overt
+persuasive appeal (e.g., “You should do your homework to grow your brain”) or tell them they
+are receiving “an intervention” to help them. Instead, they used a “stealthy” approach to avoid
+feeling controlling or stigmatizing—they avoid conveying that student recipients are seen as in
+need of help.33 At the same time, some successful in-person growth mindset workshops have
+explicitly emphasized to students that the message is intended to benefit them or their class. For
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+30
+Aronson, 1999
+31	  Though see	  Godes, Hulleman, and Harackeiwicz, 2007, for a test in the context of mindsets
+about the relevance of schoolwork.	  
+32
+For other examples, see Cohen et al., 2009; Hulleman and Harackeiwicz, 2009; Walton and
+Cohen, 2011.
+33
+Robinson, 2010; Ross and Nisbett, 1991
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+19	  
+
+instance, in Fryberg’s customization for Native American populations, a growth mindset was an
+explicit tool for personal and social change. An important empirical question, then, is when a
+growth-mindset intervention should be subtle and stealthy and when it should be more overt and
+explicit.
+What is the right length for a mindset intervention? This is also an empirical question. A worry
+is that excessive repetition of the same message risks conveying that students are seen as in need
+of help and risks undermining the credibility of the message (“thou doth protest too much”). At
+the same time, it may be helpful to have redundancy in mindset messages, so students who may
+be unaffected by an initial intervention have additional opportunities to benefit and so that
+students can connect an initial mindset message with ongoing academic experiences. An
+important area for R&D is to use randomized experiments to test whether “booster” shots
+delivered periodically can provide needed redundancy in the delivery of mindset messages and
+thus enhance effects without undermining the original intervention.
+Specific recommendations:
+•
+
+•
+
+•
+•
+•
+
+Research that tests whether “personalization” elements increase the robustness of mindset
+interventions in diverse student populations and, more broadly, how to increase
+robustness.
+Research that varies the type of persuasive appeal used in a growth mindset experiments,
+comparing methods that are more overt to methods that are “stealthier,” to understand
+which approach is more effective in particular situations.
+Research that tests whether mindset interventions at multiple levels—students, influential
+peers, teachers, parents, principals—produce larger effects.
+Research that evaluates “boosters” of an intervention, and that identifies what kind, in
+what contexts, and delivered when boosters are effective.
+Research on developmentally sensitive methods—for instance, methods that pay attention
+to adolescents’ concerns about autonomy—that may be needed to successfully address
+student mindsets on a wide scale.
+
+Recursive processes. What can seem especially mysterious is how a brief or one-shot mindset
+intervention can generate effects that persist over long periods. A key to understanding the longlasting effects of psychological interventions is to understand how they set in motion selfreinforcing processes.
+In education, early success begets more success. When an intervention leads a student to study,
+learn, and build academic skills, they are better prepared to learn and perform in the future. As
+students feel more comfortable in school, they build better relationships with peers and with
+teachers—relationships that support higher levels of achievement in the future. As students
+perform well, they are placed in higher-level classes—gateways that raise expectations, expose
+them to high-achieving peers, and put them on a trajectory of success. Well-timed, well-targeted
+mindset interventions can improve students’ relationships, experiences, and performance at a
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+20	  
+
+critical stage and thus improve students’ trajectory through their school careers.34
+To date, not enough research has directly tested the specific recursive processes that determine
+the long-term impact of mindset interventions. Such research is important for psychological and
+sociological theories of education, but it is also important for practitioners who aim to optimally
+time and tailor interventions to maximize their impact.
+For instance, research should assess the optimal timing of interventions. If mindset interventions
+help students acquire foundational skills they can use later in school, or if they allow students to
+seek out help from teachers sooner, potentially forming better teacher-student relationships,
+interventions delivered earlier in school or in the school year may be more effective.35 At the
+same time, it may never be too late to teach someone that the brain can grow and be developed
+and improve their academic outcomes, as among adults taking developmental math in
+community college, summarized above.
+Specific recommendations:
+•
+
+•
+
+•
+
+II.
+
+Experimental studies that investigate recursive processes directly—that is, that track the
+effect of mindset interventions on real-time change in student confidence, challengeseeking, relationships with peers and teachers, learning, and long-term educational
+attainment. This will be increasingly possible as learning happens online and student
+work and communications are captured in real-time.36
+Experimental studies that discover the optimal timing for the delivery of interventions
+(both timing within a school year and developmental timing, such as during childhood
+versus adolescence) to improve theories of recursive processes and provide more specific
+recommendations for practice.
+Studies that assess features of social and educational environments that allow mindset
+interventions to set in motion virtuous recursive processes or that prevent them from
+doing so (e.g., whether students are exposed to high-quality instruction and curriculum,
+have opportunities to pursue higher-level coursework, and have opportunities to form
+better relationships with peers and teachers). These contextual features may determine
+whether mindset interventions can generate long-term change in a given setting or not.
+Practices: Expanding the “toolkit” of day-to-day practices that instill productive
+mindsets.
+
+Research on mindsets has produced several recommendations for what to say and what not to say
+to students to create a growth mindset and to forestall a fixed mindset. But practitioners have
+many thousands of conversations with students every academic year, and they need more—and
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+34
+Garcia and Cohen, 2012
+35
+Cook, Purdie-Vaughns, Garcia, and Cohen, 2012
+36
+For a discussion of the use of data mining and rapid analytics for R&D in education, see US
+Department of Education, Office of Educational Technology, 2012, 2013.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+21	  
+
+more tailored and more useful—recommendations for everyday practice than the experimental
+literature has yet produced.
+There are at least three ways to rapidly expand the “toolkit” of day-to-day practices that instill
+productive mindsets. The first and most immediately actionable strategy is to dramatically
+accelerate the amount of randomized intervention research conducted by psychological
+researchers in applied settings. We outline examples of this type of research below, and this
+constitutes much of the focus of our specific recommendations.
+We acknowledge, however, that randomized experiments may test the efficacy of types of
+practices but may not generate enough specific advice for practitioners. Thus, we suggest two
+additional potential future directions that are worthy of consideration. One is to create more
+ways for practitioners to learn rapidly about the effectiveness of their own classroom practices.
+Another is to facilitate a marketplace in which private companies create materials and practices
+based in theory and evaluated in rigorous research, which teachers and schools can then use.
+After discussing the acceleration of experimental research, we discuss these ideas.
+Accelerating field-experimental research on “everyday practices.” Recall that much research
+has shown that the everyday ways in which adults talk to children can create mindsets that
+support or undermine resilience. For instance, Gunderson and colleagues showed that children
+who are praised for “process”—effort or strategies—have more growth-oriented motivational
+frameworks up to five years later,37 and Pomerantz and colleagues showed that children who are
+praised more for “smartness” showed more fixed mindsets over time.38 These observational,
+correlational studies have identified some likely inputs to children’s mindsets.
+These examples also reinforce the need for experimental research that isolates the impact of dayto-day verbal feedback on students’ mindsets and achievement—and that gives practitioners
+concrete feedback about how to talk to children effectively. Effectively promoting mindsets can
+be difficult and counterintuitive for parents and teachers. Past research shows how easy it is for
+even well-intentioned efforts to motivate students to backfire and cause harm. As we noted
+earlier, this is true when adults praise a child as being “smart at that” or when they comfort a
+struggling child by saying “Overall you are smart, but maybe you’re not a math person.”39
+Adults may have strong, deeply held intuitions about what to say to students to boost their
+confidence. Absent strong experimental research, we may fail to question our intuitions and
+instead continue to use verbal feedback we believe to be effective but in fact is either inert or
+harmful.
+Thus, continued experimentation on the sometimes counterintuitive ways that productive
+mindsets can be built or undermined is an essential part of the R&D agenda. Two examples that
+have done this are below. However, as we state, much more research is needed.
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+37
+Gunderson, Gripshover, Romero, Dweck, Goldin-Meadow, and Levine, in press.
+38
+Pomerantz and Kempner, in press.
+39
+Mueller and Dweck, 1998; Rattan et al., 2012
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+22	  
+
+First, some research has taken advantage of recent advances in online education to accelerate
+learning about effective “everyday practices” that support student mindsets. For instance, Dave
+Paunesku and colleagues have conducted randomized experiments on the online learning website
+Khan Academy (khanacademy.org) with more than 250,000 students. The Khan Academy
+website allows students to watch brief (~ 3 minute) videos about math concepts and then take
+diagnostic assessments on those concepts. The Khan Academy website allows students to watch
+videos about math concepts and then take diagnostic assessments on those concepts. Over a
+period of several months, researchers presented to one groups of students statements embodying
+a growth mindset (e.g., “When you learn a new kind of math problem, you grow your math
+brain!”) at the top of screens during a unit of fractions, and to another group of students
+encouraging statements that did not convey a growth mindset (e.g., “If at first you don’t succeed,
+try again.”). The placebo statements represented phrases that educators commonly use to
+motivate students and convey an overall positive attitude but they do not spark a growth mindset.
+A randomly selected third of students saw no encouraging statements at the top of their screens.
+The researchers then tracked the number of problems online learners successfully completed
+over the ensuing few months. Growth-mindset feedback increased the percent of correct
+problems students solved by 3-5%, depending on the task, compared both to students who
+received placebo encouragement and to students who received no encouragement. Moreover, this
+effect was fully maintained even after students completed the section on fractions and moved on
+to the next set of math concepts during which they no longer saw the growth mindset phrasing.40
+All told, this research suggests that a growth mindset can be built using brief but theory-informed
+messages—something that positive and supportive but generic statements do not.
+Other research has examined day-to-day practices using experiments conducted in brick-andmortar school settings. As one example, research by Geoffrey Cohen, Julio Garcia, Valerie
+Purdie-Vaughns and David Yeager examined what method of providing critical feedback would
+most effectively communicate to students that teachers see them as having the potential to grow
+and improve.41 A common intuition is that the most effective way to provide feedback is to first
+compliment students to raise their self-esteem, and then to hit them with critical feedback.
+However, Cohen and colleagues began with the premise that what students need is not hollow
+self-esteem boosting but the belief that their teacher believes in their potential to learn and grow
+and to meet a higher standard. The researchers tested this by conducting a series of experiments
+in middle school classrooms. Seventh grade students first wrote drafts of an essay about a
+personal hero. Next, teachers marked up these essays with standard critical feedback, including
+both substantive criticisms (e.g., comments on organization and content) and bland
+encouragement (e.g., “overall nice job.”). Before students received the graded essays,
+researchers appended brief notes hand-written previously by teachers. In the treatment condition,
+the note emphasized the high standards of the course and conveyed the teacher’s confidence in
+the student’s potential to meet this standard (“I’m giving you these comments because I have
+high standards and know that you can meet them”). The key dependent variable was whether
+students turned in a revised essay in the next week. Findings showed that only 40% of control
+students revised the essay but 80% of students who received the high standards and personal
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+40
+.Sohl-Dickstein, Paunesku, Haley, and Williams (2013)
+41
+Yeager, Purdie-Vaughns et al. (2013)
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+23	  
+
+assurance note did. The effects were even more striking for African American students (17% in
+the control vs. 72% in the treatment).
+This type of field-based experimental research on everyday practices affecting mindsets is
+relatively rare, unfortunately.42 Why? Many barriers stand in the way. First, there are simply not
+enough researchers trained to do it. Most experimental psychologists are not trained to conduct
+research in field settings and many educational researchers are not trained to conduct theorydriven, precise experiments. Second, it is logistically difficult and time-intensive to conduct this
+research; for instance, it takes time to build trusting partnerships between researchers and
+schools. This makes it difficult to conduct more than one such experiment in a school year—far
+below the standard rate for a typical experimental psychologist, who might conduct ten or twenty
+experiments with undergraduate participants in a year. Hence, conducting practically useful
+research on teacher practices seems to be at odds with the professional incentives of
+experimental researchers. Third, the analysis and publication process is slow, often requiring
+several years of data analysis, writing, and journal submission after a study has been completed.
+While it is important to have these types of publications, there is no way for bottom-line findings
+from mindset experiments to quickly reach practitioners.
+It is crucial then to reduce barriers for researchers to conduct field-experimental research on
+teacher practices and to accelerate the analysis and dissemination of that research. Below we
+provide specific recommendations for doing so:
+Specific recommendations:
+• Accelerate the pace of experimentation by using online learning environments such as
+MOOCs as laboratories for conducting brief, large, iterative randomized experiments on
+methods to improve student mindsets —similar to what software engineers call “A/B
+testing.”43
+• Consider creating “big science” analogues in psychology and education—how can
+researchers pool common resources and relationships with schools to conduct more
+experiments and analyze data more quickly? NSF-funded initiatives such as the ANES,
+GSS, or TESS may be guides.
+• Create alternative outlets for faster dissemination of results of experiments on effective
+(and ineffective) “everyday practices,” without undermining the potential for later
+publication in disciplinary outlets.
+• Continue to support and expand researcher-practitioner networks that produce and
+disseminate research-tested methods to improve mindsets.
+Future directions. As noted, there are at least two additional ways to accelerate learning about
+effective everyday practices to promote productive mindsets: (a) empowering practitioners to
+learn from their experiences, and (b) fostering private innovation.
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+42
+For a rare exception, see, e.g., Destin and Oyserman, 2009; 2010.
+43
+Also see U.S. Department of Education, Office of Educational Technology, 2013.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+24	  
+
+A. Create ways for practitioners to partner with researchers and to learn more rapidly what
+effectively promotes mindsets. Practitioners are likely to implement mindset ideas in their
+classrooms regardless of what researchers produce. A key question, then, is this: How can we
+empower practitioners to learn whether their local innovations are helpful or harmful for
+students? And how can we help practitioners share and scale innovations that are effective?
+This question is especially important because the history of school reform teaches us that
+promising ideas, when scaled, frequently lose their essential ingredients. Even when the
+materials given to students are replicated across contexts, the psychological or educational heft
+of an exercise can be lost. Project-based learning activities that require students to do
+independent research and produce a scale model can quickly turn in to a trip to an arts-and-crafts
+store or a visit to Wikipedia.44 In some cases innovations became inert versions of their former
+selves. In other cases they can be transformed into something harmful. This can potentially
+happen to nearly all educational innovations, and it can certainly happen to psychological
+interventions.
+One well-known example in psychology comes from the self-esteem movement. Researchers
+produced an enormous amount of rigorous, large-sample research showing that low self-esteem
+is an excellent predictor of poor life outcomes—depression, stress, health, educational
+attainment, aggression, etc.45 However the application of this research in educational settings
+was to praise children to boost self-esteem. This recommendation rested on the faulty
+assumption that doing anything positive to a person would boost self-esteem and improve
+academic outcomes—for instance, praising people for being “smart,” complimenting people for
+mediocre performance, handing out trophies for last place performances. Ironically, this
+misapplication of the research may have led to some of the problems that students now face in
+terms of fixed mindsets. And the self-esteem movement is widely viewed as a misinterpretation
+of research findings and a misguided attempt to turn them into practice.
+It is important to prevent mindset research from being misinterpreted and misused at scale. For
+this reason, one priority future direction is to design ways for practitioners to learn more quickly
+from their efforts to address mindsets in classrooms. Teachers hoping to instill in children the
+belief that they can grow and improve might tell them that they have hidden talent or that
+“you’re the best”—both phrases that could imply the importance of fixed ability relative to
+peers.46 How can practitioners learn more rapidly whether their efforts to address mindsets in
+classrooms have retained the essential psychological message or not?
+One future possibility involves training specialists who can help teachers learn about the latest
+experimental findings on everyday practices that promote mindsets and then use continuous
+improvement processes to make these work reliably in their classrooms.47 Just as it is common
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+44
+See, for instance, a discussion of the “California mission project” in Yeager and Walton, 2011
+45
+e.g. Donnellan, Trezesniewski, Robins, Moffitt, and Caspi, 2005
+46
+For research showing this was the case in one growth mindset training study, see Shumow and
+Schmidt, 2013.
+47
+See a discussion of improvement research in Bryk, Gomez, and Grunow, 2011.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+25	  
+
+for a school to have instructional coaches who use formative assessments to help teachers
+appropriately scaffold their instruction, it is possible to imagine “mindset coaches” who use data
+to inform improvement in schools. These professionals would not be develop new theories about
+mindsets but would, rather, be trained to use formative assessments and then work with teachers
+to acquire and respond appropriately to evidence about the effects of their classroom-based
+mindset practices.48
+In this spirit, organizations such as the Carnegie Foundation for the Advancement of Teaching
+have begun to train “improvement specialists” to track data related to motivation and persistence
+over time with teachers—like the number of students who ask questions or show up for class—
+and then help teachers implement small changes to improve students’ mindsets and increase
+learning behaviors.49 By conducting this kind of data-informed, small-scale improvement
+research, teachers and improvement specialists have worked to identify, for instance, which
+routines seem to make students comfortable asking questions about concepts they do not
+understand—a leading indicator of long-term knowledge acquisition. If this feedback process is
+repeated over many cycles with many practitioners testing a larger number of classroom
+innovations, schools or districts might amass a large, local evidence base for effective
+practices.50 In the next section we discuss in greater detail why existing measures of mindsets
+may be ill-suited for this task and we outline what kinds of measures might be more suitable.
+B. Foster private innovation and large-scale dissemination through rigorous evaluation and
+government certification of mindset interventions. In medicine, companies that create safe,
+effective “interventions”—like drugs and medical procedures—and that deliver these
+interventions on a large scale to address health problems can reap significant financial rewards.
+These incentives motivate companies to develop new interventions that are safer, more effective,
+and more robust than prior interventions and to scale them rapidly. This marketplace works in
+part because the government plays a critical role. Working through the Food and Drug
+Administration (FDA), the government acts as an honest broker that evaluates the evidence
+regarding the safety and effectiveness of new medical interventions and certifies new
+interventions that meet relevant standards to the public and the health care industry. This
+certification allows companies to sell their product and reap the financial reward.
+Perhaps a similar approach would be effective in education. The government could encourage
+private companies to develop new mindset interventions designed to be more effective or more
+robust than existing interventions or to be better suited for a given student population. Through a
+combination of private research, academic research, and government research, evidence could be
+acquired evaluating the effectiveness of a given intervention product. Government panels could
+then review this evidence and, if the product meets relevant standards, certify the product as safe
+and effective for a given population. This certification could then help or allow companies to sell
+intervention products to schools or to others in the educational environment (e.g., to parents).
+For instance, the federal government could grant states or school districts access to additional
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+48
+See Yeager and Walton, 2011, for a discussion of related ideas.
+49
+Silva and White, 2013	  
+50
+Bryk et al., 2011
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+26	  
+
+funds (e.g., a new portion of Title I dollars) to be used specifically for certified intervention
+products that reliably reduce achievement gaps or benefit low-performing students.
+Government certification is especially important because in some cases poorly applied
+psychological interventions may cause harm. It is important for vendors of educational products
+to show not only that the product is based on solid research, but also to provide evidence that it
+actually produces the psychological experience that the research says is important for student
+learning and, in turn, affects challenge-seeking, persistence, resilience and learning.
+In short, with the proper incentive structure, insights from research on academic mindsets can be
+more efficiently turned into reliably effective interventions in partnerships with private industry.
+A future challenge to the field is to learn how to do this responsibly.
+III.
+
+Assessments: Measures that allow researchers and practitioners to learn more
+rapidly from efforts to change mindsets.
+
+One item high on the list of requests from practitioners is a set of measures of academic mindsets
+and other non-cognitive factors. Specifically, practitioners want measures so they can (a)
+identify teachers or schools who do or do not promote productive mindsets, to inform
+evaluations; (b) identify specific students who have a mindset that puts them at risk so they can
+be given a personalized intervention; and (c) help thoughtful practitioners learn from their efforts
+and optimize their classroom climates to promote mindsets. These different purposes are
+accountability, remediation, and improvement.51
+Existing measures are sometimes unsuitable for accountability, remediation or
+improvement purposes. Unfortunately, the measures of non-cognitive factors commonly
+available to practitioners were designed for an entirely different purpose: theory development.
+That is, many of the available student self-report measures were designed for testing the relation
+between mindsets and outcomes, e.g., the relation of a fixed mindset to GPA—not for diagnosing
+mindsets at the individual level or for determining whether an effort to promote a growth
+mindset was effective. While measures for theory development are helpful to the extent that they
+illuminate average trends that can inform decision-making at an aggregate level, they are less
+helpful for the purposes requested by practitioners. Said another way, many existing measures of
+non-cognitive factors are not well-suited for accountability, remediation or improvement.
+There are many examples of why this might be true. One compelling unpublished example
+comes from research by Angela Duckworth, a leader in the field of measures of non-cognitive
+factors. She measured levels of self-reported “grit”—or passion and perseverance for long-term
+goals—among students attending West Point military academy and found that levels of grit
+actually went down significantly over the four years at West Point, despite the fact that this is
+highly unlikely to be the case (West Point students undergo tremendous physical and mental
+challenges as a part of their training.)52 Instead, according to Duckworth, it is likely that they
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+51
+Also see a discussion of different uses of data in Yeager and Bryk, 2013
+52
+Angela Duckworth, personal communication.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+27	  
+
+were now comparing themselves to a very gritty peers or role models and revising their
+assessment of themselves accordingly.
+There are also examples in the published literature. A team of researchers at Mathematica
+recently conducted an evaluation of the effect of KIPP charter schools on student test scores.53
+KIPP schools have longer school hours, longer school years, more challenging coursework, and
+teachers with more demanding standards than traditional schools. Indeed, in this study, KIPP
+students completed 30-50 more minutes of homework per night compared to district students
+(depending on the analysis). Simply on the basis of completing more work, students in the KIPP
+system were predicted to have made greater gains in their mastery of academic concepts
+according to state tests. And, in fact, researchers found that KIPP students, when compared to
+students who lost the lottery and went to the district school instead, showed greater mastery of
+academic concepts. Importantly, however, the researchers also compared the two groups of
+students in terms of their self-reports on a large battery of non-cognitive factors, including school
+engagement, self-control, academic self-concept, and effort and persistence in school.
+Strikingly, the researchers found no differences between the student populations in terms of these
+items. That is, while according to all objective standards—demanding curriculum, number of
+hours studying, etc.—KIPP students exhibited more self-control, stayed more engaged in their
+schoolwork, and expended more effort, they rated themselves no more highly along these factors.
+Again, it is likely that they adjusted their ratings to the new comparison group.
+As we have been suggesting, it is possible that the reason for this is a change in the reference that
+students are using when answering questions used in these studies, something that has been
+noted by several past researchers.54 For instance, when students are asked to agree with the
+statement “I try hard in school” they may instead be answering the question “I try hard in school
+compared to other people around me” or “… compared to how much harder I could be trying.”
+When students are surrounded by very different peers working at very different rates, or when
+they have been exposed to the potential to work even harder than they are now, as in an
+intervention, then it can be difficult to collect data that is meaningful for the purposes outlined
+above (e.g., to evaluate schools). This feature of the psychology of questionnaire design can
+potentially undermine any comparisons between classrooms, between schools, or over time
+within individuals. In addition, many measures of self-reported mindsets, even if unbiased,
+cannot be administered repeatedly and they are not likely to be sensitive to short-term changes in
+student behavior because they assess global beliefs rather than concrete actions.
+New measures of non-cognitive factors are needed. New measures that would be of great
+benefit to the field would have many or all of these features:55
+• They would likely assess behaviors that indicate the possession of productive mindsets
+or non-cognitive skills. Instead of asking students how much they agree that “I like
+trying hard problems where I can learn a lot,” a measure might embed real choices
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+53
+Tuttle, Cleason, Knechtel, Nichols-Barrer, and Resch, 2013
+54
+Biernat, 2003
+55
+Yeager and Bryk, 2013
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+•
+
+•
+•
+•
+
+•
+
+28	  
+
+between easy and hard problems on a homework assignment and count how often
+students choose to work on hard problems instead of easy problems.
+They would be valid at the level of analysis they are used for—we could assess the
+percent of students who chose hard tasks where they could learn a lot as opposed to easy
+tasks where they could get a high score.
+They would be repeatable—that is, the meaning and validity of the measure would not
+be altered by repeated use.
+They would be brief—they cannot be long or redundant, because then practitioners could
+not use them repeatedly over time.
+They would be convenient and unobtrusive—measures must be easy to collect and
+analyze, for instance analyzing whether students review their work or not when doing
+homework in an online course management platform.
+These might be self-reports, but it would be essential to demonstrate that a particular
+self-report measure does not suffer from the biases reported above (i.e., that there is not a
+possibility for different reference groups or that this possibility does not undermine
+validity).
+
+Ideally, a suite of such measures could be developed in age-appropriate ways. They could be
+delivered as stand-alone activities via the Internet or embedded in the web of daily instruction,
+for instance by data mining online instructional system data.
+These new, briefer, behavioral measures are extremely useful for research-practice partnerships.
+If practitioners are going to work with researchers to put their “everyday practices” for
+promoting mindsets to the test, they will need measures that can tell them whether, in the short
+term, their actions have led to improvements in student mindsets. Thus, to the extent that the
+field seeks to create researcher-practitioner partnerships for continuous improvement in the
+classroom, creating valid measures to tap this improvement is one of the highest priorities.
+It is important to mention, of course, that the types of student behaviors that could be assessed
+via the new suite of non-cognitive measures are not only relevant to growth versus fixed
+mindsets. Other highly important mindsets—such as mindsets about belonging, about negative
+stereotypes, or about relevance of the schoolwork—might also affect similar behaviors such as
+effective strategy use, challenge-seeking, persistence, etc. Thus such measures could be usefully
+applied to the evaluation of many interventions that seek to enhance students’ engagement with
+learning.
+Specific recommendations:
+• Identify which existing self-report measures are adequate for practitioner purposes, and
+which are inadequate.
+• Drive toward agreement among relevant stakeholders (researchers and practitioners) to
+define a set of important behaviors that new measures should assess.
+• Commission a set of measures of behavioral profiles that signal the presence of positive
+academic mindsets. These should be brief, scalable (e.g., web-based), repeatable,
+relatively unobtrusive, sensitive to short-term changes, comparable across classrooms and
+schools, and predictive of long-term outcomes.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+29	  
+
+Future directions.
+Using non-cognitive measures for school or teacher accountability. One long-term future
+direction is to consider whether such measures could be designed for accountability purposes.
+For instance, at the end of standardized tests, students could have optional problems that could
+be explicitly framed as either challenging or easy. Or achievement test performance could be
+analyzed to determine how well students bounced back from difficulty or wrong answers. It may
+be possible to incentivize schools that produce larger numbers of “learners” rather than
+rewarding schools only on the basis of producing “knowers.”
+Human Capital Development
+To carry out the R&D mission outlined here, it is essential to significantly increase the available
+community of researchers skilled in conducting experimental research on mindsets in field
+settings in education. A high priority is thus to expand opportunities for advanced training in this
+area for psychologists and educational researchers, through postdoctoral fellowships, summer
+training institutes, and other initiatives.
+In addition, as noted, it may be possible to train a new class of professionals to conduct
+continuous improvement research in educational settings, specialized in working with teachers to
+remove motivational barriers that harm students, especially at-risk students, and in assessing the
+effects of such local innovations. Of course, to train these professionals well it will be essential
+to increase our knowledge base of the principles, practices, and assessments that are likely to
+affect mindsets in applied settings. Said another way, before we can train these people we need
+to know what we should tell them. Therefore we see the building of this human resource
+throughout education as depending critically on accomplishing the R&D objectives outlined
+here.
+How Can We Get Started?
+Truly solving problems related to student mindsets will require dedicated efforts to change
+teaching and perhaps parenting practices. These efforts can be started immediately and should
+be pursued in the long-run. At the same time, the most immediate short-term goal—something
+that could be accomplished in the next two years—is to estimate how effective existing growthmindset interventions (“baseline” interventions) can be at a population level, and what factors
+lead to variance in intervention effectiveness. As we have argued, this can be done by delivering
+interventions via the Internet to a probability sample of students in middle school, high school
+and college. Through a web-based platform it would also be easy to compare several different
+mindset interventions, to find out what works best and for whom and in what setting or context.
+We could also compare what delivery strategy is most effective, and whether certain details of
+the delivery, like “stealthiness” and personalization, really matter. The baseline mindset
+interventions will of course not benefit every student or every school. But there is enough
+evidence for the promise of these interventions to expect to find at least average benefits for lowperforming students or for negatively stereotyped students. This may be a powerful catalyst for
+the reduction in achievement gaps, as even small effects in large populations can have important
+implications for equity. Given the potential to learn a great deal about the effectiveness and
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+30	  
+
+limitations of current intervention strategies to address mindsets, as well as to build out
+infrastructure that could support future, more customized and ideally more effective
+interventions, it is important to consider how to make this initiative a reality in the very short
+term.
+Second, there is enough evidence that our national obsession with “smartness” and “talent”
+undermines student learning and thus our national competitiveness, especially when considering
+achievement in STEM-related fields and among students who face negative intellectual
+stereotypes. We should ask: Can we redirect the national conversation away from a focus on
+“smart” children and toward a focus on “learning” children? As a nation we could eliminate the
+phrase “I’m not a math person” from our vocabulary—a phrase that, itself, can contribute to race,
+gender, and socioeconomic inequality in STEM fields.56 Such a sea change is not unheard of in
+the U.S. As a society we have for the most part eliminated racial epithets from casual
+conversation. Can we do the same regarding mindsets? Instead of it being common to hear “I’m
+not a math person,” can we make it ubiquitous to hear “I’m a math learner”? With coordinated
+PR and social media and with teachers wise to the power of a growth mindset we can imagine a
+world in the very near future where no child’s prospect of success in education is diminished by
+harmful mindsets about the fixedness of ability.
+Conclusion
+As anyone who works in education knows, problems facing students and schools are complex
+and multi-determined. There are no silver bullets, but mindset interventions can be helpful for
+student learning, and even necessary. When we give students the belief that they can grow and
+learn in school, that they are not limited by fixed inability, and that they belong and are valued,
+we motivate them to take advantage of the social and educational resources in school. We help
+them to learn from the teaching and curricula present there, to develop relationships with people
+in school, and ultimately to acquire skills they need for long-term success.
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+56
+See, e.g., Beilock, Gunderson, Ramirez, and Levine, 2010; Rattan et al., 2012
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+31	  
+
+References
+Aronson, E. (1999). The power of self-persuasion. American Psychologist, 54, 875–884.
+Aronson, J., Fried, C., & Good, C. (2002). Reducing the effects of stereotype threat on African
+American college students by shaping theories of intelligence. Journal of Experimental
+Social Psychology, 38, 113–125.
+Beilock, S.L., Gunderson, E.A., Ramirez, G., & Levine, S.C. (2010). Female teachers’ math
+anxiety affects girls’ math achievement. Proceedings of the National Academy of
+Sciences of the United States of America, 107, 1860-1863.
+Biernat, M. (2003). Toward a broader view of social stereotyping. American Psychologist, 58,
+1019-1027.
+Blackwell, L. A., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit Theories of intelligence
+and achievement across the junior high school transition: A longitudinal study and an
+intervention. Child Development, 78, 246–263.
+Bryk, A. S., Gomez, L. M., & Grunow, A. (2011). Getting ideas into action: Building networked
+improvement communities. Frontiers in Sociology and Social Research (M. Hallinan,
+Ed.). Retrieved May 10, 2013 from
+http://www.carnegiefoundation.org/sites/default/files/bryk-gomez_building-nicseducation.pdf
+Cimpian, A., Mu, Y., & Erickson, L. C. (2012). Who is good at this game? Linking an activity to
+a social category undermines children’s achievement. Psychological Science, 23, 533541.
+Cohen, G. L., Garcia, J., Purdie-Vaugns, V., Apfel, N., & Brzustoski, P. (2009). Recursive
+processes in self-affirmation: Intervening to close the minority achievement gap. Science,
+324, 400–403.
+Cook, J. E., Purdie-Vaughns, V., Garcia, J., & Cohen, G. L. (2012). Chronic threat and
+contingent belonging: Protective benefits of values affirmation on identity
+development. Journal of Personality and Social Psychology, 102, 479-496.
+Destin, M., & Oyserman, D. (2009). From assets to school outcomes: How finances shape
+children’s perceived possibilities and intentions. Psychological Science, 20, 414–418.
+Destin, M., & Oyserman, D. (2010). Incentivizing education: Seeing schoolwork as an
+investment, not a chore. Journal of Experimental Social Psychology, 46, 846–849.
+Diehl, R. (2012). Final Report on the Task Force on Undergraduate Graduation Rates. Austin,
+TX: University of Texas Press. Retrieved May 10, 2013 from
+http://www.utexas.edu/graduation-rates/documents/GRAD-REPORT.pdf
+Donnellan, M. B., Trzesniewski, K. H., Robins, R. W., Moffitt, T. E., & Caspi, A. (2005). Low
+self-esteem is related to aggression, anti-social behavior, and delinquency. Psychological
+Science, 16, 328-335.
+Dweck, C. S. (2006). Mindset. New York, NY: Random House.
+Dweck, C. S., Walton, G. M., & Cohen, G. (2011). Academic tenacity. White paper prepared for
+the Gates Foundation. Seattle, WA.
+Farrington, C. A., Roderick, M., Allensworth, E., Nagaoka, J., Keyes, T. S., Johnson, D. W., &
+Beechum, N. O. (2012). Teaching adolescents to become learners. The role of
+noncognitive factors in shaping school performance: A critical literature review.
+Chicago, IL: University of Chicago Consortium on Chicago School Research.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+32	  
+
+Garcia, J. & Cohen, G. L. (2012). A social-psychological approach to educational intervention.
+In E. Shafir (Eds.), Behavioral foundations of policy, (pp. 329-350). Princeton, NJ:
+Princeton University Press.
+Goldrick-Rab, S., Harris, D. N., Kelchen, R., & Benson, J. (2012). Need-based financial aid and
+college persistence: Experimental evidence from Wisconsin. Retrieved May 10, 2013
+from http://finaidstudy.org/documents/GoldrickRab%20Harris%20Kelchen%20Benson%202012%20FULL.pdf.
+Godes, O., Hulleman, C. S., & Harackiewicz, J. M. (2007). Boosting students’ interest in math
+with utility value: Two experimental tests. Paper presented at the meeting of the
+American Educational Research Association, Chicago, IL.
+Gunderson, E. A., Gripshover, S. J., Romero, C., Dweck, C. S., Goldin-Meadow, S., & Levine,
+S. C. (in press). Parent praise to 1-3 year-olds predicts children’s motivational
+frameworks 5 years later. Child Development.
+Heyman, G. D., & Dweck, C. S. (1992). Achievement goals and intrinsic motivation: Their
+relation and their role in adaptive motivation. Motivation and Emotion, 16, 231–247.
+Hulleman, C. S., & Harackiewicz, J. M. (2009). Making education relevant: Increasing interest
+and performance in high school science classes. Science, 326, 1410–1412.
+Kamins, M. & Dweck, C. S. (1999). Person vs. process praise and criticism: Implications for
+contingent self-worth and coping. Developmental Psychology, 35, 835-847.
+Masten, A. S. (2001). Ordinary magic: Resilience processes in development. American
+Psychologist, 56, 227-238.
+Mueller, C. M., & Dweck, C. S. (1998). Intelligence praise can undermine motivation and
+performance. Journal of Personality and Social Psychology, 75, 33–52.
+Paunesku, D., Yeager, D., Romero, C., & Walton, G., (2013). Brief social-psychological
+interventions are a scalable solution for academic underperformance. Unpublished
+Manuscript, Stanford University.
+Pomerantz, E., & Kempner, S.G. (in press). Mothers’ daily person and process praise:
+Implications for children’s theory of intelligence and motivation. Developmental
+Psychology.
+Ramirez, G., & Beilock, S. (2011). Writing about testing worries boosts exam perfor- mance in
+the classroom. Science, 331, 211–213.
+Rattan, A., Good, C., & Dweck, C. S. (2012). “It’s ok — Not everyone can be good at math”:
+Instructors with an entity theory comfort (and demotivate) students. Journal of
+Experimental Social Psychology, 48, 731–737.
+Robinson, T. N. (2010). Stealth interventions for obesity prevention and control: Motivating
+behavior change. In L. Dube, A. Bechara, A. Dagher, et al., (Eds). Obesity prevention:
+The role of brain and society on individual behavior pp. 319-327. New York: Elsevier.
+Ross, L., & Nisbett, R. E. (1991). The person and the situation: Perspectives of social
+psychology. New York, NY: McGraw-Hill.
+Silva, E., & White, T. (2013). Pathways to improvement: Using psychological strategies to help
+community college students master developmental math. Retrieved May 10, 2013 from
+http://www.carnegiefoundation.org/sites/default/files/pathways_to_improvement.pdf
+Sohl-Dickstein, Paunesku, Haley, & Williams. (2013). Motivating online learning with targeted
+psychological messages. Unpublished Manuscript, Stanford University.
+Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and
+performance. American Psychologist, 52, 613–629.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+33	  
+
+Shumow, L. & Schmidt, J. A. (2013, April). Exploring teacher effects in outcomes of a growth
+mindset intervention in seventh grade science classes. Paper presented at the annual
+meeting of the American Educational Research Association, San Francisco, CA.
+Tuttle, C. C., Gil, B., Gleason, P., Knechtel, V., Nichols-Barrer, I., & Resch, A. (2013). KIPP
+middle schools: Impacts on achievement and other outcomes. Mathematica Policy
+Research. Washington, DC.
+U.S. Department of Education, Office of Educational Technology (2012). Enhancing Teaching
+and Learning Through Educational Data Mining and Learning Analytics: An Issue Brief,
+Washington, DC: Author.
+U.S. Department of Education, Office of Educational Technology. (2013). Promoting grit,
+tenacity, and perseverance: Critical factors for success in the 21st century. United States
+Department of Education, Office of Educational Technology. Washington, DC.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic
+and health outcomes among minority students. Science, 331, 1447–1451.
+Wilson, T. (2011). Redirect: The surprising new science of psychological change. New York,
+NY: Penguin Group.
+Yeager, D. S. (April, 2012). Productive persistence: A practical theory of community college
+student success. Paper presented at the 2012 Annual Meeting for the American
+Educational Research Association, Vancouver, Canada.
+Yeager, D.S. & Bryk, A. (2013). The case for practical measurement. Unpublished manuscript,
+University of Texas at Austin, Austin, TX.
+Yeager, D. S., & Dweck, C, S. (2012). Mindsets that promote resilience: When students believe
+that personal characteristics can be developed. Educational Psychologist, 47, 302-314.
+Yeager, D.S., Paunesku, D., Romero, C., Brown, R., Muhich, J., & Walton, G. (2013).
+Engineering psychological interventions for scale: The case of the “growth mindset” in
+community colleges. Unpublished Manuscript, University of Texas at Austin.
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education: They're
+not magic. Review of Educational Research, 81, 267-301.
+Yeager, D. S., Walton, G., & Cohen, G. L. (2013). Addressing achievement gaps with
+psychological interventions. Phi Delta Kappan, 94, 62-65.
+Yeager, D.S., Walton, G., Ritter, G., & Dweck, C.S. (2013). Full-scale implementation of
+psychological interventions at a large institution: An experimental test. Unpublished
+Manuscript, University of Texas at Austin.
+Yeager, D.S., Walton, G., Powers, J., House, A., Keane, L., Kementz, D., & Dweck, C.S. (2013).
+Addressing beliefs about ability and belonging ease the transition to college for urban
+charter students. Unpublished Manuscript, University of Texas at Austin.
+Yeager, D.S., Purdie-Vaughns, V., Garcia, J., Apfel, N., Pebley, P., Master, A., Hessert, W.,
+Williams, M. & Cohen, G.L. (in press). Breaking the cycle of mistrust: Wise
+interventions to provide critical feedback across the racial divide. Journal of
+Experimental Psychology: General.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+34	  
+
+Appendix 1: A Selective Bibliography of Mindset and Self-Regulation Interventions
+Attribution Re-Training
+Wilson, T. D., & Linville, P. W. (1982). Improving the academic performance of college
+freshmen: Attribution theory revisited, Journal of Personality and Social Psychology, 42,
+367-372.
+Wilson, T. D., & Linville, P. W. (1985). Improving the performance of college freshmen
+with attributional techinques. Journal of Personality and Social Psychology, 49, 287-293.
+Growth vs. Fixed Mindsets of Intelligence
+Aronson, J., Fried., C. B., & Good, C. (2002). Reducing the effects of stereotype threat
+on African American college students by shaping theories of intelligence. Journal of
+Experimental Social Psychology, 38, 113-125.
+Good, C., Aronson, J., & Inzlicht, M. (2003). Improving adolescents' standardized test
+performance: An intervention to reduce the effects of stereotype threat. Applied
+Developmental Psychology, 24, 645-662.
+Blackwell, L., Trzesniewski, K., & Dweck, C. S. (2007). Implicit theories of intelligence
+predict achievement across and adolescent transition: A longitudinal study and an
+intervention. Child Development, 78, 246-263
+Values Affirmation and Social Belonging
+Cohen, G. L., Garcia, J., Apfel, N., & Master, A. (2006). Reducing the racial
+achievement gap: A social-psychological intervention. Science, 313, 1307-1310.
+Cohen, G. L., Garcia, J., Purdie-Vaughns, V., Apfel, N., & Brzustoski, P. (2009).
+Recursive processes in self-affirmation: Intervening to close the minority achievement
+gap. Science, 324, 400-403.
+Miyake, A., Kost-Smith, L. E., Finkelstein, N. D., Pollock, S. J., Cohen, G. L., & Ito, T.
+A. (2010). Reducing the gender achievement gap in college science: A classroom study
+of values affirmation. Science, 330, 1234-1237.
+Sherman, D. K., Hartson, K. A., Binning, K. R., Purdie-Vaughns, V., Garcia, J.,
+Taborsky-Barba, S., & Cohen, G. L. (2013). Deflecting the trajectory and changing the
+narrative: How self-affirmation affects academic performance and motivation under
+identity threat. Journal of Personality and Social Psychology, 104, 591-618.
+Walton, G. M., & Cohen, G. L. (2007). A question of belonging: Race, social fit, and
+achievement. Journal of Personality and Social Psychology, 92, 82-96.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+35	  
+
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves
+academic and health outcome among minority students. Science, 331, 1447-1451.
+Possible Selves
+Oyserman, D., Bybee, D., and Terry, K. (2006). Possible selves and academic outcomes:
+How and when possible selves impel action. Journal of Personality and Social
+Psychology, 91, 188 - 204.
+Expectancy-Value Theory
+Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting interest and performance in
+high school science classes. Science, 326, 1410-1412.
+Goal Setting
+Duckworth, A. L., Kirby, T., Gollwitzer, A., & Oettingen, G. (in press). From fantasy to
+action: Mental contrasting with implementation intentions (MCII) improves academic
+performance in children. Social Psychological and Personality Science.
+Morisano, D., Hirsch, J. B., Peterson, J. B., Shore, B., & Pihl, R. O. (2010). Setting,
+elaborating, and reflecting on personal goals improves academic performance. Journal of
+Applied Psychology, 95, 255 - 264.
+Anxiety and Emotion Regulation
+Jamieson, J., Mendes, W. B., Blackstock, E., & Schmader, T. (2009). Turning the knots
+in your stomach into bows: Repappraising arounsal improves performance on the GRE.
+Journal of Experimental Social Psychology, 46, 208-212.
+Ramirez, G., & Beilock, S. L. (2011). Writing about test worries boosts exam
+performance in the classroom. Science, 331, 211-213.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+36	  
+
+Appendix 2: Methodological Supplement
+High School Figures
+Figure A1. A screenshot from the growth mindset intervention uses the metaphor that the
+brain is like a muscle.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+Figure A2. A “saying is believing” exercise at the end of the growth mindset intervention
+leads students to endorse the message and self-customize it by tying it to their own life.
+
+DRAFT: Please do not quote or cite without written permission.
+
+37	  
+
+Academic Mindsets: An R&D Agenda
+
+38	  
+
+Full-Scale Implementation Figures
+Figure A3. Screen shot of web portal directing students to the growth mindset intervention
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+Figure A4. Screen shot of growth mindset article read by participants in the scaled-up
+intervention.
+
+DRAFT: Please do not quote or cite without written permission.
+
+39	  
+
+Academic Mindsets: An R&D Agenda
+
+40	  
+
+Appendix 3: Text from Growth Mindset Intervention (Community College Trial)
+Think about the article that you just read. What are all the reasons why scientists say that
+people's math ability can grow and get better with effort and practice?
+Please summarize them briefly below.
+[text box]
+[page break]
+In the article, you learned 3 things:
+1. When you work hard and learn new things, your brain grows new connections and you
+get smarter.
+2. The more you challenge yourself, the smarter you will become.
+3. Smart people are the ones who have practiced more—they have built up their reading and
+math "muscles."
+Think about an example from your own life. What is something you weren’t good at at first.
+Then you practiced it using a good strategy and became really good at it. Write about it and
+explain how you became good at it.
+[text box]
+[page break]
+Not all math students know that the brain can get smarter, even though it may help them succeed.
+And we want to get your help, so we can learn more about how to explain it to them. We're
+hoping you can explain--in your own words--that the brain gets smarter when people use good
+strategies and try hard.
+Imagine a friend who is struggling in school. This friend used to do pretty well in school but now
+is having a hard time and is starting to feel dumb. Write a letter to your friend to encourage him
+or her—tell them about what you just learned about the brain and why they shouldn’t be
+discouraged.
+For example, you can tell them:
+a) how they can get smarter if they work hard and use a good strategy,
+b) how they should work hard to build their reading and math muscles,
+c) how they are not dumb, they just need to practice using a good strategy,
+d) how they can ask the teacher or other students to help them learn better ways to study.
+Or any other tips you have for learning in school and getting smarter.
+
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+41	  
+
+Appendix 4: Open-ended Responses Written By Students in the Full-Scale Implementation
+at a Four-Year University
+Example 1
+[This] is a huge school and I know that it is going to be filled with a lot of "smart" people.
+Although I have not actually experienced this firsthand yet, I had a similar experience in high
+school. I opted to go to a small, magnet school that was basically an accumulation of all the
+smart people from all the other high schools. I was overwhelmed, but then I realized if I worked
+hard I would be able to succeed. I guess, one of the biggest thing for me was to dedicate the time
+necessary to each subject so that I could fully grasp the concepts I needed to learn. Trust me,
+when you get that assignment, project and test back with the wonderful score...it will pay off.
+And later down the road when you're able to recall the concepts, you'll be surprised at how well
+you know the subject. So essentially, what I'm trying to say is that there's no such thing as a
+"smart" or "dumb" person, the "smart" people just had more practice...but everybody is able to
+catch up to that level once they put in the necessary time.
+Example 2
+Hi there. / I had the same issue with the transition from middle school to high school: I had
+straight As in middle school, and all of a sudden I was getting Cs. I felt stupid. New
+environments provoke new emotions, I guess. / Even worse, it felt like asking a question meant
+that you were admitting you were dumb... but that feeling isn't true at all. / You waste time and
+opportunity by thinking like that. That time and opportunity could be used to ask questions and
+better yourself. In fact, I think that those who ask questions are the smart ones - the ones that
+have the confidence to ask questions, the ones that constantly have the courage to gain more
+knowledge. / At one point, you have to get over how uncomfortable you are with seeking help or
+approaching a professor. That's already a big step to growing. Imagine all the opportunities you
+would have to grow. You don't want to limit your resources, and other brains are some of the
+best resources to use to grow your own brain. (Hey, in a new age of technology, natural human
+knowledge is so, so valuable.) / I'm a strong believer in hard work, and the things you want don't
+come easy without it. To get the things you want, you have to work hard and do things you've
+never done. Try new strategies! Talk to new people! Grow that brain! / / You're not dumb. You
+just have to realize your potential. And find the right way to do it. (Easier said than done, I
+know.)
+Example 3
+Hi! / I heard you are starting to have a hard time in college. From experience, I know exactly
+how you feel. When I started college, I worried about not being "smart" enough for the class and
+was often very shy to seek for assistance. But believe me, everybody undergoes the same
+thoughts. Just because a class seems hard, it doesn't automatically mean that you are dumb. / As
+a matter of fact, I learned that it is never too late to learn! Did you know that the brain is like a
+muscle and with enough exercise, it can grow? / Yes, it is true. Just like an athlete exercises to
+DRAFT: Please do not quote or cite without written permission.
+
+Academic Mindsets: An R&D Agenda
+
+42	  
+
+get stronger, if you open your mind to learning new things, your brain grows with more
+knowledge on any particular topic. / So although you are struggling in a class, it doesn't mean
+that you aren't meant for it. It may be challenging, but I encourage you to find a way to learn.
+You may need to concentrate on the topic even more, but it isn't as difficult nor boring as it
+sounds. Around the campus, there are many students, Teacher Assistants, and professors who
+can give you the best study advice they can give, and I encourage you to go out and seek these
+great opportunities and tips that they have to offer. / Well, I wish you the best of luck, and
+remember keep exercising that brain!
+Example 4
+Dear friend, / / As a student who was once in your shoes a few years ago, I too thought I was
+prepared for college and would breeze by with the study methods I had in high school. Although,
+I realized soon after that I was far from the truth. I want to tell you that every student has his or
+her low point in college either by feeling intimidated by their professors or feeling lost in such an
+enormous campus; but it's an awakening for them to realize that its only another challenge to
+overcome and improve one's study habits and socializing skills. The professors are not going to
+hold your hand and expect you be successful in life; just like a coach is not going to spike the
+volleyball, make the free throw or jump the hurdle for you. They challenge you to face that
+obstacle head on and if you fall, you get back up and try again. When I reached my low point
+first semester of my freshman year, I had to seek advice from other students in my classes and
+tutors and realized that they too were in the same boat as I was. We later worked together, shared
+study habits and soon become great friends. Now, I have confidence in registering for new
+classes instead of dreading to type in that ID number just to get it over with. As a friend with
+experience, I am telling you to have dedicated and a open mind when you set foot on campus
+because it will make you college experience significantly better.
+
+DRAFT: Please do not quote or cite without written permission.
+
+

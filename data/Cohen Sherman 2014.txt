@@ -1,0 +1,2665 @@
+PS65CH13-Cohen
+
+ARI
+
+ANNUAL
+REVIEWS
+
+31 October 2013
+
+13:5
+
+Further
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Click here for quick links to
+Annual Reviews content online,
+including:
+• Other articles in this volume
+• Top cited articles
+• Top downloaded articles
+• Our comprehensive search
+
+The Psychology of Change:
+Self-Afﬁrmation and Social
+Psychological Intervention
+Geoffrey L. Cohen1 and David K. Sherman2
+1
+
+Graduate School of Education, Department of Psychology, and (by courtesy) Graduate School
+of Business, Stanford University, Stanford, California 94305; email: glc@stanford.edu
+
+2
+
+Department of Psychological & Brain Sciences, University of California, Santa Barbara,
+California 93106; email: david.sherman@psych.ucsb.edu
+
+Annu. Rev. Psychol. 2014. 65:333–71
+
+Keywords
+
+The Annual Review of Psychology is online at
+http://psych.annualreviews.org
+
+health, intervention, relationships, self-afﬁrmation, stereotype threat
+
+This article’s doi:
+10.1146/annurev-psych-010213-115137
+
+Abstract
+
+c 2014 by Annual Reviews.
+Copyright 
+All rights reserved
+
+Watch a video lecture online
+
+People have a basic need to maintain the integrity of the self, a global sense
+of personal adequacy. Events that threaten self-integrity arouse stress and
+self-protective defenses that can hamper performance and growth. However,
+an intervention known as self-afﬁrmation can curb these negative outcomes.
+Self-afﬁrmation interventions typically have people write about core personal values. The interventions bring about a more expansive view of the
+self and its resources, weakening the implications of a threat for personal integrity. Timely afﬁrmations have been shown to improve education, health,
+and relationship outcomes, with beneﬁts that sometimes persist for months
+and years. Like other interventions and experiences, self-afﬁrmations can
+have lasting beneﬁts when they touch off a cycle of adaptive potential, a
+positive feedback loop between the self-system and the social system that
+propagates adaptive outcomes over time. The present review highlights both
+connections with other disciplines and lessons for a social psychological understanding of intervention and change.
+
+333
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Contents
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Pervasive Psychology of Self-Defense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Self-Afﬁrmation Theory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+What Are Self-Afﬁrmations? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Understanding the Effects of Self-Afﬁrmation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cycles of Adaptive Potential: How Social Psychological Processes Such
+as Self-Afﬁrmation Propagate Through Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AFFIRMATION INTERVENTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Intergroup Conﬂict and Interpersonal Relationships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+IMPLICATIONS, QUALIFICATIONS, AND QUESTIONS . . . . . . . . . . . . . . . . . . . . .
+Lessons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Moderators and Boundary Conditions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Connections With Other Research Areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+334
+335
+336
+337
+339
+340
+342
+342
+347
+352
+354
+354
+358
+360
+362
+
+INTRODUCTION
+
+Self-integrity: the
+perception of oneself
+as morally and
+adaptively adequate
+
+334
+
+In the 1940s, despite war shortages in ﬁner meats and produce, many American homemakers
+refused to purchase inferior but more abundant foods even when pressured with patriotic appeals.
+But when Kurt Lewin (1997/1948) brought homemakers together in small groups to talk about
+obstacles to serving the recommended foods—thus creating a new group norm around the desired
+behavior—their purchase patterns changed. In the U.S. Civil Rights era, prejudice was widespread,
+and opposition to equal rights proved tenacious in many quarters. But when Milton Rokeach (1973)
+threatened Americans’ conception of themselves as compassionate—with a brief insinuation that
+they valued their own freedom more than the freedom of others—their support for civil rights
+strengthened in a lasting way.
+Today many social problems afﬂict society—inequalities in education, health, and economic
+outcomes; political polarization; and intergroup conﬂict. But these social problems share a psychological commonality with the historical cases described above. The commonality is the notion
+that barriers and catalysts to change can be identiﬁed and that social psychological interventions
+can bring about long-term improvement.
+This review has two purposes. First it looks at threats to, and afﬁrmations of, the self as barriers
+and catalysts to change. Threats and afﬁrmations arise from the self ’s fundamental motive: to be
+morally and adaptively adequate, good and efﬁcacious. How people maintain the integrity of the
+self, especially when it comes under threat, forms the focus of self-afﬁrmation theory (Steele 1988;
+see also Aronson et al. 1999, Sherman & Cohen 2006). We provide an overview of self-afﬁrmation
+theory and review research in three areas where the theory has yielded impactful self-afﬁrmation
+interventions: education, health, and interpersonal and intergroup relationships.
+A second purpose of this review is to address questions related to the psychology of change
+raised by self-afﬁrmation research. Increasingly, social psychological research demonstrates the
+potential for brief interventions to have lasting benefits (Cohen & Garcia 2008, Garcia & Cohen,
+2012, Walton & Cohen 2011, Wilson 2011, Yeager & Walton 2011). These interventions help
+people to adapt to long-term challenges. For example, a series of 10-minute self-affirming
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+exercises, which prompt people to write about core personal values, raised minority student
+achievement in public schools, with effects that persisted for years (Cohen et al. 2006, 2009;
+Sherman et al. 2013). How is this possible? How and when do social psychological interventions
+such as self-afﬁrmation spark lasting positive change? An impactful intervention acts like almost
+any formative experience. It works not in isolation but rather like a turning point in a story, an
+event that sets in motion accumulating consequences (Elder 1998). Timely interventions can
+channel people into what we refer to as a cycle of adaptive potential. This is a series of
+reciprocally reinforcing interactions between the self-system and a social system, such as a school,
+that propagates adaptive outcomes over time (cf. Elder 1974, Wilson 2011). The self acts; the
+social system reacts; and the cycle repeats in a feedback loop (Caspi & Moffitt 1995). We discuss
+lessons for intervention and for a social psychological understanding of change.
+
+The Pervasive Psychology of Self-Defense
+
+Cycle of adaptive
+potential: a positive
+feedback loop between
+the self-system and the
+social system that
+propagates adaptive
+outcomes over time
+Psychological threat:
+the perception of
+environmental
+challenge to one’s
+self-integrity
+
+Key to understanding the effects of afﬁrmation is psychological threat, the perception of an environmental challenge to the adequacy of the self. Whether people see their environment as
+threatening or safe marks a dichotomy that runs through research not only on self-afﬁrmation but
+also on attachment, stress, and coping (see Worthman et al. 2010). Psychological threat represents
+an inner alarm that arouses vigilance and the motive to reafﬁrm the self (Steele 1988). Although
+psychological threat can sometimes trigger positive change (Rokeach 1973, Stone et al. 1994), it
+can also impede adaptive coping. People may focus on the short-term goal of self-defense, often
+at the cost of long-term learning. Like a distracting alarm, psychological threat can also consume
+mental resources that could otherwise be marshaled for better performance and problem solving.
+Thus, psychological threat can raise a barrier to adaptive change.
+Major life events, such as losing one’s job or receiving a medical diagnosis, can obviously give
+rise to psychological threat. But the self-integrity motive is so strong that mundane events can
+threaten the self as well and instigate defensive responses to protect it (Sherman & Cohen 2006).
+When people make trivial choices, such as between two similarly appealing music albums, they tend
+to defensively rationalize their selection (Steele et al. 1993). When partisans encounter evidence
+that challenges their political views, they tend to reﬂexively refute it (Cohen et al. 2007). When
+sports fans see their favorite team suffer a defeat, they experience it partly as their own and increase
+their consumption of unhealthy comfort foods (Cornil & Chandon 2013; see also Sherman & Kim
+2005). When people confront petty insults, they sometimes turn to violence and even homicide to
+reassert an image of personal strength and honor in the minds of others (Cohen et al. 1996; see also
+Baumeister et al. 1996). Although the objective stakes of many of these situations seem low, the
+subjective stakes for the self can be high. That everyday events can bring about feelings of threat
+and trigger extreme responses attests to the power and pervasiveness of the self-integrity motive.
+Greenwald (1980) likened the self to a totalitarian regime that suppresses and distorts information to project an image of itself as good, powerful, and stable. However, unlike a totalitarian
+regime, people can be self-critical. They sometimes denigrate themselves more than outside observers do and believe that others judge them more harshly than they actually do (e.g., Savitsky
+et al. 2001). People can feel guilty for events they have little control over (Doosje et al. 2006). Although they can spin idealized fantasies of their abilities, they can also give accurate self-appraisals
+at moments of truth (Armor & Sackett 2006). Storyteller rather than totalitarian regime seems
+an apt metaphor for the self. The self has a powerful need to see itself as having integrity, but
+it must do so within the constraints of reality (Adler 2012, Kunda 1990, Pennebaker & Chung
+2011, Wilson 2011). The goal is not to appraise every threat in a self-ﬂattering way but rather to
+maintain an overarching narrative of the self ’s adequacy. A healthy narrative gives people enough
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+335
+
+ARI
+
+31 October 2013
+
+13:5
+
+optimism to “stay in the game” in the face of the daily onslaught of threats, slights, challenges,
+aggravations, and setbacks.
+Successful social psychological interventions help individuals access this narrative process
+through two avenues (see also Wilson 2011). One avenue is to encourage people to appraise
+a difﬁcult circumstance in a hopeful and nondefensive way that, in turn, sustains the perceived
+adequacy of the self. Helping trauma victims make sense of their experiences promotes health
+(Pennebaker & Chung 2011); helping students to interpret mistakes as an opportunity for
+growth rather than evidence of incompetence improves their academic performance (Dweck 2008,
+Walton & Cohen 2011, Wilson & Linville 1982, Yeager et al. 2014); and helping parents to see
+their infants’ cries in a more sympathetic and less defensive light reduces abuse (Bugental et al.
+2002). A second avenue for intervention focuses on changing not people’s appraisal of a speciﬁc
+challenge but their appraisal of themselves. The present review addresses this second avenue and
+the theory that it proceeds from, self-afﬁrmation theory.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+Self-Affirmation Theory
+The postulate that people are motivated to maintain self-integrity rests at the center of selfafﬁrmation theory (Steele 1988; see also Sherman & Cohen 2006). Self-integrity is a sense of
+global efﬁcacy, an image of oneself as able to control important adaptive and moral outcomes in
+one’s life. Threats to this image evoke psychological threat (see Steele 1988, Sherman & Cohen
+2006). Three points about this motive merit emphasis.
+First, the motive is to maintain a global narrative of oneself as a moral and adaptive actor (“I am
+a good person”), not a speciﬁc self-concept (e.g., “I am a good student”) (cf. Aronson 1969). With
+time, people may commit themselves to a particular self-deﬁnition (e.g., parent, teacher). However,
+the self can draw on a variety of roles and identities to maintain its perceived integrity. Such
+ﬂexibility can be adaptive. People can ﬂexibly deﬁne success in a way that puts their idiosyncratic
+strengths in a positive light, establishing a reliable but realistic basis for self-integrity (Dunning
+2005). The ﬂexibility of the self-system can also promote adaptation, especially in dynamic social
+systems. Lower animals have relatively simple goals that they try to meet. A mouse unable to
+forage for food would be a failure. But humans have a unique ability to adapt to a vast range of
+circumstances. For children and adults, the ﬂexibility of the self-system may foster adaptation to
+the wide array of challenges they face across cultures and over the lifespan (Worthman et al. 2010).
+Second, the motive for self-integrity is not to be superior or excellent, but to be “good enough,”
+as the term “adequate” implies—to be competent enough in a constellation of domains to feel that
+one is a good person, moral and adaptive. An implication for intervention is that, to afﬁrm the
+self, an event need foster only a sense of adequacy in a personally valued domain, not a perception
+of overall excellence.
+Third, the motive for self-integrity is not to esteem or praise oneself but rather to act in
+ways worthy of esteem or praise. Having people praise themselves (e.g., “I am lovable”) tends
+to backﬁre among those who seem to need the praise most, low-self-esteem individuals, in part
+because these “afﬁrmations” lack credibility (Wood et al. 2009). People want not simply praise but
+to be praiseworthy, not simply admiration but to be admirable, according to the values of their
+group or culture (Smith 1759/2011; see also Leary 2005). An implication for intervention is that
+rewards and praise are secondary to opportunities for people to manifest their integrity through
+meaningful acts, thoughts, and feelings.
+Although the ﬂexibility of the self-system can be adaptive, it can also prove costly when people
+cannot ﬁnd constructive avenues to achieve self-integrity. The self may then seek out alternative
+domains in which to invest itself. A disadvantaged student may want to succeed in school but,
+336
+
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+distrustful that society will reward his or her efforts, ﬁnd other niches to exert control and gain
+respect; this is one explanation for the draw of gang membership and violent behavior (Matsuda
+et al. 2013). However, the ﬂexibility of the self-system can also be harnessed for positive ends.
+People can import into a threatened domain the sense of personal integrity that they feel in another.
+Thus they can sustain a global sense of adequacy while adaptively confronting a speciﬁc threat.
+For a wide range of challenges, this is what self-afﬁrmation interventions enable people to do.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+What Are Self-Affirmations?
+A self-afﬁrmation is an act that demonstrates one’s adequacy (Steele 1988; see also G.L. Cohen &
+J. Garcia, manuscript in preparation). Although big accomplishments such as winning a sports contest can obviously afﬁrm one’s sense of adequacy, small acts can do so as well. Examples of events
+that although small from the perspective of an outsider can be subjectively “big” (Yeager & Walton
+2011) include a stressed employee who cares for his children or merely reﬂects on the personal importance of his family; an ill resident of a nursing home who enacts a small measure of control over
+daily visitations (Schulz 1976); and a lonely patient who, receiving a personal note from her doctor,
+realizes that others care for her (Carter et al. 2013). Even small inputs into the self-system can have
+large effects, because a healthy self-system is motivated to maintain integrity and generate afﬁrming meanings (Steele 1988; see also Sherman & Cohen 2006). Many events in a given day are seen
+as relevant to the self in some way and this enables people to continually refresh their sense of adequacy. But there are times when sources of self-afﬁrmation may be few, or threats to the self may run
+especially high. Times of high need can be identiﬁed, making possible well-timed self-afﬁrmation
+interventions. Stressful transitions and choice points, for example, mark such timely moments.
+Self-afﬁrmations given at these times can help people navigate difficulties and set them on a better
+path. Their conﬁdence in their ability to overcome future difficulties may grow and thus buttress
+coping and resilience for the next adversity, in a self-reinforcing narrative (Cohen et al. 2009).
+
+Self-affirmation: an
+act that manifests one’s
+adequacy and thus
+afﬁrms one’s sense of
+global self-integrity
+Values affirmation
+intervention: an
+activity that provides
+the opportunity to
+assert the importance
+of core values, often
+through writing
+exercises
+
+Self-afﬁrmations bring about a more expansive view of the self and its resources. They can
+encompass many everyday activities. Spending time with friends, participating in a volunteer
+group, or attending religious services anchor a sense of adequacy in a higher purpose. Activities
+that can seem like distractions can also function as self-afﬁrmations. Shopping for status goods
+(Sivanathan & Pettit 2010) or updating one’s Facebook page (Toma & Hancock 2013) afford
+culturally prescribed ways to enact competence and adequacy. For people who value science,
+simply donning a white lab coat can be self-afﬁrming (see Steele 1988).
+Although many inductions of self-afﬁrmation exist, the most studied experimental manipulation
+has people write about core personal values (McQueen & Klein 2006; cf. Napper et al. 2009).
+Personal values are the internalized standards used to evaluate the self (Rokeach 1973). People
+ﬁrst review a list of values and then choose one or a few values most important to them. The list
+typically excludes values relevant to a domain of threat in order to broaden people’s focus beyond it.
+To buffer people against threatening health information, health and rationality might be excluded
+from the list. Among patients with chronic illness, values related to family might be avoided
+insofar as they remind patients of the burden they worry they place on relatives (see Ogedegbe
+et al. 2012). People then write a brief essay about why the selected value or values are important
+to them and a time when they were important. Thus, a key aspect of the afﬁrmation intervention
+is that its content is self-generated and tailored to tap into each person’s particular valued identity
+(Sherman 2013). Often people write about their relationships with friends and family, but they
+also frequently write about religion, humor, and kindness (Reed & Aspinwall 1998).
+Table 1 provides excerpts from afﬁrmation essays written by adolescents and adults in research studies. As the examples illustrate, completing a values afﬁrmation is not typically an act
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+337
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Table 1 Excerpts from affirmation essays
+Middle school participants
+Dance is important to me, because it is my passion, my life. My second home is the dance studio, my second family is my dance
+team. My family and friends are so important to me, even more than dance. My family, I can’t live without them. My friends, I am
+my real self around them (and my sister). I can be silly, goofy, and weird and they don’t care, they accept me for who I am. . . . And
+for being creative, I LOVE being creative in dance. When I’m dancing or making a dance it takes me to another place.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Being creative is important to me all the time, because I can use things different kinds of ways and look at things differently. For
+example, if I can combine the color of the clothes I’ll wear or make different kinds of use for the things I have. . . . Being with my
+family is what makes me happy because only your family understands you better than anyone and you can be yourself no matter
+what and they would never criticize you. With my friends it’s not always the same we can ﬁght sometimes or cry but it’s what
+friendships are for so you should enjoy the moment and be happy with them.
+If I didn’t have my family, I [wouldn’t] be raised right and if I didn’t have my friends I would be a boring person. If I didn’t have my
+religion, I wouldn’t know what to do, I would be lost.
+Music is important to me because it gives me a way to express myself when I’m mad, happy, or sad. I also think family and friends
+are important because everything, like money, fame, happiness mean nothing if you don’t have loved ones to share it with. My
+friends and family are important because I love them to death and they make me who I am. I also think religious values are very
+important because if you don’t know what you believe in anybody can tell you anything and you’ll believe it.
+Politics is another really important thing to me because I love politics and I some day want to become a corporate lawyer and to
+later become the ﬁrst black president.
+College participants
+How can one get by without friendship or family? I know I couldn’t, I need that support, at times it can feel like the only thing I
+have that’s real. At other times I don’t need it, but love and comfort from relationships is something that is always nice. . . . I was
+stuck in Keystone this winter and had no [way] of getting back home, I felt helpless . . . I didn’t know what to do, so I called a
+friend and they drove 2 hours out of their way to come help me out, without even thinking twice, without that friend I would of
+had one bad night. Not the end of the world no, but when in need I fall back on my support, friends and family, without that
+support I would never stop falling.
+My relationship with my family is very important to me because it is my parents and brother who helped push me to be who I am
+today. Without them, I probably wouldn’t have the patience and motivation to have applied for this university and be successful
+here. Whenever I have a problem, it is my family I can go to to help me through it. My friends are also very important. If I didn’t
+have the strong loving relationship with my friends from home, I wouldn’t be who I am today. My new friends that I have made
+[here] are also a big part in my life because they make me smile every day.
+My religious values are the foundation of my life; they guided me, helped me, and strengthened me in every aspect of my life. I have
+always had a strong faith which has taught me to love others and led me to be a better person. I’ve found that I enjoy life to a
+greater extent, worry less, and smile more than my friends who don’t have religious values. I believe this is because my faith has
+taught me to be grateful for everything I have, to trust that everything will be ﬁne, and to enjoy every day as if it were the last.
+For me the sense of humor of someone is the most important thing. Every time someone makes me laugh it gives me comfort and
+happiness. I think having a good sense of humor is the best quality that a person can have. It does not matter if a person is good
+looking or not if they can make others laugh. Every time I meet someone I care if they have a good sense of humor or if they are
+funny. That is why most of my friends are always laughing, because we all like to make jokes and laugh together. I even think that
+laughing, making jokes and having a good sense of humor is what keeps us together as friends. Furthermore, our sense of humor is
+what makes us unique as a group of friends.
+
+of self-aggrandizement (consistent with Crocker et al. 2008, Shnabel et al. 2013). Rather, it is a
+psychological time-out (Lyubomirsky & Della Porta 2010): a moment to pull back and regain
+perspective on what really matters. As one college student wrote, “How can one get by without
+friendship or family? I know I couldn’t, I need that support, at times it can feel like the only thing
+I have that’s real.” Although the physical act of writing this essay is momentary, it can bring to
+mind a lifelong source of strength. As Table 1 also illustrates, people often afﬁrm themselves by
+writing about their connections to other people and to purposes and projects outside themselves
+338
+
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+(Shnabel et al. 2013; see also Crocker et al. 2008). Against this broadened conception of the self
+in the world, a particular threat that confronts a person feels less dire.
+
+Understanding the Effects of Self-Affirmation
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Before focusing on self-afﬁrmation interventions in education, health, and interpersonal and intergroup relations, we summarize how afﬁrmations affect psychology to create a moment of potential
+change. Then we discuss how and when that change persists.
+The psychology of self-affirmation. First, afﬁrmations remind people of psychosocial resources
+beyond a particular threat and thus broaden their perspective beyond it (Sherman & Hartson
+2011). Under normal circumstances, people tend to narrow their attention on an immediate
+threat (e.g., the possibility of failure), a response that promotes swift self-protection and, in the
+face of acute dangers, survival (e.g., the ﬁght-or-ﬂight response) (see Pratto & John 1991, Tugade
+& Fredrickson 2004). But when self-afﬁrmed, people can see the many ordinary stressors of daily
+life in the context of the big picture (Schmeichel & Vohs 2009, Wakslak & Trope 2009). A speciﬁc
+threat and its implications for the self thus command less vigilance. Nonafﬁrmed participants saw
+a psychologically threatening stimulus—a live but securely caged tarantula—as physically closer
+to them than it actually was, but self-afﬁrmed participants estimated its distance accurately, as
+though the afﬁrmation psychologically distanced the threat from the self (Harber et al. 2011).
+Second, because a threat is seen in the context of an expansive view of the self, it has less impact
+on psychological well-being (Cohen et al. 2009, Cook et al. 2012, Sherman et al. 2013). Among
+self-afﬁrmed minority students in a ﬁeld experiment, a low classroom grade exerted less inﬂuence
+on their long-term sense of belonging in school than it did for their nonafﬁrmed peers (Cook
+et al. 2012). Likewise, when college students were self-afﬁrmed, their attention was less absorbed
+by ruminative thoughts about past failure (Koole et al. 1999).
+Third, afﬁrmations foster an approach orientation to threat rather than avoidance. If a threat
+is seen as important and addressable (Vohs et al. 2013), afﬁrmations make it less likely that people
+will shrink away from the threat or deny its importance to themselves. Self-afﬁrmed participants in
+one study asserted that the threatening domain was more important to them than did nonafﬁrmed
+participants (Cohen et al. 2007, study 1; see also Koole et al. 1999). People can thus better deal with
+the threat in a constructive way, rather than spend mental energy on avoidance, suppression, and
+rationalization (see Koole et al. 1999, Taylor & Walton 2011). For example, self-afﬁrmed participants were less likely to shun threatening health information that could beneﬁt them (e.g., Klein
+& Harris 2009, van Koningsbruggen et al. 2009; see also Taylor & Walton 2011). Self-afﬁrmed
+participants also showed greater attention to their errors on a cognitive task, as indexed by errorrelated negativity, a neural signal of the brain’s error-detection system (Legault et al. 2012). This
+pattern suggests greater engagement among afﬁrmed individuals in learning from their mistakes.
+Afﬁrmations lift psychological barriers to change through two routes: the buffering or lessening
+of psychological threat and the curtailing of defensive adaptations to it.
+Buffering against threat. Self-afﬁrmations can reassure people that they have integrity and that
+life, on balance, is okay in spite of an adversity before them. Social relationships appear to have this
+kind of power. When people were put in a stressful situation, such as receiving mild electric shocks,
+those who felt they had social support in their lives, or those who simply had the chance to see a
+picture of a loved one, experienced less fear, threat, and pain (e.g., Master et al. 2009; see also
+Cacioppo & Patrick 2008). Likewise, when people were put under intense social evaluation—giving
+an impromptu speech in front of a judgmental audience—those who had reﬂected on an important
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+339
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+personal value no longer displayed an elevation in the stress hormone cortisol (Creswell et al.
+2005). Neither social support nor values afﬁrmation eliminated the stressor. Rather they placed it
+in a larger context of “things that truly matter for my adequacy.” Less encumbered by
+psychological threat, self-afﬁrmed people can better marshal their cognitive resources to meet the
+demands of the task at hand, for example, solving more creative problems under pressure (Creswell
+et al. 2013) or exerting self-control in a depleting situation (Schmeichel & Vohs 2009).
+
+Reducing defensiveness. Self-afﬁrmations also reduce defensive responses, adaptations to
+protect the self from threat (for a review, see Sherman & Cohen 2006). These include the self’s
+strategies of spin control, such as denying responsibility for failure and taking selective credit for
+success. Defensive responses also include various other adaptations, such as denigrating others to
+afﬁrm the self, and engaging in denial, rumination, and even heavy drinking and other chemically
+induced escapes (Steele et al. 1981) that help people to cope with threats to self. Such defensive
+adaptations serve as a psychological immune system (Gilbert et al. 1998). Although these defenses
+protect self-integrity in the short term, they can undermine growth and prove self-defeating in
+the long term. One way that self-afﬁrmations promote change is by curbing defensive reactions.
+Studies show that defensive denial, bias, and distortion in one domain are lessened by afﬁrmations
+of self-integrity in another. For example, self-afﬁrmed individuals were more open to a scientiﬁc
+report linking their behavior to cancer risk (Sherman et al. 2000).
+In summary, afﬁrmations help people to maintain a narrative of personal adequacy in threatening circumstances. They thus buffer individuals against threat and reduce defensive responses to it.
+The effect is catalytic. Forces that would otherwise be suppressed by psychological threat—such
+as cognitive aptitude or persuasive evidence—are unleashed.
+
+Cycles of Adaptive Potential: How Social Psychological Processes Such
+as Self-Affirmation Propagate Through Time
+
+Defensive
+adaptations:
+adaptations aimed at
+protecting
+self-integrity by
+reducing psychological
+threat or its effects,
+including cognitive
+adaptations (e.g., selfserving biases) and
+behavioral adaptations
+(e.g.,
+self-handicapping,
+alcohol consumption)
+
+340
+
+The review so far has described the psychology of the afﬁrming moment. But several of the
+intervention studies to be discussed ﬁnd that the effects of self-afﬁrming writing activities can
+persist, for instance improving the grades of at-risk minority students years later (Cohen et al.
+2009, Sherman et al. 2013). In fact, social psychology has established that brief interventions can
+have large and long-term effects when they address key psychological processes, as pioneered in the
+studies of Lewin and Rokeach described in the introductory section of this review (for reviews, see
+Ross & Nisbett 2011, Wilson 2011). In some cases, the effects of the intervention even grow. Time
+does not necessarily weaken the inﬂuence of the past, but can, it seems, preserve and strengthen it.
+A key feature of these interventions is that their effectiveness depends on the point in the process
+in which they are introduced. For example, if teachers are led to expect certain incoming students
+in their classroom to bloom intellectually, they elicit stronger performance from those students
+(Rosenthal 1994). But the effects of this “high expectations” intervention disappear if it is delivered
+only a short time after teachers have met their students and begun to form their own impressions
+of them (for a meta-analysis, see Raudenbush 1984).
+Like any formative experience, a successful intervention is not an isolated event but rather a
+turning point in a process (see Elder 1998). When well-timed and well-situated, it touches off
+a series of reciprocally reinforcing interactions between the self-system and the social system
+(see Figure 1). A positive feedback loop between these two powerful systems can drive adaptive
+outcomes over time. We refer to this as a cycle of adaptive potential, because it increases the actor’s
+potential to achieve adaptive outcomes. The cycle can take over and propagate adaptive outcomes
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Self
+system
+
+a
+
+b
+Adaptive
+outcomes
+
+f
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+c
+
+e
+
+d
+Social
+system
+
+Figure 1
+Cycle of adaptive potential, a positive feedback loop between the self-system and the social system that
+promotes adaptive outcomes over time. Examples of paths include Path a: as a result of being self-afﬁrmed,
+the person (e.g., athlete, student) achieves more adaptive outcomes (e.g., better performance); Path b: as a
+result of performing better, the person feels more self-afﬁrmed; Path c: because the person performs better,
+others (e.g., coaches, teachers) expect more of him/her; Path d: expecting more, others in the social system
+draw out better performance from the person; Path e: others in the social system afﬁrm the person’s self
+through positive feedback, rewards, etc.; Path f: the person alters the social system through paths other than
+adaptive outcomes (e.g., by seeking opportunities for practice or by selecting challenging courses).
+
+long after the intervention has receded in time and memory (Caspi & Mofﬁtt 1995, Walton &
+Cohen 2011, Wilson 2011).
+Three principles explain how and when processes propel themselves through time in cycles
+of adaptive potential (Cohen et al. 2012, Garcia & Cohen 2012, Yeager & Walton 2011). First,
+because of recursion, the output of a process such as self-afﬁrmation can cycle back as its input, thus
+perpetuating itself (Cohen et al. 2009, Wilson & Linville 1982). Better performance may afﬁrm
+the self, leading to still better performance, further afﬁrming the self, and so on, as improvement
+maintains or even builds on itself. Second, because of interaction, the output of a process can
+interact with other processes in the environment. For example, if self-afﬁrmed students perform
+better, they may ﬁnd themselves held to higher expectations by their teachers or placed in a
+higher track, which could raise their performance further and open new opportunities. An early
+advantage can thus channel people into subsequent experiences that perpetuate and broaden the
+advantage. For long-term effects to occur, a process need not recur, as in recursion, but can instead
+feed into altogether different processes. Indeed, many social environments abound with change
+processes (G.L. Cohen & J. Garcia, manuscript in preparation). For instance, schools and cultures
+produce massive change, as when they transform a kindergartner into an educated, civilized adult.
+An intervention need not create new processes but may simply interface with these existing ones.
+Effects then reverberate through the interconnected forces in a social system (Caspi et al. 1987;
+Caspi & Mofﬁtt 1995; Elder 1974, 1998; Lewin 1997/1948; Wilson 2011). Because of recursion
+and interaction, the beneﬁts of an intervention can maintain themselves through the progressive
+accumulation of their own consequences (see Caspi et al. 1987).
+Third, because of subjective construal, an intervention can trigger an enduring shift in
+perception (Sherman et al. 2013; see also Ross & Nisbett 2011, Wilson 2011). Even if the
+objective environment remains constant, the subjective experience of it may change. For example,
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+Recursive process:
+a process in which the
+output feeds back as an
+input
+Interactive process:
+a process in which the
+output serves as an
+input to an altogether
+different process in a
+system
+Subjective construal:
+the actor’s subjective
+perception; even if the
+objective environment
+remains constant, the
+subjective experience
+of it can be changed
+through intervention
+
+341
+
+ARI
+
+31 October 2013
+
+13:5
+
+Latino American middle school children who afﬁrmed core values saw instances of racial threat
+as unrelated to their likelihood of success in school (Sherman et al. 2013). When afﬁrmed, people
+tend to narrate adversity as an isolated event rather than an indictment of their adequacy (Cohen
+et al. 2009). Approach, rather than avoidance, becomes more likely, as does problem solving over
+giving up. As these personal styles take hold, individuals may construe themselves as the kind of
+person who can overcome difﬁculties, an identity that can then guide their behavior (cf. Freedman
+& Fraser 1966). Their narrative of personal adequacy may strengthen, which may bolster coping
+with the next adversity, further strengthening the narrative, in a repeating cycle. An intervention
+may thus have lasting effects by changing the way people ﬁlter information about themselves and
+their environment.
+To illustrate these principles, consider the parable of the professional hockey player. Given
+the many inﬂuences on a child’s likelihood of becoming a professional hockey player, it seems
+surprising that birth date has a sizable impact (Gladwell 2008; for a recent comprehensive test,
+see Addona & Yates 2010). Children with a birthday that falls soon after the cut-off date for
+entry into this age-based sport have an advantage. As the oldest in their cohort, they tend to be
+bigger and more adept than other children, and they may stand out as more talented as a result.
+Their environment may be more afﬁrming; they may score more, be given more opportunities
+to practice, and be recruited to higher-caliber teams. These experiences afﬁrm the children and
+strengthen their self-conﬁdence, love for the sport, and identity as a hockey player, which can fuel
+their desire to practice and improve, evoking further afﬁrmation and opportunity, in a repeating
+interactive cycle (Figure 1). Analogous to afﬁrmation interventions, a birthdate is not the sole
+cause of children’s athletic fate. It is a trigger for a series of iterative interactions between the child
+and a powerful system of athletic socialization that allocates more resources to higher performers.
+The parable of the professional hockey player illustrates how recursion, interaction, and subjective
+construal can turn a variable with no intrinsic causal power into a life-altering inﬂuence by putting
+a person on a cycle of adaptive potential.
+Like a fortuitous event, even a brief intervention can have a lasting impact if it is appropriately
+situated and timed. It can then trigger a positive cycle or interrupt a negative one (Wilson &
+Linville 1982). Indeed, the three domains where afﬁrmation has had lasting beneﬁt—education,
+health, and relationships—are ones where problems emerge from a slow-moving accumulation of
+costs. Each domain abounds with recursive, interactive processes that carry forward the inﬂuence
+of timely experiences, both for ill and for good.
+The inﬂuence of recursion, interaction, and subjective construal, and the afﬁrmation interventions that tap into these processes, were tested using randomized experiments, many in ﬁeld
+settings such as schools and health care centers. The interventions did not eliminate the problems under study and, of course, were not expected to do so. But they did lead to positive and in
+some cases lasting changes in academic performance, health, and the quality of interpersonal and
+intergroup relations.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+AFFIRMATION INTERVENTIONS
+Education
+Students want to think positively of themselves. But the daily stressors of school—tests, grades,
+peer relations—can threaten their sense of personal adequacy. School can be especially threatening
+for members of historically marginalized groups such as African Americans and Latino Americans
+(Steele 2010). They may worry that they could be seen through the lens of a negative stereotype
+rather than accorded respect and judged on their merits. Such vigilance is understandable and
+342
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+even adaptive given the current and historical signiﬁcance of race in America (Steele 2010,
+Walton & Cohen 2011). Race, gender, immigration status, and other group memberships can
+thus give rise to a repeated threat for entire groups in academic and work settings. As hundreds
+of studies have shown, social identity threat—awareness that one could be devalued on the basis
+of one’s group—can be stressful and undermine learning and performance (Inzlicht & Schmader
+2011, Steele 2010, Steele et al. 2002). Even if an African American and a white student work in
+the same classroom and receive similar instruction, their subjective experience may differ. For the
+African American student, the prospect of being stereotyped as intellectually limited can render
+the classroom more threatening.
+Policy changes and education reform that eliminate this “threat in the air” are of paramount
+importance (Steele 2010). Even partial closure of the achievement gap would make a large difference in the lives of many children and their families. Promisingly, lab studies demonstrate that
+afﬁrmations can improve the performance of students working under the specter of a negative
+stereotype (Martens et al. 2006, Shapiro et al. 2012, Taylor & Walton 2011).
+But in contrast to the lab, in real-world academic and work settings, social identity threat is not
+acute but chronic (Cohen & Garcia 2008, Garcia & Cohen 2012, Yeager & Walton 2011). It recurs
+in a multitude of daily experiences, such as learning new material, taking a test, getting help, and
+making friends. Imagine an African American student who enters middle school with trepidation,
+uncertain of whether he belongs and will be accepted by peers and teachers. He wants to achieve
+academically. But, in the ﬁrst week of school, he is called on by his teacher for his perspective
+as a “black student.” Aware of being stereotyped, the student may feel that his fears have been
+conﬁrmed, and he may learn less and perform worse on the next exam. The student’s sense of
+threat may then increase, harming performance further, in a recursive process that strengthens
+with time. Increasingly subtle events may trigger perceived threat, with more mental energy spent
+on vigilance rather than learning. If teachers fail to grasp the invisible forces at work, they may
+see the student as limited, give him less support, and hold him to a lower standard. These could
+exacerbate threat and undermine performance further.
+However, a moment of validation at a threatening transition could improve a trajectory (Cohen
+et al. 2009, Yeager & Walton 2011). If an afﬁrmed student performed better early in an academic
+transition, this could trigger a cascade of positive effects—greater self-conﬁdence in the student,
+higher expectations from the teacher—all of which could further afﬁrm the student, relax vigilance,
+and beneﬁt performance, in a cycle of adaptive potential. Or, more modestly, a downward cycle
+might be slowed or averted.
+Educational interventions. The ﬁrst set of randomized ﬁeld experiments tested the effectiveness
+of values afﬁrmation in lifting the achievement of African Americans (Cohen et al. 2006, 2009)
+and Latino Americans (Sherman et al. 2013; for additional published replications, see Bowen et al.
+2012, Harackiewicz et al. 2014, Miyake et al. 2010, Woolf et al. 2009). The research took place
+at three middle schools with students in early adolescence, a key transition marked by feelings of
+inadequacy and a quest for identity. Too many adolescents take a wrong turn and ﬁnd themselves
+ensnared in negative trajectories with lifelong consequences (Eccles et al. 1991, Mofﬁtt et al.
+2011). The schools were racially mixed such that roughly half the students were minority, that
+is, African American or Latino American depending on the school, and roughly half were white.
+Although the schools were located in middle-class neighborhoods, most minority students at
+one site came from socioeconomically disadvantaged families (Sherman et al. 2013, study 1), an
+important population given the widening socioeconomic gap in achievement (Reardon 2011).
+Critically, in the experiments featured here, the academic environments provided material and
+human resources to help students succeed, and indeed some had undertaken initiatives to advance
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+343
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+4.0
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Grade point average
+
+3.5
+
+3.0
+White (affirmation)
+White (control)
+Latino American (affirmation)
+Latino American (control)
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+Preintervention
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Time point
+
+Figure 2
+Performance across the school year as a function of ethnicity and afﬁrmation condition, with means and
+error terms adjusted for baseline covariates and grade level. Middle school students completed a series of
+writing exercises related to either their most important value in the afﬁrmation condition or an unimportant
+value/neutral topic in the control condition. Abbreviation: Q, quarter. Adapted from Sherman et al. (2013),
+study 1.
+
+the learning of underrepresented students. Thus, the social system was “ready” to respond and
+reinforce better student performance once it occurred.
+Each student was randomly assigned to complete either values afﬁrmation exercises or control
+exercises [for methodological details, see Cohen et al. 2006, 2009 (supplementary materials);
+Sherman et al. 2013]. These were distributed by teachers as regular in-class assignments two to
+ﬁve times over the year. Each took roughly 10 minutes to complete (see Table 1 for sample essays).
+Although students likely expected teachers to read their essays, teachers knew neither students’
+condition assignments nor the content of their essays. Because early outcomes matter more in a
+recursive process, the interventions were given early in the year, typically the fourth week of school.
+In most cases the exercises occurred right before an in-class exam so that their psychological effects
+could be immediately channeled into better performance rather than decay before they could affect
+a key outcome. Because novel rather than repetitive experiences have more emotional impact
+(Lyubomirsky & Della Porta 2010), the nature of the exercises was varied throughout the year.
+Students’ ofﬁcial grades were tracked for the next one to three years. The values afﬁrmation
+intervention signiﬁcantly improved the grade point average (GPA) of the identity-threatened
+groups, African American students in one school (Cohen et al. 2006, 2009) and Latino American
+students in two others (Sherman et al. 2013), in their core courses (English, math, social studies,
+and science). For instance, the afﬁrmation halved the percentage of African American students who
+received a D or F in the ﬁrst term of the course in which the intervention was given (Cohen et al.
+2006). Because the intervention beneﬁted ethnic minority students but not white students, it closed
+the achievement gap. The closure corresponded to roughly 30% for Latino and African American
+students at two school sites (Cohen et al. 2009; Sherman et al. 2013, study 2) and 22% for economically disadvantaged Latino American students at another (see Figure 2) (Sherman et al. 2013,
+study 1).
+344
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+The intervention’s effects persisted and improved students’ trajectory through the rest of middle
+school. Two years later, afﬁrmed African Americans and Latino Americans continued to earn
+higher GPAs than their nonafﬁrmed peers (Cohen et al. 2009, Sherman et al. 2013). At one site
+where high school records were available, the intervention effect persisted into a third year, when
+most students progressed into high school (Sherman et al. 2013, study 1). Students appeared to
+carry the beneﬁts with them into a new environment.
+The afﬁrmation did not boost GPA but rather slowed its decline. The downward trend common
+among middle school students (Eccles et al. 1991) proved less steep among afﬁrmed minorities. As
+a result, the performance trajectories of afﬁrmed and nonafﬁrmed students tended to diverge with
+time (see Figure 2). This pattern is consistent with the notion that the intervention interrupted a
+recursive cycle in which threat and poor performance fed on one another and worsened outcomes
+over time. Also suggestive of a recursive process, the most threatened subgroup, those who would
+be most undermined by threat and its accumulating consequences, derived the greatest lasting beneﬁt from afﬁrmation. For example, among African American students, those who at baseline had a
+history of poor performance and felt most unsure of their belonging at school showed almost a full
+grade point beneﬁt in GPA (Cook et al. 2012, study 1). These were the students whose academic potential was most inhibited by psychological threat. Put differently, the intervention beneﬁt was not
+diffuse but concentrated among the most threatened, and sometimes hardest to reach, subgroup.
+Would values afﬁrmation help close the social-class achievement gap (Reardon 2011)? A randomized ﬁeld experiment that disentangled the effect of student social class from the effect of
+student race found that it could (Harackiewicz et al. 2014). It focused on ﬁrst-generation college
+students, over 90% of whom were white. These students came from families where neither parent
+had received a four-year college degree, a proxy for low socioeconomic status. Students with poor
+socioeconomic backgrounds can face extra stress in college because of ﬁnancial worries and a sense
+of not fully belonging on campus (Stephens et al. 2012). For these students, two in-class values
+afﬁrmations improved their grades in an introductory biology course. The intervention cut the
+achievement gap between them and their more ﬁnancially advantaged peers in the course by
+50%. Remarkably, ﬁrst-generation students also proved more likely to enroll in the second course
+in the biology sequence if they had been in the afﬁrmation condition (86% did so) rather than in
+the control condition (66% did so). In another study with low-income middle school students,
+the standard afﬁrmation did not affect students’ initial grades, but it did prevent a drop in grades
+over the course of the year (Bowen et al. 2012).
+Values afﬁrmation has also helped another group of students who contend with social identity
+threat: female college students enrolled in introductory physics, a gateway science course (Miyake
+et al. 2010). Women who had been randomly assigned to complete values afﬁrmation exercises in
+their class performed better on their course exams and earned higher grades than did those who
+completed control exercises. Once again, the greatest beneﬁt accrued to the most threatened subgroup: in this context, women who wondered relatively more if gender stereotypes about science
+ability might be true1 . Together, the results of these ﬁeld experiments suggest that afﬁrmation removed a barrier that prevented the full expression of students’ potential (Walton & Spencer 2009).
+
+1
+
+Another afﬁrmation intervention with an ethnically heterogeneous sample of medical students in England found mixed effects,
+improving the performance of all students on their clinical evaluations and undermining the performance of white students
+on a written examination (Woolf et al. 2009). However, at least two issues limit interpretability. First, it was unclear whether
+identity threat contributed to the performance of the ethnic minority sample, a heterogeneous group consisting primarily
+of Asian Indian, Pakistani, and Bangladeshi participants. Second, procedural changes made the afﬁrmation evaluative in
+nature. Students’ instructors evaluated their essays as “suitable” or “not suitable” for submission to each student’s portfolio
+of learning. A few essays were singled out to be discussed in students’ tutorials. Beyond unblinding instructors to students’
+condition assignment, the evaluative and public nature of the activity may have compromised its ability to be afﬁrming.
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+345
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Self-afﬁrmation processes bear not only on underperformance but also on bullying and aggression. Young adolescents completed either afﬁrmation or control tasks in school, with outcomes
+measured several weeks or months after the intervention (Thomaes et al. 2009). Afﬁrmation
+lessened the extent to which students with grandiose self-views, a risk factor for aggression,
+reacted to threat (i.e., a drop in their self-esteem) by hitting, name calling, rumor spreading,
+or committing other antisocial acts as assessed by their classmates. In another ﬁeld experiment,
+self-afﬁrmation increased prosocial behavior among students with a history of antisocial behavior,
+as assessed by their teachers (Thomaes et al. 2012). In summary, psychological threat contributes
+not only to underperformance but also to bullying and aggression, important problems that have
+proved difﬁcult to change. And timely self-afﬁrmations can help remedy them.
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Understanding the longevity of affirmation effects. How do afﬁrmation intervention effects
+persist over long periods of time, as they did in these studies? Recursion, interaction, and subjective
+construal can channel people into a cycle of adaptive potential.
+Feeling afﬁrmed, a student may perform better on the next classroom test, and performing
+better, the student may feel more afﬁrmed, in a recursive process that lifts the student’s trajectory
+and eventually becomes a continual source of self-afﬁrmation. In one series of studies, much of
+the effect of afﬁrmation on second-year grades was mediated by its effect on ﬁrst-year grades,
+suggesting that early strong performance begot later strong performance (Cohen et al. 2009,
+Harackiewicz et al. 2014). Also consistent with a recursive process was the ﬁnding that randomized
+“afﬁrmation boosters” in the second year did not increase the afﬁrmation’s beneﬁt. The processes
+that the intervention set in motion in the ﬁrst year sufﬁced to explain its continuing effect in the
+second year (Cohen et al. 2009).
+A cycle of adaptive potential is, by deﬁnition, interactive. Academic institutions teem with
+processes that recognize, reinforce, and provide resources for student success. By interacting with
+these processes, an intervention can trigger consequences that have causal power unto themselves.
+For example, a student who excels early in the year may be seen by teachers as having greater potential. The positive effects of high teacher expectancies on student performance (Rosenthal 1994)
+may then take hold and propel the intervention effect through time (see Yeager & Walton 2011).
+Indeed, fewer minority students were placed in their school’s remedial track or retained in grade
+in the afﬁrmation condition (3%) than in the control condition (9%); afﬁrmed minorities also took
+more advanced math courses (Cohen et al. 2009). When self-afﬁrmed minority students performed
+better, the system reacted by categorically reshaping their academic experience. Deﬂection from
+failure channels such as remediation and entry into success channels such as advanced placement
+courses can shape students’ academic trajectory (Grubb 2009, Steele 2010). The consequences of
+the intervention can thus break free of their origin and propagate change through time.
+Beyond recursion and interaction, subjective construal can fuel a cycle of adaptive potential.
+Feeling afﬁrmed and achieving more, students may become more hopeful. They may narrate adversity in a more optimistic light. Consistent with this, several ﬁndings suggest that self-afﬁrmed
+minorities were more likely to see adversity as an isolated event rather than a threat to self (see
+Cook et al. 2012; Sherman et al. 2013, study 2). Among nonafﬁrmed minority students, a poor
+grade or a stressful day predicted a lower sense of belonging in school and a higher sense of racial
+threat (see Cook et al. 2012, Sherman et al. 2013). Each adversity seemed to raise anew the question of whether they belonged (Walton & Cohen 2011). Indeed, over two years, minority students
+saw their sense of belonging in school fall, as if successive adversities reinforced the narrative that
+they did not fit in (Cook et al. 2012). Likewise, among nonafﬁrmed ﬁrst-generation college students, uncertainty about whether they “had the right background” for their course grew over the
+semester (Harackiewicz et al. 2014). But for self-afﬁrmed students, these effects vanished. They did
+346
+
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+not question their belonging. Self-afﬁrmed minority students also displayed lower cognitive accessibility of the racial stereotype, suggesting that they were less likely to ﬁlter classroom experience
+through the lens of race (Cohen et al. 2006). To the extent that they were less vigilant to racial cues,
+they may have had more mental resources for performance and learning (Taylor & Walton 2011).
+Although the intervention was brief, its effects were repeatedly relived in subjective experience.
+In summary, afﬁrmation interventions can trigger a series of reciprocally reinforcing interactions between the self-system and the social system that foster students’ adaptive potential over
+time.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Health
+Most people want to think of themselves as healthy, so it can be threatening to confront evidence
+that challenges that assessment. Illness, frailty, and the prospect of death represent some of the
+most powerful challenges to adaptive adequacy (see Greenberg et al. 1997). Health-related
+threats can take many forms: evidence that one’s diet puts one at risk for heart disease, a screening
+that reveals a vulnerability to cancer. Even a visit to the doctor’s ofﬁce can be stressful (Havranek
+et al. 2012). The effect can run in the reverse direction too. Prolonged stress can have serious
+health costs that bring a person to the doctor’s ofﬁce (Sapolsky 2004, Sterling 2004, Taylor 2010).
+Self-afﬁrmation interventions will not cure serious illness, but they can catalyze the impact of
+other positive health-related forces, such as health information, postoperative care regimens, and
+a person’s goal to live a healthful life.
+Like education outcomes, health outcomes are also driven by recursive, interactive processes.
+For example, stress and illness can exacerbate one another in a vicious cycle (Sapolsky 2004).
+Failure to achieve a health goal may lead people to give up prematurely, worsening health (see
+Logel & Cohen 2012, Vohs et al. 2013). Because these processes depend on continual feedback
+loops, timely interventions could break a negative cycle and perhaps spark a positive one.
+Research in this area uses the two routes of afﬁrmation inﬂuence. One route uses afﬁrmation
+to reduce defensive rejection of threatening health information, the other to buffer people against
+the effects of stress.
+
+Reducing defensiveness. For many diseases, simple preventive steps, such as smoking cessation
+or diet change, would save a profound number of lives if practiced on a large scale.
+But imagine a middle-aged man whose doctor tells him that his diet puts him at risk for heart
+disease and diabetes. Rather than admit to his dietary misdeeds, he may deploy defensive biases that
+shield the self from blame but also block change (Sherman & Cohen 2006). He might denigrate
+the evidence of a link between fat intake and heart disease or assure himself that drugs will undo
+the damage. Rationalizing the threat away, he persists in his behavior. Persisting in his behavior,
+he embraces his rationalization more, increasing resistance to change.
+However, timely self-afﬁrmation can open people up to threatening health information. With
+their self-integrity less on trial, self-afﬁrmed individuals can better confront threatening information and evaluate it in a manner less tethered to their needs for self-integrity (Klein et al. 2011).
+This effect has been conﬁrmed in many studies (for reviews, see Harris & Epton 2009, 2010;
+Sherman & Hartson 2011).
+Afﬁrmation has increased openness to information about the life-threatening habit of smoking.
+Tobacco-related illness in the United States causes more deaths than HIV, car accidents, alcohol
+and illegal drug use, suicides, and murders combined (CDC 2012). One study presented smokers
+with graphic antismoking cigarette advertisements (Harris et al. 2007). Relative to participants
+in a control condition, participants who ﬁrst completed a self-afﬁrmation—listing their desirable
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+347
+
+ARI
+
+31 October 2013
+
+13:5
+
+qualities—saw the advertisements as more distressing, expressed greater conﬁdence in their ability
+to stop smoking, and had a stronger motivation to quit. This effect on motivation persisted one
+week later.
+When afﬁrmed, people are also more likely to take the ﬁrst steps toward positive behavioral
+change. Another study focused on smokers low in socioeconomic status, the demographic group
+with the highest rate of smoking (Armitage et al. 2008). Among afﬁrmed participants, 59% took
+leaﬂets about how to quit smoking, compared with only 37% of nonafﬁrmed participants. In yet
+another study, people at risk for diabetes defensively rejected information about their health risk.
+They declined the opportunity for a diabetes screening test, even though taking the test presumably would have helped them to acquire medical advice that could improve their health and
+perhaps even prolong their lives (van Koningsbruggen & Das 2009). However, providing them
+with the opportunity to reﬂect on important values before reviewing the information decreased
+their denigration of the health message and increased their likelihood of agreeing to take a screening test (see also Howell & Shepperd 2012). Other small behavioral wins from self-afﬁrmation
+have been documented, such as increases in the number of college students purchasing condoms
+after watching an AIDS education video (Sherman et al. 2000).
+Two insights emerge from this research. First, afﬁrmation enables more balanced information
+processing. Without the self on trial, people are better able to evaluate evidence on its merits
+(Correll et al. 2004, Klein et al. 2011). Thus, afﬁrmation does not produce change by itself but
+enables change to occur if evidence warrants it. Second, echoing the ﬁndings in education, afﬁrmation promotes change among people under consistent psychological threat—people whose
+behavior puts them at risk for a health condition and who thus have cause to feel that their selfintegrity is under threat (e.g., Grifﬁn & Harris 2011, Harris & Napper 2005, van Koningsbruggen
+& Das 2009; cf. Klein & Harris 2009).
+Although three null ﬁndings have been published (Dillard et al. 2005, Fry & Prentice-Dunn
+2005, Zhao et al. 2012)2 , on the whole the research paints a picture of the afﬁrmed mind as an open
+mind (Correll et al. 2004). Whether the moment of openness then prompts enduring changes in
+behavior, however, hinges on other factors.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+Overcoming barriers to long-term behavior change. The effects of afﬁrmation on attitude
+and motivation tend to persist, even one month later (Harris et al. 2007, Harris & Napper 2005).
+But long-term effects on behavior have been mixed (Harris & Epton 2010). In one positive study,
+drinkers at a bar completed a brief afﬁrmation—selecting and copying an afﬁrming statement
+that incorporated an implementation intention for how to deal with threat (e.g., by prompting
+participants to write “If I feel threatened or anxious, then I will think about the things I value about
+myself ”)—while others completed a standard afﬁrmation, reﬂecting on acts of kindness (Armitage
+et al. 2011). All participants then read a message that summarized the medical risks of alcohol
+consumption. Relative to a control condition, both afﬁrmations reduced consumption of alcohol,
+as assessed by self-reports on a validated measure one month later. Between the two time points,
+the percentage of participants drinking within healthful government-recommended levels jumped
+
+2
+In two of these null reports, the authors raise questions about whether their manipulations successfully instantiated afﬁrmation
+because of either a novel afﬁrmation method (Dillard et al. 2005) or failed manipulation checks for the majority of participants
+(Fry & Prentice-Dunn 2005). In two of the reports (Dillard et al. 2005, Zhao et al. 2012), the null result may be due to
+low statistical power, as the key comparisons, though not statistically signiﬁcant, were in the predicted direction such that
+afﬁrmation led to more openness to threatening health messages among those for whom the message was most relevant.
+By chance alone, periodic null effects would occur in a large set of studies. It is also possible that the effects of afﬁrmation
+depend on hidden moderators not assessed in these studies. For example, in Grifﬁn & Harris (2011), afﬁrmation effects were
+moderated by trait defensiveness.
+
+348
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+by an average of 32 percentage points in the afﬁrmation conditions, more than double the change
+observed in the control condition.
+However, in some studies, afﬁrmed participants fail to make the behavioral changes that they
+predict they will (Harris et al. 2007, Harris & Napper 2005, Reed & Aspinwall 1998; for a review,
+see Harris & Epton 2010). Indeed, changes in attitude and motivation seldom sufﬁce for long-term
+behavioral change (Lewin 1997/1948, Ross & Nisbett 2011). For many health-risk behaviors such
+as smoking, many people want to stop but are unable to do so (CDC 2012).
+Behavior change not only has value in its own right but also helps to trigger changes in selfconstrual that carry forward intervention effects. Once people act in a healthful way, they may
+see themselves as a person who cares about health and then behave in ways congruent with that
+identity (Freedman & Fraser 1966). To achieve long-term beneﬁts with an afﬁrmation, it may be
+essential to ensure early behavioral wins. These wins also help to convince people that behavior
+change is possible, a key condition for afﬁrmation-induced change to occur (see Vohs et al. 2013).
+Two strategies to promote long-term behavior change, and spur a cycle of adaptive potential,
+have received suggestive support. One encourages people to form realistic, concrete plans for how
+to implement their new health-related goals in speciﬁc situations (Gollwitzer & Sheeran 2006).
+One study had college students review a report about the need to eat fruits and vegetables (Epton
+& Harris 2008). The report provided easy-to-implement steps to incorporate these foods into
+their diets (e.g., “Add extra vegetables to your pizza”). Although speculative, this may have been
+a critical aspect of the intervention. When self-afﬁrmed, participants ate more portions of fruits
+and vegetables over the following week, as assessed by a validated daily diary instrument.
+A second strategy to promote long-term behavior change reinstates afﬁrmation at the
+choice point, when the risk behavior occurs. Because afﬁrmations help people postpone shortterm gratiﬁcations for the sake of long-term goals (Schmeichel & Vohs 2009), and reduce
+stress that people might otherwise manage by drinking and smoking (Steele et al. 1981),
+it may be important to time afﬁrmations to moments of greatest vulnerability (O. Fotuhi,
+S. Spencer, G.T. Fong, & M.P. Zanna, manuscript in preparation). For example, incorporating a speciﬁc implementation intention into the afﬁrmation may be effective (“If I feel tempted to
+drink alcohol, then I will think about the things I value about myself ”) (cf. Armitage et al. 2011).
+Two recent unpublished studies used a recurring physical cue to keep the self-afﬁrming value
+salient after participants left the laboratory: a bracelet given to participants, inscribed with the
+words, “Remember the values” (O. Fotuhi, S. Spencer, G.T. Fong, & M.P. Zanna, manuscript in
+preparation), and a key chain with a secret compartment that contained a slip of paper on which
+participants had written a phrase related to their most important value (G.M. Walton, C. Logel,
+J.M. Peach, S.J. Spencer, M.P. Zanna, manuscript under review). Another technique has people
+write about a value they share with a close other who supports their health goal (O. Fotuhi, S.
+Spencer, G.T. Fong, & M.P. Zanna, manuscript in preparation). By mentally pairing a value with
+their health goal in this way, smokers may be more likely to call to mind their value when they are
+tempted to smoke. Interventions that used these tactics to increase the adhesiveness of a single
+afﬁrmation yielded long-term improvements in smoking cessation (O. Fotuhi, S. Spencer, G.T.
+Fong, & M.P. Zanna, manuscript in preparation) and GPA (G.M. Walton, C. Logel, J.M. Peach,
+S.J. Spencer, M.P. Zanna, manuscript under review).
+Buffering against stress. Stress, especially when chronic, can threaten the integrity of the self
+(Keough & Markus 1998). Indeed, stress often arises from events that call into question people’s
+sense of adaptive adequacy, their perceived ability to meet the demands on them (see Sherman
+& Cohen 2006). Given this, values afﬁrmations may help buffer people against stress by allowing
+them to anchor their sense of adequacy in another domain where it is less subject to question.
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+349
+
+ARI
+
+31 October 2013
+
+13:5
+
+Physiological evidence of the stress-buffering effect of afﬁrmation was found among college
+undergraduates facing a real-world stressor—the midterm exam that they had singled out as most
+stressful (Sherman et al. 2009; see also Creswell et al. 2005). Students in the treatment condition
+completed two values afﬁrmations before this midterm exam, whereas students in the control
+condition completed neutral writing exercises. By the morning of their midterm, nonafﬁrmed
+students showed a marked increase in epinephrine, as measured by urinary catecholamines, hormones involved in the ﬁght-or-ﬂight response. Afﬁrmed students did not show an increase in
+epinephrine. Once again, the stress-reduction effect of the intervention was concentrated among
+the most threatened: students worried about being disliked and seen as unintelligent.
+Stress can harm health, especially when it is prolonged (Sapolsky 2004, Sterling 2004, Taylor
+2010). Chronic stressors at sensitive periods can keep the stress system on alert for threat even
+years later, a risk factor for cardiovascular disease (see Miller et al. 2009). This vigilance can create
+a self-fulﬁlling prophecy wherein the expectation of threat readies people to perceive it, thereby
+reinforcing the expectation of threat in a recursive loop that imposes an increasingly heavy toll on
+health (Miller et al. 2009). Vigilance may help explain why various afﬂictions—poor sleep, obesity,
+hypertension, heart disease—cluster among distressed populations (Sterling 2004; see also Walton
+& Cohen 2011).
+Interventions can promote health if they target the psychological “ringleader,” perceived
+threat (see Cacioppo & Patrick 2008). The most effective way to do so is to change the social
+environment—classrooms, work, home, society—so that it better provides everyday opportunities to manifest adequacy, such as through meaningful work and civic engagement (Sterling 2004).
+But short of this, timely interventions that assuage threat at sensitive periods can help.
+One study focused on women with early-stage (stage I and II) breast cancer (Creswell et al.
+2007, a reanalysis of Stanton et al. 2002). The original study found that expressive writing, in
+which patients reﬂected on their thoughts and feelings about their experience with breast cancer,
+reduced self-reported illness symptoms at a three-month follow-up, relative to writing about facts
+about cancer and treatment (for a review of expressive writing interventions, see Pennebaker &
+Chung 2011). Content analyses suggested that the active ingredient in women’s essays was the act of
+afﬁrming the self. Patients who afﬁrmed important values, such as relationships or religion, or who
+reﬂected on valued personal qualities beneﬁted most. Consistent with the stress-buffering effects
+of self-afﬁrmation, self-afﬁrming writing was associated with less subjective distress immediately
+after the writing exercises. By helping patients to see themselves as people with adaptive adequacy
+in spite of their illness, or even because of their ability to cope with it, the writing exercise seemed
+to lessen the stress of chronic illness and thus improved long-term health. People beneﬁted from
+the expressive writing not so much because it led them to reappraise their cancer but because it
+helped them to reappraise themselves. As a cancer survivor said when reﬂecting on this research,
+“This process of self-afﬁrmation allowed me to ﬁnd the strength and sense of self to keep getting
+back up” (Norris 2008).
+The role of self-afﬁrmation as a buffer against stress and illness is highlighted in a study
+that used a novel “meaning-making afﬁrmation” (see Keough & Markus 1998). It encouraged
+participants to extract a value-relevant meaning from their daily experience. College students
+completed self-afﬁrming writing exercises every other day on ten occasions during their winter
+break. Participants wrote about their day’s experiences and put them into perspective with respect
+to their most important value. They thus assigned a self-afﬁrming meaning to what they might
+otherwise construe as a hassle or stressor. For instance, they might see driving a sibling to work as
+an expression of the value they place on family. Relative to a writing control group, self-afﬁrmed
+students reported less stress and better health, as assessed by a composite measure of illness, physical symptoms, and health center visits. As evidence that the exercises helped students to integrate
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+350
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+stressors into a self-afﬁrming narrative, those who beneﬁted most were students who reported
+the greatest number of daily hassles that implicated their self-worth (Keough & Markus 1998).
+The stress-buffering effects of self-afﬁrmation can improve objective health outcomes by interrupting negative cycles (Logel & Cohen 2012). Stress can undermine self-control, which can
+increase the likelihood that one will fail to meet health-related goals, which can increase stress
+further, in a repeating cycle. One study recruited women concerned with their weight. Consistent with the effects of stress on self-control, preoccupation with one’s weight predicts distress,
+poor eating, lack of exercise, and—ironically—weight gain (Haines et al. 2007, Logel & Cohen
+2012). More generally, psychological threat can increase appetite for sugary and high-fat comfort
+foods (see Cornil & Chandon 2013, Sterling 2004). Before being weighed and having their height
+and waistline measured, participants completed a standard values afﬁrmation or control exercise
+(Logel & Cohen 2012). Approximately 2.5 months later, afﬁrmed participants had lost more weight
+than nonafﬁrmed participants. They also had lower body mass index (BMI) and a smaller waist
+circumference, a health factor independent of BMI. Afﬁrmation produced these effects, the authors speculated, because it buffered women against weight-related stress and thus helped them to
+tap into psychological resources to meet their weight-related goals (see also Schmeichel & Vohs
+2009). Consistent with this speculation, afﬁrmation both improved women’s working memory
+performance—needed to maintain focus on long-term goals—and strengthened the association
+between better memory and weight loss. Once people begin to achieve important health goals,
+they may feel more afﬁrmed and receive more afﬁrming feedback from others, each of which could
+reinforce the change and carry it forward through time.
+Field experiments on patients with chronic health conditions. The February 2012 issue of
+Archives of Internal Medicine featured a series of large randomized trials that found beneﬁts of an
+afﬁrmation-informed intervention for at-risk individuals on a medical regimen. Medical treatment
+poses many stressors, such as pain, aversive medical procedures, and separation from loved ones.
+Severe or prolonged stress can interfere with treatment and recovery (Kiecolt-Glaser et al. 1998).
+In the studies, all patients received a standard behavioral intervention to promote recovery
+from their health problem. Patients in the treatment condition were also encouraged to reﬂect
+on core values and proud moments whenever they encountered situations that made it difﬁcult to
+follow their medical regimen, and to remind themselves of small and often value-relevant events
+that made them feel good, such as a beautiful sunset. In one study, afﬁrmation increased prescribed
+medication use among hypertensive African Americans, from 36% to 42% at a 12-month followup (Ogedegbe et al. 2012). Another study focused on patients who had undergone an intervention
+for a heart condition, for whom physical exercise marks a key step in recovery (Peterson et al.
+2012). The percentage of patients who achieved the recommended level of physical activity rose
+from 37% in the control condition to 55% in the afﬁrmation condition. In a third study on
+young asthma patients, afﬁrmation had a null effect on physical activity, although a positive effect
+emerged among young patients who had had a serious medical episode that required hospitalization
+or intensive care and who thus presumably faced the greatest psychological threat (Mancuso et al.
+2012).
+In these studies, the intervention also contained a positive mood component (e.g., patients
+received happiness-inducing gifts in the mail), so it is unclear whether afﬁrmation or positive
+mood drove the effects. However, a randomized double-blind ﬁeld experiment tested whether a
+pure afﬁrmation intervention could reduce patients’ stress in their interactions with their health
+care provider and thus promote better patient-physician communication (Havranek et al. 2012).
+Poor communication between patients and their physicians contributes to patient nonadherence
+to prescribed care, a major health problem (Zolnierek & DiMatteo 2009). Approximately half of
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+351
+
+ARI
+
+31 October 2013
+
+13:5
+
+patients fail to adhere to their doctor’s regimens for treatment or for prevention of illness (Sabaté
+2003). Moreover, because accurate diagnosis hinges on patients’ ability to talk candidly about their
+condition, it is essential to ﬁnd ways to promote better communication between patients and their
+physicians.
+Communication tends to be less open and more strained when the patient and physician have
+different racial backgrounds, for instance, when a minority patient meets with a white doctor. Such
+race discordances predict poorer patient-physician communication, a cause of racial disparities
+in compliance and health care (see Havranek et al. 2012). Although many factors contribute
+to this problem, Havranek and colleagues (2012) speculated that social identity threat played
+a role. Minority patients may worry that their doctor could stereotype them as uninformed or
+unintelligent, a concern that may be fueled by the cold, awkward, or rushed demeanor of their
+doctor. The patient’s unease and the doctor’s demeanor may reciprocally reinforce one another,
+increasing tension and distrust. But perhaps a values afﬁrmation at the beginning of this interaction
+might put the patient at ease. The patient might then feel more empowered to take control of the
+interaction, and the quality of the exchange might improve.
+African American patients with a clinical diagnosis of hypertension participated in the study.
+Most were socioeconomically disadvantaged. Patients were randomly assigned to complete either
+a standard values afﬁrmation task or a control task at their health care clinic immediately prior
+to their appointment with a white health care provider. Patients remained unaware of the rationale for the activity, and health care providers remained unaware of the condition assignments
+of their patients. Each meeting between patient and provider was audiotaped. As assessed by an
+established coding protocol, the communications between the patient and the provider proved
+superior among afﬁrmed patients than among nonafﬁrmed patients. Afﬁrmed patients gave and
+requested more information about their medical condition. Their interactions evinced greater
+attentiveness, warmth, and respect, and less depression and distress. Indeed, the aspects of the exchange that afﬁrmation improved are predictive of patients’ adherence to their doctors’ prescribed
+care (see Havranek et al. 2012).
+As in other domains, afﬁrmation acts as a catalyst in the health domain. It allows people to
+take advantage of the opportunities for improvement available in a medical regimen or persuasive
+information, and to deal more adaptively with stress. Many of the health-based afﬁrmations also
+seem to encourage a habit of self-afﬁrming in challenging circumstances, which may help explain
+the longevity of their effects. If success occurs at a timely moment, it can set in motion a cycle of
+adaptive potential that beneﬁts long-term health.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+Intergroup Conflict and Interpersonal Relationships
+People want to have rewarding relationships, and most want to resolve disagreements equitably. But these motives are sometimes compromised by the competing motive to maintain
+self-integrity. Because our social worth affects our sense of self-worth (Leary 2005), people may
+be especially sensitive to perceived threats in their relationships. This vulnerability can cause
+a harmful defensive style. Afﬁrmation interventions can ease this defensiveness and put the
+relationship on a better course. Indeed, afﬁrmations have been shown to lessen defensive behavior
+in interpersonal and intergroup encounters and to promote trust, compromise, and closeness (see
+also Crocker et al. 2008).
+Conflict. When people are afﬁrmed in valued domains unrelated to a dispute, they are more open
+to otherwise identity-threatening political information and less intransigent in negotiations (for
+a review, see Cohen 2012). Among people in Israel and Bosnia, historically conﬂict-ridden areas,
+352
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+self-afﬁrmed participants were more likely to acknowledge wrongdoings inﬂicted by their group
+on the other side and to support reparations to those harmed (Čehajić-Clancy et al. 2011). After
+viewing presidential debates on the eve of the 2008 election, afﬁrmed Democrats and Republicans
+were less partisan in their evaluations of Barack Obama’s debate performance, and 10 days after
+the election, previously afﬁrmed Republicans thought that President Obama would govern in a
+more balanced and objective fashion (Binning et al. 2010). Arab American men were able to induce
+prejudiced people to consider their perspective of being unfairly treated in the wake of 9/11 when
+they ﬁrst asked them self-afﬁrming questions, such as, “When were you really creative?” (Stone
+et al. 2011). Afﬁrmation—induced in this case by the target of prejudice and not a third-party
+experimenter or interventionist—increased openness to a stigmatized other.
+In negotiation, afﬁrmation can lessen the escalation of commitment often observed as partisans’
+identity becomes bound to the positions they advocate (Sivanathan et al. 2008). When afﬁrmed,
+people are less likely to derogate concessions offered by adversaries in a negotiation (Ward et al.
+2011). In a negotiation over abortion rights, participants whose commitment to their political
+views had been made salient proved responsive to afﬁrmation. When afﬁrmed, they made more
+compromises in a negotiation over abortion legislation, and they left the negotiation with stronger
+trust of the advocate on the other side of the issue (Cohen et al. 2007). Afﬁrmation seems to provide
+reassurance that a social or political identity, one that would otherwise ﬁx people’s evaluations and
+negotiation positions, is but one of many valued identities. In conﬂicts where downward spirals of
+accusation and counteraccusation can descend into aggression (Kennedy & Pronin 2008), the
+improved trust and open-mindedness brought about by afﬁrmation holds promise for improved
+relations.
+Relationships. Relationships are so recursive and dynamic, and so intertwined with our sense of
+self and well-being, that self-afﬁrmation interventions could make a difference in relational matters.
+One of the strongest predictors of marital distress is defensiveness (Gottman 2011). In arguments,
+unhappy couples often sink into a mire of reciprocal retaliation. Each person’s defensiveness evokes
+a response in kind from the other, a downward spiral of tit-for-tat that is not only mathematically
+predictable, consistent with a recursive cycle, but also predictive of early divorce. By contrast,
+happy couples seem to escape these recursive cycles by parrying with a surprising moment of
+afﬁrmation—a disarming compliment, an assurance of regard, a bit of shared humor. Indeed,
+this pattern of disarming afﬁrmation proved among the strongest predictors of marital stability
+and happiness (Gottman 2011). Such afﬁrming gestures seem especially beneﬁcial for people who
+feel insecure in their relationships (Overall et al. 2013). Observational studies thus suggest that
+reducing threat can lessen defensiveness and help couples resolve disagreements constructively
+(see also Murray et al. 2006).
+But can one experimentally introduce such a turning point in a relationship? Although the
+body of research is not yet as voluminous as in education and health, studies suggest that the
+answer is yes. In one study, a standard afﬁrmation reduced the defensive distancing strategies that
+low-self-esteem people in long-term relationships use to regulate the risk of losing the affection
+of their partner ( Jaremka et al. 2011). After a standard relationship threat induction—thinking
+about personal traits they wanted to keep secret from their partner—afﬁrmed low-self-esteem participants proved less prone to derogate their partner and to contemplate relationship-sabotaging
+behaviors such as starting arguments. Relational insecurity can also lead people to adopt a distant
+but self-protective social demeanor, which can evoke rejection from others, deepening insecurity,
+in a “self-fulﬁlling prophecy of social rejection” (Stinson et al. 2011, p. 1145). This negative spiral
+can be interrupted, and a positive trajectory fostered, through values afﬁrmation. When afﬁrmed,
+relationally insecure participants not only felt more conﬁdent in the regard of their family and
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+353
+
+ARI
+
+31 October 2013
+
+13:5
+
+romantic partners, but also behaved with greater ease and positivity in an interaction with a stranger
+several weeks later (Stinson et al. 2011).
+Small positive shifts in how people construe their relationships can accumulate into enduring
+changes in the narratives people craft about themselves and their relationships. These in turn can
+promote warmer relationships, provide further afﬁrmation, and trigger a cycle of adaptive potential
+that could have far-reaching effects on trust, well-being, and health (Cacioppo & Patrick 2008).
+More modestly, such shifts may enable couples to break free of downward cycles. Such recursive
+possibilities received support in a series of studies that tested a novel intervention (Marigold et al.
+2007, 2010; see also Finkel et al. 2013). It aimed to encourage low-self-esteem participants to
+draw self-afﬁrming meanings that, ordinarily, seem to elude them. College students in romantic
+relationships were instructed to think of a time when their partner complimented them and, in a
+subtly presumptive prompt, “explain why your partner admired you . . . what it meant to you and its
+signiﬁcance for your relationship.” Relative to various control conditions, including one that asked
+participants only to recall the compliment, the intervention led low-self-esteem participants to feel
+more secure both in their relationship and about themselves. They were more conﬁdent in their
+partner’s affection for them, more optimistic about the future of their relationship, and expressed
+a more positive sense of personal worth. The intervention’s effect on relationship security and
+quality persisted two weeks later. It also seemed to trigger a shift in the actual quality of participants’
+relationships. At the end of two weeks, afﬁrmed participants reported that their partners had acted
+more supportively and less critically toward them (Marigold et al. 2007). There was also some
+evidence that their partners, in turn, saw them as less harsh and critical (Marigold et al. 2010).
+The role of self-afﬁrmation processes in negotiations between real-world stakeholders and
+among people in long-term, committed relationships will, we hope, prove an exciting area of
+future research.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+IMPLICATIONS, QUALIFICATIONS, AND QUESTIONS
+Values afﬁrmations can improve grades for students in a lasting way, open people up to threatening health information, reduce sympathetic nervous system activation during stressors, lead
+overweight people to lose weight, increase patients’ compliance with treatment regimens, and
+improve intergroup and interpersonal relations. Its versatility reﬂects the pervasiveness of psychological threat in social life. That brief writing exercises could have wide-ranging and long-term
+beneﬁts may seem nonintuitive. But it is plausible when seen in context. For a person who feels
+threatened, such as a minority student worried about the transition to middle school, an early
+moment to manifest personal adequacy in the classroom can provide a psychological foothold. In
+the context of a powerful social system such as school, designed to reinforce positive change, an
+afﬁrmation can nudge a motivated but underperforming student away from failure in a lasting way.
+Below we highlight the main ideas and implications of afﬁrmation and its utility as a centerpiece
+in intervention.
+
+Lessons
+The self is both a barrier and a catalyst to social change. People want to learn, grow, be
+healthy, and have rewarding relationships, but psychological threat can impede their ability to do
+so. By helping people to situate threats into a narrative of global adequacy, affirmations turn down
+the inner alarm of psychological threat. They thus lessen stress and self-protective defenses. Less
+encumbered, people can make better use of the resources for performance and growth in their
+social environment, in their relationships, and in themselves. Self-affirmation processes also
+354
+
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+suggest when environmental stressors harm long-term health—when they threaten self-integrity
+—and how interventions can lessen their cumulative costs (Keough & Markus 1998, Logel &
+Cohen 2012, Miller et al. 2009).
+
+Social psychological processes such as self-affirmation can propagate over time. The effects
+of self-afﬁrmation interventions can persist for a long time. For example, effects on academic grades
+and health outcomes have endured months and years after the commencement of the intervention
+(e.g., Cohen et al. 2009, Harackiewicz et al. 2014, Logel & Cohen 2012, Miyake et al. 2010,
+Ogedegbe et al. 2012, Sherman et al. 2013). Social psychological interventions such as afﬁrmation
+can channel people onto a cycle of adaptive potential (Figure 1). A positive feedback loop between
+the self-system and the social system carries the intervention’s effects through time to improve the
+actor’s adaptive outcomes. More modestly, such interventions can interrupt a failure trajectory
+(Wilson & Linville 1982).
+Any experience can have persistent effects if it hitches a person to processes that propel
+outcomes through time. Three principles explain how and when this occurs. Because of subjective
+construal, an experience or intervention can bring about a lasting shift in perception. Self-afﬁrmed
+individuals narrate adversity in a manner that better maintains the adequacy of the self and helps
+them to adaptively engage with threats; this narrative can build on itself over time (Cohen et al.
+2009, Cook et al. 2012, Sherman et al. 2013, Wilson 2011). For intervention effects to last, they
+may need to bring about a long-term shift in subjective construal, the beliefs and schemas that
+ﬁlter experience: an optimistic outlook, openness to challenge, and a self-construal as a person
+who belongs and can succeed in new settings (for a discussion, see Ross & Nisbett 2011). Without
+cultivating a lasting shift in the way people construe themselves or their social world, an intervention’s impact may fade after it ends, as people slide back to their old habits, seek the familiar, and
+avoid challenges that would promote their continued growth (Caspi & Mofﬁtt 1995). For example,
+Schulz & Hanusa (1978) found strong initial health beneﬁts of an intervention that increased
+elderly nursing home residents’ sense of control over their lives. But after the intervention ended,
+its beneﬁts vanished and treated residents’ health worsened. Residents may have come to construe
+their greater control as temporary and dependent on an external agent rather than based in their
+own agency. Other examples of disappointing interventions include the Cambridge-Somerville
+youth program (McCord 1978; see Ross & Nisbett 2011), which provided substantial material and
+social resources to at-risk juveniles. Such resources may be necessary for change to occur, but not
+sufﬁcient.
+Because of recursion, a process such as self-afﬁrmation can feed off its own consequences
+(Cohen et al. 2009, Wilson 2011). Self-afﬁrmed individuals may achieve better outcomes, which
+in turn can reafﬁrm them and promote better outcomes, in a cycle that sustains itself. Because
+of the interaction between the person and the social environment, different processes can feed
+off one another’s effects. Achieving better outcomes, self-afﬁrmed individuals may evoke positive
+responses from teachers or friends, which in turn may evoke even better outcomes from them.
+Their social world may change, and a new current of processes may then propel their advantage.
+Afﬁrmed students may be placed in more demanding courses (see Cohen et al. 2009) and come to
+befriend peers who set a norm for higher achievement (cf. Alwin et al. 1991). Not only may they be
+shaped by their environment, but they may shape it; with fewer underperformers in a classroom,
+the teacher might be better able to teach and reach more children. To paraphrase Caspi & Mofﬁtt
+(1995), the person acts; other variables react; and the person reacts back in iterative interactions—a
+cycle illustrated in the parable of the professional hockey player described previously.
+An understanding of the interdependencies in a system can improve intervention. For instance, in one study variation, teachers were permitted to read their students’ afﬁrmation essays
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+355
+
+ARI
+
+31 October 2013
+
+13:5
+
+(Bowen et al. 2012). Relative to a standard afﬁrmation and a control condition, teacher awareness
+increased student grades. Teachers who read the essays may have felt more connected to their
+students and treated them more attentively, thus fueling the recursive processes initiated by the
+afﬁrmation in the student. An intervention need not introduce new processes but can instead act
+as a triggering mechanism for existing ones.
+Because of subjective construal, recursion, and interaction, the beneﬁts of an intervention can
+carry forward through time and can accumulate. They can also widen in scope if they foster assets
+that promote wide-ranging advantages (Masten & Cicchetti 2010). For example, an intervention
+that bolstered students’ sense of belonging beneﬁted not only their grades but also their selfreported well-being and health three years later (Walton & Cohen 2011). But not all intervention
+effects persist. And the system can respond in ways that undo intervention effects, if, for example, a
+teacher raises the curve in response to improved grades (see Garcia & Cohen 2012, Heckman et al.
+1998). To make an intervention effect stick, it is necessary to understand the key processes at work
+in the system. When an intervention occurs at the right time and place and to the persons who
+need it, what would otherwise be a transient happenstance, such as writing about an important
+value, becomes a turning point.
+Three methodological lessons follow from the importance of time, recursion, and interaction
+(see Bronfenbrenner 1977, Lewin 1943). First, experimentally manipulated interventions can
+reveal much about the recursive and interactive processes at work in a system (Lewin 1997/1948).
+The long-term effects of an afﬁrmation on middle school minority students underscored the
+recursive, interactive processes that turn early performance outcomes in school into enduring
+advantages and disadvantages (Cohen et al. 2009, Sherman et al. 2013). Second, because recursive
+processes take time to develop, a full understanding of them requires longitudinal research, not
+just the freeze-frame of a short-term measure (Lewin 1943; e.g., Obradović et al. 2010). A single
+assessment would have failed to capture the downward trend in performance and belonging
+of middle school minority students and how these constructs ﬂuctuate together for them. A
+wide-angle temporal lens also pinpoints the time and place a problem emerges and thus when and
+with whom to intervene (e.g., Cook et al. 2011). Longitudinal research is also important because the
+effect of an intervention may take time to occur (Pennebaker & Chung 2011, Schulz & Hanusa
+1978) or persist longer than expected (Green & Shachar 2000). Third, because a process interacts
+with the system in which it occurs, ﬁeld studies provide a necessary supplement to lab studies.
+This is not simply because ﬁeld studies can test the robustness of a process, its signal in the noise
+of the real world. It is because social systems contain variables that interact with the process and
+affect its manifestation (Paluck 2009). For example, a school may transform a psychological effect
+into a structural reality—as when self-afﬁrmed children earn higher grades and are then admitted
+into more advanced courses (Cohen et al. 2009). “Rigor is not reductionism” sums up these
+methodological implications.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+New trajectories can transform the psychology of the actor. Over time the cumulative advantages of an intervention or formative experience can transform the actor. For instance, months
+after the intervention had commenced, afﬁrmed minority students had a more robust identity as a
+person who belongs in school and were resilient to ongoing threats (Cohen et al. 2009, Cook et al.
+2012, Sherman et al. 2013; see also Walton & Cohen 2011). Afﬁrmed students experienced many
+of the same stressors and slights as others but without the detrimental impact that nonafﬁrmed
+students experienced. Their experiences throughout the school year made the afﬁrmed and
+nonafﬁrmed increasingly dissimilar, as their felt belonging in school diverged with time (Cook
+et al. 2012). Because afﬁrmed students lived in a subjectively less threatening world, they may have
+been more emboldened to seize opportunities to transform their circumstances. Self-afﬁrmed
+children took more advanced courses in math, which suggests that they put themselves on a
+356
+
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+positive trajectory (Cohen et al. 2009; see also Yeager & Walton 2011). That agents can initiate
+their own trajectories, and transform themselves in the process, seems key to understanding how
+and when early inﬂuences lead to divergent outcomes. For example, people place themselves
+in social environments—friendships, marriages, jobs—that can reinforce their beliefs, values,
+and identity for a lifetime (Alwin et al. 1991, Caspi & Mofﬁtt 1995). A continuity between
+humans and lower animals is suggested by a study with genetically identical mice in which small
+early differences in roaming activity became self-reinforcing, compounding over time into large
+differences in behavior and brain structure (Freund et al. 2013). Cumulative consequences of small
+initial differences, whether due to chance, personality, or an intervention, can transform the actor.
+Timing matters. A major determinant of the effectiveness of an intervention is timeliness. Any
+resource can provide a bridge to better outcomes if timed to key transitions and choice points (Elder
+1998; see also Bronfenbrenner 1977). The importance of timeliness is evident even at the small
+temporal scale of the laboratory study. Afﬁrmations reduced defensiveness when they occurred
+either before the presentation of threatening information or soon after. But once participants had
+engaged in defensive rationalization, the afﬁrmation could not undo it (Critcher et al. 2010; see
+also Briñol et al. 2007). In some respects, a social psychological intervention is like an engineered
+coincidence. It places in close proximity three events that otherwise might seldom co-occur: a
+positive inﬂuence, a challenge, and an immediate chance to change. A smoker is afﬁrmed, receives
+threatening health information, then has the opportunity to assert a commitment to quit.
+Over large time scales, early outcomes matter more because their consequences can compound
+(Cohen et al. 2009, Sherman et al. 2013, Wilson 2011). Not only can early effects magnify in
+recursive loops, but a small effect can add up into a large one if it repeatedly recurs. Just as small
+but consistent advantages in baseball batting averages compound into large differences in success
+over a season or career, a small but consistent advantage in student test performance will compound
+into a sizable increase in cumulative GPA (Abelson 1985, Cohen et al. 2006). In a ﬁeld experiment,
+afﬁrmation beneﬁted minority students’ classroom grades more if it took place in the ﬁrst week
+of school, before any drop in performance and its ensuing psychological toll, than if it took place
+at the standard time a few weeks later (Cook et al. 2012). Strikingly, the effect of early timing
+on ﬁrst-term class grades equaled the effect of the presence versus absence of the intervention in
+previous research (Cohen et al. 2006). The beginning of a process, like the beginning of a story,
+sets the stage for what follows and marks an ideal time to intervene.
+Interventions such as afﬁrmation may also have larger beneﬁts if timed to the onset of key
+developmental transitions. Adolescence, the ascension to college, and entry into gateway courses
+represent sensitive periods that are often threatening, unpredictable, and stressful—an opportune
+circumstance for an afﬁrmation. People are often impressionable at such transitions, and their
+experiences in them can ﬁx the starting point of a recursive process (see Alwin et al. 1991, Elder
+1998). As life-course theorists have noted, the outcome of an early life transition can give rise to
+a chain of advantages or disadvantages that shapes the outcomes of later transitions (Elder 1998).
+Finally, early experiences anchor people’s expectations for threat or safety in an environment
+(Miller et al. 2009, Worthman et al. 2010). Once formed, such foundational beliefs can ﬁlter
+subsequent experience and prove difﬁcult to undo (cf. Ross & Nisbett 2011). When African
+Americans performed poorly early in the school year, they suffered a drop in their sense of academic
+belonging and did not recoup it even if their grades later improved (Cook et al. 2012). Afﬁrmed
+African Americans, however, were buffered against the effects of early adversity. Transitions thus
+represent both points of vulnerability and windows of opportunity (Anderson 2003). It is easier to
+control a process in its germinal stages. But once a process has accumulated its full consequences,
+it may have a momentum that is hard to halt.
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+357
+
+ARI
+
+31 October 2013
+
+13:5
+
+Interventions are more impactful if they take into account the psychological landscape of
+social problems. Social problems have a psychological side that, if not addressed, will limit the
+effectiveness of reforms. Improvements in school curriculum may produce little gain if students
+ﬁnd the classroom threatening rather than safe. Health campaigns may yield disappointing results
+if they arouse defensiveness. A sound peace proposal could meet with rejection if adversaries stake
+their identity on prevailing over the other side. To the extent that ﬁnancial distress can imprint
+on children a view of the world as threatening and requiring vigilance, interventions later in life
+may need to assure them that their school or work environment is a safe place where they belong
+and good things eventually happen (Chen & Miller 2012, Harackiewicz et al. 2014).
+Not only can psychological threat suppress the beneﬁts of structural reforms and institutions.
+It can also hide the successful impacts that they have already achieved. When social psychological
+interventions raise the performance of minority undergraduates, this suggests that the collegiate
+programs that promoted their recruitment and retention were successful, as the performance of
+students begins to reﬂect their acquired aptitude (Steele 2010, Walton & Spencer 2009). Together,
+structural reforms and psychological interventions can synergize each other’s effects and reduce
+the gap between where people are and what they can achieve in a variety of domains (Garcia &
+Cohen 2012, Yeager & Walton 2011).
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+Moderators and Boundary Conditions
+Social psychological interventions like afﬁrmation are not panaceas but catalysts (Yeager & Walton
+2011). Afﬁrmation lifts a barrier, psychological threat, that would otherwise block the impact
+of positive forces in the person or the situation. Indeed, in all the problem domains discussed,
+psychological threat stands in tension with hidden positive forces, such as the desire and ability
+to learn, to be healthy, and to have rewarding relationships. By tipping the balance of forces,
+afﬁrmation unleashes “previously unrealized behavioral potentials,” especially for those on the
+cusp of change (Bronfenbrenner 1977, p. 528). The forces in tension are key. As with almost any
+intervention, the effectiveness of afﬁrmation thus depends on prior conditions or moderators.
+Resources for growth. For afﬁrmation to afford beneﬁts, there must be forces to impel improvement once psychological threat is lifted. Afﬁrmation will afford little beneﬁt if the motivation and
+ability to improve are absent. Without resources for growth, afﬁrmation may even trigger disengagement (see Vohs & Schmeichel 2013). These resources may either reside latent in the person
+(e.g., cognitive ability inhibited by stress) or be scaffolded by the environment (e.g., information
+about health risk behavior). Intervention “cocktails” that combine afﬁrmation with programs to
+boost motivation and skills may thus yield the greatest beneﬁt. In a sense, the effect of afﬁrmation
+reveals less about its intrinsic power and more about the potentials untapped in a person or an
+environment. Likewise, beneﬁts will tend to persist more in contexts that reinforce the change.
+Without an attentive teacher, a partner in peace, or an interested romantic partner, an initial improvement will be like a spark without kindling. Conversely, even a small improvement can sum
+into large consequences if the environment repeatedly reinforces the desired behavior, as many
+institutions are designed to do. To use an evolutionary analogy, a small increase in the length of
+a ﬁnch’s beak may seem trivial, but it is not if it enables the ﬁnch to eat more seeds.
+Situational- and individual-based differences in psychological threat. For afﬁrmations to
+yield beneﬁt, psychological threat must be a signiﬁcant impediment to improvement. In the
+absence of threat, afﬁrmation has different effects. It may increase self-conﬁdence and resistance to change (Briñol et al. 2007). In contexts where psychological threat contributes little to
+358
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+outcomes relative to other factors such as a dysfunctional school or neighborhood violence, little
+beneﬁt of the standard afﬁrmation would be expected. Moreover, most studies focus on domains
+where self-protective responses are harmful (e.g., resisting health information) and afﬁrmation
+thus prompts a more adaptive response. But sometimes threat and defensiveness foster adaptive
+outcomes (e.g., Rokeach 1973, Stone et al. 1994). In such cases afﬁrmation should lead to negative
+effects. When the salient identity was being an open-minded negotiator, afﬁrmation led people to
+be more closed-minded (Cohen et al. 2007). Afﬁrmation is a tool to unleash potentials suppressed
+by threat, positive or negative.
+At the dispositional level, people who are under threat beneﬁt most from afﬁrmation. One of
+the best ways to make predictions about the effect of afﬁrmation is to identify whether a threat
+response occurs at baseline. People with low self-esteem and those who feel insecure in their relationships seem at particular risk. So do people who experience social identity threat in a setting
+(Steele 2010). But dispositional moderators may vary by context. Low-self-esteem participants
+act more defensive in some contexts ( Jaremka et al. 2011), whereas high-self-esteem people act
+more defensive in others (Landau & Greenberg 2006; see also Aronson 1969). Another key source
+of individual differences in responsiveness to afﬁrmation is the ability to generate self-afﬁrming
+meanings spontaneously (see Pietersma & Dijkstra 2012). High-self-esteem people seem to do this
+more readily in romantic relationships and thus beneﬁt less from afﬁrmation (Marigold et al. 2007).
+More generally, the ability to create afﬁrming events, reminders, or meanings seems to contribute
+to well-being and health. For instance, among adolescents burdened with household responsibilities, those who saw themselves as fulﬁlling valued social roles such as “good son or daughter” had
+lower levels of C-reactive protein and other markers of cardiovascular risk (Fuligni et al. 2009).
+Types of values and affirmations. Because afﬁrmations work, in part, by putting a threat in
+the context of the big picture, afﬁrmations that focus people on narrow self-centered values (e.g.,
+power, status) or on sources of integrity conditional on meeting external standards (e.g., approval)
+tend to be less effective than afﬁrmations that focus people on values that transcend themselves
+(e.g., compassion, service to others) or on less conditional sources of integrity (e.g., being loved)
+(Burson et al. 2012, Schimel et al. 2004). Indeed, many afﬁrmation essays focus on unconditional
+sources of integrity, often from social relationships (Crocker et al. 2008, Shnabel et al. 2013). As
+one middle school student wrote, “I can’t live without [my family]. My friends, I am my real self
+around them . . . I can be silly . . . and they don’t care, they accept me for who I am” (Table 1).
+Although speculative, one reason for the effectiveness of afﬁrmation interventions is that people
+may seldom spontaneously afﬁrm themselves in this way at moments of threat. Instead they may
+adopt a tunnel-vision focus on the threat and lose sight of what really matters. They may try to
+afﬁrm themselves in the same domain as the threat, which can increase defensiveness (Blanton
+et al. 1997, Sivanathan et al. 2008), or seek afﬁrmation in extrinsic areas such as ﬁnancial success
+and status rather than in the intrinsic sources of integrity cultivated by values afﬁrmations (Schimel
+et al. 2004; see also Nickerson et al. 2003).
+Awareness of self-affirmation processes. As with many interventions, subtlety may be important to the effectiveness of afﬁrmation (Sherman et al. 2009; see also Robinson 2010, Yeager &
+Walton 2011). For example, students are unaware that the “writing exercises” that teachers provide
+them are intended to reduce stress and social identity threat. If they were aware of the purpose,
+they might see the afﬁrmation as a means to an end, robbing it of its intrinsic appeal. Unlike many
+interventions, afﬁrmation is also “wise” in the sense that it does not suggest to the beneﬁciaries
+that they are being singled out as in need of help, a message that can be threatening (Cohen et al.
+1999, Steele 2010, Yeager et al. 2014). Indeed, when participants are told that the afﬁrmation is
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+359
+
+ARI
+
+31 October 2013
+
+13:5
+
+expected to beneﬁt them, or simply led to see a connection between it and the outcome measure,
+its impact decreases (Sherman et al. 2009, Silverman et al. 2012). However, the beneﬁts of selfafﬁrmation can be restored even when people are aware of its expected impact if they are given a
+choice about whether to afﬁrm or not (Silverman et al. 2012). When given a choice, people may
+construe the writing exercise not as a threatening act of control or stigmatization but rather as a
+tool to achieve agency over their well-being.
+Afﬁrmation interventions are not only subtle but also indirect. People often afﬁrm themselves
+on values remote from the threatening domain rather than directly relevant to it. As self-afﬁrmation
+theory suggests, a threat derives its power from the challenge it poses to global self-integrity (Steele
+1988). For this reason, interventions need not resolve a speciﬁc threat to remedy its effects. People
+can ﬁnd anchorage for self-integrity in domains beyond the threat. In a variety of areas, in fact,
+indirect approaches to a behavioral or psychological problem seem to work as well as, and sometimes even better than, frontal assaults on it. From increasing happiness to reducing loneliness and
+depression, from preventing teen pregnancy and academic failure to reducing childhood obesity,
+many successful interventions do not directly confront the problem. Instead, they bring people together around positive, value-relevant activities such as meditation, extracurricular activities, and
+volunteer work (Creswell et al. 2012, Lyubomirsky & Della Porta 2010, Robinson 2010, Schreier
+et al. 2013, Wilson 2011). Although these activities do not directly address the difﬁculty, they help
+to remedy it nonetheless.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+Connections With Other Research Areas
+Resilience. One connection concerns the adaptive systems that foster human resilience. The outcomes in self-afﬁrmation research overlap with the outcomes in resiliency research—stress reactivity, information processing, and self-regulation. The core areas typically afﬁrmed—relationships,
+family, and spiritual and religious values—dovetail with the hot spots for intervention in resilience
+research (Masten & Obradović 2006). Afﬁrmation also promotes adaptive processes that resemble
+the strategies of the resilient. These include constructively orienting to errors (Legault et al. 2012),
+regulating negative emotions while maintaining a focus on big-picture goals (Creswell et al. 2005,
+Schmeichel & Vohs 2009), which is similar to a “shift-and-persist” strategy that characterizes
+people resilient to early adversity (Chen & Miller 2012), and marshaling cognitive reappraisal
+processes, in which higher cortical regions of the brain are recruited to downregulate threat and
+fear (see Ochsner et al. 2002). With time, these adaptive tendencies may give rise to interpersonal
+assets, as suggested by research on the resilient. With negative emotions kept at bay, the resilient
+tend to be good-natured rather than ill-tempered and defensive. This can help them retain the
+support of family, friends, and coworkers through the lifespan (Caspi & Mofﬁtt 1995,
+Lyubomirsky & Della Porta 2010) and attract the interest of a role model (Chen & Miller 2012).
+Psychological assets beget social assets.
+In a study of men and women resilient to the stresses of the Great Depression, Elder (1974) saw
+in them an “adaptive, competent self” (p. 249). Rather than being preoccupied with “matters of
+self-defense,” “inclined to withdraw in adverse situations, and defensive,” the resilient had
+acquired assets that echo the effects of self-afﬁrmation (Elder 1974, pp. 247, 249): a sense of
+“personal worth . . . inner security” (p. 11), “an active coping orientation to the environment,” an
+ability to control stress, a “capacity for sustaining effort and relationships, even in the face of
+obstacles,” “ﬂexibility in the ability to learn and grow from mistakes,” “the resilience to rise above
+setbacks,” and a faith in their ability to adapt adequately to changing circumstances (p. 247). By
+meeting adversity, these individuals became better prepared for new challenges, in a cycle of
+adaptive potential (Elder 1974).
+360
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Social ties. Research on self-afﬁrmation and research on social ties can inform each other. Some
+of the effects of self-afﬁrmation may arise from the protective effects of subjective connectedness
+(Cacioppo & Patrick 2008, Taylor 2007). Much “self ” afﬁrmation seems to be “social” afﬁrmation.
+Most people choose to afﬁrm themselves in the domain of relationships (e.g., Creswell et al. 2007).
+They seem better buffered when they write about why their values make them closer to others (e.g.,
+“I feel part of a team when I play music with my band”) (Shnabel et al. 2013) and focus on their
+positive feelings for others (Crocker et al. 2008). At ﬁrst glance, the social aspect of afﬁrmation
+seems contrary to a motive for self-integrity. However, the self draws its integrity from the social
+world (Leary 2005). As Solomon Asch (1954) wrote, “The ego is not dedicated solely to its own
+enhancement . . . [but] needs and wants to be concerned with its surroundings, to bind itself to
+others, and to work with them” (p. 320).
+Social ties may derive some of their beneﬁt from self-afﬁrmation processes. For example, social
+support beneﬁts mental health not only because it helps people to manage stressors (Taylor 2007)
+but also because it provides opportunities to participate in pleasurable, value-laden activities and
+conversations, as when two music students talk about their favorite band (Lakey & Orehek 2011).
+Though they do not remedy a speciﬁc stressor, these acts may bolster people’s sense of global
+adequacy and thus their well-being and resiliency. In one intriguing study, writers lived longer if
+their autobiographies referred to a greater number of positive social roles (e.g., mother, neighbor,
+colleague) (Pressman & Cohen 2007). From a self-afﬁrmation perspective, reference to a broader
+range of social roles in one’s life story reﬂects a broader pool of afﬁrmational resources to draw
+on in difﬁcult times.
+Links to other interventions. Afﬁrmation may be an invisible component of successful interventions and practices in a variety of disciplines. Some forms of behavioral activation therapy,
+effective in treating depression, have patients articulate their values and set concrete behavioral
+goals for living them out (e.g., for the value of good parenting, a goal might be “taking a walk
+with my daughter once a week”), breaking ruminative cycles (Lejuez et al. 2001). In motivational
+interviewing, a clinical intervention to change health behavior, counselors encourage clients to
+afﬁrm their self-identiﬁed goals and values (Ehret et al. 2014). Effective well-being interventions
+have people participate in value-relevant activities such as practicing random acts of kindness
+(Lyubomirsky & Della Porta 2010). The positive impact of volunteer work on adolescents’ health
+and school achievement may arise from the chance it gives teenagers to craft an identity based
+on constructive social values (Schreier et al. 2013; see also Allen & Philliber 2001, Wilson 2011).
+Likewise, expressive writing interventions (Pennebaker & Chung 2011) and narratives of personal
+agency (Adler 2012) can help people salvage from hardship a sense of purpose and global adequacy.
+Imaginary acts of self-transformation can bolster a sense of adequacy and thus help people to cope
+with challenging circumstances. For example, among preschool children, wearing a Superman
+cape tripled the number who sacriﬁced a short-term pleasure for the sake of obtaining a more
+prized reward later (Karniol et al. 2011, study 1). By cognitively transforming into Superman, children could envision themselves as a competent agent, able to manage a difﬁcult situation, and they
+could thus perform in a way that better achieved their goal. Finally, the motive for self-integrity
+can be channeled into socially constructive behavior. In one intervention, ofﬁcial voter turnout
+increased with a short pre-election survey that presented the act of voting as an afﬁrmation of identity (e.g., “How important is it to you to be a voter in tomorrow’s election?”) rather than an isolated
+behavior (e.g., “How important is it to you to vote in tomorrow’s election?”) (Bryan et al. 2011).
+More generally, afﬁrmation is not simply a paper-and-pencil manipulation but rather an act
+that manifests one’s adequacy. The theoretical principles behind afﬁrmation, not any speciﬁc
+practice, is what we hope people take from this review and use to guide efforts at purposeful
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+361
+
+ARI
+
+31 October 2013
+
+13:5
+
+change. These principles seem harnessed in a variety of success stories. Anecdotally, teachers
+report that having underprivileged children write about their troubles and relate them to larger
+social values improves their engagement with school (Freedom Writ. & Gruwell 1999). Similarly,
+expert tutors, among the most effective of educational “interventions,” often begin the tutoring
+session by asking students about their hobbies, friends, and families. The tutors tune in to students’
+emotional state, and they provide subtle but well-timed gestures of encouragement that interrupt
+downward spirals of demoralization and establish a psychological safety zone that helps children
+confront challenges (Lepper & Woolverton 2001). Likewise, many effective doctors see their
+patients as whole people with goals and lives, not bodies with disease (Verghese et al. 2011). Indeed,
+one psychiatric intervention reduced the number of suicide reattempts simply by sending former
+patients timely postcards inquiring into their well-being (see Carter et al. 2013). To an outsider,
+such practices can seem insigniﬁcant at best and inefﬁcient at worst. But from the perspective of
+people under threat, a self-afﬁrming act can be a timely sign of their adequacy in the wider world.
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+CONCLUSION
+Self-afﬁrmation theory began with the question of how people cope with threats to the self (Steele
+1988). It has spurred a more general account of the change process: how and when people adapt
+adequately to threatening circumstances, how interventions can foster this adaptation, and when
+these new adaptations stick. A developmentally informed social psychology addresses these topics
+and speaks to the problem of stability and change. Although social psychology has long demonstrated the malleability of human behavior (Ross & Nisbett 2011), other traditions have shown
+the striking continuity of personality over time (e.g., Caspi et al. 1987, Caspi & Mofﬁtt 1995). For
+example, the ﬁnding that children’s performance on laboratory self-control tasks can be boosted
+by situational intervention (e.g., Karniol et al. 2011) seems to clash with the ﬁnding that childhood
+variation on such self-control measures predicts health, wealth, employment, and crime decades
+later (Mofﬁtt et al. 2011). The contradiction resolves itself when we realize that “persistent doesn’t
+equal permanent” (Sapolsky 2010, p. xxvi). Persistent can be fragile. Outcomes that seem set in
+stone may in fact be the repeating output of dynamic processes. At timely moments the processes
+can be redirected to prompt lasting adaptive change (Wilson 2011).
+In Raymond Carver’s story, A Small, Good Thing, a baker gives delicious cinnamon rolls to a
+couple whose child has just died (Carver 1989). The baker says to the stricken couple, “Eating is
+a small, good thing in a time like this.” Of course, his gift to them is not so small after all, in part
+because it is given at precisely the right moment. A little help with a ﬁnancial aid form for college,
+some health advice from a friend, a word of encouragement from a mentor, a conversation with
+a stranger, and other seemingly random events can change a life and even the course of history.
+But such events need not be left to chance alone. Social psychology can help locate the right place
+and the right time for a small, good thing to happen.
+
+FUTURE ISSUES
+1. Some people may afﬁrm themselves spontaneously. Indeed, some people try to turn
+almost any writing exercise into a self-afﬁrming one. What are the effects of these selfgenerated afﬁrmations? How do they differ from the experimentally induced afﬁrmations?
+And how can researchers capture the spontaneous afﬁrmation process and its effects in
+everyday life?
+
+362
+
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+2. Afﬁrmations tend to yield concentrated rather than diffuse effects, because they typically
+beneﬁt the people for whom a threat in a given context is most salient and acute. Understanding this heterogeneity is important, as it can help to “reverse engineer” which
+individuals and groups are most under threat in a given setting.
+3. Insofar as the beneﬁts of values afﬁrmation and other social psychological interventions
+result from carefully conducted research by trained experimental social psychologists,
+how best should practitioners, policy makers, and researchers work together to scale
+up such interventions? This seems a particularly challenging issue given that attention to local conditions, personalization of the intervention materials, considerations
+of timing and other theoretical principles can be difﬁcult to maintain in the scaling-up
+process.
+4. Jamie Pennebaker and Cindy Chung (2011) wrote, “If you are expecting a clean and
+simple explanation for the effectiveness of writing, we have some very bad news: There is
+no single reason that explains it” (p. 426). The same notion applies to the effects of selfafﬁrmations. Yet some lessons have emerged related to how and when self-afﬁrmation
+interventions prompt lasting change. Future research should examine a range of mechanisms and mediators at different levels of analysis, including the neural activity of the
+afﬁrmed mind, the content of the writing exercises, and the recursive processes and feedback mechanisms that afﬁrmation catalyzes. Longitudinal experiments will be particularly
+useful to capture the multiple processes that propagate effects over time.
+
+DISCLOSURE STATEMENT
+The authors are not aware of any afﬁliations, memberships, funding, or ﬁnancial holdings that
+might be perceived as affecting the objectivity of this review.
+
+ACKNOWLEDGMENTS
+We thank Sarah Wert, Heejung Kim, Kevin Binning, Stephanie Reeves, and Amy Petermann for
+assistance and thoughtful comments on earlier drafts, and Julio Garcia, Claude Steele, Gregory
+Walton, David Yeager, Lee Ross, Emily Pronin, David Creswell, Kody Manke, and Shannon
+Brady for helpful discussions. Preparation of this manuscript was supported by grants NSF DRL1109548 and NIH 5R01HD055342-04 to G.L.C.
+
+LITERATURE CITED
+Abelson RP. 1985. A variance explanation paradox: when a little is a lot. Psychol. Bull. 97:129–33
+Addona V, Yates PA. 2010. A closer look at the relative age effect in the National Hockey League. J. Quant.
+Anal. Sports 6(Artic. 9):1–17
+Adler JM. 2012. Living into the story: agency and coherence in a longitudinal study of narrative identity
+development and mental health over the course of psychotherapy. J. Personal. Soc. Psychol. 102:367–89
+Allen JP, Philliber S. 2001. Who beneﬁts most from a broadly targeted prevention program? Differential
+efﬁcacy across populations in the Teen Outreach Program. J. Community Psychol. 29:637–55
+Alwin DF, Cohen RL, Necomb TM. 1991. Political Attitudes Over the Life Span: The Bennington Women After
+Fifty Years. Madison: Univ. Wis. Press
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+363
+
+ARI
+
+31 October 2013
+
+13:5
+
+Anderson SL. 2003. Trajectories of brain development: point of vulnerability or window of opportunity.
+Neurosci. Biobehav. Rev. 27:3–18
+Armitage CJ, Harris PR, Arden MA. 2011. Evidence that self-afﬁrmation reduces alcohol consumption: randomized exploratory trial with a new, brief means of self-afﬁrming. Health Psychol. 30:633–41
+Armitage CJ, Harris PR, Hepton G, Napper L. 2008. Self-afﬁrmation increases acceptance of health-risk
+information among UK adult smokers with low socioeconomic status. Psychol. Addict. Behav. 22:88–95
+Armor DA, Sackett AM. 2006. Accuracy, error, and bias in predictions for real versus hypothetical events.
+J. Personal. Soc. Psychol. 91:583–600
+Aronson E. 1969. The theory of cognitive dissonance: a current perspective. In Advances in Experimental Social
+Psychology, ed. L Berkowitz, 4:1–34. New York: Academic
+Aronson J, Cohen GL, Nail PR. 1999. Self-afﬁrmation theory: an update and appraisal. In Cognitive Dissonance:
+Progress on a Pivotal Theory in Social Psychology, ed. E Harmon-Jones, J Mills, pp. 127–48. Washington,
+DC: Am. Psychol. Assoc.
+Asch S. 1954. Social Psychology. Englewood Cliffs, NJ: Prentice-Hall
+Baumeister RF, Smart I, Boden JM. 1996. Relation of threatened egotism to violence and aggression: the dark
+side of high self-esteem. Psychol. Rev. 103:5–33
+Binning KR, Sherman DK, Cohen GL, Heitland K. 2010. Seeing the other side: reducing political partisanship
+via self-afﬁrmation in the 2008 presidential election. Anal. Soc. Issues Public Policy 10:276–92
+Blanton H, Cooper J, Skurnik I, Aronson J. 1997. When bad things happen to good feedback: exacerbating
+the need for self-justiﬁcation through self-afﬁrmation. Personal. Soc. Psychol. Bull. 23:684–92
+Bowen NK, Wegmann KM, Webber KC. 2013. Enhancing a brief writing intervention to combat stereotype
+threat among middle-school students. J. Educ. Psychol. 105:427–35
+Briñol P, Petty RE, Gallardo I, DeMarree KG. 2007. The effect of self-afﬁrmation in non-threatening persuasion domains: timing affects the process. Personal. Soc. Psychol. Bull. 33:1533–46
+Bronfenbrenner U. 1977. Toward an experimental ecology of human development. Am. Psychol. 32:513–31
+Bryan CJ, Walton GM, Rogers T, Dweck CS. 2011. Motivating voter turnout by invoking the self. Proc. Natl.
+Acad. Sci. USA 108:12653–56
+Bugental DB, Ellerson PC, Lin EK, Rainey B, Kokotovic A, O’Hara N. 2002. A cognitive approach to child
+abuse prevention. J. Fam. Psychol. 16:243–58
+Burson A, Crocker J, Mischkowski D. 2012. Two types of value-afﬁrmation: implications for self-control
+following social exclusion. Soc. Psychol. Personal. Sci. 3:510–16
+Cacioppo JT, Patrick W. 2008. Loneliness: Human Nature and the Need for Social Connection. New York: Norton
+Carter GL, Clover K, Whyte IM, Dawson AH, D’Este C. 2013. Postcards from the EDge: 5-year outcomes
+of a randomised controlled trial for hospital-treated self-poisoning. Br. J. Psychiatry 202:372–80
+Carver R. 1989. A small, good thing. In Where I’m Calling From. New York: Random House
+Caspi A, Elder GH, Bem DJ. 1987. Moving against the world: life-course patterns of explosive children. Dev.
+Psychol. 23:308–13
+Caspi A, Mofﬁtt TE. 1995. The continuity of maladaptive behavior: from description to understanding in the
+study of antisocial behavior. In Developmental Psychopathology Vol. 2: Risk, Disorder, and Adaptation. Wiley
+Series on Personality Processes, ed. D Cicchetti, DJ Cohen, pp. 472–511. Oxford, UK: Wiley
+Čehajić-Clancy S, Effron DA, Halperin E, Liberman V, Ross LD. 2011. Afﬁrmation, acknowledgment of
+in-group responsibility, group-based guilt, and support for reparative measures. J. Personal. Soc. Psychol.
+101:256–70
+Cent. Disease Control Prev. (CDC). Smoking and Tobacco Use. Atlanta, GA: CDC. http://www.cdc.
+gov/tobacco/data_statistics/fact_sheets/fast_facts/index.htm
+Chen E, Miller GE. 2012. “Shift-and-persist” strategies: why low socioeconomic status isn’t always bad for
+health. Perspect. Psychol. Sci. 7:135–58
+Cohen D, Nisbett RE, Bowdle BF, Schwarz N. 1996. Insult, aggression, and the southern culture of honor:
+an “experimental ethnography.” J. Personal. Soc. Psychol. 70:945–60
+Cohen GL. 2012. Identity, ideology, and bias. In Ideology, Psychology, and Law, ed. J Hanson, pp. 385–403.
+New York: Oxford Univ. Press
+Cohen GL, Garcia J. 2008. Identity, belonging, and achievement: a model, interventions, implications. Curr.
+Dir. Psychol. Sci. 17:365–69
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+364
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Cohen GL, Garcia J, Apfel N, Master A. 2006. Reducing the racial achievement gap: a social-psychological
+intervention. Science 313:1307–10
+Cohen GL, Garcia J, Purdie-Vaughns V, Apfel N, Brzustoski P. 2009. Recursive processes in self-afﬁrmation:
+intervening to close the minority achievement gap. Science 324:400–3
+Cohen GL, Purdie-Vaughns V, Garcia J. 2012. An identity threat perspective on intervention. In Stereotype
+Threat: Theory, Process, and Application, ed. M Inzlichtt, T Schmader, pp. 280–96. New York: Oxford Univ.
+Press
+Cohen GL, Sherman DK, Bastardi A, Hsu L, McGoey M, Ross L. 2007. Bridging the partisan divide: selfafﬁrmation reduces ideological closed-mindedness and inﬂexibility in negotiation. J. Personal. Soc. Psychol.
+93:415–30
+Cohen GL, Steele CM, Ross LD. 1999. The mentor’s dilemma: providing critical feedback across the racial
+divide. Personal. Soc. Psychol. Bull. 25:1302–18
+Cook JE, Purdie-Vaughns V, Garcia J, Cohen GL. 2012. Chronic threat and contingent belonging: protective
+beneﬁts of values afﬁrmation on identity development. J. Personal. Soc. Psychol. 102:479–96
+Cornil Y, Chandon P. 2013. From fan to fat? Vicarious losing increases unhealthy eating, but selfafﬁrmation is an effective remedy. Psychol. Sci. In press. http://pss.sagepub.com/content/early/
+2013/08/07/0956797613481232.long. doi:10.1177/0956797613481232
+Correll J, Spencer SJ, Zanna MP. 2004. An afﬁrmed self and an open mind: self-afﬁrmation and sensitivity to
+argument strength. J. Exp. Soc. Psychol. 40:350–56
+Creswell JD, Dutcher JM, Klein WM, Harris PR, Levine JM. 2013. Self-afﬁrmation improves problem-solving
+under stress. PLoS ONE 8:e62593
+Creswell JD, Irwin MR, Burklund LJ, Lieberman MD, Arevalo JM, et al. 2012. Mindfulness-based stress
+reduction training reduces loneliness and pro-inﬂammatory gene expression in older adults: a small
+randomized controlled trial. Brain Behav. Immunol. 26:1095–101
+Creswell JD, Lam S, Stanton AL, Taylor SE, Bower JE, Sherman DK. 2007. Does self-afﬁrmation, cognitive
+processing, or discovery of meaning explain cancer-related health beneﬁts of expressive writing? Personal.
+Soc. Psychol. Bull. 33:238–50
+Creswell JD, Welch W, Taylor SE, Sherman D, Gruenewald T, Mann T. 2005. Afﬁrmation of personal values
+buffers neuroendocrine and psychological stress responses. Psychol. Sci. 16:846–51
+Critcher CR, Dunning D, Armor DA. 2010. When self-afﬁrmations reduce defensiveness: timing is key.
+Personal. Soc. Psychol. Bull. 36:947–59
+Crocker J, Niiya Y, Mischkowski D. 2008. Why does writing about important values reduce defensiveness?
+Self-afﬁrmation and the role of positive, other-directed feelings. Psychol. Sci. 19:740–47
+Dillard AJ, McCaul KD, Magnan RE. 2005. Why is such a smart person like you smoking? Using selfafﬁrmation to reduce defensiveness to cigarette warning labels. J. Appl. Biobehav. Res. 10:165–82
+Doosje BE, Branscombe NR, Spears R, Manstead AS. 2006. Antecedents and consequences of group-based
+guilt: the effects of ingroup identiﬁcation. Group Process. Intergr. Relat. 9:325–38
+Dunning D. 2005. Self-Insight: Roadblocks and Detours on the Path to Knowing Thyself. New York: Psychol. Press
+Dweck CS. 2008. Can personality be changed? The role of beliefs in personality and change. Curr. Dir. Psychol.
+Sci. 17:391–94
+Eccles J, Lord S, Midgley C. 1991. What are we doing to early adolescents? The impact of educational contexts
+on early adolescents. Am. Educ. J. 99:521–42
+Ehret PJ, LaBrie JW, Santerre C, Sherman DK. 2014. Self-afﬁrmation and motivational interviewing: integrating perspectives to reduce resistance and increase efﬁcacy of alcohol interventions. Health Psychol.
+Rev. In press
+Elder GH Jr. 1974. Children of the Great Depression: Social Change in Life Experience. Chicago: Univ. Chicago
+Press
+Elder GH. 1977. Family history and the life course. J. Fam. Hist. 2:279–304
+Elder GH. 1998. The life course as developmental theory. Child Dev. 69:1–12
+Epton T, Harris PR. 2008. Self-afﬁrmation promotes health behavior change. Health Psychol. 27:746–52
+Finkel EJ, Slotter EB, Luchies LB, Walton GM, Gross JJ. 2013. A brief intervention to promote conﬂict
+reappraisal preserves marital quality over time. Psychol. Sci. 24:1595–601
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+365
+
+ARI
+
+31 October 2013
+
+13:5
+
+Freedman JL, Fraser SC. 1966. Compliance without pressure: the foot-in-the-door technique. J. Personal. Soc.
+Psychol. 4:195–202
+Freedom Writers, Gruwell E. 1999. The Freedom Writers Diary: How a Teacher and 150 Teens Used Writing to
+Change Themselves and the World Around Them. New York: Broadway Books
+Freund J, Brandmaier AM, Lewejohann L, Kirste I, Kritzler M, et al. 2013. Emergence of individuality in
+genetically identical mice. Science 340:756–59
+Fry RB, Prentice-Dunn S. 2005. Effects of coping information and value afﬁrmation on responses to perceived
+health threat. Health Comm. 17:133–47
+Fuligni AJ, Telzer EH, Bower J, Cole SW, Kiang L, Irwin MR. 2009. A preliminary study of daily interpersonal
+stress and C-reactive protein levels among adolescents from Latin American and European backgrounds.
+Psychosom. Med. 71:329–33
+Garcia J, Cohen GL. 2012. A social psychological approach to educational intervention. In Behavioral Foundations of Policy, ed. E Shaﬁr, pp. 329–50. Princeton, NJ: Princeton Univ. Press
+Gilbert DT, Pinel EC, Wilson TD, Blumberg SJ, Wheatley TP. 1998. Immune neglect: a source of durability
+bias in affective forecasting. J. Personal. Soc. Psychol. 75:617–38
+Gladwell M. 2008. Outliers: The Story of Success. New York: Little, Brown
+Gollwitzer PM, Sheeran P. 2006. Implementation intentions and goal achievement: a meta-analysis of effects
+and processes. Adv. Exp. Soc. Psychol. 38:69–119
+Gottman JM. 2011. The Science of Trust: Emotional Attunement for Couples. New York: Norton
+Green D, Shachar R. 2000. Habit formation and political behavior: evidence of consuetude in voter turnout.
+Br. J. Polit. Sci. 30:561–73
+Greenberg J, Solomon S, Pyszczynski T. 1997. Terror management theory of self-esteem and cultural worldviews: empirical assessments and conceptual reﬁnements. In Advances in Experimental Social Psychology, ed.
+MP Zanna, 29:61–139. Orlando, FL: Academic
+Greenwald AG. 1980. The totalitarian ego: fabrication and revision of personal history. Am. Psychol. 35:603–18
+Grifﬁn DW, Harris PR. 2011. Calibrating the response to health warnings limiting both overreaction and
+underreaction with self-afﬁrmation. Psychol. Sci. 22:572–78
+Grubb WN. 2009. The Money Myth: School Resources, Outcomes, and Equity. New York: Sage Found.
+Haines J, Neumark-Sztainer D, Wall M, Story M. 2007. Personal, behavioral, and environmental risk and
+protective factors for adolescent overweight. Obesity 15:2748–60
+Harackiewicz JM, Canning EA, Tibbetts Y, Giffen CJ, Hyde JS. 2014. Closing the social class achievement
+gap for ﬁrst-generation students in undergraduate biology. J. Educ. Psychol. In press
+Harber KD, Yeung D, Iacovelli A. 2011. Psychosocial resources, threat, and the perception of distance and
+height: support for the resources and perception model. Emotion 11:1080–90
+Harris PR, Epton T. 2009. The impact of self-afﬁrmation on health cognition, health behaviour and other
+health-related responses: a narrative review. Soc. Personal. Psychol. Compass 3:962–78
+Harris PR, Epton T. 2010. The impact of self-afﬁrmation on health-related cognition and health behaviour:
+issues and prospects. Soc. Personal. Psychol. Compass 4:439–54
+Harris PR, Mayle K, Mabbott L, Napper L. 2007. Self-afﬁrmation reduces smokers’ defensiveness to graphic
+on-pack cigarette warning labels. Health Psychol. 26:437–46
+Harris PR, Napper L. 2005. Self-afﬁrmation and the biased processing of threatening health-risk information.
+Personal. Soc. Psychol. Bull. 31:1250–63
+Havranek EP, Hanratty R, Tate C, Dickinson LM, Steiner JF, Cohen GL, Blair IA. 2012. The effect of values
+afﬁrmation on race-discordant patient-provider communication. Arch. Intern. Med. 172:1662–67
+Heckman JJ, Lochner L, Taber C. 1998. General equilibrium treatment effects: a study of tuition policy. Am.
+Econ. Rev. 88:381–86
+Howell JL, Shepperd JA. 2012. Reducing information avoidance through afﬁrmation. Psychol. Sci. 23:141–45
+Inzlicht M, Schmader T, eds. 2011. Stereotype Threat: Theory, Process, and Application. New York: Oxford Univ.
+Press
+Jaremka LM, Bunyan DP, Collins NL, Sherman DK. 2011. Reducing defensive distancing: self-afﬁrmation
+and risk regulation in response to relationship threats. J. Exp. Soc. Psychol. 47:264–68
+Karniol R, Galili L, Shtilerman D, Naim R, Stern K, et al. 2011. Why Superman can wait: cognitive selftransformation in the delay of gratiﬁcation paradigm. J. Clin. Child Adolesc. Psychol. 40:307–17
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+366
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Kennedy KA, Pronin E. 2008. When disagreement gets ugly: perceptions of bias and the escalation of conﬂict.
+Personal. Soc. Psychol. Bull. 34:833–48
+Keough KA, Markus HR. 1998. The role of the self in building the bridge from philosophy to biology. Psychol.
+Inq. 9:49–53
+Kiecolt-Glaser JK, Page GG, Marucha PT, MacCallum RC, Glaser R. 1998. Psychological inﬂuences on
+surgical recovery: perspectives from psychoneuroimmunology. Am. Psychol. 53:1209–18
+Klein WM, Harris PR. 2009. Self-afﬁrmation enhances attentional bias toward threatening components of a
+persuasive message. Psychol. Sci. 20:1463–67
+Klein WM, Harris PR, Ferrer RA, Zajac LE. 2011. Feelings of vulnerability in response to threatening
+messages: effects of self-afﬁrmation. J. Exp. Soc. Psychol. 47:1237–42
+Koole SL, Smeets K, van Knippenberg A, Dijksterhuis A. 1999. The cessation of rumination through selfafﬁrmation. J. Personal. Soc. Psychol. 77:111–25
+Kunda Z. 1990. The case for motivated reasoning. Psychol. Bull. 108:480–98
+Lakey B, Orehek E. 2011. Relational regulation theory: a new approach to explain the link between perceived
+social support and mental health. Psychol. Rev. 118:482–95
+Landau MJ, Greenberg J. 2006. Play it safe or go for the gold? A terror management perspective on selfenhancement and protection motives in risky decision making. Personal. Soc. Psychol. Bull. 32:1633–45
+Leary MR. 2005. Sociometer theory and the pursuit of relational value: getting to the root of self-esteem. Eur.
+Rev. Soc. Psychol. 16:75–111
+Legault L, Al-Khindi T, Inzlicht M. 2012. Preserving integrity in the face of performance threat: selfafﬁrmation enhances neurophysiological responsiveness to errors. Psychol. Sci. 23:1455–60
+Lejuez CW, Hopko DR, LePage JP, Hopko SD, McNeil DW. 2001. A brief behavioral activation treatment
+for depression. Cogn. Behav. Pract. 8:164–75
+Lepper MR, Woolverton M. 2001. The wisdom of practice: lessons learned from the study of highly effective
+tutors. In Improving Academic Achievement: Contributions of Social Psychology, ed. J Aronson, pp. 133–56.
+Orlando, FL: Academic
+Lewin K. 1943. Deﬁning the “ﬁeld at a given time.” Psychol. Rev. 50:292–310
+Lewin K. 1997/1948. Resolving Social Conﬂicts and Field Theory in Social Science. Washington, DC: Am. Psychol.
+Assoc.
+Logel C, Cohen GL. 2012. The role of the self in physical health. Psychol. Sci. 23:53–55
+Lyubomirsky S, Della Porta M. 2010. Boosting happiness, buttressing resilience: results from cognitive and
+behavioral interventions. In Handbook of Adult Resilience: Concepts, Methods, and Applications, ed. JW Reich,
+AJ Zautra, J Hall, pp. 450–64. New York: Guilford
+Mancuso CA, Choi TN, Wenn H, Wenderoth S, Hollenberg JP, et al. 2012. Increasing physical activity in
+patients with asthma through positive affect and self-afﬁrmation. Arch. Intern. Med. 172:337–43
+Marigold DC, Holmes JG, Ross M. 2007. More than words: reframing compliments from romantic partners
+fosters security in low self-esteem individuals. J. Personal. Soc. Psychol. 92:232–48
+Marigold DC, Holmes JG, Ross M. 2010. Fostering relationship resilience: an intervention for low self-esteem
+individuals. J. Exp. Soc. Psychol. 46:624–30
+Martens A, Johns M, Greenberg J, Schimel J. 2006. Combating stereotype threat: the effect of self-afﬁrmation
+on women’s intellectual performance. J. Exp. Soc. Psychol. 42:236–43
+Masten AS, Cicchetti D. 2010. Developmental cascades. Dev. Psychopathol. 22:491–95
+Masten AS, Obradović J. 2006. Competence and resilience in development. Ann. N.Y. Acad. Sci. 1094:13–27
+Master SL, Eisenberger NI, Taylor SE, Naliboff BD, Shirinyan D, Lieberman MD. 2009. A picture’s worth:
+Partner photographs reduce experimentally induced pain. Psychol. Sci. 20:1316–18
+Matsuda KN, Melde C, Taylor TJ, Freng A, Esbensen FA. 2013. Gang membership and adherence to the
+“code of the street.” Justice Q. 30:440–48
+McCord J. 1978. A thirty-year follow-up of treatment effects. Am. Psychol. 33:284–89
+McQueen A, Klein WM. 2006. Experimental manipulations of self-afﬁrmation: a systematic review. Self
+Identity 5:289–354
+Miller G, Chen E, Cole SW. 2009. Health psychology: developing biologically plausible models linking the
+social world and physical health. Annu. Rev. Psychol. 60:501–24
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+367
+
+ARI
+
+31 October 2013
+
+13:5
+
+Miyake A, Kost-Smith LE, Finkelstein ND, Pollock SJ, Cohen GL, Ito TA. 2010. Reducing the gender
+achievement gap in college science: a classroom study of values afﬁrmation. Science 330:1234–37
+Mofﬁtt TE, Arseneault L, Belsky D, Dickson N, Hancox RJ, et al. 2011. A gradient of childhood self-control
+predicts health, wealth, and public safety. Proc. Natl. Acad. Sci. USA 108:2693–98
+Murray SL, Grifﬁn DW, Rose P, Bellavia G. 2006. For better or worse? Self-esteem and the contingencies of
+acceptance in marriage. Personal. Soc. Psychol. Bull. 32:866–80
+Napper L, Harris PR, Epton T. 2009. Developing and testing a self-afﬁrmation manipulation. Self Identity
+8:45–62
+Nickerson C, Schwarz N, Diener E, Kahneman D. 2003. Zeroing in on the dark side of the American dream:
+a closer look at the negative consequences of the goal for ﬁnancial success. Psychol. Sci. 14:531–36
+Norris S. 2008. Coping with Illness. Video ﬁle. La Jolla: Univ. Calif. Telev. (UCTV). http://www.uctv.tv/
+search-details.asp?showID=15400
+Obradović J, Burt KB, Masten AS. 2010. Testing a dual cascade model linking competence and symptoms
+over 20 years from childhood to adulthood. J. Clin. Child Adolesc. Psychol. 39:109–17
+Ochsner KN, Bunge SA, Gross JJ, Gabrieli JD. 2002. Rethinking feelings: an fMRI study of the cognitive
+regulation of emotion. J. Cogn. Neurosci. 14:1215–29
+Ogedegbe GO, Boutin-Foster C, Wells MT, Allegrante JP, Isen AM, et al. 2012. A randomized controlled
+trial of positive-affect intervention and medication adherence in hypertensive African Americans. Arch.
+Intern. Med. 172:322–26
+Overall NC, Simpson JA, Struthers H. 2013. Buffering attachment-related avoidance: softening emotional
+and behavioral defenses during conﬂict discussions. J. Personal. Soc. Psychol. 104:854–71
+Paluck EL. 2009. Reducing intergroup prejudice and conﬂict using the media: a ﬁeld experiment in Rwanda.
+J. Personal. Soc. Psychol. 96:574–87
+Pennebaker JW, Chung CK. 2011. Expressive writing: connections to physical and mental health. In The
+Oxford Handbook of Health Psychology, ed. HS Friendman, pp. 417–37. New York: Oxford Univ. Press
+Peterson JC, Charlson ME, Hoffman Z, Wells MT, Wong S, et al. 2012. A randomized controlled trial
+of positive-affect induction to promote physical activity after percutaneous coronary intervention. Arch.
+Intern. Med. 172:329–36
+Pietersma S, Dijkstra A. 2012. Cognitive self-afﬁrmation inclination: an individual difference in dealing with
+self-threats. Br. J. Soc. Psychol. 51:33–51
+Pratto F, John OP. 1991. Automatic vigilance: the attention-grabbing power of negative social information.
+J. Personal. Soc. Psychol. 61:380–91
+Pressman SD, Cohen S. 2007. Use of social words in autobiographies and longevity. Psychosom. Med. 69:262–69
+Raudenbush, SW. 1984. Magnitude of teacher expectancy effects on pupil IQ as a function of the credibility
+of expectancy induction: a synthesis of ﬁndings from 18 experiments. J. Educ. Psychol. 76:85–97
+Reardon SF. 2011. The widening academic achievement gap between the rich and the poor: new evidence
+and possible explanations. In Whither Opportunity? Rising Inequality and the Uncertain Life Chances of
+Low-Income Children, ed. R Murnane, G Duncan, pp. 91–116. New York: Sage Found.
+Reed MB, Aspinwall LG. 1998. Self-afﬁrmation reduces biased processing of health-risk information. Motiv.
+Emot. 22:99–132
+Robinson TN. 2010. Stealth interventions for obesity prevention and control: motivating behavior change. In
+Obesity Prevention: The Role of Brain and Society on Individual Behavior, ed. L Dube, A Bechara, A Dagher,
+A Drewnowski, J Lebel, P James, R Yada, pp. 319–28. New York: Elsevier
+Rokeach M. 1973. The Nature of Human Values. New York: Free Press
+Rosenthal R. 1994. Interpersonal expectancy effects: a 30-year perspective. Curr. Dir. Psychol. Sci. 3:176–79
+Ross LD, Nisbett RE. 2011. The Person and the Situation: Perspectives of Social Psychology. London: Pinter &
+Martin
+Sabaté E. 2003. Adherence to Long-Term Therapies: Evidence for Action.Geneva: World Health Organ.
+Sapolsky RM. 2004. Why Zebras Don’t Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Diseases, and
+Coping—Now Revised and Updated. New York: Holt Paperb.
+Sapolsky RM. 2010. Foreword. In Formative Experiences: The Interaction of Caregiving, Culture, and Developmental Psychobiology, ed. CM Worthman, PM Plotsky, DS Schechter, CA Cummings, pp. xxiii–xxvi.
+New York: Cambridge Univ. Press
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+368
+
+Cohen
+
+·
+
+Sherman
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Savitsky K, Epley N, Gilovich T. 2001. Do others judge us as harshly as we think? Overestimating the impact
+of our failures, shortcomings, and mishaps. J. Personal. Soc. Psychol. 81:44–56
+Schimel J, Arndt J, Banko KM, Cook A. 2004. Not all self-afﬁrmations were created equal: the cognitive and
+social beneﬁts of afﬁrming the intrinsic (versus extrinsic) self. Soc. Cogn. 22:75–99
+Schmeichel BJ, Vohs KD. 2009. Self-afﬁrmation and self-control: afﬁrming core values counteracts ego depletion. J. Personal. Soc. Psychol. 96:770–82
+Schreier HM, Schonert-Reichl KA, Chen E. 2013. Effect of volunteering on risk factors for cardiovascular
+disease in adolescents: a randomized controlled trial. JAMA Pediatr. 167:327–32
+Schulz R. 1976. The effects of control and predictability on the psychological and physical well-being of the
+institutionalized aged. J. Personal. Soc. Psychol. 33:563–73
+Schulz R, Hanusa BH. 1978. Long-term effects of control and predictability-enhancing interventions: ﬁndings
+and ethical issues. J. Personal. Soc. Psychol. 36:1194–201
+Shapiro JR, Williams AM, Hambarchyan M. 2012. Are all interventions created equal? A multi-threat approach
+to tailoring stereotype threat interventions. J. Personal. Soc. Psychol. 104:277–88
+Sherman DAK, Nelson LD, Steele CM. 2000. Do messages about health risks threaten the self? Increasing
+the acceptance of threatening health messages via self-afﬁrmation. Personal. Soc. Psychol. Bull. 26:1046–58
+Sherman DK. 2013. Self-afﬁrmation: understanding the effects. Soc. Personal. Psychol. Compass. In press
+Sherman DK, Bunyan DP, Creswell JD, Jaremka LM. 2009. Psychological vulnerability and stress: the effects of
+self-afﬁrmation on sympathetic nervous system responses to naturalistic stressors. Health Psychol. 28:554–
+62
+Sherman DK, Cohen GL. 2006. The psychology of self-defense: self-afﬁrmation theory. In Advances in Experimental Social Psychology, ed. MP Zanna, 38:183–242. San Diego, CA: Academic
+Sherman DK, Cohen GL, Nelson LD, Nussbaum AD, Bunyan DP, Garcia J. 2009. Afﬁrmed yet unaware:
+exploring the role of awareness in the process of self-afﬁrmation. J. Personal. Soc. Psychol. 97:745–64
+Sherman DK, Hartson KA. 2011. Reconciling self-protection with self-improvement: self-afﬁrmation theory. In The Handbook of Self-Enhancement and Self-Protection, ed. M Alicke, C Sedikides, pp. 128–51.
+New York: Guilford
+Sherman DK, Hartson KA, Binning KR, Purdie-Vaughns V, Garcia J, et al. 2013. Deﬂecting the trajectory and
+changing the narrative: how self-afﬁrmation affects academic performance and motivation under identity
+threat. J. Personal. Soc. Psychol. 104:591–618
+Sherman DK, Kim HS. 2005. Is there an “I” in “team?” The role of the self in group-serving judgments.
+J. Personal. Soc. Psychol. 88:108–20
+Shnabel N, Purdie-Vaughns V, Cook JE, Garcia J, Cohen GL. 2013. Demystifying values-afﬁrmation interventions: writing about social belonging is a key to buffering against identity threat. Personal. Soc. Psychol.
+Bull. 39:663–76
+Silverman A, Logel C, Cohen GL. 2012. Self-afﬁrmation as a deliberate coping strategy: the moderating role
+of choice. J. Exp. Soc. Psychol. 49:93–98
+Sivanathan N, Molden DC, Galinsky AD, Ku G. 2008. The promise and peril of self-afﬁrmation in deescalation of commitment. Organ. Behav. Hum. Decis. Process. 107:1–14
+Sivanathan N, Pettit NC. 2010. Protecting the self through consumption: status goods as afﬁrmational commodities. J. Exp. Soc. Psychol. 46:564–70
+Smith A. 1759/2011. The Theory of Moral Sentiments. New York: Empire
+Stanton AL, Danoff-Burg S, Sworowski LA, Collins CA, Branstetter AD, et al. 2002. Randomized, controlled
+trial of written emotional expression and beneﬁt ﬁnding in breast cancer patients. J. Clin. Oncol. 20:4160–
+68
+Steele CM. 1988. The psychology of self-afﬁrmation: sustaining the integrity of the self. In Advances in
+Experimental Social Psychology, ed. L Berkowitz, 21:261–302. New York: Academic
+Steele CM. 2010. Whistling Vivaldi and Other Clues to How Stereotypes Affect Us. New York: Norton
+Steele CM, Southwick LL, Critchlow B. 1981. Dissonance and alcohol: drinking your troubles away.
+J. Personal. Soc. Psychol. 41:831–46
+Steele CM, Spencer SJ, Aronson J. 2002. Contending with group image: the psychology of stereotype and
+social identity threat. In Advances in Experimental Social Psychology, ed. MP Zanna, 34:379–440. New York:
+Academic
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+369
+
+ARI
+
+31 October 2013
+
+13:5
+
+Steele CM, Spencer SJ, Lynch M. 1993. Self-image resilience and dissonance: the role of afﬁrmational resources. J. Personal. Soc. Psychol. 64:885–96
+Stephens NM, Markus, HR, Fryberg SA. 2012. Social class disparities in health and education: reducing
+inequality by applying a sociocultural self model of behavior. Psychol. Rev. 119:723–44
+Sterling P. 2004. Principles of allostasis: optimal design, predictive regulation, pathophysiology and rational
+therapeutics. In Allostasis, Homeostasis, and the Costs of Adaptation, ed. J Schulkin, pp. 17–64. Cambridge,
+UK: Cambridge Univ. Press
+Stinson DA, Logel C, Shepherd S, Zanna MP. 2011. Rewriting the self-fulﬁlling prophecy of social rejection:
+self-afﬁrmation improves relational security and social behavior up to 2 months later. Psychol. Sci. 22:1145–
+49
+Stone J, Aronson E, Crain AL, Winslow MP, Fried CB. 1994. Inducing hypocrisy as a means of encouraging
+young adults to use condoms. Personal. Soc. Psychol. Bull. 20:116–28
+Stone J, Whitehead J, Schmader T, Focella E. 2011. Thanks for asking: self-afﬁrming questions reduce backlash
+when stigmatized targets confront prejudice. J. Exp. Soc. Psychol. 47:589–98
+Taylor SE. 2007. Social support. In Foundations of Health Psychology, ed. HS Friedman, pp. 145–71. New York:
+Oxford Univ. Press
+Taylor SE. 2010. Mechanisms linking early life stress to adult health outcomes. Proc. Natl. Acad. Sci. USA
+107:8507–12
+Taylor VJ, Walton GM. 2011. Stereotype threat undermines academic learning. Personal. Soc. Psychol. Bull.
+37:1055–67
+Thomaes S, Bushman BJ, de Castro BO, Cohen GL, Denissen JJ. 2009. Reducing narcissistic aggression by
+buttressing self-esteem: an experimental ﬁeld study. Psychol. Sci. 20:1536–42
+Thomaes S, Bushman BJ, de Castro BO, Reijntjes A. 2012. Arousing “gentle passions” in young adolescents:
+sustained experimental effects of value afﬁrmations on prosocial feelings and behaviors. Dev. Psychol.
+48:103–10
+Toma CL, Hancock JT. 2013. Self-afﬁrmation underlies Facebook use. Personal. Soc. Psychol. Bull. 39:321–31
+Tugade MM, Fredrickson BL. 2004. Emotions: positive emotions and health. In Encyclopedia of Health and
+Behavior, ed. N Anderson, pp. 306–10. Thousand Oaks, CA: Sage
+van Koningsbruggen GM, Das E. 2009. Don’t derogate this message! Self-afﬁrmation promotes online
+type 2 diabetes risk test taking. Psychol. Health 24:635–49
+van Koningsbruggen GM, Das E, Roskos-Ewoldsen DR. 2009. How self-afﬁrmation reduces defensive processing of threatening health information: evidence at the implicit level. Health Psychol. 28:563–68
+Verghese A, Brady E, Kapur CC, Horwitz RI. 2011. The bedside evaluation: ritual and reason. Ann. Intern.
+Med. 155:550–53
+Vohs KD, Park JK, Schmeichel BJ. 2013. Self-afﬁrmation can enable goal disengagement. J. Personal. Soc.
+Psychol. 104:14–27
+Wakslak CJ, Trope Y. 2009. Cognitive consequences of afﬁrming the self: the relationship between selfafﬁrmation and object construal. J. Exp. Soc. Psychol. 45:927–32
+Walton GM, Cohen GL. 2011. A brief social-belonging intervention improves academic and health outcomes
+of minority students. Science 331:1447–51
+Walton GM, Spencer SJ. 2009. Latent ability: grades and test scores systematically underestimate the intellectual ability of negatively stereotyped students. Psychol. Sci. 20:1132–39
+Ward A, Atkins DC, Lepper MR, Ross L. 2011. Afﬁrming the self to promote agreement with another:
+lowering a psychological barrier to conﬂict resolution. Personal. Soc. Psychol. Bull. 37:1216–28
+Wilson TD. 2011. Redirect: The Surprising New Science of Psychological Change. New York: Little, Brown
+Wilson TD, Linville PW. 1982. Improving the academic performance of college freshmen: attribution therapy
+revisited. J. Personal. Soc. Psychol. 42:367–76
+Wood JV, Perunovic WQ, Lee JW. 2009. Positive self-statements: power to some, peril for others. Psychol.
+Sci. 20:860–66
+Woolf K, McManus IC, Gill D, Dacre J. 2009. The effect of a brief social intervention on the examination
+results of UK medical students: a cluster randomised controlled trial. BMC Med. Educ. 9:35
+Worthman CM, Plotsky PM, Schechter DS, Cummings CA, eds. 2010. Formative Experiences: The Interaction
+of Caregiving, Culture, and Developmental Psychobiology. New York: Cambridge Univ. Press
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+PS65CH13-Cohen
+
+370
+
+Cohen
+
+·
+
+Sherman
+
+PS65CH13-Cohen
+
+ARI
+
+31 October 2013
+
+13:5
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Yeager DS, Purdie-Vaughns V, Garcia J, Apfel N, Brzustoski P, et al. 2014. Breaking the cycle of mistrust:
+wise interventions to provide critical feedback across the racial divide. J. Exp. Psychol.: Gen. In press.
+http://psycnet.apa.org/psycarticles/2013-28213-001.pdf. doi:10.1037/a0033906
+Yeager DS, Walton GM. 2011. Social-psychological interventions in education: they’re not magic. Rev. Educ.
+Res. 81:267–301
+Zhao X, Peterson EB, Kim W, Rolfe-Redding J. 2012. Effects of self-afﬁrmation on daily versus occasional
+smokers’ responses to graphic warning labels. Comm. Res. In press. http://crx.sagepub.com/content/
+early/2012/11/09/0093650212465433.full.pdf+html. doi:10.1177/0093650212465433
+Zolnierek KBH, DiMatteo MR. 2009. Physician communication and patient adherence to treatment: a metaanalysis. Med. Care 47:826–34
+
+www.annualreviews.org • Self-Affirmation and Social Psychological Intervention
+
+371
+
+PS65-FrontMatter
+
+ARI
+
+13 November 2013
+
+20:27
+
+Contents
+
+Annual Review of
+Psychology
+
+Prefatory
+
+Volume 65, 2014
+
+I Study What I Stink At: Lessons Learned from a Career in Psychology
+Robert J. Sternberg p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 1
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Stress and Neuroendocrinology
+Oxytocin Pathways and the Evolution of Human Behavior
+C. Sue Carter p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p17
+Genetics of Behavior
+Gene-Environment Interaction
+Stephen B. Manuck and Jeanne M. McCaffery p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p41
+Cognitive Neuroscience
+The Cognitive Neuroscience of Insight
+John Kounios and Mark Beeman p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p71
+Color Perception
+Color Psychology: Effects of Perceiving Color on Psychological
+Functioning in Humans
+Andrew J. Elliot and Markus A. Maier p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p95
+Infancy
+Human Infancy. . . and the Rest of the Lifespan
+Marc H. Bornstein p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 121
+Adolescence and Emerging Adulthood
+Bullying in Schools: The Power of Bullies and the Plight of Victims
+Jaana Juvonen and Sandra Graham p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 159
+Is Adolescence a Sensitive Period for Sociocultural Processing?
+Sarah-Jayne Blakemore and Kathryn L. Mills p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 187
+Adulthood and Aging
+Psychological Research on Retirement
+Mo Wang and Junqi Shi p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 209
+Development in the Family
+Adoption: Biological and Social Processes Linked to Adaptation
+Harold D. Grotevant and Jennifer M. McDermott p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 235
+vi
+
+PS65-FrontMatter
+
+ARI
+
+13 November 2013
+
+20:27
+
+Individual Treatment
+Combination Psychotherapy and Antidepressant Medication Treatment
+for Depression: For Whom, When, and How
+W. Edward Craighead and Boadie W. Dunlop p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 267
+Adult Clinical Neuropsychology
+
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Sport and Nonsport Etiologies of Mild Traumatic Brain Injury:
+Similarities and Differences
+Amanda R. Rabinowitz, Xiaoqi Li, and Harvey S. Levin p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 301
+Self and Identity
+The Psychology of Change: Self-Afﬁrmation and Social
+Psychological Intervention
+Geoffrey L. Cohen and David K. Sherman p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 333
+Gender
+Gender Similarities and Differences
+Janet Shibley Hyde p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 373
+Altruism and Aggression
+Dehumanization and Infrahumanization
+Nick Haslam and Steve Loughnan p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 399
+The Sociocultural Appraisals, Values, and Emotions (SAVE) Framework
+of Prosociality: Core Processes from Gene to Meme
+Dacher Keltner, Aleksandr Kogan, Paul K. Piff, and Sarina R. Saturn p p p p p p p p p p p p p p p p 425
+Small Groups
+Deviance and Dissent in Groups
+Jolanda Jetten and Matthew J. Hornsey p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 461
+Social Neuroscience
+Cultural Neuroscience: Biology of the Mind in Cultural Contexts
+Heejung S. Kim and Joni Y. Sasaki p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 487
+Genes and Personality
+A Phenotypic Null Hypothesis for the Genetics of Personality
+Eric Turkheimer, Erik Pettersson, and Erin E. Horn p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 515
+Environmental Psychology
+Environmental Psychology Matters
+Robert Gifford p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 541
+
+Contents
+
+vii
+
+PS65-FrontMatter
+
+ARI
+
+13 November 2013
+
+20:27
+
+Community Psychology
+Socioecological Psychology
+Shigehiro Oishi p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 581
+Subcultures Within Countries
+Social Class Culture Cycles: How Three Gateway Contexts Shape Selves
+and Fuel Inequality
+Nicole M. Stephens Hazel Rose Markus, and L. Taylor Phillips p p p p p p p p p p p p p p p p p p p p p p p p p 611
+Annu. Rev. Psychol. 2014.65:333-371. Downloaded from www.annualreviews.org
+by Stanford University - Main Campus - Lane Medical Library on 01/03/14. For personal use only.
+
+Organizational Climate/Culture
+(Un)Ethical Behavior in Organizations
+Linda Klebe Treviño, Niki A. den Nieuwenboer, and Jennifer J. Kish-Gephart p p p p p p p 635
+Job/Work Design
+Beyond Motivation: Job and Work Design for Development, Health,
+Ambidexterity, and More
+Sharon K. Parker p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 661
+Selection and Placement
+A Century of Selection
+Ann Marie Ryan and Robert E. Ployhart p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 693
+Personality and Coping Styles
+Personality, Well-Being, and Health
+Howard S. Friedman and Margaret L. Kern p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 719
+Timely Topics
+Properties of the Internal Clock: First- and Second-Order Principles of
+Subjective Time
+Melissa J. Allman, Sundeep Teki, Timothy D. Grifﬁths, and Warren H. Meck p p p p p p p p 743
+Indexes
+Cumulative Index of Contributing Authors, Volumes 55–65 p p p p p p p p p p p p p p p p p p p p p p p p p p p 773
+Cumulative Index of Article Titles, Volumes 55–65 p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 778
+Errata
+An online log of corrections to Annual Review of Psychology articles may be found at
+http://psych.AnnualReviews.org/errata.shtml
+
+viii
+
+Contents
+
+

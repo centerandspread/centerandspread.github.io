@@ -1,0 +1,1355 @@
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Original Article
+
+Examining the Effects of Task
+Instructions to Induce Implicit
+Theories of Intelligence
+on a Rational Thinking Task
+A Cross-Cultural Study
+Ivar Bråten,1 Andreas Lien,1 and John Nietfeld2
+1
+
+Department of Education, University of Oslo, Norway
+
+2
+
+College of Education, North Carolina State University, USA
+
+Abstract: In two experiments with Norwegian undergraduates and one experiment with US undergraduates, we examined the potential effects
+of brief task instructions aligned with incremental and entity views of intelligence on students’ performance on a rational thinking task. The
+research demonstrated that even brief one-shot task instructions that deliver a mindset about intelligence intervention can be powerful
+enough to affect students’ performance on such a task. This was only true for Norwegian male students, however. Moreover, it was the task
+instruction aligned with an entity theory of intelligence that positively affected Norwegian male students’ performance on the rational thinking
+task, with this unanticipated finding speaking to the context- and culture-specificity of implicit theories of intelligence interventions.
+Keywords: implicit theories of intelligence, mindsets, rational thinking, cognitive reflection test, task instructions
+
+People’s implicit theories concerning their personal attributes have been linked to motivation, cognition, and
+performance (Dweck, Chiu, & Hong, 1995; Dweck & Leggett, 1988; Molden & Dweck, 2006; Yeager & Dweck,
+2012). In education, implicit theories of intelligence have
+been at the forefront, highlighting that students’ lay
+assumptions about the malleability or stability of their intelligence may have short- and long-term academic consequences (Yeager & Dweck, 2012). Thus, many studies
+have indicated that a belief in malleable intelligence is
+academically beneficial, whereas a belief in fixed intelligence hinders task performance and academic achievement (for review, see Yeager, Paunesku, Walton, &
+Dweck, 2013). Some of these studies have involved interventions to induce or promote implicit theories of intelligence that seem “strikingly small” (Walton, 2014, p. 73);
+still, such brief interventions have produced practically
+significant effects (Yeager et al., 2013).
+We continue this line of work by examining whether
+minimal interventions in the form of brief task instructions
+aligned with malleable and fixed views of intelligence
+might have immediate effects on students’ performance
+on a rational thinking task. Our research contributes to
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+DOI: 10.1027/2151-2604/a000291
+
+the literature in several ways. First, few other published
+studies have examined the effects of such brief task instructions (see, however, Cimpian, Mu, & Erickson, 2012;
+Martocchio, 1994; Wood & Bandura, 1989). Second, no
+prior studies examined the effects of such instructions on
+a rational thinking task, which seems well suited for this
+purpose because it is saturated with processing requirements in terms of motivation, effort, deeper-level strategies,
+and self-regulation (Kahneman, 2011; Stanovich, 2016).
+Third, our research examines the effects of brief task
+instructions to induce implicit theories of intelligence with
+both Norwegian and US students, with prior cross-cultural
+work on this issue essentially lacking (Yeager et al., 2013).
+There is thus a clear need to investigate the extent to which
+such interventions have similar effects across cultures. For
+example, as recently noted by Braasch, Bråten, Strømsø,
+and Anmarkrud (2014), the belief that intelligence is fixed
+may be culturally sensitive in the sense that it operates
+differently across cultures. More generally, cultures involve
+additional belief and value systems that potentially make
+constructs within particular theoretical perspectives differentially relevant to task engagement and performance
+(McInerney, 2011).
+Ó 2017 Hogrefe Publishing
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+Our research was framed by Dweck’s (1999; Dweck &
+Molden, 2005; Molden & Dweck, 2006) meaning system
+theory, which describes how implicit, lay theories about
+the malleability or stability of human attributes, such as
+intelligence or personality, give meaning to situations in
+which these attributes are involved. Specifically, in achievement situations, the implicit theories that people endorse
+about intelligence are considered to impact their goals,
+conceptions of learning, and responses to challenges and
+difficulties. Thus, when people tend to believe that intelligence is a malleable quality that can be grown and developed over time – that is, hold an incremental theory of
+intelligence – they are also more likely to adopt learning
+goals, conceive of effort and strategies as key controllable
+factors in learning, approach challenging tasks with motivation and effortful, strategic self-regulatory processing, and
+respond to difficulties and setbacks with intact or even
+increased motivation to learn, increased effort, and adaptive strategic processing (Dweck & Master, 2008; Yeager
+& Dweck, 2012). However, when people tend to believe
+that everyone has a fixed, unchangeable amount of intelligence – that is, hold an entity theory of intelligence – they
+are also more likely to adopt the goals of looking smart
+and avoiding looking dumb, conceive of innate ability as
+an uncontrollable key factor in learning, approach challenging tasks with low effort (because high effort means low
+intelligence) and shallow processing, and respond to difficulties and setbacks with decreased motivation, even less
+effort, and maladaptive strategic processing (Dweck,
+1999; Dweck & Master, 2008; Dweck & Molden, 2005;
+Yeager & Dweck, 2012).1
+Based on this framework, experimental studies have
+been conducted in which students have been taught an
+incremental theory of intelligence in various ways, for
+example, by meeting with mentors encouraging them to
+view intelligence as malleable and then exchanging emails
+with them throughout the school year (Good, Aronson, &
+Inzlicht, 2003), by participating in a series of workshops
+persuading them to see intelligence as a malleable quality
+rather than a fixed capacity (Aronson, Fried, & Good,
+2002; Blackwell, Trzesniewski, & Dweck, 2007, Study 2),
+by reading persuasive scientific articles concerning the
+malleability of intelligence (Hong, Chiu, Dweck, Lin, &
+Wan, 1999; Nussbaum & Dweck, 2008), and by participating in 20–30-min reading and writing exercises communicating a growth mindset that were delivered over the
+Internet directly to students (Yeager & Dweck, 2012;
+Yeager et al., 2013). In brief, this research has indicated that
+1
+
+147
+
+teaching an incremental or growth mindset about intelligence can promote adaptive motivation and strategic
+processing in the face of challenge and difficulty (Blackwell
+et al., 2007; Hong et al., 1999; Nussbaum & Dweck, 2008),
+as well as academic achievement (Aronson et al., 2002;
+Blackwell et al., 2007; Good et al., 2003; Yeager et al.,
+2013), with positive effects on achievement particularly
+pronounced for groups likely to experience stereotype
+threat, such as African-Americans with respect to intellectual abilities in general and female students with respect
+to mathematics and numerical problem solving (Yeager &
+Walton, 2011).
+Of special interest are experimental studies in which
+implicit theories of intelligence have been induced or
+primed through brief task instructions. Wood and Bandura
+(1989) introduced a challenging managerial simulation task
+to business graduate students by informing them in writing
+that decision-making skills develop through practice and
+that the task provided a vehicle for cultivating such skills
+(incremental condition) or that decision-making reflects
+basic cognitive capacities and that the task provided a
+vehicle for gauging such capacities (entity condition).
+Results showed that participants in the incremental condition outperformed those in the entity condition on measures of self-regulation (self-efficacy, goal-setting, strategy
+use), as well as with respect to decision-making during task
+performance. Martocchio (1994) presented adults with
+instructions signaling the importance of practice (incremental condition) or the importance of being smart (entity
+condition) at three different time points during a 3-hr
+course on computer skills. Positive effects of the incremental condition were observed on computer anxiety and computer efficacy beliefs but not on declarative knowledge
+acquisition. Cimpian et al. (2012) showed that just informing children before starting on challenging problem-solving
+tasks that an entire social group was good at those tasks,
+signaling that performance depended on some natural talent rather than controllable factors (such as effort), seemed
+to undermine children’s achievement on those tasks relative to controls who were told that a particular individual
+was good at the tasks.
+In addition, a few unpublished studies speak to the
+potential effects of inducing implicit theories of intelligence
+through brief task instructions (Aronson, 1997, 1999; cited
+in Aronson et al., 2002, p. 116). For example, Aronson
+(1999) had college students take a challenging verbal test
+and informed them prior to the test that the ability being
+tested was highly expandable or fixed. Compared to
+
+Implicit theories about intelligence are also discussed in terms of academic mindsets in Dweck and colleagues’ recent work (e.g., Dweck, 2006;
+Yeager & Dweck, 2012; Yeager et al., 2013), with growth and fixed mindsets about intelligence corresponding to implicit incremental and entity
+theories of intelligence. Because the use of mindsets instead of implicit theories can be characterized as a terminological rather than a
+conceptual renewal, and because mindsets about and implicit theories of intelligence are also used interchangeably in recent work (e.g., Yeager
+& Dweck, 2012), we will, similarly, treat the terms as synonymous. For further discussion of this issue, see Lüftenegger & Chen (2017, this issue).
+
+Ó 2017 Hogrefe Publishing
+
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+148
+
+controls just told that the test measured verbal ability,
+participants in the incremental condition reported less
+anxiety and solved more items and participants in the entity
+condition reported more anxiety and solved fewer items.
+Moreover, Yeager et al. (2013) reported on a large-scale
+study in which task instructions were modified on a website
+presenting students with brief videos about mathematical
+concepts and offering them to take a test on those concepts
+afterwards. Over a period of several months, a randomly
+selected group was shown a growth mindset statement at
+the top of the screen (e.g., “Remember, the more you practice the smarter you become”) whenever they did a unit of
+fraction problems. Relative to controls, students given such
+brief growth messages solved a larger number of fraction
+problems correctly during this period, with the effect of
+the growth messages maintained when students finished
+the section on fractions and moved on to other mathematical concepts without getting any growth mindset messages.
+Specifically, compared to students who saw no growth
+messages, those who did increased the rate at which they
+solved fraction problems correctly by 4.5%, and this gain
+was just as strong when students moved on to other
+mathematical concepts than fractions and did not receive
+growth messages anymore.
+An open question concerns to what extent the brief interventions discussed above, at least when delivered only once,
+really change global, more stable beliefs or implicit theories
+about intelligence. Thus, although interventions consisting
+of a series of workshops (Aronson et al., 2002; Blackwell
+et al., 2007) have demonstrated such changes on self-report
+measures, none of the brief Internet-delivered interventions
+discussed by Yeager and Dweck (2012) and Yeager et al.
+(2013) or the brief task instruction interventions discussed
+in the two preceding paragraphs seem to have measured
+implicit theories of intelligence directly. Of note is, however,
+that Mueller and Dweck (1998), who gave students only one
+sentence of praise for effort (“You must have worked hard at
+these problems”) or intelligence (“You must be smart at
+these problems”) after task completion, found that students
+praised for intelligence endorsed an entity theory of intelligence more than those praised for effort. However, in that
+research, implicit theories were assessed on a one-item
+self-report measure, which may raise concerns about
+reliability, and when an open-ended question was used in
+addition (“I think intelligence is . . .”), findings were rather
+mixed (Mueller & Dweck, 1998, Studies 4 and 6).
+Arguably, it seems unlikely that the, presumably
+transient, effects of very brief interventions in the form of
+short instructions or messages provided prior to tasks can
+be captured on self-report measures such as Dweck’s
+(1999) Theories of Intelligence Scale. The reason is that
+those measures were not designed to measure whether
+brief attempts to induce beliefs in malleable intelligence
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+were effective. Accordingly, Yeager et al. (2013) posited
+that such self-report measures “are not likely to be sensitive
+to short-time changes in student behavior because they
+assess global beliefs rather than concrete actions” (p. 26).
+Still, given the observed effects of brief interventions on
+performance measures, it is reasonable to infer that the
+instructions can prime transient shifts in mindsets about
+intelligence that have functional value; yet may pass under
+the radar of conscious awareness and not leave any traces
+on self-report assessment tools.
+In this research, we asked whether a brief one-time task
+instruction aligned with an incremental theory of intelligence
+would improve performance on a rational thinking task relative to a task instruction aligned with an entity theory of intelligence and an instruction not intended to induce any
+particular view of intelligence. Based on the meaning system
+framework (Dweck, 1999; Dweck & Molden, 2005; Molden
+& Dweck, 2006) and prior research using brief task instructions to induce implicit theories of intelligence (Cimpian
+et al., 2012; Martocchio, 1994; Wood & Bandura, 1989),
+we hypothesized that students given an incremental task
+instruction would outperform students given the two other
+task instructions. Presumably, even such brief task instructions can be powerful because they may guide students’
+causal inferences, such as their self-explanations for why
+tasks are challenging and difficult. In turn, such inferences
+may determine the type of responses that are perceived to
+be possible or effective when faced with challenge and difficulty (Cimpian et al., 2012). Thus, when incremental task
+instructions lead students to infer that they can cope with
+challenge and difficulty by controllable means, such as
+motivation and practice, they may be more likely to invest
+the strategic effort required to solve the task than when entity
+task instructions lead them to infer that coping is dependent
+on uncontrollable factors, such as their innate ability to solve
+the task. A rational thinking task may be particularly suitable
+for testing the effects of incremental task instructions
+because it is considered to require the types of processing
+associated with a growth mindset (Dweck & Master, 2008;
+Kahneman, 2011; Stanovich, 2016; Yeager & Dweck, 2012).
+However, there are still unresolved empirical issues
+concerning the sufficient length of a growth mindset intervention and how subtle such an intervention can be and still
+have an effect (Yeager et al., 2013). Moreover, it is an
+empirical question to what extent the effects of such interventions are dependent on specific contexts or settings or
+may be more effective for certain populations (Walton,
+2014; Yeager et al., 2013; Yeager & Walton, 2011) and
+certain tasks (Cimpian et al., 2012). Finally, cross-cultural
+research on the effects of brief interventions to induce
+implicit theories of intelligence is essentially lacking
+(Walton, 2014; Yeager et al., 2013; Yeager & Walton,
+2011). Given such remaining issues, the current research
+Ó 2017 Hogrefe Publishing
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+is pertinent in testing the robustness of the findings
+presented in the extant literature. Thus, investigating
+whether very brief, one-time task instructions that try to
+induce or prime mindsets about intelligence in a rather
+subtle way have the expected effects on Norwegian as well
+as US undergraduates’ performance on a rational thinking
+task substantially extends prior work in this area. With
+respect to potential cultural differences, it is conceivable,
+for example, that the great emphasis on egalitarian values
+within the Norwegian educational system and society at
+large (Undheim, Nordvik, Gustafsson, & Undheim, 1995;
+Warner-Søderholm, 2012) might make entity instructions
+less threatening for Norwegian than for US undergraduates.
+Because performance on the rational thinking task
+may be associated with achievement level as well as with
+more stable implicit theories of intelligence, we also
+included those variables to control for any random differences among the conditions. However, given the brevity
+and subtlety of our intervention and the presumed lack of
+sensitivity of the global self-report measures of implicit
+theories of intelligence that we used to more specific
+transient changes, we did not expect any experimental
+effects on these measures. This is because global self-report
+measures targeting relatively stable beliefs about intelligence were constructed for the sake of theory development
+and the prediction of diverse outcomes (Yeager et al., 2013),
+not for assessing specific effects of brief and subtle interventions. By comparison, behavioral and performance-based
+measures, such as the rational thinking task that we used,
+seem more likely to capture specific and short-lived effects
+of brief one-time task instructions aligned with different
+mindsets about intelligence.
+
+Experiment 1
+In Experiment 1, Norwegian undergraduates were tasked to
+solve the three numerical problems included in the Cognitive Reflection Test (Frederick, 2005), which is targeting
+rational thinking processes and decision-making (Kahneman, 2011; Stanovich, 2016). We varied the instruction
+for this test, with one instruction just asking them to solve
+the problems and two other instructions highlighting the
+importance of learning and motivation or innate ability
+for problem solving.
+
+Method
+Participants
+Participants were 74 undergraduates (Mage = 24.69,
+SD = 7.87; 85% female) at a large state university in southeast Norway attending a course in educational science.
+Ó 2017 Hogrefe Publishing
+
+149
+
+The majority (81.1%) had Norwegian as their first language.
+Participants were randomly assigned to one control condition and two experimental conditions. Chi-square tests
+were performed to determine if females and males or
+native and nonnative speakers of Norwegian were differently distributed across the three conditions. Neither test
+indicated a significant difference, with w2(2) = 1.04,
+p = .595, Cramer’s V = .118, for gender, and w2(2) = 0.20,
+p = .904, Cramer’s V = .052, for language background.
+Design and Conditions
+The three conditions to which participants were randomly assigned introduced the Cognitive Reflection Test
+(Frederick, 2005) in different ways. After task completion,
+participants’ scores were compared across conditions to
+examine whether the ways of introducing the test would
+differentially affect performance. Additionally, we assessed
+participants’ achievement levels and self-reported implicit
+theories of intelligence as potential covariates.
+Before starting on the numerical problems, participants
+in the control condition were presented with a written
+instruction just asking them to solve the problems. In addition to the control instruction, the instruction in the learning
+and motivation condition highlighted that solving the problems depended on practice and a wish to further develop
+and learn. Specifically, the instruction read: “These problems are often used within psychology to assess students’
+learning. Performance on these three problems has been
+found to depend on practice and a wish to further develop
+one’s competence and learn new things.” In contrast, in
+addition to the control instruction, participants in the innate
+ability condition were presented with an instruction highlighting that solving the problems depended on innate
+ability. Specifically, the instruction read: “These problems
+are often used within psychology to assess students’
+abilities. Performance on these three problems has been
+found to depend on innate abilities that change little
+throughout life.” In all conditions, the written instructions
+were presented at the top of the page containing the
+problems, printed in bold but using the same font as the
+problems printed below (i.e., Times New Roman 12).
+Measures
+Achievement Level
+We assessed the overall academic achievement level by
+obtaining participants’ final high school grade point average
+(GPA).
+Implicit Theories of Intelligence
+A Norwegian version of Dweck’s (1999) Theories of
+Intelligence Scale was used (Bråten & Strømsø, 2004).
+Four items assessed the degree to which students identified
+with an entity theory of intelligence reflecting a belief that
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+150
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+Table 1. Descriptive statistics for all measured variables by condition in Experiment 1
+Control (n = 27)
+
+Learning and
+motivation (n = 24)
+
+M
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+Potential range
+
+Actual range
+
+Achievement
+
+4.33
+
+0.59
+
+4.47
+
+0.41
+
+4.40
+
+0.44
+
+1–6
+
+3.00–6.00
+
+Entity theory
+
+2.42
+
+1.10
+
+2.48
+
+1.19
+
+2.24
+
+0.88
+
+1–6
+
+1.00–6.00
+
+Incremental theory
+
+4.16
+
+1.01
+
+4.20
+
+1.01
+
+4.48
+
+0.94
+
+1–6
+
+2.00–6.00
+
+Cognitive reflection
+
+0.81
+
+1.08
+
+0.57
+
+0.90
+
+0.75
+
+1.07
+
+0–3
+
+0–3
+
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Innate ability
+(n = 23)
+
+intelligence is a fixed trait, a personal attribute or quantity
+that cannot be changed. Four additional items assessed
+the degree to which students identified with an incremental theory of intelligence reflecting a belief that
+intelligence is malleable, that is, that individuals can become
+more intelligent through their efforts. Entity and incremental
+items were presented in a mixed order and participants rated
+agreement with each statement on a 6-point scale (1 = strongly
+agree, 6 = strongly disagree). Cronbach’s α reliabilities were
+.91 for entity and .85 for incremental items.
+Cognitive Reflection Test
+The Cognitive Reflection Test (CRT; Frederick, 2005) is
+designed to assess problem solving in terms of overriding
+a prepotent intuitive response alternative that is incorrect
+and engaging in further reflection and rational thinking that
+lead to the correct response (Toplak, West, & Stanovich,
+2014). The test is composed of three numerical problem
+tasks (sample item: “A bat and a ball cost $1.10 in total.
+The bat costs a dollar more than the ball. How much does
+the ball cost?”). Participants were awarded 1 point for each
+correct answer; 58.1% (n = 43) did not solve any of the
+problems and 10.8% (n = 8) solved all three items.
+Cronbach’s α reliability was .74.
+The CRT is considered to require motivation, effort, and
+deeper-level self-regulatory processing (Kahneman, 2011;
+Kahneman & Frederick, 2007; Toplak, West, & Stanovich,
+2011). Scores on the CRT have been shown to correlate
+substantially with other measures of skills in rational thinking, and to predict rational thinking performance after
+variance accounted for by cognitive ability and diverse
+thinking dispositions (e.g., need for cognition) has been
+partialled out. Accordingly, the CRT has been classified
+as a performance-based rational thought indicator (Toplak
+et al., 2014). The CRT figures prominently as a subtest in
+Stanovich’s (2016) recent proposal for a comprehensive
+assessment of rational thinking.
+Procedure
+Two authors and three trained research assistants
+administered the materials during a regular lecture taking
+place right before the final course exam. Presumably
+because many had decided to study for the exam instead
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+of attending the lecture, only 74 students were present.
+Participants received three sheets of paper that were
+stapled together and were asked to complete the materials
+in the same order. On the demographic survey sheet that
+appeared first they provided information about gender,
+age, language background, and high school GPA. The next
+sheet contained the problems of the CRT with the instruction printed at the top of the page. The last sheet contained
+the Theories of Intelligence Scale. All participants worked
+independently with one sheet at a time and finished within
+the allotted 15 min.
+
+Results and Discussion
+Descriptive statistics are shown in Table 1. Because oneway analyses of variance (ANOVAs) showed no differences
+between the conditions with respect to achievement level,
+F(2, 65) = 0.51, p = .604, η2 = .015, entity theory of intelligence, F(2, 70) = 0.34, p = .713, η2 = .009, or incremental
+theory of intelligence, F(2, 69) = 0.74, p = .481, η2 = .021,
+we did not include these variables as covariates in the
+analysis testing for an experimental effect.
+We therefore conducted a one-way between-subjects
+analysis of variance with condition as the independent
+and scores on the CRT as the dependent variable. The
+assumption of homogeneity of variances was met. No significant effect of condition was observed, F(2, 71) = 0.39,
+p = .679, ηp2 = .011. Rather, the means on the CRT were
+rather similar across conditions (see Table 1).
+Thus, participants given an instruction highlighting that
+problem solving depended on practice and a wish to further
+develop and learn did not outperform participants in the
+other conditions. This means that our hypothesis was not
+confirmed. Given that the CRT seems to require motivation, effort, and deeper-level self-regulatory processing
+(Kahneman, 2011; Kahneman & Frederick, 2007; Toplak
+et al., 2011), this result is also inconsistent with other work
+indicating that even brief task instructions aligned with an
+incremental view of intelligence may promote adaptive
+motivation and self-regulatory processing, as well as task
+performance (Cimpian et al., 2012; Martocchio, 1994;
+Wood & Bandura, 1989; Yeager et al., 2013).
+Ó 2017 Hogrefe Publishing
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+The lack of support for our hypothesis could have been
+because the instructions were not salient enough, with
+several students expressing during debriefing that they
+had not paid attention to the instruction. Because data
+collection took place at the end of the course, another
+possibility is that participants could have learned about
+related theory and research that may have influenced their
+interpretations of the task instructions. Thus, although the
+textbooks that were used did not present Dweck’s work
+on implicit theories of intelligence directly, achievement
+goal theory highlighting related differences between learning and performance goals was covered in the course.
+Yet another issue is that many students seemed to prioritize exam preparation instead of attending the lecture. As a
+result, the sample was less representative of Norwegian
+education undergraduates than desirable, for example, in
+terms of age, and it consisted of so few male students that
+we could not test whether any effect of condition might
+depend on gender. For example, because female students
+have been found to perform poorer than males on the
+CRT (Frederick, 2005; Toplak et al., 2014), and because
+females may be more likely to experience a stereotype
+threat that may create interfering stress and distraction
+on such numerical tasks (Yeager & Walton, 2011), it is
+conceivable that any benefits of the incremental task
+instruction on the CRT would occur primarily for female
+students. According to Yeager et al. (2013), it is pertinent
+to examine whether the effects of growth mindset
+interventions may vary with gender, with an interaction
+between condition and gender on the CRT also made
+probable by the Good et al. (2003) study, which found that
+the positive effects of teaching an incremental theory of
+intelligence on mathematics performance were particularly
+pronounced for female students. We conducted Experiment
+2 to address this issue as well as the potential limitations
+noted above.
+
+Experiment 2
+The aim of Experiment 2 was to further examine potential
+effects of the three task instructions on Norwegian undergraduates’ performance on the CRT. However, we made
+the instructions much more salient in Experiment 2, printing them on separate sheets of paper with much larger font
+size and an explicit demand that participants read the
+instructions carefully before proceeding to the numerical
+problems on the next sheet. In addition, Experiment 2
+was conducted at the beginning of the educational science
+course before participants could have learned about related
+theory and research, and it used a much larger sample that
+was more representative of Norwegian educational science
+
+Ó 2017 Hogrefe Publishing
+
+151
+
+undergraduates and also allowed us to test whether any
+experimental effects might depend on gender.
+
+Method
+Participants
+Participants were 230 Norwegian undergraduates
+(Mage = 21.69, SD = 3.54; 80% female) at the same university attending the same educational science course the
+semester after we conducted Experiment 1 (none had
+participated in Experiment 1). The majority (72.6%) had
+Norwegian as their first language. In terms of gender,
+age, and language background, the sample was representative of Norwegian educational science undergraduates.
+Chi-square tests were performed to determine if females
+and males or native and nonnative speakers of Norwegian
+were differently distributed across the three conditions to
+which participants were randomly assigned. Neither test
+indicated a significant difference, with w2(2) = 0.64,
+p = .728, Cramer’s V = .053, for gender, and w2(2) = 0.46,
+p = .796, Cramer’s V = .045, for language background.
+Design and Conditions
+With one exception, the design and conditions were the
+same as in Experiment 1. Thus, although the written
+instructions were the same as in Experiment 1 for the
+control, learning and motivation, and innate ability conditions, these instructions were printed in large quadratic
+frames placed in the center of separate sheets of paper
+preceding the problems, using much larger font size
+(Times New Roman 22) and with “Note! Read this before
+you turn the page!” printed in bold capital letters above
+the frames.
+Measures
+The same measures of achievement level, implicit theories
+of intelligence, and rational thinking were used in
+Experiment 2. For implicit theories of intelligence,
+Cronbach’s α reliabilities were .84 for entity and .85 for
+incremental items. On the CRT, 55.2% (n = 127) did not
+solve any of the problems, and 10.0% (n = 23) solved all
+three items. Cronbach’s α reliability was .66.
+Procedure
+Two authors and four trained research assistants administered the materials during a regular lecture at the beginning
+of the course. Participants were told that they must read all
+written instructions very carefully. They then received four
+sheets of paper that were stapled together and were asked
+to complete the materials in the same order. The order of
+the materials was: the demographic survey sheet, the task
+instruction, the CRT, and the Theories of Intelligence Scale.
+
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+152
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+Table 2. Descriptive statistics for all measured variables by condition in Experiment 2
+Control (n = 77)
+
+Learning and
+motivation (n = 76)
+
+M
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+Potential range
+
+Actual range
+
+Achievement
+
+4.32
+
+0.46
+
+4.29
+
+0.50
+
+4.30
+
+0.47
+
+1–6
+
+2.50–5.60
+
+Entity theory
+
+2.31
+
+0.88
+
+2.65
+
+1.01
+
+2.45
+
+0.99
+
+1–6
+
+1.00–6.00
+
+Incremental theory
+
+4.28
+
+0.90
+
+4.03
+
+1.07
+
+4.25
+
+1.13
+
+1–6
+
+1.75–6.00
+
+Cognitive reflection
+
+0.71
+
+0.98
+
+0.88
+
+1.06
+
+0.63
+
+0.92
+
+0–3
+
+0–3
+
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Innate ability
+(n = 77)
+
+All participants worked independently with one sheet at a
+time and finished within the allotted 15 min.
+
+2.5
+
+2
+
+Results and Discussion
+Descriptive statistics are shown in Table 2. Because oneway analyses of variance showed no differences between
+the conditions with respect to achievement level,
+F(2, 220) = 0.66, p = .936, η2 = .001, entity theory of intelligence, F(2, 222) = 2.39, p = .094, η2 = .021, or incremental
+theory of intelligence, F(2, 221) = 1.33, p = .267, η2 = .012,
+these variables were not included as covariates in the analysis testing for experimental effects.
+We conducted a two-way between-subjects analysis of
+variance with condition and gender as the independent
+variables and scores on the CRT as the dependent variable.
+The assumption of homogeneity of variances was met.
+There were two significant main effects, with F(2, 224) =
+4.03, p = .019, ηp2 = .035 for condition, and F(1, 224) =
+16.18, p = .000, ηp2 = .067 for gender. These main effects
+were modified by a significant interaction between condition and gender, with F(2, 224) = 3.83, p = .023,
+ηp2 = .033. Tests of the simple effects of condition within
+each level of gender showed that there were significant
+condition mean differences on the CRT for males,
+F(2, 224) = 4.92, p = .008, ηp2 = .042, but not for females,
+F(2, 224) = 0.003, p = .997, ηp2 = .000. Follow-up pairwise
+comparisons for male participants showed that males
+scored significantly higher on the CRT in the innate ability
+than in the control (p = .035, Cohen’s d = 0.443) and the
+learning and motivation condition (p = .003, Cohen’s
+d = 0.633), while there was no difference between males’
+performance in the control and the learning and motivation
+condition (p = .315, Cohen’s d = 0.211). Figure 1 indicates
+that there were also differences between males and females
+within conditions. Additional tests of simple effects for gender for each level of condition showed that males scored
+significantly higher than females on the CRT in the innate
+ability, F(1, 224) = 21.57, p = .000, ηp2 = .088, and the
+control condition, F(1, 224) = 3.81, p = .05, ηp2 = .017, but
+not in the learning and motivation condition, F(1, 224) =
+0.33, p = .565, ηp2 = .001. The ηp2 values indicate that the
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+1.5
+Females
+1
+
+Males
+
+0.5
+
+0
+Control
+
+Innate ability
+
+Learning and motivation
+
+Type of instruction given
+
+Figure 1. Scores on the cognitive reflection test for each condition by
+gender in Experiment 2.
+
+difference between males and females was much greater in
+the innate ability than in the control condition.
+Despite previous findings that female students typically
+have more difficulties than males on the CRT (Frederick,
+2005; Toplak et al., 2014), and the possibility that females
+may experience stereotype threat on such numerical tasks
+(Yeager & Walton, 2011), an instruction designed to induce
+a growth mindset did not improve female students’ performance. However, surprising in relation to theory and prior
+research, male students profited greatly from a task instruction intended to induce a fixed mindset about intelligence.
+Thus, the innate ability instruction apparently made the
+males more likely to reflect on their answers and less
+inclined to go with their intuitive, irrational responses.
+We return to this issue in the General Discussion. Next,
+we describe an experiment with US undergraduates
+conducted to probe the cross-cultural generalizability of
+our findings.
+
+Experiment 3
+Experiment 3 intended to investigate whether US undergraduates also would profit from a fixed mindset instruction
+Ó 2017 Hogrefe Publishing
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+153
+
+Table 3. Descriptive statistics for all measured variables by condition in Experiment 3
+Control (n = 74)
+
+Learning and
+motivation (n = 75)
+
+M
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+Potential range
+
+Achievement
+
+3.68
+
+0.25
+
+3.60
+
+0.38
+
+3.74
+
+0.24
+
+0–4
+
+2.30–4.00
+
+Entity theory
+
+2.55
+
+0.92
+
+2.48
+
+0.93
+
+2.85
+
+0.95
+
+1–6
+
+1.00–5.25
+
+Incremental theory
+
+4.13
+
+1.08
+
+4.10
+
+1.08
+
+3.94
+
+0.97
+
+1–6
+
+1.25–6.00
+
+Cognitive reflection
+
+1.58
+
+1.19
+
+1.51
+
+1.11
+
+1.64
+
+1.12
+
+0–3
+
+0–3
+
+Variable
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Innate ability
+(n = 76)
+
+when performing the CRT. One possibility is that the
+findings of Experiment 2 are peculiar to the Norwegian
+cultural and educational context and therefore not likely
+to be replicated with US participants. However, it is also
+conceivable that there is something peculiar about the
+CRT that makes male undergraduates excel in the context
+of a fixed mindset instruction, independent of the larger
+cultural and instructional context.
+
+Method
+Participants
+Participants were 225 undergraduates (Mage = 20.09,
+SD = 3.52; 56% female) at a large state university in southeast USA attending courses in applied child development
+(n = 25), educational psychology (n = 94), and introduction
+to computing environments (n = 106). The majority
+(88.0%) had English as their first language. Chi-square tests
+were performed to determine if females and males or
+native and nonnative speakers of English were differently
+distributed across the three conditions to which participants
+were randomly assigned. Neither test indicated a statistically significant difference, with w2(2) = 1.45, p = .484, Cramer’s V = .081, for gender, and w2(2) = 0.20, p = .907,
+Cramer’s V = .029, for language background.
+Design and Conditions, Measures, and Procedure
+The design and conditions were the same as in Experiment
+2 except that all materials were in English. Also, the same
+measures of achievement level, implicit theories of intelligence, and rational thinking were used. For implicit
+theories of intelligence, Cronbach’s α reliabilities were .88
+for entity and .92 for incremental items. On the CRT,
+24.9% (n = 56) did not solve any of the problems, and
+27.6% (n = 62) solved all three items. Cronbach’s α reliability was .67. One author and two trained research assistants
+administered the materials to students attending the
+applied child psychology and educational psychology
+courses during regular lectures, while students attending
+the introduction to computing environments course were
+administered the materials in sessions outside regular
+lectures. Participants were given the same oral instructions
+and received the same materials in the same order as in
+Ó 2017 Hogrefe Publishing
+
+Actual range
+
+Experiment 2. All participants worked independently with
+one sheet at a time and finished within the allotted 15 min.
+
+Results and Discussion
+Descriptive statistics are shown in Table 3. One-way
+analyses of variance showed no differences between conditions with respect to achievement level, F(2, 110) = 1.87,
+p = .160, η2 = .034, or incremental theory of intelligence,
+F(2, 222) = 0.71, p = .491, η2= .001. However, there were
+significant differences on entity theory of intelligence,
+F(2, 222) = 3.26, p = .040, η2 = .029, with learning and
+motivation condition students scoring higher (M = 2.85,
+SD = 0.95) than those in the innate ability condition
+(M = 2.48, SD = 0.93), p = .049, d = 0.39.
+We therefore conducted a two-way between-subjects
+analysis of covariance (ANCOVA) with scores on entity
+theory of intelligence as the covariate, condition and gender
+as the independent variables, and scores on the CRT as the
+dependent variable. The assumption of homogeneity of
+variances was met. There was only a significant main effect
+of gender, F(1, 217) = 11.07, p = .001, ηp2 = .049, with males
+(M = 1.85, SD = 1.09) scoring higher on the CRT than
+females (M = 1.35, SD = 1.13). Thus, neither the main effect
+of condition, F(2, 217) = 0.64, p = .529, ηp2 = .006, nor the
+interaction between condition and gender, F(2, 217) = 1.01,
+p = .367, ηp2 = .009, was significant.
+Experiment 3 did not replicate the finding that a brief
+task instruction aligned with an entity theory of intelligence
+can positively affect male students’ performance on the
+CRT. Rather, it suggests that the findings of Experiment 2
+may be due to the particular cultural and educational
+context of the Norwegian participants. Of note is also that
+neither the female nor the male US undergraduates
+benefited from an instruction aligned with an incremental
+theory of intelligence.
+
+General Discussion
+Based on theoretical assumptions (Dweck, 1999; Dweck &
+Molden, 2005; Molden & Dweck, 2006) and prior research
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+154
+
+showing effects of brief task instructions (Cimpian et al.,
+2012; Martocchio, 1994; Wood & Bandura, 1989; Yeager
+et al., 2013), as well as our use of a rational thinking task
+presumably requiring motivation, effort, and deeper-level
+self-regulatory processing (Kahneman, 2011; Kahneman &
+Frederick, 2007; Toplak et al., 2011, 2014), we expected
+that a task instruction aligned with a growth mindset about
+intelligence would have a positive effect on performance.
+Specifically, we assumed that informing students that
+task performance depended on controllable factors (i.e.,
+motivation and practice) would raise their expectations
+and have them invest more strategic effort than informing
+them that task performance depended on an uncontrollable
+factor (i.e., innate, fixed ability), with the latter implying
+that persistent effort would indicate lack of ability and also
+prove futile.
+At the same time, however, we were concerned that our
+intervention might not have any effect because the growth
+mindset would have to be based on very little information
+(Cimpian et al., 2012), because the intervention did not
+attempt to explicitly persuade participants into believing
+that intelligence is malleable but instead used a rather subtle delivery mechanism (Yeager et al., 2013), and because
+our measure of rational thinking might not be sensitive
+enough (Toplak et al., 2014). Unfortunately, the results of
+our first experiment with Norwegian undergraduates (i.e.,
+Experiment 1) did not allow us to draw any conclusions
+regarding these concerns. However, our second experiment
+with Norwegian undergraduates (i.e., Experiment 2)
+indicated that even brief one-shot task instructions that
+deliver a mindset about intelligence intervention in a rather
+subtle way may be powerful enough to affect students’
+performance on a rational thinking task. This was true only
+for male students, however, with the performance of
+females left unaffected by the task instruction intervention. Finally, the results of Experiment 3, including US
+undergraduates, while also showing no effect for
+females, suggested that the effect observed for males in
+Experiment 2 was due to the particular context of the
+Norwegian participants.
+There are several possible reasons why females did not
+respond to the intervention in any of the experiments. For
+example, across cultures, the female participants might
+have been so disinterested and disengaged in the task that
+no brief instruction could turn them on and have them
+invest more mental effort and reflective thinking in task
+completion. Thus, the brief task instruction may not have
+been sufficient to influence performance in the face of
+females’ generally very low subjective task values
+associated with the numerical problems included in
+the CRT (cf. Eccles, 2005). Another, related, possibility is
+that they experienced so strong stereotype threat when
+they started on the numerical problems that this negative
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+experience overshadowed whatever positive, short-lived
+effect the incremental task instruction might have had.
+Thus, the stereotype that females are less skilled at solving
+such problems may have undermined performance to the
+extent that no brief task instruction could counteract it
+(Yeager & Walton, 2011). Finally, the female participants
+might have interpreted the incremental instructions in an
+unintended way, for example, by perceiving the task
+requirements in terms of practice and motivation as
+uncontrollable factors that they did not possess or were able
+to mobilize in relation to this type of task. That is, because
+females may have felt they lacked both prior practice and
+motivation for such tasks, the information that they
+required practice and motivation may have made females
+consider task solution uncontrollable. Of note is that all
+these possible explanations for a lack of effect presuppose
+that our female participants had the necessary computational skills to solve the task. This is because the three
+numerical problems are easy in the sense that their solution
+is easily understood by most students at this level when
+explained, yet reaching the correct answer requires mental
+effort and deeper processing to suppress an erroneous
+answer that springs impulsively to mind (Frederick, 2005).
+The most intriguing finding of this research is that the
+task instruction aligned with an entity theory of intelligence
+positively affected the Norwegian male participants’ performance on the CRT. Whereas this instruction was not
+expected to facilitate their performance because it could
+make them go for a quick, effortless solution to prove their
+ability and avoid looking dumb, with this resulting in
+intuitive, yet erroneous answers, this was obviously not
+what happened. To the contrary, the innate ability instruction seemed to make the Norwegian male students engage
+in more constructive task-oriented processing to demonstrate competence without worrying that a more careful
+reflection on the solution could be threatening to the self,
+with this resulting in a much higher overall score on the
+CRT. Presumably, the Norwegian male undergraduates
+given the entity instruction did not perceive that performing
+the CRT in this setting, without any real, public consequences for them, posed any risk of revealing that they
+were not endowed with sufficient intelligence. And, given
+that no such effect of an entity instruction was observed
+for US male students in Experiment 3, this lack of perceived
+threat in an educational setting may, at least in part, be
+culturally determined.
+More specifically, in the context of the egalitarian
+Norwegian culture, with relatively little emphasis on competition and individual distinction within the educational system (Undheim et al., 1995), the entity instruction may have
+been perceived as less threatening than in a less egalitarian,
+more competitive context, such as the US educational system (for a similar interpretation, see Braasch et al., 2014).
+Ó 2017 Hogrefe Publishing
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+Rather, in the Norwegian context, this instruction may simply have intrigued the male students and fueled their task
+engagement over and above what occurred with the two
+other instructions, having them strive harder and staying
+more focused to show that they could skillfully handle the
+challenge represented by the numerical problems. In terms
+of theory, this suggests that broader cultural values may
+provide frames of reference that influence how students
+perceive constructs embedded within particular theoretical
+perspectives (McInerney, 2011). As discussed above, there
+are several possible reasons why female participants’ effort
+was not similarly ignited by the entity instruction in this
+study.
+To better understand our findings, it would be interesting
+to do cognitive interviewing (Willis, 2005) to assess how
+Norwegian and US male and female participants interpret
+the different task instructions that we used, as well as to
+collect cognitive process data, such as think-alouds
+(Ericsson & Simon, 1993), to explore task processing under
+different experimental conditions across cultures. Yet
+another avenue for further research is to combine quantitative performance data with qualitative interview data from
+purposefully selected participants in a mixed methods study
+(Creswell & Plano Clark, 2007) to gain a more complete
+understanding of students’ meaning systems and how they
+play out in the current task context. Finally, more sensitive,
+preferably online, measures of students’ mindsets about
+intelligence should be used in future research to try to
+capture the specific, transient changes in mindsets that
+may (or may not) be induced by brief task instructions.
+Taken together, our findings speak to the contextspecificity of implicit theories of intelligence interventions
+(Walton, 2014; Yeager & Walton, 2011), as well as to the
+possibility that mindset messages may yield different
+effects for specific populations, such as gender groups
+(Yeager et al., 2013). It is, of course, possible that the
+beneficial effect of the entity instruction that we observed
+may be restricted to the male Norwegian education undergraduates who participated in our research, the particular
+setting in which the data were collected, and the outcome
+measure that was used. It is therefore pertinent to further
+research the effects of the same or similar brief task instructions with other student populations and outcome measures
+across cultural contexts. As it cannot be entirely ruled out
+that a somewhat different data collection procedure in
+Experiment 3 (with some participants being administered
+the materials outside regular lectures) may have influenced
+our results, future research should also ensure consistency
+across contexts in this regard.
+Despite the need to further research students’ interpretations of different instructions and their processing of
+tasks under different experimental conditions, as well as
+potential context- and culture-specificity of mindset
+Ó 2017 Hogrefe Publishing
+
+155
+
+interventions, our findings are not trivial. Given that many
+tasks that students encounter may be introduced in ways
+that prime one implicit theory of intelligence or the other,
+understanding which task instruction is better for whom
+seems like an important future research agenda. For example, certain task instructions that according to theory and
+prior research developed within a particular cultural context
+seem to impair students’ ability to handle challenging tasks
+may in some specific contexts actually be helpful for some
+specific student populations in other cultures.
+
+References
+Aronson, J., Fried, C. B., & Good, C. (2002). Reducing the effects of
+stereotype threat on African-American college students by
+shaping their theories of intelligence. Journal of Experimental
+Social Psychology, 38, 113–125. doi: 10.1006/jesp.2001.1491
+Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit
+theories of intelligence predict achievement across an
+adolescent transition: A longitudinal study and an intervention.
+Child Development, 78, 246–263. doi: 10.1111/j.1467-8624.
+2007.00995.x
+Braasch, J. L. G., Bråten, I., Strømsø, H. I., & Anmarkrud, Ø.
+(2014). Incremental theories of intelligence predict multiple
+document comprehension. Learning and Individual Differences,
+31, 11–20. doi: 10.1016/j.lindif.2013.12.012
+Bråten, I., & Strømsø, H. I. (2004). Epistemological beliefs and
+implicit theories of intelligence as predictors of achievement
+goals. Contemporary Educational Psychology, 29, 371–388.
+doi: 10.1016/j.cedpsych.2003.10.001
+Cimpian, A., Mu, Y., & Erickson, L. C. (2012). Who is good at this
+game? Linking an activity to a social category undermines
+children’s achievement. Psychological Science, 23, 533–541.
+doi: 10.1177/0956797611429803
+Creswell, J. W., & Plano Clark, V. L. (2007). Designing and
+conducting mixed methods research. Thousand Oaks, CA: Sage.
+Dweck, C. S. (1999). Self-theories: Their role in motivation,
+personality, and development. Philadelphia, PA: Psychology
+Press.
+Dweck, C. S. (2006). Mindset: The new psychology of success. New
+York, NY: Random House.
+Dweck, C. S., Chiu, C., & Hong, Y. (1995). Implicit theories and
+their role in judgments and reactions: A world from two
+perspectives. Psychological Inquiry, 6, 267–285. doi: 10.1207/
+s15327965pli0604_1
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach
+to motivation and personality. Psychological Review, 95,
+256–273. doi: 10.1037/0033-295X.95.2.256
+Dweck, C. S., & Master, A. (2008). Self-theories motivate selfregulated learning. In D. H. Schunk & B. J. Zimmerman (Eds.),
+Motivation and self-regulated learning: Theory, research, and
+applications (pp. 31–51). Mahwah, NJ: Erlbaum.
+Dweck, C. S., & Molden, D. C. (2005). Self-theories: Their impact
+on competence motivation and acquisition. In A. J. Elliot & C. S.
+Dweck (Eds.), Handbook of competence and motivation (pp.
+122–140). New York, NY: Guilford Press.
+Eccles, J. S. (2005). Subjective task value and the Eccles et al.
+model of achievement-related choices. In A. J. Elliot &
+C. S. Dweck (Eds.), Handbook of competence and motivation
+(pp. 105–121). New York, NY: Guilford press.
+Ericsson, K. A., & Simon, H. A. (1993). Protocol analysis: Verbal
+reports as data. Cambridge, MA: MIT Press.
+
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+156
+
+Frederick, S. (2005). Cognitive reflection and decision making. The
+Journal of Economic Perspectives, 19, 25–42. doi: 10.1257/
+089533005775196732
+Good, C., Aronson, J., & Inzlicht, M. (2003). Improving adolescents’
+standardized test performance: An intervention to reduce the
+effects of stereotype threat. Journal of Applied Developmental
+Psychology, 24, 645–662. doi: 10.1016/j.appdev.2003.09.002
+Hong, Y. Y., Chiu, C. Y., Dweck, C. S., Lin, D., & Wan, W. (1999).
+Implicit theories, attributions, and coping: A meaning system
+approach. Journal of Personality and Social Psychology, 77,
+588–599. doi: 10.1037/0022-3514.77.3.588
+Kahneman, D. (2011). Thinking, fast and slow. New York, NY:
+Farrar, Straus, & Giroux.
+Kahneman, D., & Frederick, S. (2007). Frames and brains:
+Elicitation and control of response tendencies. Trends in
+Cognitive Sciences, 11, 45–46. doi: 10.1016/j.tics.2006.11.007
+Lüftenegger, M., & Chen, J. A. (2017). Conceptual issues and
+assessment of implicit theories. Zeitschrift für Psychologie,
+225, 99–106. doi: 10.1027/2151-2604/a000286
+Martocchio, J. J. (1994). Effects of conceptions of ability on
+anxiety, self-efficacy, and learning in training. The Journal of
+Applied Psychology, 79, 819–825. doi: 10.1037/0021-9010.
+79.6.819
+McInerney, D. M. (2011). Culture and self-regulation in educational contexts. In B. J. Zimmerman & D. H. Schunk (Eds.),
+Handbook of self-regulation of learning and performance (pp.
+442–464). New York, NY: Routledge.
+Molden, D. C., & Dweck, C. S. (2006). Finding “meaning” in
+psychology: A lay theories approach to self-regulation, social
+perception, and social development. The American Psychologist, 61, 192–203. doi: 10.1037/0003-066X.61.3.192
+Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can
+undermine children’s motivation and performance. Journal of
+Personality and Social Psychology, 75, 33–52. doi: 10.1037/
+0022-3514.75.1.33
+Nussbaum, A. D., & Dweck, C. S. (2008). Defensiveness versus
+remediation: Self-theories and modes of self-esteem maintenance. Personality and Social Psychology Bulletin, 34, 599–612.
+doi: 10.1177/0146167207312960
+Stanovich, K. E. (2016). The comprehensive assessment of
+rational thinking. Educational Psychologist, 51, 23–34.
+doi: 10.1080/00461520.2015.1125787
+Toplak, M. E., West, R. F., & Stanovich, K. E. (2011). The Cognitive
+reflection test as a predictor of performance on heuristics
+and biases tasks. Memory & Cognition, 39, 1275–1289.
+doi: 10.3758/s13421-011-0104-1
+Toplak, M. E., West, R. F., & Stanovich, K. E. (2014). Assessing
+miserly information processing: An expansion of the cognitive
+reflection test. Thinking & Reasoning, 20, 147–168.
+doi: 10.1080/13546783.2013.844729
+
+Zeitschrift für Psychologie (2017), 225(2), 146–156
+
+I. Bråten et al., Implicit Theories and Rational Thinking
+
+Undheim, J. O., Nordvik, H., Gustafsson, K., & Undheim, A. M.
+(1995). Academic achievement of high-ability students in
+egalitarian education. Scandinavian Journal of Educational
+Research, 39, 157–167. doi: 10.1080/0031383950390206
+Walton, G. M. (2014). The new science of wise psychological
+interventions. Current Directions in Psychological Science, 23,
+73–82. doi: 10.1177/0963721413512856
+Warner-Søderholm, G. (2012). Culture matters: Norwegian cultural
+identity within a Scandinavian context. SAGE Open, 2, 1–12.
+doi: 10.1177/2158244012471350
+Willis, G. B. (2005). Cognitive interviewing: A tool for improving
+questionnaire design. Thousand Oaks, CA: Sage.
+Wood, R., & Bandura, A. (1989). Impact of conceptions of ability on
+self-regulatory mechanisms and complex decision-making.
+Journal of Personality and Social Psychology, 56, 407–415.
+doi: 10.1037/0022-3514.56.3.407
+Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote
+resilience: When students believe that personal characteristics
+can be developed. Educational Psychologist, 47, 302–314.
+doi: 10.1080/00461520.2012.722805
+Yeager, D. S., Paunesku, D., Walton, G. M., & Dweck, C. S. (2013).
+How can we instill productive mindsets at scale? A review of the
+evidence and an initial R&D agenda. A White Paper prepared for
+the White House meeting on Excellence in Education: The
+Importance of Academic Mindsets. Retrieved from https://labs.
+la.utexas.edu/adrg/files/2013/12/Yeager-et-al-RD-agenda-610-131.pdf
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education: They’re not magic. Review of Educational
+Research, 81, 267–301. doi: 10.3102/0034654311405999
+
+Received July 5, 2016
+Revision received November 10, 2016
+Accepted November 20, 2016
+Published online July 28, 2017
+
+Ivar Bråten
+Department of Education
+University of Oslo
+P.O. Box 1092
+Blindern
+0317 Oslo
+Norway
+ivar.braten@ped.uio.no
+
+Ó 2017 Hogrefe Publishing
+
+

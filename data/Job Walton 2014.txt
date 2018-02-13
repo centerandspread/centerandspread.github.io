@@ -1,0 +1,1097 @@
+RUNNING HEAD: LAY THEORIES OF SELF-CONTROL
+
+In: C. Zedelius, B. C. N. Muller, & J. Schooler (in press). The Science of Lay Theories: How
+Beliefs Shape Our Cognition, Behavior, and Health. Springer.
+
+Lay Theories of Self-Control
+
+Veronika Job
+University of Zurich
+
+Gregory M. Walton
+Stanford University
+
+Veronika Job (corresponding author)
+Department of Psychology, University of Zurich, Binzmuehlestrasse 14/11, 8050 Zurich,
+Switzerland
+Phone: +41 (0)44 635 72 83 or +41(0)78 633 56 61, Fax: +41 (0) 44 635 75 19
+Email: v.job@psychologie.uzh.ch
+Gregory M. Walton
+Department of Psychology, Stanford University, 450 Serra Mall, Stanford, CA 94305
+
+	
+
+1	
+
+Abstract
+Why do people sometimes fail to regulate their behavior effectively to accomplish their goals?
+How can they do better? This chapter explores the role of prominent beliefs in society about the
+nature of willpower, and how these beliefs shape self-regulation. Social factors can convey, and
+people can believe, that self-control relies on a limited resource and, when this resource is
+drawn down, so too is the capacity to exert self-control (limited-resource theory). Or people can
+reject this idea, and believe instead that exerting self-control can become self-energizing and
+even boost later performance (nonlimited-resource theory). Longitudinal and experimental
+studies show that these beliefs or lay theories causally affect how people strive toward goals
+and ultimately their well-being. The belief that willpower relies on a limited resource
+undermines self-control in the laboratory and in everyday life, especially as demands
+accumulate. This theory sensitizes people to cues about the availability of mental resources,
+such as feelings of tiredness and the consumption of sugar long before any actual lack of
+resources, and facilitates the goal to rest following self-control efforts. By contrast, the belief
+that willpower is not so dependent helps people maintain their self-control and make progress
+on valued personal goals, and increases well-being.
+
+Keywords: lay theories, self-control, self-regulation, ego depletion, goal-striving, well-being,
+rest goal, self-efficacy
+
+	
+
+2	
+
+People sometimes fail to behave as they intend. Children who participated in the famous
+marshmallow experiments wanted to wait and not to eat a tempting marshmallow placed on the
+plate before them. They knew that they would get a second marshmallow if they managed to
+wait until the experimenter came back. Still, many children ate the one marshmallow losing the
+chance to get a second one (Mischel, Shoda, & Rodriguez, 1989). Often people give in to
+temptations and immediate impulses at the cost of their long-term goals. Aggression and
+violence, over-eating, impulsive spending and sexual behavior, as well as drug addiction are
+examples of failures in self-control (Baumeister & Heatherton, 1996; Gottfredson & Hirschi,
+1990; Vohs & Faber, 2007). They can have disastrous consequences for an individual and high
+costs for society as a whole. Therefore, considerable psychological research has aimed to
+understand self-control failures and investigate ways to improve self-control. The research
+reviewed in this chapter focused on people’s beliefs about the availability of self-control
+capacity as an important predictor of their self-control.
+During the last few decades, social-psychological research on self-control has been
+dominated by a model that uses a simple metaphor to explain self-control failures: the strength
+model of self-control (Baumeister, Bratslavsky, Muraven, & Tice 1998; Muraven, Tice, &
+Baumeister, 1998). This model suggests that self-control relies on a limited resource. Engaging
+in self-control draws down this resource, leaving the individual with reduced capacity to exert
+further self-control. In support for this theory, studies have found that after people have exerted
+self-control on one task subsequent self-control performance is impaired, even on a very
+different kind of task. This is termed the ego depletion effect. The strength model of selfcontrol stimulated an impressive array of empirical research. Ego depletion effects were
+documented for outcomes as diverse as intellectual performance (Schmeichel, Vohs, &
+Baumeister, 2003), information processing (Fischer, Greitemeyer, & Frey, 2008), impression
+management (Vohs, Baumeister, & Ciarocco, 2005), and resisting violent responses to a
+
+	
+
+3	
+
+partner’s provocation (Finkel, DeWall, Slotter, Oaten, & Foshee, 2009) (for meta-analytic
+summaries and controversies, see Carter, Kofler, Forster, McCullough, 2015; Hagger, Wood,
+Stiff, & Chatzisarantis, 2010). Indeed, ego depletion has been described as a universal
+phenomenon based in physiology (Gailliot & Baumeister, 2007).
+However, increasing evidence questions this model. New research finds that the ego
+depletion effect is not inevitable but is affected by motivation (e.g., Inzlicht & Schmeichel,
+2012; Inzlicht, Schmeichel, & Macrae, 2014; Molden et al., 2012) and other moderators (for
+overviews see Loschelder & Friese, in press; Masicampo, Martin, & Anderson, 2014). For
+instance, monetary incentives, autonomy, and positive mood can prevent ego depletion effects
+(Moller, Deci, & Ryan, 2006; Muraven & Slessareva, 2003; Tice, Baumeister, Shmueli, &
+Muraven, 2007). Further, people’s expectancies about their ability to exert self-control
+following the exertion of self-control can moderate ego depletion. People were told that
+performing an effortful task (controlling their emotions) could either improve or harm
+performance on a subsequent task (Martijn, Tenbült, Merckelbach, Dreezens, & de Vries,
+2002). Participants’ subsequent self-control performance confirmed their expectations: Those
+who expected self-control depletion performed worse, while those who expected a self-control
+boost performed better.
+We ask a more general question. Perhaps it is not just that motivation helps people
+overcome depletion. Perhaps lay theories about self-control in general give rise to ego depletion
+in the first place (see also Mukhopadhyay & Johar, 2005). People may draw from society’s
+general theories about the nature of self-control capacity. These general theories are expressed,
+for example, in cultural products like movies or advertisements that echo and promulgate a
+specific belief (“You’re not you when you’re hungry”). Holding a global theory that difficult
+tasks deplete one, making it difficult to sustain self-control efforts, may make people feel
+depleted, exhausted, and in need of rest and replenishment when they face high demands. We
+
+	
+
+4	
+
+expected that people who do not endorse this limited theory on self-control—who instead
+believe that self-control efforts can even become self-energizing—may not experience
+depletion.
+In this chapter we provide an overview of research on lay theories of self-control.
+Laboratory research shows that these theories, both measured as an individual difference and
+manipulated to examine causality, predict performance as people take on a series of self-control
+tasks. The theory that self-control does not rely on a limited resource helps people sustain selfcontrol performance. Further, theories of self-control matter in everyday life settings. They
+predict self-regulatory success as well as well-being, specifically when people face high
+demands.
+Measuring Lay Theories of Willpower
+A first step to investigating people’s lay theories on self-control was to develop a
+measure. Previous research showed that lay theories (e.g., of the malleability of personal
+attributes) are typically domain specific (Dweck, 1999). Since we expected the same for lay
+theories of self-control, we decided to begin by focusing on strenuous mental activities. We
+developed a scale containing six items that reflected the belief that self-control, for which we
+also use the colloquial term willpower, relies on a limited and easily depleted resource (limitedresource theory; e.g., “After a strenuous mental activity your energy is depleted and you must
+rest to get it refueled again”). Reverse-coded items (e.g., “After a strenuous mental activity,
+you feel energized for further challenging activities”) referred to the opposite belief: They
+reject the idea that willpower is highly constrained and, instead, suggest that exerting willpower
+can be energizing. We called this belief a nonlimited theory about willpower (Table 1). People
+with a nonlimited theory do not necessarily believe that self-control capacity is infinite or that
+they can exert self-control endlessly, never needing to rest or sleep. It is not an “unlimited”
+belief. However, they reject the view that willpower is readily depleted by acts of self-control.
+
+	
+
+5	
+
+Depending on the research question and the purpose of a study, we have developed
+additional scales assessing lay theories in other domains, like resistance to temptation, emotion
+control, and physical exertion (Bernecker & Job, 2015a, in press). The domain-specific scales
+represent distinct factors that best predict specific behavior when matched to the behavior in
+question. For example, in a study conducted with Type 2 diabetes patients, only willpower
+theories in the domain of resisting temptations predicted junk food eating and only willpower
+theories in the domain of strenuous physical activity predicted physical activity (Bernecker &
+Job, 2015a).
+The willpower theories scales we have developed so far are certainly not exhaustive and
+future research may well develop measures in other self-control domains.
+Do People Experience Ego-Depletion Only if They Believe that Willpower Relies on a
+Limited Resource?
+Our first set of studies tested whether ego depletion is “all in your head,” that is,
+whether if occurs only if people believe that willpower relies on a limited resource (Job,
+Dweck, & Walton, 2010).
+In a first study, we tested the hypothesis that peoples’ habitual lay theories about
+willpower, as assessed with the “strenuous mental activity” scale, would moderate the ego
+depletion effect. After filling out the scale, participants completed a difficult self-control task
+that has been used in previous research to induce a state of depletion, or an easier version of the
+task that does not require self-control. We then assessed a classic laboratory measure of selfcontrol: Stroop performance. Color words (red, green, yellow, and blue) appeared on a
+computer screen in one of the four colors. Participants were instructed to indicate the color of
+the font, which either matched or did not match the meaning of the word. This task requires
+self-control because on incongruent trials (e.g., the word “red” displayed in green) people have
+to suppress the meaning of the word. Previous research has found ego depletion effects on
+
+	
+
+6	
+
+performance on these trials (Inzlicht, McKay, & Aronson, 2006; Webb & Sheeran, 2003).
+Participants who held a limited-resource theory showed the same pattern. After completing the
+difficult rather than easy initial task, they made more mistakes on incongruent trials on the
+Stroop task. But participants who held a non-limited theory performed equally well whether
+they had completed a difficult “depleting” or nondepleting task first. These results have been
+replicated several times; by us (Job, Walton, Bernecker, & Dweck, 2013) and independently
+(Chow, Hui, & Lau, 2015; Salmon, Adriaanse, De Vet, Fennis, & De Ridder, 2014).
+Research also extends these findings to other self-control domains, including resistance
+to temptation (Bernecker & Job, in press). In one study, participants who had to resist a
+tempting food (freshly baked buns) (see Baumeister et al., 1998) later showed poor Stroop
+performance to the extent that they endorsed the theory that people have a limited capacity to
+resist temptations. Illustrating the domain-specificity of willpower theories, people’s theories
+about whether strenuous mental activities depend on a limited resource did not predict
+performance in this study (the two scales were only modestly correlated). Another study
+examined theories about emotion control (Bernecker & Job, in press, Study 2). We manipulated
+whether people had to suppress their emotions during a funny video (see Brown & McConnell,
+2011). Lay theories about emotion control (but not strenuous mental activity) predicted how
+long people persisted on a subsequent frustrating task. People who thought that their capacity to
+control emotions depends on a limited resource persisted less long when they had had to
+suppress their emotions than when they had not. But people who thought the capacity to control
+emotions does not depend on a limited resource showed no decrement in persistence when they
+had had to suppress their emotions.
+Taken together, these studies suggest that people who hold nonlimited willpower
+theories do not experience ego depletion in a wide range of self-control domains. Moreover,
+they illustrate that theories of willpower are domain specific. If people think that strenuous
+
+	
+
+7	
+
+mental activity drains a limited resource, they become depleted after such a task and show
+impaired self-control even in other domains (e.g., Stroop). However, they do not necessarily
+feel depleted after resisting a temptation, since they do not necessarily believe the resistance to
+temptations depends on a limited and depletable resource. To matter, the implicit theory
+assessed in a research study has to match the initial, “depleting” task.
+In the studies described so far, theories about willpower were only measured. They thus
+do not demonstrate their causal effect. Perhaps people who actually have greater self-control in
+a domain see this self-control as less limited, and this is why they can maintain their selfcontrol performance as self-control demands accumulate. To address possibilities like this and
+test the causal effects of willpower theories, we manipulated theories about willpower using
+two biased questionnaires containing easy-to agree-with items that endorsed either a limited or
+a nonlimited resource theory (e.g., “Working on a strenuous mental task can make you feel
+tired such that you need a break before accomplishing a new task” vs. “Sometimes, working on
+a strenuous mental task can make you feel energized for further challenging activities”, see
+Table 2). This procedure evokes thoughts consistent with a specific theory. Manipulation
+checks consistently show that in each condition participants agreed with the suggested theory.
+As predicted, in the context of strenuous mental activity, participants led to endorse the limited
+resource theory showed ego depletion (Job et al., 2010). They performed worse after they had
+completed a “depleting” task as compared to the nondepleting control task. In contrast,
+participants led to endorse the nonlimited theory showed no drop in self-control performance
+following the initial “depleting” task as compared to an undemanding task. Thus, manipulated
+theories about willpower showed parallel effects on self-control performance as measured
+theories.
+An artificial aspect of most laboratory research on self-control including the abovementioned studies is that they assess performance on a single self-control task rather than
+
+	
+
+8	
+
+sustained effort and success over time. A further study tested whether willpower theories might
+predict people’s sustained efforts over the course of a challenging learning task (Miller,
+Walton, Dweck, Job, Trzesniewski, & McClure, 2012). Participants completed the biased
+questionnaire that manipulated their theory about willpower. They then engaged for 20 minutes
+with a demanding task widely used to improve working memory. Although all participants
+learned effectively at the beginning of the task, improving their performance over the first half
+of the task, participants led to think of willpower as a limited resource stalled over the second
+half of the task, whereas those in the nonlimited theory condition sustained their learning and
+improvements in performance over the full task.
+These laboratory experiments indicate that reduced performance after previous selfcontrol exertion (i.e., “ego depletion”) results not from a true lack of resources but from
+people’s beliefs about their self-control capacity. They raise important questions. First, many
+goals in the real world demand sustained self-control. Can implicit theories about willpower
+affect the extent to which people accomplish their goals and flourish in their daily lives? And
+second, what mechanisms underlie the effects of willpower theories on sustained self-control?
+Effects of Lay Theories About Willpower in Everyday Life
+The strength model of self-control suggests that understanding the limits of self-control
+capacity should help people use their limited resources wisely and therefore predict better selfregulation and well-being. People with a nonlimited theory, by contrast, may overuse their
+resources and suffer from severe depletion when high demands accumulate (Vohs, Baumeister,
+& Schmeichel, 2012). However, in contrast to this view, we hypothesized that a limited
+resource theory leads people to let up on self-control efforts long before they have reached any
+actual limit. If so, they may reduce their effort on everyday tasks and fail to accomplish their
+goals, especially when they face high demands. But people with a nonlimited theory might
+better sustain their efforts, improving their everyday self-regulation.
+
+	
+
+9	
+
+Everyday self-regulation
+In a first longitudinal study (Job et al., 2010, Study 4), we tracked college students
+across three time points over an academic term, the last of which was during final exams. The
+results showed that only students who endorsed a limited-resource theory (assessed with the
+strenuous mental activity and the resisting temptations scale) self-regulated less effectively at
+the stressful final time point, for instance reporting procrastinating more and eating more junk
+food controlling for baseline self-regulation.
+This study simply assumed that self-regulatory demands were high for all students as
+final exams approached. A second study examined the level of self-regulatory demands each
+student reported on a week-by-week basis so as to distinguish students who faced high
+demands from those who faced lower demands (Job, Walton, Bernecker, & Dweck, 2015). As
+predicted, although students with limited and nonlimited willpower theories faced similar levels
+of self-regulatory demands, only those with a limited theory showed increasing self-regulation
+failures (e.g., procrastination, junk food eating, bad time management) as demands increased.
+In addition, this study assessed students’ end-of-term grade point average (GPA). Among
+students who took a heavy course load, students with the nonlimited theory earned higher
+grades than students with the limited theory.
+A recent study extended these findings to people with diabetes, who face particularly
+high and significant self-control challenges (Bernecker & Job, 2015a). To control their blood
+sugar levels, people with diabetes have to adhere to a complex regimen involving regular blood
+sugar testing, medication, a low-glycemic diet, and exercise throughout their entire life (Boule,
+Haddad, Kenny, Wells, & Sigal, 2001; Brand-Miller, Petocz, Hayne, & Colagiuri, 2003).
+Would lay theories about willpower predict how well patients adhere to their therapy? In a
+correlational study, type 2 diabetes patients completed three theories about willpower scales
+(resisting temptations, physical activity, strenuous mental activity) and measures assessing
+
+	
+
+10	
+
+therapy adherence (i.e., blood glucose monitoring, diet, exercise) and psychological adjustment
+(i.e., emotional distress, well-being, life quality). As predicted, participants with a limited
+theory reported fewer self-care activities (full scale), a less healthy diet (resisting temptations
+scale), and less physical activity (physical activity scale) than people with a nonlimited theory.
+They also reported more emotional distress from the disease and experienced less subjective
+well-being and reported a worse life quality. The belief that willpower is nonlimited seems to
+be more adaptive for coping with the demands that arise from managing diabetes than the belief
+that willpower is limited.
+Personal goal-striving and well-being
+Another important context of self-regulation involves the personal goals people set for
+themselves, and their success in accomplishing them. For instance, a person may have the goal
+to be admitted to a specific college or to lose ten pounds of weight. Personal goals are
+conscious representations of anticipated end-states. They represent what people strive for and
+want to achieve in life (Emmons, 1986; Klinger, 1977; Little, 1983). Several theorists propose
+that having goals and striving for and achieving them is crucial for the development and
+maintenance of well-being, because goals provide meaning, structure, and direction to a
+person’s life as well as, when completed, a sense of accomplishment (Brunstein, 1993; Diener,
+Suh, Lucas, & Smith, 1999; Emmons, 1986; Maier & Brunstein, 2001).
+In early research on personal goal-striving, Mukhopadhyay and Johar (2005) showed
+that measured and manipulated beliefs about self-control as depending on a limited or a
+nonlimited resource and as either malleable versus fixed affected the number of New Years’
+resolutions people set. People who thought that self-control is not limited set more New Years’
+resolutions. Moreover, a second study showed that manipulating lay theories about willpower
+affected people’s success in the keeping of their resolutions. Participants led to view willpower
+as dependent on a limited resource were less likely to succeed four months later, especially if
+
+	
+
+11	
+
+they had set difficult goals. It seems that they were more likely to give up in the face of
+difficulties or setbacks.
+To examine more directly whether lay theories of self-control predict goal attainment
+most when demands accumulate, one of the above-mentioned longitudinal studies (Job et al.,
+2010, Study 4) assessed self-regulation with respect to a personal achievement goal. At the first
+assessment period, students listed a personal goal that involved challenge and achievement.
+People were asked at each subsequent time point over the term how well they had regulated
+themselves in pursuing this goal (e.g., “I was often not in the mood to do something for this
+goal”). As predicted, during the demanding final exam week, students who had a limited theory
+about willpower reported worse goal-related self-regulation than students with a nonlimited
+theory. Another study found that with a limited resource theory even demands experienced on a
+day-to-day basis can undermine self-regulatory efforts toward personal goals (Bernecker & Job,
+2015b).
+If people with a nonlimited theory make more progress toward to their personal goals,
+do they experience greater well-being? In another set of studies, we first found a strong
+relationship between theories about willpower and life-satisfaction as well as affective wellbeing (Bernecker, Herrmann, Brandstätter, & Job, 2015). The more people endorsed a
+nonlimited theory about willpower the greater was their subjective well-being. Next, a
+longitudinal study tested whether willpower theories predicted change in subjective well-being
+over students’ first year in college. As expected, a limited theory about willpower predicted a
+decline in subjective well-being from a period with low demands (i.e., the beginning of the first
+year) to a period with high demands (i.e., final exams at the end of the first year). Another
+longitudinal study replicated this finding using a daily diary method and, moreover, showed
+that the gains in well-being for people with a nonlimited theory of willpower were mediated by
+more effective goal striving and more progress toward personal goals over the course of the
+
+	
+
+12	
+
+term (Bernecker et al., 2015, Study 3). These findings show that a nonlimited theory of
+willpower does not just help people accomplish tasks in the face of demands. It does not just
+make people better workers. It helps people accomplish goals—people’s own priorities for their
+lives—and this improves their well-being.
+Mechanisms
+How does a limited theory about willpower undermine people’s efforts at self-control,
+especially as demands accumulate? So far, several potential mechanisms have been explored:
+perceived exhaustion, sensitivity to cues about the availability of resources, activation of the
+goal to rest, and self-efficacy.
+Perceived exhaustion
+The first evidence that perceived exhaustion may play an important factor came from a
+series of experiments conducted by Clarkson and colleagues, which found that a manipulation
+of the exhaustion people perceived in a previous task affected subsequent self-control
+performance, whereas actual self-control exertion did not (Clarkson, Hirt, Jia, & Alexander,
+2010). Does a limited theory about willpower make people experience self-control exertion as
+more exhausting, and is this what reduces subsequent performance? To test this question, we
+assessed perceived exhaustion (“How exhausting was the task?”) in a study manipulating
+implicit theories about willpower (Job et al., 2010, Study 3). Even though the manipulation
+affected subsequent self-control performance, it had no effect on the degree to which people
+perceived the “depleting” task as exhausting (see also Job, Bernecker, Miketta, & Friese, 2015).
+Instead, willpower theories affected how people responded to the experience of exhaustion.
+People in the limited willpower theory condition responded to feelings of exhaustion with
+decrements in their subsequent self-control performance. The more exhausting they found the
+first task, the worse they performed on the second task. This was not the case for people in the
+nonlimited theory condition. Although they found the “depleting” task just as exhausting, for
+
+	
+
+13	
+
+them, feelings of exhaustion were not a reason to let up on their self-control efforts. A limitedresource theory seems to attune people to experiences of exhaustion, and to take this as a sign
+to let up.
+Sensitivity to cues about the availability of resources
+If people with a limited-resource theory are sensitive to perceived exhaustion, are they
+sensitive to cues about the availability of mental resources more generally? This resource
+sensitivity hypothesis is supported by another set of studies, which link theories about
+willpower to the finding that ingested glucose, too, buffers the ego depletion effect (Job et al.,
+2013).
+Previous research showed that ingesting glucose can improve self-control performance
+and buffer ego depletion (DeWall, Baumeister, Gailliot, & Maner, 2008; Gailliot et al., 2007).
+Research suggests, however, that ingested glucose does not simply restore depleted energy
+resources and directly fuel performance (Kurzban, 2010). In contrast, peripheral sensory
+receptors in the mouth and digestive system, which are sensitive to glucose, can activate reward
+regions in the brain and increase motivation (Chambers, Bridge, & Jones, 2009; Kringelbach,
+2004; Kurzban, 2010). Merely rinsing the mouth with glucose, as compared to a sugarsubstitute, improves physical performance and mitigates ego depletion (Hagger &
+Chatzisarantis, 2013; Molden et al., 2012; Sanders, Shirk, Burgin, & Martin, 2012). Thus,
+people who have ingested glucose may perform better because these peripheral cues signal the
+availability of energy, motivating them to sustain effort on difficult tasks. If a limited resource
+theory sensitizes people to cues about the availability of resources, then theories about
+willpower may moderate the effect of glucose on subsequent self-control performance.
+Three experiments found evidence for this hypothesis (Job et al., 2013). Replicating
+past research, people who reported holding a limited resource theory, or who were induced to
+hold this theory, showed improved self-control performance following an initial demanding
+
+	
+
+14	
+
+task when they had consumed glucose (lemonade with sugar) rather than a substitute (lemonade
+with a sugar substitute). Yet, people with a nonlimited theory showed no such benefit. They
+performed well regardless of whether they consumed the sugar or the nonsugar drink. This was
+the case even though participants could not reliably distinguish the sugar from the nonsugar
+drink in their self-reports. The results provide further evidence that self-control does not rely on
+a limited physiological resource that is depleted by even brief acts of self-control and is
+restored by glucose consumption (Gailliot & Baumeister, 2007; Gailliot et al., 2007; see
+Kurzban, 2010; Molden et al., 2012). Instead, a limited-resource theory attunes people to cues
+about the availability of resources, including cues below conscious awareness. They further
+document how top down beliefs interact with bottom-up physiological information to influence
+people’s self-regulatory success.
+Activation of a rest goal
+If a limited resource theory attunes people to cues to their internal states (perceived
+exhaustion) and the availability of self-control resources (glucose), does it also activate the goal
+to rest following self-control exertion? This hypothesis is consistent with the process model of
+self-control (Inzlicht & Schmeichel, 2012; Inzlicht et al., 2014), which proposes that after
+people exert self-control, they are no longer motivated to exert themselves and this is why
+people perform worse on subsequent self-control tasks.
+Because it is well documented that people possess limited introspective abilities that
+often lead to invalid self-reports about inner motivational states (e.g., Silvia & Gendolla, 2001;
+Wilson & Dunn, 2004) a series of studies assessed motivational shifts after “depletion” using
+indirect implicit and behavioral indicators, including reaction times (RTs), object evaluations,
+and actual resting (Job et al., 2015).
+In one study, we tested whether people with a limited-resource theory would value
+means to reach the goal to rest more strongly once they were “depleted.” We assumed that after
+
+	
+
+15	
+
+engaging in a self-control task they would evaluate objects that are helpful for resting (bed,
+sofa, hammock, cup of tea, bathtub, TV screen) more positively (see Ferguson & Bargh, 2004;
+Fishbach, Shah, & Kruglanski, 2004). After reporting their theories about willpower and
+completing the depletion manipulation, participants were asked how much they liked both
+objects relevant to rest and objects relevant to physical or mental exertion (barbell, racing
+bicycle, punching bag, treadmill, sneakers, Sudoku puzzles). As predicted, in the high“depletion” condition, the more people endorsed the limited-resource theory the more highly
+they evaluated rest-conducive objects, and the more they devalued objects conducive to
+physical and mental exertion. Willpower theories were not related to evaluations in the low
+depletion condition. After self-control exertion, a limited-resource theory both inclines people
+to value rest and recovery and disinclines activities that involve effort and exertion. A second
+study found the same result after manipulating theories about willpower, confirming their
+causal effect (Job et al., 2015, Study 3).
+If people with a limited resource theory want to rest, do they rest more if given the
+chance? In additional studies, a limited-resource theory—both measured and manipulated—led
+people to rest longer following a “depleting” experience before continuing with another task. In
+one study, only participants randomly assigned to a limited-theory condition and to a high
+depletion condition took an excessively long time to complete an ostensible “product-tasting”
+task in which they could lounge in comfortable chairs following the depletion task (Job et al.,
+2015, Study 5).
+These data show that the belief that willpower depends on a limited resource causes a
+motivational shift toward rest following the exertion of self-control. The findings are consistent
+with the process model of self-control, which denies the existence of a specialized self-control
+resource and explains ego depletion effects through shifts in motivation and attention (Inzlicht
+& Schmeichel, 2012; Inzlicht et al., 2014). That model postulates that after having expended
+
+	
+
+16	
+
+effort in a strenuous task, people are less motivated to expend further effort. Our research adds
+an important specification: Only people who think, or are led to think, that self-control relies on
+a limited resource show the motivational shift toward rest.
+Changes in self-efficacy
+A recent line of research suggests changes in self-efficacy as a further mechanism
+underpinning the effects of lay theories of willpower on self-control. Self-efficacy is the
+“judgment of how well one can execute courses of action required to deal with prospective
+situations” (Bandura, 1982, p. 122). People tend to prefer to engage effort in tasks that they
+perceive themselves to be good at and to withdraw from tasks that seem difficult to them.
+Chow and colleagues (2015) proposed that when people exert self-control their self-efficacy for
+upcoming tasks is temporarily reduced, which impairs further performance. Moreover, they
+suggest, this reduction in self-efficacy occurs only in people with a limited-resource theory.
+People with a nonlimited theory about willpower should not react to self-control exertion with
+reduced self-efficacy because for them exerting self-control does not imply a lack of available
+resources (Chow, Hui, & Lau, 2015).
+Three experiments supported this theorizing. First, they showed that people depleted by
+an initial challenging self-control task reported reduced self-efficacy to exert further selfcontrol. A second study confirmed that this reduction in self-efficacy mediated the effect of
+depletion on subsequent self-control performance. Finally, a third experiment confirmed that
+only people with a limited theory about willpower showed this drop in self-efficacy following
+self-control exertion. Moreover, the drop in self-efficacy mediated the moderating effect of a
+limited willpower theory on subsequent self-control performance (Chow et al., 2015).
+Relations among mechanisms
+So far different research lines explored three different mechanisms explaining why a
+limited theory about willpower leads to reduced self-control when demands accumulate. It is
+
+	
+
+17	
+
+likely that these processes interact. For instance, the inference that cues (e.g., feelings of
+exhaustion, lack of sleep, time since last snack) signal a lack of needed resources sets off two
+motivational shifts: 1) a feeling of reduced self-efficacy (“I can’t do more”) and the activation
+of a rest goal (“I want to rest”). Thus there may be a reciprocal relationship between these
+processes dragging down people’s willingness and perceived ability to exert self-control. It is a
+task for future research to examine these concurring processes and to integrate them into a
+comprehensive model.
+Boundaries and Possible Negative Consequences
+The findings we have presented thus far suggest that a nonlimited theory about
+willpower is more beneficial than a limited theory about willpower, both in laboratory selfcontrol tasks and in everyday self-regulation, goal-striving, and well-being. Could a nonlimited
+theory be counterproductive in some circumstances?
+Overuse of resources
+Vohs and colleagues (2012) hypothesized that a nonlimited theory may lead people to
+“overuse” resources, temporarily compensating for depleted resources, and thus improve selfcontrol performance in the face of mild or moderate self-control demands but not in the face of
+high demands. In a laboratory experiment, they compared a “no depletion” condition (no initial
+self-control tasks), a “mild depletion” condition (two initial self-control tasks), and a “severe
+depletion” condition (four initial self-control tasks). Theories about willpower were
+manipulated with the biased questionnaire. First, the study replicated our previous findings: In
+the “mild depletion” condition participants led to think of willpower as a nonlimited resource
+sustained a high level of performance. But in the “severe depletion” condition, there was no
+positive effect of a nonlimited theory. Moreover, on one of two measures of self-control
+performance the effect reversed. Participants in the severe depletion condition performed worse
+when they had been led to think of willpower as nonlimited. Vohs and colleagues concluded
+
+	
+
+18	
+
+that a nonlimited theory can be counterproductive. Thinking that willpower is nonlimited, they
+suggest, “might undermine the normal tendency to conserve resources so that people find
+themselves severely depleted after multiple tasks” (Muraven, Shmueli, & Burkley, 2006, p.
+186).
+As a laboratory session wears on, however, many factors beyond people’s self-control
+capacity may affect their willingness to exert further effort on tasks of little personal relevance.
+People in the severe depletion condition may simply have been unwilling to exert further effort
+on such tasks, regardless of their willpower theory. Indeed, a nonlimited theory about
+willpower would not be functional if it led people to engage on a high level with every task that
+came along regardless of its value or purpose. Future research may distinguish the capacity to
+exert self-control from the value or meaning of a task to the self, for instance by comparing
+tasks of personal relevance to those without. However, from our perspective the critical test of
+the functionality of willpower theories comes from field studies examining people’s efforts to
+accomplish their own goals in their daily lives. As discussed earlier, examining students’ selfregulatory success in a demanding academic environment was predicted by a non-limited
+theory, especially when they faced the greatest demands (Job et al., 2015). Further, among
+people with type 2 diabetes who face high and significant self-regulatory demands, the nonlimited theory predicted greater therapy adherence (Bernecker & Job, 2015a).
+Of course, it is possible that alternative processes may arise when people face extreme
+physical or psychological circumstances (e.g., torture). As we have emphasized, a non-limited
+theory is not an unlimited theory. The belief that willpower is not limited does not imply that
+people think they can continue to control themselves and exert effort indefinitely without
+needing to rest, sleep, or eat. What research on implicit theories shows is that, as compared to
+the belief that willpower relies on a limited resource, the belief that willpower does not rely on
+a limited resource simply helps people stay engaged for longer during the normal range of
+
+	
+
+19	
+
+challenges they face in their daily lives. Put the other way: the limited-resource theory
+undermines people’s self-control success by leading people to reduce effort and conserve their
+“resources” long before they reach any true limits.
+Interpersonal consequences
+Most research on theories of willpower has examined people’s efforts to accomplish
+their own goals. But if a person believes that willpower does not rely on a limited resource, do
+they expect more not only from themselves but also from others? If other people fail to meet
+these expectations, are nonlimited theorists less understanding and harsher in their judgments?
+Although not examining limited-resource beliefs, one line of research found that peoples’
+beliefs about willpower as either malleable or a fixed trait (measured and manipulated)
+predicted harsher judgments of people with salient self-regulatory failures (e.g., to quit
+smoking, to lose weight; Freeman, Shmueli, & Muraven, 2013). However, high expectations
+can also be helpful in promoting people’s performance—when these expectations are
+communicated in positive, growth-oriented ways (e.g., Cohen, Steele, & Ross, 1999; Lepper,
+Woolverton, Mumme, & Gurtner, 1993). Future research can examine how individuals can
+communicate a nonlimited theory about willpower in ways that support and improve other
+people’s self-control.
+Consequences for parenting
+Mukhopadhyay and Yeung (2010) examined how lay theories about self-control affect
+parenting. They theorized that parents who think of willpower as not reliant on a limited
+resource would not sufficiently prioritize the development of self-control skills in their
+children. They reasoned that “the belief that reserves of self-control are already large may
+lessen the value of further developing these reserves” (p. 242). Accordingly, they expected that
+parents with a limited theory about willpower, who in addition believe that the limited capacity
+can be enlarged (limited, but malleable theorists), would engage more in behaviors that help
+
+	
+
+20	
+
+develop children’s self-control as compared to parents with a nonlimited theory. Indeed, a
+series of studies showed that parents who believed that willpower relies on a limited resource
+but is malleable were more likely to restrict unhealthy snacking and fast-food consumption in
+their children as compared to nonlimited-malleable theorists. They were further more likely to
+choose educational television programs for their children. A manipulation of theories about
+self-control (nonlimited vs. limited/fixed vs. limited/malleable) further confirmed their causal
+effect. Adults led to believe that self-control does not rely on a limited resource were more
+likely to choose gifts for a child that provided instant pleasure. But adults led to believe that
+self-control is limited but malleable chose gifts that were more educational. They were further
+convinced that their choice would have a positive effect on the child’s development. People
+with a nonlimited theory did not emphasize the development of children’s self-control in their
+choice. Apparently, they did not think it necessary to foster the development of self-control.
+An important question concerns whether these behaviors, which were showed by
+parents with a limited-malleable theory, are effective in promoting improved self-control in
+children. Specifically, it is not clear whether restricting children’s food and toy related choices,
+promotes the development of self-control. Could restricting a child’s freedom give the child
+fewer opportunities to learn to restrain him or herself and, hence, rather undermine the
+development of self-control?
+An additional question involves the transmission of beliefs about willpower from
+parents to children, and whether specific kinds of acts or ways of talking about willpower in
+parents foster harmful beliefs in children about willpower (see Gunderson et al., 2013;
+Haimovitz & Dweck, 2016). It is also important to keep in mind that the nonlimited willpower
+theory helps people exert self-control especially in the face of challenge, and this predicts better
+interpersonal outcomes (e.g., Moffitt et al., 2011; Tangney, Baumeister, & Boone, 2004).
+Indeed, being able to control one’s impulses and regulate one’s emotions in the face of high
+
+	
+
+21	
+
+demands may be particularly crucial in challenging parenting situations and therefore
+contribute to relationship quality and functional parenting (Deater-Deckard, 2014; Valiente,
+Lemery-Chalfant, & Reiser, 2007).
+Future Directions: Exploring the Antecedents of Willpower Theories
+So far, most research on implicit theories about willpower has focused on their
+behavioral consequences in the laboratory and the field and mechanisms that explain these
+effects. Yet little is known about their cultural, social, and developmental antecedents. Where
+do willpower theories come from?
+Social learning
+Previous theoretical and empirical work suggests that one factor that shapes children’s
+motivational beliefs, expectations, and values are their parent’s beliefs (Eccles, 1993;
+Haimovitz & Dweck, 2016; Simpkins, Fredricks, & Eccles, 2012). For example, Simpkins and
+colleagues (2012) showed that when parents value a certain domain, like sports or literature,
+their children are more likely to develop an interest in that domain, too. How do parents’ beliefs
+about willpower affect their children’s beliefs?
+According to social learning theory (Bandura, 1971; Bandura & Walters, 1963; Olson &
+Dweck, 2008), learning is a cognitive process that is tied to the social context of a person. One
+crucial element of this process is the observation of other people’s behavior. Accordingly,
+children acquire knowledge about social norms by observing what their parents and other
+adults do, when they do it, and what consequences arise from this behavior. With regard to
+children’s beliefs about willpower, we would assume that being raised by a person with a
+limited theory about willpower exposes a child to numerous adult behaviors implying that the
+capacity to exert effort is limited and that periods of hard work have to be followed by rest and
+recovery. As described above, we have found that people with a limited-resource theory strive
+for rest and recovery once they have exerted self-control (Job et al., 2015). Do parents with a
+
+	
+
+22	
+
+limited theory rest more after they have exerted themselves as compared to parents with a
+nonlimited theory? Do they talk more about the need to rest after they have worked hard?
+Previous research further shows that parents communicate their theories of intelligence
+in what they say to a child and by praise and feedback they provide to a child’s performance
+(Gunderson et al., 2013; Haimovitz & Dweck, 2016; Mueller & Dweck, 1998).	Do parents with
+a limited theory communicate to their child, explicitly or implicitly, that their child needs to
+rest after having worked hard (“You deserve a break!”)? If so, do children of parents who have
+a limited theory infer that one has to rest after (demanding) work before being able to function
+well again?
+Cultural background
+A recent series of studies (Savani & Job, 2017) explored cross-cultural differences in
+willpower theories, which might inform their cultural roots. We found that in the United States,
+people tend to endorse a limited theory about willpower. Interestingly, in India, a country with
+a strong self-control tradition, we found the opposite—people tended to believe that completing
+strenuous mental tasks is energizing. Moreover, Indians exhibit a reversed ego-depletion effect.
+They performed better after an initial demanding task, especially if they endorsed a nonlimited
+theory of willpower—that is, who believed that exerting self-control is energizing.
+These cultural differences could have their roots in philosophical traditions. Numerous
+religious traditions originating in India, including Hinduism, Jainism, and Buddhism, advocate
+the frequent exertion of self-control not just for monks and nuns but for lay people in their daily
+lives (Bronkhorst, 1993; Mosher, 2005; Walsh & Shapiro, 2006). Characteristics of the Indian
+schooling system as compared to the US might further contribute to the cross-cultural
+differences in theories about willpower. The workload of students in India is considerably
+higher than in the US putting less emphasis on breaks and times for recovery (Larson & Verma,
+
+	
+
+23	
+
+1999; Verma, Sharma, & Larson, 2002). Such a practice communicates to students that
+sustained mental effort is possible.
+Future research should systematically investigate cultural differences in willpower
+beliefs and the socio-cultural mechanisms that perpetuate them. An interdisciplinary approach,
+including sociological and/or historical perspectives may generate knowledge of both
+theoretical and practical relevance. Indeed, research on the origins of willpower beliefs could
+inform, for instance, educational reforms and social policies on how to promote the
+development of nonlimited willpower theories in children and adults.
+Interventions
+Although a limited-resource theory might be functional in some situations, the
+accumulated evidence documents its costs. When people face high self-control demands those
+with a limited theory show impaired self-regulation, goal-attainment, and well-being. An
+important direction for future research is to develop interventions that can help people adopt a
+nonlimited theory about willpower and self-regulate more effectively when they face high
+demands, such as in challenging academic programs or when a chronic disease requires a
+careful lifestyle change). Indeed, how to improve people’s self-regulatory outcomes is a
+pressing issue (Diamond, 2012; Duckworth, Grant, Loew, Oettingen, & Gollwitzer, 2011).
+Previous field-experiments show that it is possible to change people’s implicit theories
+about intelligence and personality in field settings, with beneficial consequences including for
+academic performance (Aronson, Fried, & Good, 2002; Blackwell, Trzesniewski, & Dweck,
+2007; Paunesku et al., 2015; Yeager, Romero, et al., 2016) and social outcomes (e.g., Yeager,
+Trzesniewski, & Dweck, 2013). Such interventions give people information (e.g., scientific
+reports) about the nature of human qualities and help them internalize this information using
+powerful persuasive techniques, such as “saying-is-believing” exercises in which people
+
+	
+
+24	
+
+advocate for the intervention message to others (see Aronson, 1999; Yeager & Walton, 2011).
+Could this approach change people’s beliefs about willpower?
+An important caution is that it would not be fruitful for people to infer that self-control
+is easy—that they have ample resources to resist temptation, say, and thus need not take normal
+steps to make self-regulation easier (e.g., putting the cookies on a high shelf). Ironically, simply
+learning that willpower is stronger than one might have supposed could backfire. People could
+feel encouraged to put themselves in situations they are ill-equipped to deal with (e.g., keeping
+temptations close at hand in the belief that they will be able to resist them indefinitely).
+In a currently ongoing project, we have started to develop such an intervention. In a first
+study, participants did not learn that willpower is ample. Instead, materials emphasized that
+how you think about willpower matters, and you can choose how you think about it. They then
+thought of a person who struggles with willpower, and wrote a letter of advice to this person
+describing these ideas. In a first randomized field experiment with students enrolled in their
+first year at the university, we found that, for students who faced high academic demands, the
+intervention improved their academic self-regulation (i.e., time spent on academic tasks) and
+semester grades (Job, Flückiger, Bernecker, Lieb, & Mata, 2017). This gain was found relative
+to a control group exposed to parallel but psychologically neutral (in terms of theories about
+willpower) material that addressed time-management. Thus, when confronted with high
+demands, students in the nonlimited willpower theory condition were able to scale up their
+academic effort to achieve greater success. Although these results are promising, many
+questions remain. Can such an intervention produce long-term change in people’s willpower
+theories and self-regulatory success? If so, what recursive processes contribute to lasting
+change? Can such an intervention be scaled-up to benefit a wide population? Can it be adapted
+to help non-student populations that face specific challenges, such as people trying to make
+lifestyle changes to manage a chronic disease?
+
+	
+
+25	
+
+Conclusion
+Research on lay theories on self-control suggests that one reason people may fail to
+control themselves or have trouble reaching their personal goals involves their beliefs about
+self-control resources, not a true lack of resources. This approach does not deny that a person is
+in part an energy-based system. Obviously, people need food to function well, they get tired,
+and they need sleep. But in the normal range of self-regulatory demands people face in
+everyday life there is not a narrow energy-based constraint on self-control capacity. However,
+in a social and cultural context that promulgates the belief that willpower depends on a highly
+limited resource—including in the strength model of self-control itself—people can easily
+believe in such a constraint, and thus attend and respond to minor fluctuations in their available
+resources. This belief then itself limits people’s willpower.
+Although research on willpower theories began as an alternative view of self-control, it
+extends beyond a mere critique of the strength model. Not only does it suggest that ego
+depletion is not an inevitable state determined by basic physiological processes. It further
+informs our understanding of processes, including self-efficacy and rest-goal activation, which
+contribute to self-regulatory performance, personal goal striving, and well-being when selfregulatory demands arise. Thus, it brings top-down processes back into focus in self-regulation
+research, and shows that seemingly fixed, physiological principles can, at least in part, be
+created and modulated by people’s beliefs and expectations.
+
+	
+
+26	
+
+References
+Aronson, E. (1999). The power of self-persuasion. American Psychologist, 54, 584–588.
+Aronson, J., Fried, C. B., & Good, C. (2002). Reducing the effects of stereotype threat on
+African American college students by shaping theories of intelligence. Journal of
+Experimental Social Psychology, 38, 113–125.
+Bandura, A. (1971). Social learning theory. New York, NY: General Learning Press.
+Bandura, A. (1982). Self-efficacy mechanism in human agency. American Psychologist, 37,
+122–147.
+Bandura, A., & Walters, R. H. (1963). Social learning and personality development (Vol. 14).
+New York, NY: Holt, Rinehart and Winston.
+Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the
+active self a limited resource? Journal of Personality and Social Psychology, 74, 1252–
+1265.
+Baumeister, R. F., & Heatherton, T. F. (1996). Self-regulation failure: An overview.
+Psychological Inquiry, 7, 1-15.
+Bernecker, K., Hermann, M., Brandstätter, V., & Job, V. (2015). Implicit theories about
+willpower predict subjective well-being. Journal of Personality.
+Bernecker, K., & Job, V. (2015a). Beliefs about willpower are related to therapy adherence and
+psychological adjustment in patients with type 2 Diabetes. Basic and Applied Social
+Psychology, 37, 188–195.
+Bernecker, K., & Job, V. (2015b). Beliefs about willpower moderate the effect of previous day
+demands on next day’s expectations and effective goal striving. Frontiers in
+Psychology, 6, 1496.
+Bernecker, K., & Job, V. (in press). Implicit theories about willpower in resisting temptations
+and emotion control. Journal of Psychology.
+
+	
+
+27	
+
+Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence
+predict achievement across an adolescent transition: A longitudinal study and an
+intervention. Child Development, 78, 246–63.
+Boule, N. G., Haddad, E., Kenny, G. P., Wells, G. A., & Sigal, R. J. (2001). Effects of exercise
+on glycemic control and body mass in type 2 diabetes mellitus: A meta-analysis of
+controlled clinical trials. Journal of the American Medical Association, 286, 1218–1227.
+Brand-Miller, J., Petocz, P., Hayne, S., & Colagiuri, S. (2003). Low-glycemic index diets in the
+management of diabetes: A meta-analysis of randomized controlled trials. Diabetes
+Care, 26, 2261–2267.
+Bronkhorst, J. (1993). The two traditions of meditation in ancient India. Delhi: Motilal
+Banarsidass.
+Brown, C. M., & McConnell, A. R. (2011). Discrepancy-based and anticipated emotions in
+behavioral self-regulation. Emotion, 11, 1091–5.
+Brunstein, J. C. (1993). Personal goals and subjective well-being: A longitudinal study. Journal
+of Personality and Social Psychology, 65, 1061–1070.
+Carter, E. C., Kofler, L. M., Forster, D. E., & McCullough, M. E. (2015). A series of metaanalytic tests of the depletion effect: Self-control does not seem to rely on a limited
+resource. Journal of Experimental Psychology: General, 144, 796-815.
+Chambers, E. S., Bridge, M. W., & Jones, D. A. (2009). Carbohydrate sensing in the human
+mouth: Effects on exercise performance and brain activity. The Journal of Physiology,
+587, 1779–1794.
+Chow, J. T., Hui, C. M., & Lau, S. (2015). A depleted mind feels inefficacious: Ego-depletion
+reduces self-efficacy to exert further self-control. European Journal of Social
+Psychology, 45, 754-768.
+
+	
+
+28	
+
+Clarkson, J. J., Hirt, E. R., Jia, L., & Alexander, M. B. (2010). When perception is more than
+reality: The effects of perceived versus actual resource depletion on self-regulatory
+behavior. Journal of Personality and Social Psychology, 98, 29–46.
+Cohen, G. L., Steele, C. M., & Ross, L. D. (1999). The Mentor’s Dilemma: Providing Critical
+Feedback Across the Racial Divide. Personality and Social Psychology Bulletin, 25,
+1302–1318.
+Deater-Deckard, K. (2014). Family matters: Intergenerational and interpersonal processes of
+executive function and attentive behavior. Current Directions in Psychological Science,
+23, 230-236.
+DeWall, C. N., Baumeister, R. F., Gailliot, M. T., & Maner, J. K. (2008). Depletion Makes the
+Heart Grow Less Helpful: Helping as a Function of Self-Regulatory Energy and Genetic
+Relatedness. Personality and Social Psychology Bulletin, 34, 1653-1662.
+Diamond, A. (2012). Activities and programs that improve children’s executive functions.
+Current Directions in Psychological Science, 21, 335–341.
+Diener, E., Suh, E. M., Lucas, R. E., & Smith, H. L. (1999). Subjective well-being: Three
+decades of progress. Psychological Bulletin, 125, 276–302.
+Duckworth, A. L., Grant, H., Loew, B., Oettingen, G., & Gollwitzer, P. M. (2011). Selfregulation strategies improve self-discipline in adolescents: Benefits of mental
+contrasting and implementation intentions. Educational Psychology, 31, 17–26.
+Dweck, C. S. (1999). Self-theories: Their role in motivation, personality and development.
+Philadelphia, PA: Taylor & Francis.
+Eccles, J. S. (1993). School and family effects on the ontogeny of children’s interests, selfperceptions, and activity choices. In R. Dienstbier (Series Ed.) & J. E. Jacobs (Vol. Ed.),
+Nebraska Symposium on Motivation: 1992. Developmental perspectives on motivation
+(Vol. 40, pp. 145–208). Lincoln: University of Nebraska Press.
+
+	
+
+29	
+
+Emmons, R. A. (1986). Personal strivings: An approach to personality and subjective wellbeing. Journal of Personality and Social Psychology, 51, 1058-1068.
+Ferguson, M. J., & Bargh, J. A. (2004). Liking is for doing: The effects of goal pursuit on
+automatic evaluation. Journal of Personality and Social Psychology, 87, 557–572.
+Finkel, E. J., DeWall, C. N., Slotter, E. B., Oaten, M., & Foshee, V. A. (2009). Self-regulatory
+failure and intimate partner violence perpetration. Journal of Personality and Social
+Psychology, 97, 483-499.
+Fischer, P., Greitemeyer, T., & Frey, D. (2008). Self-regulation and selective exposure: The
+impact of depleted self-regulation resources on confirmatory information processing.
+Journal of Personality and Social Psychology, 94, 382-395.
+Fishbach, A., Shah, J. Y., & Kruglanski, A. W. (2004). Emotional transfer in goal systems.
+Journal of Experimental Social Psychology, 40, 723– 738.
+Freeman, N., Shmueli, D., & Muraven, M. (2013). Lay theories of self-control influence
+judgments of individuals who have failed at self-control. Journal of Applied Social
+Psychology, 43, 1418–1427.
+Gailliot, M. T., & Baumeister, R. F. (2007). The physiology of willpower: Linking blood
+glucose to self-control. Personality and Social Psychology Review, 11, 303–327.
+Gailliot, M. T., Baumeister, R. F., DeWall, C. N., Maner, J. K., Plant, E. A., Tice, D. M,
+Brewer, L. E., & Schmeichel, B. J. (2007). Self-control relies on glucose as a limited
+energy source: Willpower is more than a metaphor. Journal of Personality and Social
+Psychology, 92, 325–336.
+Gottfredson, M. R., & Hirschi, T. (1990). A general theory of crime. Stanford, CA: Stanford
+University Press.
+
+	
+
+30	
+
+Gunderson, E. A., Gripshover, S. J., Romero, C., Dweck, C. S., Goldin-Meadow, S., & Levine,
+S. C. (2013). Parent Praise to 1-3 Year-Olds Predicts Children’s Motivational
+Frameworks 5 Years Later. Child Development, 84, 1526–1541.
+Hagger, M. S., Wood, C., Stiff, C., & Chatzisarantis, N. L. (2010). Ego depletion and the
+strength model of self-control: A meta-analysis. Psychological Bulletin, 136, 495-525.
+Hagger, M. S., & Chatzisarantis, N. L. D. (2013). The sweet taste of success: The presence of
+glucose in the oral cavity moderates the depletion of self-control resources. Personality
+and Social Psychology Bulletin, 39, 28–42.
+Haimovitz, K., & Dweck, C. S. (2016). What predicts children’s fixed and growth intelligence
+mind-sets? Not their parents’ views of intelligence but their parents’ views of failure.
+Psychological Science, 27, 859-869.
+Inzlicht, M., & Schmeichel, B. J. (2012). What is ego depletion? Toward a mechanistic revision
+of the resource model of self-control. Perspectives on Psychological Science, 7, 450–
+463.
+Inzlicht, M., Schmeichel, B. J., & Macrae, C. N. (2014). Why self-control seems (but may not
+be) limited. Trends in Cognitive Sciences, 18, 127–133.
+Inzlicht, M., McKay, L., & Aronson, J. (2006). Stigma as ego depletion: How being the target
+of prejudice affects self-control. Psychological Science, 17, 262–269.
+Job, V., Bernecker, K., Miketta, S., & Friese, M. (2015). Implicit theories about willpower
+predict the activation of a rest goal following self-control exertion. Journal of
+Personality and Social Psychology, 109, 694-706.
+Job, V., Dweck, C. S., & Walton, G. M. (2010). Ego depletion—Is it all in your head? Implicit
+theories about willpower affect self-regulation. Psychological Science, 21, 1686–1693.
+
+	
+
+31	
+
+Job, V., Flückiger, L., Bernecker, K., Lieb, R. & Mata, J. (2017). An implicit theories about
+willpower intervention helps students to deal with demands: Effects on academic selfregulation and grades. Manuscript in preparation.
+Job, V., Walton, G. M., Bernecker, K., & Dweck, C. S. (2013). Beliefs about willpower
+determine the impact of glucose on self-control. Proceedings of the National Academy
+of Sciences, 110, 14837–14842.
+Job, V., Walton, G. M., Bernecker, K., & Dweck, C. S. (2015). Implicit theories about
+willpower predict self-regulation and grades in everyday life. Journal of Personality
+and Social Psychology, 108, 637–647.
+Klinger, E. (1977). Meaning and void: Inner experience and the incentive in people’s lives.
+Minneapolis, MN: University of Minnesota Press.
+Kringelbach, M. L. (2004). Food for thought: Hedonic experience beyond homeostasis in the
+human brain. Neuroscience, 126, 807–819.
+Kurzban, R. (2010). Does the brain consume additional glucose during self-control tasks?
+Evolutionary Psychology, 8, 244–259.
+Larson, R. W., & Verma, S. (1999). How children and adolescents spend time across the world:
+Work, play, and developmental opportunities. Psychological Bulletin, 125, 701-736.
+Lepper, M. R., Woolverton, M., Mumme, D. L., & Gurtner, J. (1993). Motivational techniques
+of expert human tutors: Lessons for the design of computer-based tutors. In S. P. Lajoie
+& S. J. Derry (Eds.), Computers as cognitive tools (pp. 75-105). Hillsdale, NJ: Erlbaum.
+Little, B. (1983). Personal projects: A rationale and method for investigation. Environment and
+Behavior, 15, 273-309.
+Loschelder, D. D., & Friese, M. (in press). Moderators of the ego depletion effect. In E. R. Hirt
+(Ed.), Self-regulation and ego control. San Diego, CA: Elsevier.
+
+	
+
+32	
+
+Maier, G. W., & Brunstein, J. C. (2001). The role of personal work goals in newcomers’ job
+satisfaction and organizational commitment: A longitudinal analysis. Journal of Applied
+Psychology, 86, 1034-1042.
+Masicampo, E. J., Martin, S. R., & Anderson, R. A. (2014). Understanding and Overcoming
+Self-control Depletion. Social and Personality Psychology Compass, 8, 638–649.
+Martijn, C., Tenbült, P., Merckelbach, H., Dreezens, E., & De Vries, N. K. (2002). Getting a
+grip on ourselves: Challenging expectancies about loss of energy after self-control.
+Social Cognition, 20, 441–460.
+Miller, E. M., Walton, G. M., Dweck, C. S., Job, V., Trzesniewski, K. H., & McClure, S. M.
+(2012). Theories of willpower affect sustained learning. PLoS ONE, 7, e38680.
+Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. Science,
+244, 933–938.
+Moffitt, T. E., Arseneault, L., Belsky, D., Dickson, N., Hancox, R. J., & Harrington, H. (2011).
+A gradient of childhood self-control predicts health, wealth, and public safety.
+Proceedings of the National Academy of Sciences, 108, 2693–2698.
+Molden, D. C., Hui, C. M., Scholer, A. A., Meier, B. P., Noreen, E. E., D’Agostino, P. R., &
+Martin, V. (2012). Motivational versus metabolic effects of carbohydrates on selfcontrol. Psychological Science, 23, 1137–1144.
+Moller, A. C., Deci, E. L., & Ryan, R. M. (2006). Choice and ego-depletion: The moderating
+role of autonomy. Personality and Social Psychology Bulletin, 32, 1024-1036.
+Mosher, L. (2005). Praying: The Rituals of Faith (Vol. 2). New York, NY: Seabury Books.
+Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's
+motivation and performance. Journal of Personality and Social Psychology, 75, 33-52.
+
+	
+
+33	
+
+Mukhopadhyay, A., & Johar, G. V. (2005). Where there is a will, is there a way? Effects of lay
+theories of self-control on setting and keeping resolutions. Journal of Consumer
+Research, 31, 779–786.
+Mukhopadhyay, A., & Yeung, C. W. (2010). Building character: Effects of lay theories of selfcontrol on the selection of products for children. Journal of Marketing Research, 47,
+240–250.
+Muraven, M., Shmueli, D., & Burkley, E. (2006). Conserving self-control strength. Journal of
+Personality and Social Psychology, 91, 524–537.
+Muraven, M., & Slessareva, E. (2003). Mechanisms of self-control failure: Motivation and
+limited resources. Personality and Social Psychology Bulletin, 29, 894–906.
+Muraven, M., Tice, D. M., & Baumeister, R. F. (1998). Self-control as limited resource:
+Regulatory depletion patterns. Journal of Personality and Social Psychology, 74, 774–
+789.
+Olson, K. R., & Dweck, C. S. (2008). A blueprint for social cognitive development.
+Perspectives on Psychological Science, 3, 193–202.
+Paunesku, D., Walton, G. M., Romero, C., Smith, E. N., Yeager, D. S., & Dweck, C. S. (2015).
+Mind-set interventions are a scalable treatment for academic underachievement.
+Psychological Science, 26, 784-793.
+Salmon, S. J., Adriaanse, M. A., De Vet, E., Fennis, B. M., & De Ridder, D. T. D. (2014).
+“When the going gets tough, who keeps going?” Depletion sensitivity moderates the
+ego-depletion effect. Frontiers in Psychology, 5, 647.
+Sanders, M. A., Shirk, S. D., Burgin, C. J., & Martin, L. L. (2012). The gargle effect: Rinsing
+the mouth with glucose enhances self-control. Psychological Science, 23, 1470–1472.
+
+	
+
+34	
+
+Savani, K., & Job, V. (2017). Is ego-depletion a cultural phenomenon? Acts of self-control
+improve subsequent performance in cultures in which willpower exertion is believed to
+be energizing. Manuscript in preparation.
+Schmeichel, B. J., Vohs, K. D., & Baumeister, R. F. (2003). Intellectual performance and ego
+depletion: Role of the self in logical reasoning and other information processing.
+Journal of Personality and Social Psychology, 85, 33-64.
+Silvia, P. J., & Gendolla, G. H. E. (2001). On introspection and self- perception: Does selffocused attention enable accurate self-knowledge? Review of General Psychology, 5,
+241–269.
+Simpkins, S. D., Fredricks, J. A., & Eccles, J. S. (2012). Charting the Eccles’ expectancy-value
+model from mothers' beliefs in childhood to youths' activities in adolescence.
+Developmental Psychology, 48, 1019–1032.
+Tangney, J. P., Baumeister, R. F., & Boone, A. L. (2004). High self-control predicts good
+adjustment, less pathology, better grades, and interpersonal success. Journal of
+Personality, 72, 271–324.
+Tice, D., Baumeister, R., Shmueli, D., & Muraven, M. (2007). Restoring the self: Positive
+affect helps improve self-regulation following ego depletion. Journal of Experimental
+Social Psychology, 43, 379–384.
+Valiente, C., Lemery-Chalfant, K., & Reiser, M. (2007). Pathways to problem behaviors:
+chaotic homes, parent and child effortful control, and parenting. Social Development,
+16, 249-267.
+Verma, S., Sharma, D., & Larson, R. W. (2002). School stress in India: Effects on time and
+daily emotions. International Journal of Behavioral Development, 26, 500-508.
+Vohs, K. D., Baumeister, R. F., & Ciarocco, N. J. (2005). Self-regulation and self-presentation:
+Regulatory resource depletion impairs impression management and effortful self-
+
+	
+
+35	
+
+presentation depletes regulatory resources. Journal of Personality and Social
+Psychology, 88, 632–657.
+Vohs, K. D., Baumeister, R. F., & Schmeichel, B. J. (2012). Motivation, personal beliefs, and
+limited resources all contribute to self-control. Journal of Experimental Social
+Psychology, 48, 943–947.
+Vohs, K. D., & Faber, R. J. (2007). Spent resources: Self-regulatory resources availability
+affects impulse buying. Journal of Consumer Research, 33, 537-547.
+Walsh, R., & Shapiro, S. L. (2006). The meeting of meditative disciplines and Western
+psychology: A mutually enriching dialogue. American Psychologist, 61, 227-239.
+Webb, T. L., & Sheeran, P. (2003). Can implementation intentions help to overcome egodepletion? Journal of Experimental Social Psychology, 53, 5–13.
+Wilson, T. D., & Dunn, E. W. (2004). Self-knowledge: Its limits, value, and potential for
+improvement. Annual Review of Psychology, 55, 493–518.
+Yeager, D. S., Romero, C., Paunesku, D. Hulleman, C. S., Schneider, B., Hinojosa, C., Lee, H.
+Y., O’Brien, J., Flint, K., Roberts, A., Trott, J., Greene, D., Walton, G. M., & Dweck, C.
+S. (2016). Using design thinking to improve psychological interventions: The case of
+the growth mindset during the transition to high school. Journal of Educational
+Psychology, 108, 374-391.
+Yeager, D. S, Trzesniewski, K. H., & Dweck, C. S. (2013). An implicit theories of personality
+intervention reduces adolescent aggression in response to victimization and exclusion.
+Child Development, 84, 970–988.
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education:
+They’re not magic. Review of Educational Research, 81, 267–301.
+
+	
+
+36	
+
+Table	1.	Items	to	measure	implicit	theories	about	willpower	for	strenuous	mental	activity	
+(Job	et	al.,	2010)	
+	
+Strenuous	mental	activity	
+1. Strenuous	mental	activity	exhausts	your	resources,	which	you	need	to	refuel	
+afterwards	(e.g.	through	taking	breaks,	doing	nothing,	watching	television,	eating	
+snacks).	
+2. After	a	strenuous	mental	activity,	your	energy	is	depleted	and	you	must	rest	to	
+get	it	refuelled	again.	
+3. When	you	have	been	working	on	a	strenuous	mental	task,	you	feel	energized	and	
+you	are	able	to	immediately	start	with	another	demanding	activity.		
+4. Your	mental	stamina	fuels	itself.	Even	after	strenuous	mental	exertion,	you	can	
+continue	doing	more	of	it.	
+5. When	you	have	completed	a	strenuous	mental	activity,	you	cannot	start	another	
+activity	immediately	with	the	same	concentration	because	you	have	to	recover	
+your	mental	energy	again.	
+6. After	a	strenuous	mental	activity,	you	feel	energized	for	further	challenging	
+activities.	
+
+	
+R	
+R	
+	
+	
+R	
+	
+
+Note.	R	=	reversed	items	
+
+	
+
+37	
+
+Table	2.	Biased	questionnaires	to	manipulate	implicit	theories	about	willpower	(Job	et	al.,	
+2010)		
+	
+Induction	of	limited-resource	theory	
+1. When	you	think	over	a	matter	with	great	concentration,	it	can	be	sometimes	tiring.	
+2. Working	on	a	strenuous	mental	task	can	make	you	feel	tired	much	so	that	you	need	a	break	
+before	accomplishing	a	new	task.	
+3. When	you	have	to	do	many	demanding	activities	for	a	while,	you	eventually	get	exhausted	
+and	less	productive.	
+4. Sometimes,	when	you	completely	focus	your	attention	on	a	demanding	mental	activity,	you	
+feel	tired	and	you	need	a	break	sooner	or	later	since	your	resources	have	to	be	refilled.	
+5. After	you	have	been	working	on	a	strenuous	mental	task	for	several	hours	you	can	get	
+fatigued	so	that	you	need	to	rest	before	taking	on	the	next	challenging	activity.	
+6. Strenuous	mental	activity	sometimes	exhausts	your	resources,	which	you	need	to	refuel	
+afterwards	(e.g.	through	breaks,	doing	nothing,	watching	television,	eating….).	
+7. After	a	strenuous	mental	activity	your	energy	can	be	depleted	and	you	sometimes	must	rest	
+to	get	it	refuelled	again.	
+8. Sometimes,	when	you	have	completed	a	very	exhausting	mental	activity,	you	have	to	recover	
+your	mental	energy	again	before	starting	with	the	same	concentration	on	a	new	difficult	task.	
+Resisting	temptations	
+1. Sometimes,	it	can	be	very	inspiring	to	think	over	a	matter	with	great	concentration.	
+2. When	situations	accumulate	that	challenge	you	with	temptations,	it	gets	more	and	more	
+difficult	to	resist	the	temptations.	
+3. It	can	be	energizing	to	be	completely	focused	on	a	demanding	mental	activity,	so	that	you	are	
+able	to	remain	concentrated	for	a	while.	
+4. Sometimes,	it	is	energizing	to	be	fully	absorbed	with	a	demanding	mental	task.	
+5. It	can	be	energizing	to	be	completely	focused	on	a	demanding	mental	activity,	so	that	you	can	
+remain	concentrated	for	a	long	time.	
+6. Sometimes,	your	mental	stamina	fuels	itself.	After	a	strenuous	mental	exertion	you	can	
+continue	doing	more	of	it.	
+7. It	is	possible	to	be	in	such	a	productive	work	mode	that	you	don’t	need	much	recreation	
+between	different	mentally	strenuous	tasks.	
+8. Working	on	a	strenuous	mental	task	can	activate	your	mental	resources	and	you	become	
+even	better	at	accomplishing	subsequent	demanding	tasks.	
+
+	
+
+	
+
+38	
+
+

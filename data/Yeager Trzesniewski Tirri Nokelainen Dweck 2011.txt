@@ -1,0 +1,1892 @@
+Developmental Psychology
+2011, Vol. 47, No. 4, 1090 –1107
+
+© 2011 American Psychological Association
+0012-1649/11/$12.00 DOI: 10.1037/a0023769
+
+Adolescents’ Implicit Theories Predict Desire for Vengeance After Peer
+Conflicts: Correlational and Experimental Evidence
+David S. Yeager
+
+Kali H. Trzesniewski
+
+Stanford University
+
+University of California, Davis
+
+Kirsi Tirri
+
+Petri Nokelainen
+
+University of Helsinki
+
+University of Tampere
+
+Carol S. Dweck
+Stanford University
+Why do some adolescents respond to interpersonal conflicts vengefully, whereas others seek more positive
+solutions? Three studies investigated the role of implicit theories of personality in predicting violent or
+vengeful responses to peer conflicts among adolescents in Grades 9 and 10. They showed that a greater belief
+that traits are fixed (an entity theory) predicted a stronger desire for revenge after a variety of recalled peer
+conflicts (Study 1) and after a hypothetical conflict that specifically involved bullying (Study 2). Study 3
+experimentally induced a belief in the potential for change (an incremental theory), which resulted in a reduced
+desire to seek revenge. This effect was mediated by changes in bad-person attributions about the perpetrators,
+feelings of shame and hatred, and the belief that vengeful ideation is an effective emotion-regulation strategy.
+Together, the findings illuminate the social– cognitive processes underlying reactions to conflict and suggest
+potential avenues for reducing violent retaliation in adolescents.
+Keywords: implicit theories, aggression, victimization, shame, emotion regulation
+
+Past research has indeed suggested that a belief in fixed traits
+(an entity theory of personality) predicts a greater focus on punishment for a wrongdoer (Chiu, Dweck, Tong, & Fu, 1997; Erdley
+& Dweck, 1993; Gervey, Chiu, Hong, & Dweck, 1999; Loeb &
+Dweck, 1994; cf. Giles, 2003). In contrast, a belief in the potential
+for change (an incremental theory) predicts a greater focus on
+negotiation, education, forgiveness, and rehabilitation among children and adults (Chiu, Dweck, Tong, & Fu, 1997; Gervey et al.,
+1999; Haselhuhn, Schweitzer, & Wood, 2010; Loeb & Dweck,
+1994). Yet, no previous research has shown that adolescents’
+implicit theories about people’s potential for change will predict
+their vengeful responses to interpersonal conflicts. Therefore, in
+the present research, we investigated whether adolescents who
+endorse more of an entity theory would give more vengeful responses to recalled and hypothetical conflicts. To deepen our
+theoretical understanding of these effects, we also explored, for the
+first time, the cognitive and emotional mediators of this process.1
+
+Kenneth Dodge recently argued that when public figures use
+fixed labels (such as super predator or morally defective) to
+describe aggressive youths, it leads people to focus on extreme
+punishment instead of on prevention or rehabilitation (Dodge,
+2008). Would this same analysis apply to adolescents’ own reactions to their conflicts with peers?
+This article was published Online First May 23, 2011.
+David S. Yeager, School of Education and Department of Psychology,
+Stanford University; Kali H. Trzesniewski, Department of Human and Community Development, University of California, Davis; Kirsi Tirri, Department
+of Teacher Education, University of Helsinki, Helsinki, Finland; Petri Nokelainen, School of Education, University of Tampere, Tampere, Finland; Carol
+S. Dweck, Department of Psychology, Stanford University.
+This research was supported in part by a dissertation support grant from the
+Stanford University School of Education, a research training grant from the
+Spencer Foundation, and a grant from the Thrive Foundation for Youth. Some
+of the data were presented at the 2009 annual convention for the Association
+for Psychological Science and the 2009 annual meeting of the American
+Education Research Association. We are grateful to the following people for
+their assistance: Christel Anderson, Patrinia Sandles, Alan Weyland, Allison
+Master, Whitney Worthen, Rebecca Johnson, Yana Galperin, Adriana Miu,
+Joseph Lester, Matthew Williams, Kate Belden, and Jason Singer. We would
+also like to thank S. Shirley Feldman, Ann Porteus, Deborah Stipek, William
+Damon, Melanie Killen, Kristin Pauker, Chris Bryan, and members of the
+Dweck–Walton lab for their helpful suggestions.
+Correspondence concerning this article should be addressed to David S.
+Yeager, 271 Jordan Hall, School of Education and Department of Psychology, Stanford University, Stanford, CA 94305. E-mail: dyeager@
+stanford.edu
+
+Adolescent Responses to Victimization
+Recent incidents of planned violence in American and Finnish
+high schools have turned the public’s eye toward issues of coping
+1
+We use the term conflict in this article as an umbrella term to refer to
+conflicts between acquaintances that involve aggression or victimization or
+that could be the precursors to aggressive retaliation. We do not mean to
+suggest that we are investigating all types of social conflict between
+adolescents or that all conflicts involve aggression or victimization.
+
+1090
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+
+with peer conflicts in general and peer victimization in particular.
+Although such highly violent responses are rare, it is quite common for adolescents to be victims of peer aggression in school
+(Kaufman et al., 1999; Nishina & Juvonen, 2005; Olweus, 1993;
+for reviews, see Berger, 2007; Swearer, Espelage, Vaillancourt, &
+Hymel, 2010) and to subsequently desire revenge (e.g., Juvonen,
+Graham, & Schuster, 2003; Kaltiala-Heino, Rimpelä, Marttunen,
+Rimpelä, & Rantanen, 1999; Olweus, 1993; Reijntjes et al., in
+press; Sourander et al., 2007; Swearer, Song, Cary, Eagle, &
+Mickelson, 2001; Thomaes, Bushman, Stegge, & Olthof, 2008).
+Thus, it is critical that researchers improve the understanding of
+why some adolescents fantasize about revenge after their peer
+conflicts, especially those involving victimization, whereas others
+seek different solutions.
+
+1091
+
+In summary, theory and research suggest that when students
+hold an implicit theory that people’s traits are fixed and not
+changeable, they are more likely to see wrongdoing as stemming
+from permanent negative qualities of the wrongdoers and to see
+their own social failures as resulting from personal deficiencies (cf.
+Giles, 2003). In contrast, when students think of people in terms of
+malleable qualities— ones that can be developed through effort or
+experience—they are more likely to view transgressions as remediable and their own social setbacks as less diagnostic of their
+future. We sought to extend this past theory and research by
+examining the relationship between implicit theories and vengeful
+responses to interpersonal conflicts and by examining the mediators of this relationship.
+
+Limitations of Previous Research
+Implicit Theories Predict Responses to Setbacks
+Previous research on implicit theories has illuminated their
+role in determining how people cope with setbacks in the
+academic domain (Blackwell, Trzesniewski, & Dweck, 2007;
+Hong, Chiu, Dweck, Lin, & Wan, 1999; Robins & Pals, 2002)
+and, more directly relevant here, the social domain (Beer, 2002;
+Erdley, Cain, Loomis, Dumas-Hines, & Dweck, 1997; Loeb &
+Dweck, 1994). Previous research has also investigated how
+children and adults evaluate others who fail or transgress (Chiu,
+Dweck, Tong, & Fu, 1997; Erdley & Dweck, 1993; Gervey et
+al., 1999; Haselhuhn et al., 2010; Levy & Dweck, 1999; Levy,
+Stroessner, & Dweck, 1998; see also Plaks, Stroessner, Dweck,
+& Sherman, 2001).
+For example, Erdley et al. (1997) found that when fifth-grade
+students experienced social rejection, those who held more of an
+entity theory about their personality were more likely to view their
+social rejection as evidence of their inability to make friends,
+making attributions about themselves such as “maybe I’m not a
+likable person.” As a result, those with an entity theory held goals
+that predicted defensive and helpless responses to failure. Similarly, Rudolph (2010) found that peer-victimized children who
+held more of an entity theory reported more depressive symptoms
+than peer-victimized children who held more of an incremental
+theory.
+Implicit theories have also been shown to predict how people
+respond to wrongdoing on the part of others. Specifically,
+research has shown that both children (Erdley & Dweck, 1993;
+Levy & Dweck, 1999) and college students (Chiu, Dweck,
+Tong, & Fu, 1997; Chiu, Hong, & Dweck, 1997; Gervey et al.,
+1999; Levy et al., 1998) who hold an entity theory about others’
+personalities are more judgmental and punitive when they evaluate a wrongdoer. That is, after learning about a transgression,
+they are more likely to indict the target’s moral character (Chiu,
+Dweck, Tong, & Fu, 1997; Chiu, Hong, & Dweck, 1997; Erdley
+& Dweck, 1993; Levy & Dweck, 1999) and to levy harsher
+punishment than are those holding an incremental theory (Chiu,
+Dweck, Tong, & Fu, 1997; Erdley & Dweck, 1993; Loeb &
+Dweck, 1994; Miller, Burgoon, & Hall, 2007). In contrast,
+those with an incremental theory are more likely to suggest
+discussion, negotiation, or education (Chiu, Dweck, Tong, &
+Fu, 1997; Kray & Haselhuhn, 2007; Loeb & Dweck, 1994; see
+also Haselhuhn et al., 2010).
+
+The previous research on implicit theories has several limitations. First, as noted, it has never been shown that adolescents with
+more of an entity theory desire to respond more vengefully after
+peer conflict than those with more of an incremental theory. Erdley
+and Dweck (1993) and other investigators (e.g., Chiu, Dweck,
+Tong, & Fu, 1997; Gervey et al., 1999; Levy & Dweck, 1999) have
+focused on the role of implicit theories in third-party observers’
+judgments of transgressors but not on judgments and reactions
+made by parties involved in the conflict. Additionally, although
+Erdley et al. (1997) focused on implicit theories and responses to
+social rejection, they explored only self-relevant attributions and
+reactions and not judgments of and reactions to the transgressor at
+the same time. In the one published study to document the relationship between implicit theories and the desire for personal
+vengeance (Chiu, Dweck, Tong, & Fu, 1997, Study 4), the transgressor was a college professor, not a peer. Because a norm
+violation by an adult may differ considerably from peer bullying or
+victimization, it remains unclear whether implicit theories would
+be related to high school adolescents’ interpersonal conflicts. We
+therefore tested this possibility more extensively in the present
+research.
+Second, no study has systematically explored mediators of the
+relation between implicit theories and desire for vengeance. To
+fully understand this relationship and, eventually, to design effective interventions, we must know how and why implicit theories
+might lead to a desire for revenge. Thus, in the present research,
+we propose to test the role of attributions and emotions in shaping
+implicit theories’ effects on responses to conflict.
+Third, most previous studies have used correlational methods,
+and no experiment to date has been conducted to show the causal
+role of implicit theories in shaping adolescents’ responses to
+conflict. Thus, it is unclear whether it is possible to change an
+adolescent’s implicit theories of personality and whether doing so
+could reduce the desire for vengeance and increase the desire to
+use more prosocial solutions.
+Fourth, the generalizability across populations and age groups of
+implicit theories’ effects on responses to conflict has not been adequately tested. Many previous studies have been conducted on samples of mostly White, Midwestern grade-school students (e.g., Erdley
+& Dweck, 1993; Erdley et al., 1997; Rudolph, 2010) or on college
+students attending elite universities (e.g., Chiu, Dweck, Tong, & Fu,
+1997; Haselhuhn et al., 2010; Kammrath & Dweck, 2006; Loeb &
+Dweck, 1994). No similar studies have been conducted on samples of
+
+1092
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+adolescents from diverse socioeconomic backgrounds attending high
+schools in the United States or other countries.
+In our research, we included a sample of participants from Finland,
+home of much research on adolescents’ social cognitions after victimization or exclusion (e.g., Ojanen, Grönroos, & Salmivalli, 2005;
+Peets, Hodges, & Salmivalli, 2008; Salmivalli, Ojanen, Haanpää, &
+Peets, 2005; Sourander et al., 2007). Although the results of studies of
+such populations are often presumed to generalize to urban American
+populations, this assumption has almost never been directly tested.
+Finland has one of the highest adolescent suicide rates in the world—
+over twice that found in the United States (Lahti et al., 2006; Statistics
+Finland, 2009). Thus, Finnish adolescents with more of an entity
+theory might have reacted to social challenges with more self-directed
+aggression as opposed to other-directed aggression. Therefore, we
+sought to explicitly test the generalizability of our findings by examining a socioeconomically diverse but racially homogeneous Finnish
+population and also a racially diverse U.S. population.
+Recent developmental research has suggested that high school
+adolescents may be at a critical point in their understanding of others,
+particularly in their understanding about whether others can change.
+Specifically, research has suggested that relative to children or
+younger adolescents, high school students are coming to hold more
+fixed beliefs about aggressive peers (Killen, Crystal, & Watanabe,
+2002), are less likely to try to intervene to change bullies (Trach,
+Hymel, Waterhouse, & Neale, 2010), and are more likely to rely on
+information they have about a peer’s past transgressions when deciding whether the peer is guilty of a subsequent transgression (Killen,
+Kelly, Richardson, & Jampol, 2010).
+In this light, it is interesting to note that the transition to high
+school is also associated with an increased frequency of extreme
+reactions to victimization, in the form of suicide or other-directed
+violence (Brent, Baugher, Bridge, Chen, & Chiappetta, 1999;
+Leary, Kowalski, Smith, & Phillips, 2003; Vossekuil, Fein, Reddy,
+Borum, & Modzeleski, 2002; for a review, see Borum, Cornell,
+Modzeleski, & Jimerson, 2010). Thus, it may be especially important to understand the role of entity beliefs in predicting more
+extreme reactions to victimization among adolescents in this age
+group.
+Overall, then, the present investigation is unique (a) in examining, with diverse groups of high school adolescents, the relationship between implicit theories and the desire for personal vengeance after peer conflicts, (b) in testing the hypothesis that
+implicit theories of personality play a causal role in the desire for
+revenge, and (c) in proposing and testing a mediational model
+explaining this relationship.
+To further explain why adolescents with a greater entity theory
+might be more likely to desire vengeance, we now turn to the
+hypothesized mediators of this effect: thoughts and emotions about
+the transgressors and thoughts and emotions about the self.
+
+Mediators of Implicit Theory Effects on Responses to
+Conflict
+Bad-Person Attributions
+Implicit theories have been found to be associated with adolescents’ attributions about what caused a transgressing peer to act
+that way. Adolescents who endorse more of an entity theory may
+be more likely to interpret a perpetrator’s actions as evidence that
+
+the offender is a bad person. Specifically, because previous research has documented that an entity theory is related to a greater
+use of global character traits when judging others (Chiu, Hong, &
+Dweck, 1997; Erdley & Dweck, 1993; Plaks et al., 2001) and to a
+greater endorsement of punishment, as opposed to education or
+rehabilitation, for a transgressor (Chiu, Dweck, Tong, & Fu, 1997;
+Erdley & Dweck, 1993; Gervey et al., 1999; Loeb & Dweck,
+1994), we predicted that adolescents with more of an entity theory
+would be more inclined to conclude that the offender was characterologically a bad person, to hate the offender, and, because of
+this, to desire revenge.
+Note that the fixed-trait or bad-person attributions investigated
+in the present study differ from the attributions of hostile intent
+that are often investigated in studies of adolescents’ social cognitions after conflict (e.g., Crick & Dodge, 1994; Dodge, Coie, &
+Lynam, 2006; Killen et al., 2010; McGlothlin & Killen, 2006,
+2010; Peets, Hodges, Kikas, & Salmivalli, 2007; Peets et al.,
+2008). Studies of hostile intent have mostly investigated children’s
+and adolescents’ attributions of intent after an ambiguous event,
+whereas our research is concerned with victims’ attributions about
+the kind of person a perpetrator is, regardless of the ambiguity of
+that event. Indeed, much of the present research focuses on incidents in which the intent is clearly negative, as is the case with
+many incidents of bullying (Olweus, 1993).
+
+Bad Feelings About the Self
+In addition to thinking about the transgressors as bad people,
+adolescents holding more of an entity theory may also experience
+more negative feelings about themselves after conflicts, and these
+feelings may also contribute to more vengeful responses. That is,
+for those who hold an entity theory, even a minor incident—like
+being ignored or teased— can be loaded with emotional significance. In an entity framework, such conflicts are not small events
+that will soon pass; they are diagnostic, lasting symptoms of one’s
+own permanent failings as a person: Does it mean I’m not likable?
+That I’m a loser? Under these circumstances, peer conflicts—
+especially those involving victimization or rejection— can be
+highly charged events, resulting in strong negative emotions. Indeed, previous studies have shown that those who hold more of an
+entity theory blame uncontrollable and stable characteristics about
+themselves after social conflicts (Erdley et al., 1997) and that
+people who engage in these kinds of attributions report more
+negative feelings about themselves after victimization (Graham,
+Bellmore, & Mize, 2006; Graham & Juvonen, 1998; see also
+Janoff-Bulman, 1979).
+Shame, rather than another negative emotion, such as sadness, is
+particularly likely to be felt by those with more of an entity theory
+because of the focus on fixed traits as an explanation for social
+failures. Shame occurs after blaming a negative event on one’s
+self, as opposed to one’s behavior (Tangney, Miller, Flicker, &
+Barlow, 1996; Tangney, Stuewig, & Mashek, 2007), and “shame is
+considered the more painful emotion because one’s core self—not
+simply one’s behavior—is at stake” (Tangney et al., 2007, p. 346).
+Why might these negative attributions and feelings about the
+self lead to aggressive responses to conflicts? Leading theories of
+aggression contend that negative feelings resulting from peer conflict are especially likely to result in retaliation when they are
+accompanied by the belief that one is unlikely to be reincluded
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+
+(Williams, 2009). For example, in one experiment, college students who were given feedback that their traits would lead them to
+live their lives alone—somewhat analogous to being in an entity
+framework— behaved more aggressively in what they believed
+was a peer interaction after being made to feel bad through social
+rejection (Twenge, Baumeister, Tice, & Stucke, 2001). Using other
+methodologies, researchers have found convergent results among
+adolescents (Reijntjes et al., in press). Therefore, we propose that
+adolescents who hold more of an entity theory feel more ashamed
+by victimization and, rather than seeking to improve their relationships with a transgressor, are more likely to desire revenge.
+
+The Present Investigation
+In Studies 1 and 2, we measured adolescents’ beliefs about
+whether specific types of people, such as bullies, victims, winners,
+or losers, can change. In Study 1, we tested whether an entity
+theory was correlated with a greater desire for vengeance after a
+recalled conflict. In addition, we began to test two mechanisms
+underlying the key effect: the attribution that the perpetrator was a
+bad person and negative feelings about the self. We administered
+identical measures to a countrywide sample from Finland and to a
+diverse group of students from low-income families attending an
+urban public high school in Oakland, California. We explicitly
+tested whether the effects found were the same for participants
+who differed in racial/ethnic group, culture, and socioeconomic
+status. Thus, Study 1’s samples provided a strict test of generalizability.
+In Study 2, we sought to test our hypothesis using a hypothetical
+scenario involving bullying. Study 1’s procedure was designed to
+elicit a broad array of recalled conflicts with acquaintances. Yet,
+not all conflicts involve aggression or victimization. Therefore, in
+Study 2, we narrowed our focus to a conflict that included peer
+victimization.
+In Study 3, we used an experiment to test whether implicit
+theories could be changed and whether promoting an incremental
+theory might reduce vengeful responses to victimization and promote more positive ones. In this experiment, participants were
+randomly assigned to read either an article supporting an incremental theory or a control article. In addition to testing whether the
+incremental theory reduced the desire for vengeance, we also
+tested whether an expanded set of potential mediating mechanisms
+that measured more precise emotions and beliefs might more fully
+explain the predicted reduction in the desire for vengeance.
+
+Study 1
+Methods
+Participants.
+Finnish subsample. This subsample consisted of 219 Finnish
+adolescents in Grades 9 and 10, ranging in age from 14 to 16 years.
+Of the participants, 47% were girls, 95% described themselves as
+White, and 94% reported that their parents spoke Finnish at home.
+Participants were from a variety of socioeconomic backgrounds;
+22% reported that their mothers held a graduate degree, 10% a
+college degree, 36% some college education, and the rest (44%) a
+high school degree or less. Some (n ⫽ 16) did not provide data on
+
+1093
+
+at least one major measure, so their responses were multiply
+imputed.
+U.S. subsample. The U.S. subsample was a diverse group of
+138 students in Grade 9 (56%) and Grade 10 (44%), who ranged
+in age from 14 to 16 years. Among participants, 21% were Black/
+African American, 36% were Asian or Asian American, 35% were
+Hispanic/Latino, 4% were White, and 4% indicated another race/
+ethnicity; 42% were boys, and 58% were girls. Nearly all received
+free or reduced price lunch, and only 10% reported mothers who
+had a college degree or higher. Some participants (n ⫽ 16) did not
+provide data on at least one dependent measure, and so their
+responses were imputed as described earlier.
+Procedure.
+Finnish subsample. Six schools in Finland, sampled from
+various regions across the country, were invited to participate in
+this study, and all agreed. Three were rural schools, and three were
+urban or suburban schools. All schools were from different parts of
+the country with varying levels of socioeconomic status. After
+consent and assent were obtained, surveys were administered
+during school hours to a subset of classrooms in each school. In
+this and in subsequent studies, students were assured of the confidentiality of their responses and were told that raw data would
+never be shared with anyone at the school. Measures were provided in Finnish. They were translated from an English version by
+a research professor who was a native Finnish speaker and were
+back-translated into English to check the quality of the translation.
+Response rates varied by classroom within each school, but all
+were above 70%. After the surveys were completed, students
+were thanked for their time but were not yet told the specific
+hypotheses of the study because they were later invited to
+participate in Study 3.
+U.S. subsample. All of the students in Grades 9 and 10 at a
+low-income, urban public charter school in Oakland were invited
+to participate, and consent and assent were obtained from 78%.
+The survey was administered during school hours and took about
+30 min to complete. The instructions and debriefing scripts read by
+the teachers to the participants were identical to those read to the
+Finnish subsample. After completing the survey, participants were
+thanked and debriefed.
+Measures.
+Implicit theories. Six items measuring an entity theory about
+bullies, victims, winners, and losers were written specifically for
+this study. These were as follows: “Bullies and victims are types of
+people that really can’t be changed.” “Everyone is either a winner
+or a loser in life.” “You can’t change people who are jerks in
+school.” “Bullies can try acting nice, but deep down they’re just
+bullies.” “There are two types of people: Bullies and their victims.” Participants were asked to indicate their agreement or disagreement on a 6-point scale (1 ⫽ strongly disagree, 6 ⫽ strongly
+agree). In an exploratory factor analysis of these items in which we
+used maximum likelihood estimation, the first unrotated factor
+accounted for 84% of the variance, and all six items loaded on this
+factor at .59 or above. We tested for measurement invariance
+across subsamples by conducting a multigroup confirmatory factor
+analysis and constraining the factor loadings from the manifest
+indicators of the latent implicit theories variable to be equal in the
+two samples. We found that this did not significantly reduce model
+fit, ⌬␹2(5) ⫽ 7.17, ns, suggesting that the underlying construct is
+the same across subsamples. Having concluded that the six items
+
+1094
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+measured a single construct in both subsamples, these items were
+averaged and combined into a single scale, with higher values
+corresponding to more of an entity theory (␣ ⫽ .82).2 In a study
+conducted with an ethnically diverse sample in the United States,
+we found that responses to the implicit theories measure were
+relatively stable over a 2-month period (from Time 1 to Time 2,
+r ⫽ .51, N ⫽ 194, p ⬍ .05).
+Desire for vengeance. To measure the desire for vengeance
+after an actual, recalled conflict, we asked participants to “tell us
+about a time that an acquaintance upset you in the past month or
+so” either in school or outside of school. We then asked participants to rate how much they “felt like doing” each of seven options
+on a 5-point scale (1 ⫽ not at all, 5 ⫽ a great deal). The items
+were as follows: “hurting this person,” “never forgiving them,”
+“trying to get back at them in any way I could,” “finding a way to
+punish this person,” “dreaming about a way to give them what they
+deserve,” “wishing that somebody would hurt them,” and “imagining them getting hurt.” Participants also rated several positively
+worded filler items. To test whether the seven vengeful items were
+measuring a single construct, we used maximum likelihood estimation to conduct an exploratory factor analysis and found that the
+seven items had loadings of .66 or above on a single unrotated
+factor that accounted for 91% of the variance. We used the method
+described earlier to test whether the construct of desire for vengeance was invariant across the subsamples, and we found that it
+was, ⌬␹2(6) ⫽ 7.95, ns. The final measure was an unweighted
+average of the seven vengeful items, with higher values corresponding to a greater desire for vengeance (␣ ⫽ .92).
+We also coded the types of incidents respondents recalled. Two
+independent coders, who were unaware of participants’ other responses, coded participants’ descriptions of the conflicts into categories, on the basis of a list of common peer conflicts described
+by Olweus (1993). The most frequently named categories were
+verbal aggression and insults (22.7%), spreading rumors/lies
+(19.8%), and shunning/ignoring (16.1%). About one fourth of
+participants wrote about more minor conflicts that were not clearly
+victimization (24.9%; e.g., “He looked at me wrong”; Cohen’s ␬ ⬎
+.85). Participants were also asked how long ago the incident
+occurred (open-ended, coded in days since the incident happened).
+After answering these relatively negative questions, participants
+were given an extensive set of positively worded filler questions
+about laughing with friends, eating ice cream, and having goals in
+life.
+We conducted numerous pilot studies with high school students
+in Finland and in the United States to test the reliability and
+validity of our measure of the desire for vengeance. In one study
+conducted with students in Grades 9 and 10, the desire for vengeance after a recalled incident was significantly correlated with
+the same desire for vengeance after a hypothetical bullying scenario, r ⫽ .57, N ⫽ 283, p ⬍ .05 (this scenario is described in
+Study 2). Next, in two different diverse urban samples of U.S.
+students in Grades 9 and 10, the desire for vengeance after the
+recalled incident was significantly correlated with a measure of
+anger rumination (Peled & Moretti, 2007), r ⫽ .33, N ⫽ 127, and
+r ⫽ .56, N ⫽ 57.
+We next examined what types of aggressive behavior were
+associated with the desire for vengeance. Because we conceptualized the desire for vengeance as including both an immediate
+response of angry retaliation and a more delayed, planned, and
+
+deliberate processes of rehearsing or enacting vengeful fantasies to
+recover one’s status or restore justice, we predicted that this desire
+would be associated with both reactive and proactive aggression.
+Therefore, it is not surprising that in an additional U.S. pilot
+sample, the desire for vengeance was equally correlated with both
+self-reported reactive aggression (e.g., “gotten angry when others
+threaten you”) and proactive aggression (“threaten or bully others”; Raine et al., 2006), rs ⫽ .50, .51, N ⫽ 33, ps ⬍ .05,
+respectively.3 Thus, our measure of the desire for vengeance seems
+to capture both the desire to retaliate reactively following a provocation and a willingness to proactively plan and calculate an
+aggressive act.
+Bad-person attributions. To test whether the effect of an
+entity theory on the desire for vengeance toward an acquaintance
+was mediated, at least in part, by its effect on bad-person attributions (a global negative belief about the moral character of the
+acquaintance; Weiner, 1986, 1995), we asked participants to answer “What do you think about this acquaintance?” on a fully
+labeled 7-point scale (1 ⫽ an extremely good person, 4 ⫽ really
+can’t say if they are good or bad, 7 ⫽ an extremely bad person).
+Bad feelings about the self. To test whether the effect of an
+entity theory on the desire for vengeance was also mediated by its
+effect on bad feelings about the self, we asked participants, “How
+badly did you feel about yourself after this incident?” (1 ⫽ not at
+all bad, 5 ⫽ extremely bad). In a pilot study, we found that this
+item was significantly correlated with shame following a recalled
+conflict with an acquaintance, r ⫽ .56, N ⫽ 164, p ⬍ .05.
+Descriptive statistics, correlations, and reliabilities for these survey
+measures are reported in Table 1.
+Participant characteristics. As noted, participants were asked
+to indicate the highest level of education their mothers had received (1 ⫽ less than high school, 2 ⫽ high school degree, 3 ⫽
+some college, 4 ⫽ college degree, 5 ⫽ graduate degree [master’s,
+doctor, lawyer, or PhD]) and what grades they usually made in
+school (0 ⫽ D average or below, .3366 ⫽ C average, .6633 ⫽ B
+average, 1 ⫽ A average).
+We explored the possibility that more frequently victimized
+adolescents would be more likely to believe that people cannot
+change and would also be more likely to recall conflicts about
+which they harbored vengeful thoughts. To control for the potential influence of victimization on both an entity theory and the
+desire for vengeance, participants were also asked to indicate how
+often they were victims of 12 forms of peer aggression, such as
+“called mean or hurtful names,” “the subject of false rumors or
+lies,” “had mean things sent by e-mail from lots of people,” and
+2
+Note that in some previous research (Dweck, Chiu, & Hong, 1995)
+implicit theories were analyzed dichotomously. However, some more
+recent guidelines (MacCallum, Zhang, Preacher, & Rucker, 2002) suggest
+that such measured variables are best analyzed continuously. Therefore, we
+analyzed implicit theories continuously whenever they were measured.
+3
+As in some previous investigations (Raine et al., 2006), we also
+examined whether desire for vengeance was more strongly related to one
+or the other type of aggression, controlling for the alternative type in a
+regression. In these regressions, we found that the coefficient predicting the
+effect of desire for vengeance on proactive aggression was not significantly
+different from the coefficient predicting reactive aggression, F(1, 29) ⫽
+0.09, ns, suggesting that desire for vengeance was equally predictive of
+both forms of aggression.
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+
+“were hit, slapped, or pushed.” The 12 kinds of victimization were
+adapted from an existing measure of bullying (Olweus, 1993), and
+the word bullying was not used. Participants rated how often they
+experienced each category (1 ⫽ never, 5 ⫽ all the time), and these
+ratings were combined into a single scale (␣ ⫽ .91) by taking their
+unweighted average, with higher values corresponding to more
+victimization.
+
+Results and Discussion
+Analysis plan.
+To test our primary hypothesis about the
+effects of the implicit theories on the desire for vengeance, we built
+a latent variable structural model, using Amos 17 (Arbuckle,
+2006).4 We next expanded this model to test for the effects of our
+potential mediators. We then used multigroup analyses to test
+whether the mediation model was the same across different groups
+of participants (i.e., subsample, sex, and victimization). We did
+this by constraining the paths of interest to be equal across groups
+and then tested whether these constraints significantly reduced
+model fit by examining the changes in the chi-square fit statistic.
+To assess the impact of each individual mediator, we used the
+multiple mediation macro from Preacher and Hayes (2008). Note
+that a cutoff of p ⬍ .05 was used to determine the significance for
+all statistics throughout the studies.
+Does an entity theory predict a greater desire for vengeance? In a latent variable model combining both subsamples,
+Finnish and American adolescents holding more of an entity
+theory desired more vengeance after their recalled peer conflicts,
+as predicted, ␤ ⫽ .43, (unstandardized B ⫽ .51; 95% CI [.36, .66],
+p ⬍ .05; also see Table 1 for a comparable zero-order correlation).
+This model provided adequate fit to the data, ␹2(60) ⫽ 129.208,
+p ⬍ .05, ␹2/df ⫽ 2.153, comparative fit index [CFI] ⫽ .968,
+root-mean-square error of approximation [RMSEA] ⫽ .057. Controlling for time since the incident (both linear and logtransformed), levels of victimization, or the type of conflict did not
+influence the relationship between implicit theories and the desire
+for vengeance. Thus, we found support for our primary hypothesis
+that holding more of an entity theory would be related to a greater
+desire for vengeance after a variety of interpersonal conflicts.
+Why do adolescents with more of an entity theory have a
+desire for vengeance? As predicted, in the combined sample of
+Finnish and American youths, an entity theory was significantly
+related to bad-person attributions and bad feelings about the self
+after the recalled peer conflict, ␤ ⫽ .17 and ␤ ⫽ .20, respectively
+Table 1
+Descriptive Statistics and Correlations for Study 1 Measures
+Measure
+
+M
+
+SD
+
+1. Entity theory (bullies and
+victims)
+2. Desire for vengeance
+3. Bad-person attributions
+4. Bad feelings about the self
+
+3.21
+2.87
+3.92
+2.60
+
+1.06
+0.94
+1.83
+1.36
+
+␣ Range
+.82
+.92
+—
+—
+
+1–6
+1–7
+1–7
+1–5
+
+1
+
+2
+
+3
+
+4
+
+—
+.38ⴱ —
+.19ⴱ .49ⴱ —
+.18ⴱ .34ⴱ .26ⴱ —
+
+Note. ␣ ⫽ internal consistency reliability. Rating scale for Measure 1:
+1 ⫽ strongly disagree, 6 ⫽ strongly agree; Measure 2: 1 ⫽ not at all, 7 ⫽
+an extreme amount; Measure 3: 1 ⫽ an extremely good person, 7 ⫽ an
+extremely bad person; Measure 4: 1 ⫽ not at all bad, 5 ⫽ extremely bad.
+ⴱ
+p ⬍ .05.
+
+1095
+
+(see also column 1 of Table 1), and these variables were significantly related to the desire for vengeance, ␤ ⫽ .40 and ␤ ⫽ .17,
+respectively, (see also column 2 of Table 1). To formally test for
+mediation by these variables, we built the multiple-group (Finland
+vs. United States) latent variable structural model presented in
+Figure 1, ␹2(170) ⫽ 233.146, p ⬍ .05, ␹2/df ⫽ 1.37, CFI ⫽ .973,
+RMSEA ⫽ .032.
+Tests of generalizability of effects of implicit theories. First,
+we tested the generalizability of the effects of implicit theories
+across subsamples. To do so, we compared our final model, which
+constrained each of the paths between focal variables in Figure 1
+to be equal across subsamples, to a model in which none of these
+five paths were constrained across subsamples, ␹2(165) ⫽
+231.369, p ⬍ .05, ␹2/df ⫽ 1.40, CFI ⫽ .973, RMSEA ⫽ .034. Our
+final model did not have a significantly lower model fit than the
+unconstrained model, ⌬␹2(5) ⫽ 1.78, ns, suggesting that the
+strength of associations between implicit theories, bad person
+attributions, bad feelings about the self, and the desire for vengeance were not different in Finnish versus U.S. adolescents. The
+same null findings emerged from tests for moderation by sex in a
+multigroup analysis, ⌬␹2(5) ⫽ 1.90, ns, and by victimization status
+(dichotomized at the median, 1.5), ⌬␹2(5) ⫽ 4.2, ns5
+Tests of mediation. In our final model, the association of an
+entity theory with the desire for vengeance was reduced from ␤ ⫽
+.43 (in a model with no mediators) to ␤ ⫽ .32 (B ⫽ .21; 95% CI
+[.13, .29], p ⬍ .05) when these two mediators were entered into the
+model (Figure 1). This was a significant reduction in effect size
+(indirect effect B ⫽ .08; 95% CI [.03, .15], p ⬍ .05, ␤ ⫽ .11). Of
+interest, the main effect of an entity theory on the desire for
+vengeance was still significant when controlling for these mediators, suggesting that there was additional variance in this relationship that was not yet accounted for.
+We next tested whether the significant reduction in effect size
+was due to one or both of the possible mediators, using Preacher
+and Hayes’s (2008) macro. We found that both were significant
+mediators. The reduction in the effect of an entity theory on the
+desire for vengeance due to bad-person attributions was significant
+(B ⫽ .05; 95% CI [.01, .11], p ⬍ .05, ␤ ⫽ .07). The reduction in
+effect size due to bad feelings about the self was also significant
+(B ⫽ .03; 95% CI [.01, .07], p ⬍ .05, ␤ ⫽ .04). Thus, an entity
+theory exerted indirect effects on the desire for vengeance partially
+through both bad-person attributions and bad feelings about the
+self.
+We also explored the alternative hypothesis that these findings
+were obtained because those with an entity theory had less of the
+cognitive ability required to make the perhaps more complex
+situational attributions about transgressors, as opposed to trait or
+4
+All of the findings reported with latent variable structural models were
+replicated with least squares regressions, and these results are available on
+request from the first author.
+5
+In this study and in Study 2, the null findings regarding moderation by
+participant characteristics were replicated when conducting regressions
+that tested the significance of Participant Characteristic ⫻ Implicit Theories interaction effects on the dependent measures or mediators, controlling
+for main effects of these variables. In additional regression analyses, we
+also found similar null findings regarding moderation by victimization
+when victimization was treated as a continuous variable as opposed to a
+dichotomous variable.
+
+1096
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+Figure 1. Multiple partial mediation model in Study 1: Entity theory exerts indirect effects on the desire for
+vengeance through bad-person attributions and bad feelings about the self. Numbers are standardized coefficients. Circles represent latent variables, and squares represent manifest variables. For indirect effect of entity
+theory on vengeance, ␤ ⫽ .11, p ⬍ .05. All coefficients shown were significant, p ⬍ .05. For this multigroup
+model (United States vs. Finland), parameters for the paths depicted were constrained across groups.
+
+bad-person attributions. We did this by controlling for two different proxies for cognitive ability: grade point average and mother’s
+education level. In past research, these proxies have consistently
+predicted IQ (e.g., Bee et al., 1982; Sirin, 2005; Walker, Greenwood, Hart, & Carta, 1994). Neither of these controls reduced the
+effect of the entity theory on the desire for vengeance or either of
+the mediators, consistent with the idea that implicit theories of
+personality are not a by-product of cognitive ability or exposure to
+more sophisticated thinking.
+Summary. Overall, Study 1 found support for our hypothesis
+that an entity theory would significantly predict the desire for
+vengeance after a recalled incident of peer conflict. Adolescents
+who endorsed the idea that people cannot change held more
+festering resentment, in that they wished that extreme harm and
+punishment would befall the peers who had transgressed against
+them. Study 1 also began to build a theoretical account that is
+consistent with previous work that has focused on the role of
+attributions and negative feelings in response to social challenges
+(Chiu, Hong, & Dweck, 1997; Erdley & Dweck, 1993; Graham &
+Juvonen, 1998; Thomaes et al., 2008). This study extended previous work by showing that an entity theory was associated with
+both self-relevant feelings and other-relevant social cognitions.
+Previous research on attributions has posited that people tend to
+make either internal or external attributions after an event (Weiner,
+1995). Yet, our research suggests that both internal and external
+trait attributions may result from the same overall entity theory
+(see also Erdley & Dweck, 1993; Erdley et al., 1997).
+Study 1 also showed that the processes relating an entity
+theory to the desire for vengeance were replicated when the
+participants were a sample of students in Finland and when they
+were a diverse group of students attending an urban public high
+school in the United States. An explicit test of the differences in
+effect sizes between the two samples did not support a cultural
+
+difference hypothesis. Thus, the present study not only demonstrated that the same social– cognitive process occurred in two
+highly different samples— one in Finland and one in the United
+States— but also showed that the magnitudes of these associations were not different.
+
+Study 2
+Although Study 1 provided convergent results across subsamples, these results were limited by the lack of control over the
+incidents that participants reacted to, because each adolescent
+wrote about a different personal incident. For this reason, we could
+not rule out the possibility that Study 1’s results were obtained
+because those with more of an entity theory actually experienced
+or recalled more serious events— even though our coding of these
+events did not detect such differences. Therefore, in Study 2 we
+tested whether an entity theory predicted the desire for vengeance
+after an experimenter-controlled hypothetical incident of direct
+victimization. In addition, because this study’s sample was racially
+and ethnically diverse, we were able to test whether the relationship between an entity theory and the desire for vengeance varied
+across racial/ethnic groups.
+
+Methods
+Participants. Participants were a diverse group of students in
+Grades 9 and 10 (N ⫽ 314) attending a public high school in San
+Jose, California. Of the participants, 57% were Hispanic/Latino,
+10% were Asian/Asian American, 9% were Black/African American, 17% were White, non-Hispanic, and 7% indicated another
+race/ethnicity; 55% were boys and 45% were girls. Nearly all
+participants received free or reduced-price lunch. Among parents,
+4% had a graduate degree, 18% had a college degree, 26% had
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+
+some college education (but no degree), and the rest had a high
+school degree or less. Some students (n ⫽ 17) did not complete at
+least one of the measures on the survey; therefore, their responses
+were multiply-imputed as described earlier.
+Procedure. All of the students in Grades 9 and 10 in six
+classes were invited to participate in this study, and 75% provided
+parental consent and assented. Participants completed the survey
+during school hours. After completing the study, students were
+thanked for their time and debriefed.
+Measures. Implicit theories measures identical to those used
+in Study 1 were administered (M ⫽ 2.76, SD ⫽ 1.06, ␣ ⫽ .83).
+The survey also included a measure of current victimization (␣ ⫽
+.89) and of the desire for vengeance after a hypothetical bullying
+scenario.
+Participants read a hypothetical incident of bullying. Then, to
+elicit a more authentic emotional response to the scenario, they
+wrote an essay describing how they would feel and what they
+would feel like doing if they experienced this incident. The stimulus scenario was as follows:
+One day you found out that two acquaintances from your grade saw
+you make a fool out of yourself at school. At first you tried to ignore
+them, but over the next few weeks they called you a “loser” every time
+they saw you. Now they make fun of what you’re wearing and they
+spread rumors about you to your friends. It keeps happening every
+single day. EVERY day. Finally, now they’re threatening to make fun
+of you on MySpace and Facebook.
+
+After reading the scenario and writing a brief essay in response
+to the prompt “If the story had actually happened to you, how
+would you feel?” participants were asked “How much would you
+feel like doing each of these things to the people who did those
+things to you?” Participants then responded to the same seven
+items measuring the desire for vengeance used in Study 1 (M ⫽
+2.93, SD ⫽ 1.91, range: 1–7; ␣ ⫽ .94). Last, they answered some
+positively worded filler items and were asked to write a short essay
+describing “what makes you really happy in life.”
+
+Results and Discussion
+An entity theory was significantly related to a greater desire for
+vengeance after the hypothetical bullying scenario in a latent
+variable structural model, ␤ ⫽ .33 (B ⫽ .53; 95% CI [.31, .75], p ⬍
+.05), and the model provided adequate fit to the data, ␹2(44) ⫽
+98.425, p ⬍ .05, ␹2/df ⫽ 2.237, CFI ⫽ .977, RMSEA ⫽ .062.
+Next, in separate multigroup analyses, this association was not
+significantly moderated by victimization status (dichotomized at
+the median, 1.67), ⌬␹2(1) ⫽ 0.01, ns, or by participant sex,
+⌬␹2(1) ⫽ 0.90, ns. To test for differences in this relationship
+across racial/ethnic groups, we built a structural model with five
+groups (Black, Latino, Asian, White/non-Hispanic, and other race/
+ethnicity). We then constrained the path from an entity theory to
+the desire for vengeance to be equal across all five groups, and this
+did not reduce model fit, ⌬␹2(4) ⫽ 2.7, ns, suggesting no moderation by race/ethnicity. We also tested whether each group individually differed from the White/non-Hispanic group, and none of
+these constraints significantly reduced model fit, all ⌬␹2s(1) ⬍ 2,
+ns. Thus, an entity theory was related to more vengeful desires
+even when participants responded to an identical scenario of direct
+
+1097
+
+victimization, and this was not moderated by sex, previous victimization, or race/ethnicity.
+
+Study 3
+Studies 1 and 2 documented that implicit theories have meaningful associations with a desire for vengeance after both peer
+conflicts in general and victimization in particular, and they began
+to map out the mediational pathways explaining this relationship.
+However, those studies were limited in several ways.
+First, they did not test whether changing implicit theories would
+have the effect of reducing the desire for vengeance. Indeed, no
+previous study has done so. Such an experiment is especially
+important for translating the present research into an intervention
+in the future. Therefore, in the present study, we tested whether
+experimentally manipulating implicit theories would reduce the
+desire for vengeance.
+In Study 1, the particular negative emotions felt after victimization were not specified; thus, it is unclear exactly which emotions
+led to the effects we observed. Therefore, in the present study, we
+sought to better specify the emotional mediators. To do so, we
+measured hatred for the perpetrator and feelings of shame and
+sadness about the self. Because leading accounts of shame suggest
+that it arises from threats to one’s core self, whereas sadness is not
+considered a self-conscious emotion (Tangney et al., 2007), we
+expected that shame, and not sadness, would mediate the link
+between implicit theories and vengeance.
+In Study 1 we found that bad-person attributions and bad feelings about the self only partially mediated the effect of an implicit
+theory. Thus, we sought to extend our theoretical explanation of
+why negative emotions might lead to vengeance by exploring a
+new potential mediator. Some have suggested that people aggress
+in part because they are motivated to regulate the negative emotions that they have (Baumeister, Smart, & Boden, 1996; Bushman, Baumeister, & Phillips, 2001; Thomaes et al., 2008).
+Baumeister et al. (1996) argued that “aggression can be regarded
+as a crude technique of affect regulation . . . to avoid certain
+negative emotional states such as shame, dejection, sadness and
+disappointment with oneself (pp. 10 –11),” and numerous investigations have pointed to the importance of anticipated positive
+emotional states in motivating aggression (for a review, see
+Baumeister, Vohs, DeWall, & Zhang, 2007). In this view, the
+belief that one will feel better is a motivational antecedent to
+the desire to aggress and is a distinct construct. We therefore
+conducted a preliminary investigation of this issue. We assessed
+adolescents’ beliefs about whether imagining vengeance is a good
+way to regulate negative emotions, and we determined whether
+this would help further explain the relation between an entity
+theory and the desire for vengeance.
+Finally, we included more positive and prosocial reactions to the
+conflicts and added more positive attributions to the attributional
+measures. This allowed us to investigate whether learning an
+incremental theory would lead participants to seek to educate
+transgressors, as proposed by previous research with college students (Chiu, Dweck, Tong, & Fu, 1997; Rattan & Dweck, 2010).
+We also examined whether an incremental theory might reduce
+trait attributions and increase alternative attributions, such as the
+importance of the situation or a transgressor’s immaturity as
+causes of bullying (cf. Chiu, Hong, & Dweck, 1997).
+
+1098
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+Methods
+Participants. Participants were a subset of the Finnish students in Grades 9 and 10 from Study 1. Two hundred and two
+students took the online experiment in their school’s computer lab.
+Nearly all of the participants were White, and they ranged in age
+from 14 to 16. There were nearly equal numbers of boys (52%) and
+girls (48%). Some participants (n ⫽ 15) did not complete the
+dependent measure of desire for vengeance. Therefore, they were
+excluded from the study. For those who completed the vengeance
+measure but did not provide responses to other questions, missing
+values were multiply imputed, yielding a final sample of N ⫽ 187
+for all analyses.
+Procedure. The six schools from various regions in Finland
+that provided the participants for the Study 1 sample were invited
+to administer this experiment to the Study 1 participants through
+the Internet. This allowed us to test whether the results of the
+experiment were moderated by Study 1’s baseline measures.
+All of the schools and 92% of the students agreed to participate.
+Consent was obtained during Study 1, and assent was again obtained for Study 3. On average, 20.3 days elapsed between participation in Studies 1 and 3 (range ⫽ 7 to 37). Participants were not
+told that the Study 1 and Study 3 surveys would be related, nor
+were they given information that would reveal any experimental
+hypotheses after Study 1.
+The survey administration software randomly assigned participants to either a control article group or to an incremental article
+group. As a part of an online “reading comprehension task,”
+participants in the incremental group read an article, purportedly
+from Psychology Today, concluding that people can change who
+they are. The style of the article was modeled after teen self-help
+articles that are popular in magazines aimed at adolescents. In the
+incremental article, a protagonist (whose sex was matched to the
+participant’s sex) was bullied in school in a manner similar to
+the scenario used in Study 2: The protagonist did something
+embarrassing, and then some peers created a mean nickname that
+they circulated to many people and threatened to post on the
+Internet. Next, the protagonist received advice from a peer, a
+soccer coach, and a school counselor. Each provided the protagonist with the message that people (both the protagonist and the
+bullies) could change the kind of person they were, for example,
+“People’s characteristics are changeable and can be influenced
+over time.” Only beliefs about change were discussed in the
+article. The incremental article did not endorse one course of
+action or another (i.e., vengeance vs. forgiveness), and participants
+were never told what specific attribution to make to explain their
+victimization or what emotion they should or should not feel.
+Participants in the control group were given an article with an
+identical story about the protagonist being victimized but without
+any mention of whether people can change. We did not assign
+control participants to read an entity article because of ethical
+considerations. To equate the experience as much as possible
+across the groups and to support the cover story of a reading
+comprehension task, all participants wrote detailed essays summarizing their respective articles (“Please summarize the article in
+your own words in 3–5 sentences. What happened? What was the
+main idea?”) and communicating the thoughts and feelings they
+had about the peer victimization scenario (“Imagine that all the
+events in the article actually happened to you. How would you
+
+feel?”) before completing any of the dependent measures. Finally,
+participants completed the dependent measures and manipulation
+checks. At the end of the study, participants answered another
+series of positively valenced filler items to counteract the relatively
+negative nature of the dependent measures. They were debriefed
+and thanked for their participation, and then they returned to class.
+Dependent measures. Means, standard deviations, and correlations for the measures used in the present study are presented
+in Table 2.
+Manipulation checks. To test whether the article had the
+intended effect on implicit theories, two kinds of manipulation
+check items were included at the very end of the survey. The first
+set of items asked participants to rate three statements about
+whether people could change: “How much do you think other
+people’s personalities can change?” “How much do you think
+other people can change the kind of person they are?” “How much
+do you think bullies can change the way they are?” Ratings were
+made on a 5-point scale (1 ⫽ not at all, 5 ⫽ a great deal). These
+three items were collapsed into a single scale (␣ ⫽ .77) with higher
+scores corresponding to a more incremental theory.
+Next, on the basis of findings from previous research (Erdley &
+Dweck, 1993), another manipulation check asked participants to
+make predictions about the consistency of traits for a new person.
+We reasoned that if participants’ implicit theories had become
+more incremental, they would make fewer dispositional attributions about targets and, therefore, would expect them to behave
+less consistently. We measured trait consistency predictions by
+administering an item similar to those used in previous research
+(Chiu, Hong, & Dweck, 1997; Kunda & Nisbett, 1986) to measure
+individual differences in the tendency to expect that people always
+act in the same way. This item first asked participants to “Imagine
+that one day you observed two students at your school, Mary and
+Alicia, and on that day you noticed that Mary was MEANER than
+Alicia in school.” Next, participants answered the following question: “How likely is it that Mary would also be MEANER than
+Alicia in a very different situation OUTSIDE of school?” on a
+fully labeled 5-point scale (1 ⫽ not at all likely, 5 ⫽ extremely
+likely).
+Desire for vengeance. We measured participants’ desire for
+vengeance with the same rating-scale items as we used in Study 1
+for the recalled conflict and in Study 2 for the hypothetical conflict. We administered these items after participants had read the
+bullying article, imagined that the events in the article had happened to them, and described their feelings in an essay format. The
+seven items measuring the desire for vengeance were again reliable in this sample (␣ ⫽ .90). In support of the validity of this
+measure, we found that the desire for vengeance after a recalled
+conflict at baseline (i.e., from Study 1) was strongly correlated
+with the desire for vengeance following the bullying scenario, r ⫽
+.68, p ⬍ .05. In addition to these relatively negative items, participants also rated neutral or prosocial items, such as “just ignoring
+the person,” “forgetting about it and getting over it,” “forgiving
+them eventually,” “helping them see that what they did was
+wrong,” and “helping them act better in the future.” Neither set of
+items formed a common factor; therefore, each item was analyzed
+individually.
+As a forced-choice measure of vengeful intentions, participants
+were asked to indicate which one of the 12 options listed (i.e., the
+seven vengeful items and the five prosocial or neutral items) they
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+
+1099
+
+Table 2
+Descriptive Statistics and Correlations for Study 3 Measures
+Measure
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Incremental theory article
+Desire for vengeance
+Bad-person attributions
+Hatred
+Shame
+Sadness
+Vengeance as an emotion-regulation strategy
+
+M
+
+SD
+
+␣
+
+Range
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+0.46
+2.90
+0.29
+4.49
+3.89
+4.10
+2.85
+
+0.50
+1.28
+0.46
+1.90
+1.95
+1.85
+1.62
+
+—
+.89
+—
+—
+—
+—
+.83
+
+0–1
+1–7
+0–1
+1–7
+1–7
+1–7
+1–7
+
+—
+⫺.23ⴱ
+⫺.19ⴱ
+⫺.17ⴱ
+⫺.15ⴱ
+⫺.03
+⫺.14ⴱ
+
+—
+.12
+.54ⴱ
+.24ⴱ
+.18ⴱ
+.62ⴱ
+
+—
+.08
+⫺.09
+⫺.15ⴱ
+.23ⴱ
+
+—
+.35ⴱ
+.45ⴱ
+.47ⴱ
+
+—
+.64ⴱ
+.06
+
+—
+.02
+
+—
+
+Note. Rating scale for Measures 1 and 2: 1 ⫽ not at all, 7 ⫽ an extreme amount; Measure 3: 1 ⫽ bad-person attributions, 2 ⫽ other attributions; Measures
+4, 5, and 6: 1 ⫽ not at all, 7 ⫽ an extreme amount; Measure 7: 1 ⫽ not at all better, maybe worse, 7 ⫽ extremely better.
+ⴱ
+p ⬍ .05.
+
+would “be most likely to ACTUALLY do.” Responses to this
+question were converted to a dichotomous item of vengeful versus
+prosocial or neutral responses to conflict (1 ⫽ vengeful, 0 ⫽
+prosocial or neutral; M ⫽ .39, SD ⫽ .49).
+Bad-person attributions. We expanded the Study 1 measure
+by allowing participants to choose one attribution from among
+several, using a forced-choice question, as opposed to rating only
+the belief that the acquaintance was a bad person. The new
+question first asked, “What do you think is probably the biggest
+reason why the two people treated the main character that way?”
+Respondents then chose among several attributions, some of which
+were characterological, including “They’re just bad people” and
+“They’re bullies and they were doing what bullies do.” Others
+were situational, environmental, or developmental attributions,
+including “They’re trying to feel better about themselves,” “They
+have problems at home,” or “They’re going through an ‘immature’
+phase in life.” Participants could also provide “some other reason”
+and then write their own attributions in an open-ended question;
+fewer than 7% did so. The forced-choice and open-ended responses were subsequently recoded for analyses (1 ⫽ characterological bad-person attributions, 0 ⫽ other attributions; ␬ ⬎ .85
+for open-ended attributions).
+Emotions. To examine specific emotions, participants indicated to what extent they would feel sadness and to what extent
+they would feel shame. In addition, in the present study, we
+separated the attribution that the bullies were bad people from the
+emotion of hatred for the bullies. Thus, participants were first
+asked, “How much would you feel each of the following ways?”
+and then were asked to rate these three emotions— hatred for the
+transgressor, shame, and sadness— on a fully labeled 7-point scale
+(1 ⫽ not at all, 7 ⫽ an extreme amount).
+Vengeance as an emotion-regulation strategy. To begin to
+explore whether imagining vengeance might function as an
+emotion-regulation strategy, we asked participants to rate how
+much better they would feel if they did each of the following:
+“Imagining them getting punished or hurt” or “Planning out some
+revenge against them.” Responses were given on a fully labeled
+7-point scale (1 ⫽ not at all better, maybe worse, 7 ⫽ extremely
+better). These two items were averaged, with higher values corresponding to a greater belief that vengeance would make one feel
+better.
+Baseline entity theory and other moderators. Participants’
+scores on the entity theory scale reported in Study 1 were linked to
+
+their Study 3 data. Other Study 1 measures were also linked to
+participants’ Study 3 data, including ratings of the frequency of
+various bullying actions toward them, desire for vengeance toward
+an acquaintance after a conflict (measured about 3 weeks earlier in
+Study 1), and sociodemographic variables such as sex, mother’s
+education, grade level and age.
+
+Results and Discussion
+Preliminary analyses.
+Effectiveness of randomization. Randomization was effective. Assignment to the incremental or control group was independent of baseline entity theory in Study 1, t(185) ⫽ ⫺0.72, ns,
+desire for vengeance in Study 1, t(185) ⫽ 0.70, ns, frequency of
+being bullied in school (treated continuously), t(185) ⫽ 0.58, ns,
+sex, ␹2(1, N ⫽ 187) ⫽ 0.84, ns, mother’s education, ␹2(5, N ⫽
+187) ⫽ 0.52, ns, grade level, ␹2(1, N ⫽ 187) ⫽ 0.82, ns, and
+school attended, ␹2(6, N ⫽ 187) ⫽ 1.88, ns.
+Manipulation checks. We found that the incremental article
+led participants to believe that people could change, relative to
+those who read the control article: for the incremental article, M ⫽
+3.19, SD ⫽ 0.92; for the control article, M ⫽ 2.80, SD ⫽ 0.88;
+t(185) ⫽ 2.89, p ⬍ .05, d ⫽ .43.6 The incremental theory also
+reduced participants’ predictions of people’s behavioral consistency in a scenario that was unrelated to the stimulus scenario,
+relative to the control group: for the incremental theory, M ⫽ 2.79,
+SD ⫽ 0.93; for the control theory, M ⫽ 3.09, SD ⫽ 0.94; t(185) ⫽
+2.83, p ⬍ .05, d ⫽ .42.7 This result is consistent with the conclusion that participants’ beliefs that people are fixed were reduced by
+the incremental article, because it reduced participants’ predictions
+7
+Throughout our discussion of Study 3’s results, we use the term
+reduced to refer to the difference between the incremental group and the
+control group, or the potential outcome for the incremental participants had
+they not received the treatment.
+6
+Although the difference between the means for this manipulation check
+may appear modest, the standardized effect size was in fact moderate. It is
+also important to note that the manipulation check showed a substantive
+difference between conditions. The control group had an average score
+below the midpoint, whereas the incremental paragraph group had an
+average above the midpoint, suggesting they held more of an incremental
+theory. In any case, a modest change in implicit theories would work
+against finding the hypothesized effect on vengeance.
+
+1100
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+that behaviors such as meanness would be manifested consistently
+across very different situations.
+Did an incremental theory reduce the desire for vengeance?
+Recall that the primary objective of the present research was to test
+whether learning an incremental theory about oneself and about
+bullies would reduce the desire to take revenge on perpetrators. We
+found that this change in mind-set did, in fact, reduce vengeance. The
+incremental article significantly reduced ratings of the desire for
+vengeance: for the incremental article, M ⫽ 2.56, SD ⫽ 1.19; for the
+control article, M ⫽ 3.16, SD ⫽ 1.25; t(185) ⫽ 3.23, p ⬍ .05, d ⫽ .48.
+The incremental article did not affect the ratings of neutral or prosocial strategies. This may be because our article did not explain that
+they personally could play a role in setting the process of personality
+change in motion, which has been found to be a key component in
+boosting the motivation to confront or educate a transgressor (e.g.,
+Rattan & Dweck, 2010). However, for the vengeful intentions measure, the incremental article substantially cut the proportion of participants saying that they would be most likely to use vengeance as
+opposed to neutral or prosocial strategies: for the incremental article,
+M ⫽ 32%;for the control article, M ⫽ 53%; logistic B ⫽ ⫺.81, Z ⫽
+⫺2.63, p ⬍ .05, odds ratio ⫽ .44.8
+None of these effects were moderated by sex, age, frequency of
+being bullied (dichotomized at the median or treated continuously), or
+desire for vengeance toward an acquaintance reported 3 weeks earlier.
+That is, in separate regressions predicting desire for vengeance with a
+variable indicating condition, the moderator, and the Condition ⫻
+Moderator interaction, all interactions were nonsignificant. In addition, controlling for these variables did not change the size or significance of the effect of the incremental theory. Thus, the incremental
+article, with its endorsement of change and growth, reduced students’
+ratings of their desire for vengeance and increased their choice of
+neutral/prosocial versus vengeful responses. Moreover, it did so similarly across groups of participants.
+Why did learning an incremental theory reduce vengeance?
+The second objective of the present research was to continue to
+build a theory of why an incremental theory might affect responses
+to conflict. We predicted that a shift in mind-set toward a more
+malleable view of personality would reduce bad-person attributions, shame, hatred, and vengeful emotion regulation and that
+these, in turn, would reduce the actual desire to use strategies such
+as imagining or planning revenge. Next, we present results demonstrating the direct effect of the incremental theory article on each
+of the hypothesized mediators and then the tests of mediation.
+Bad-person attributions. Participants learning an incremental
+theory were half as likely to make bad-person attributions: for the
+incremental theory, M ⫽ 19%; for the control theory, M ⫽ 38%;
+logistic B ⫽ ⫺.87, Z ⫽ ⫺2.38, p ⬍ .05, odds ratio ⫽ .42. Instead,
+those who learned an incremental theory explained the bullies’
+actions with other, more malleable factors—such as the bullies’
+wanting to feel better, having a bad home life, or going through an
+immature phase in life. Thus, the incremental theory made the
+participants see the bullies as people with their own motivations—
+however flawed those motivations may be—as opposed to simply
+placing a pejorative label on them.
+Emotions. The incremental article, as hypothesized, significantly reduced feelings of hatred for the perpetrators: for the
+incremental article, M ⫽ 4.11, SD ⫽ 1.85; for the control article,
+M ⫽ 4.76, SD ⫽ 1.89; t(185) ⫽ 2.38, p ⬍ .05, d ⫽ .35. The
+incremental article also significantly reduced feelings of shame
+
+toward the self: for the incremental article, M ⫽ 3.51, SD ⫽ 1.78;
+for the control article, M ⫽ 4.14, SD ⫽ 2.04; t(185) ⫽ 2.25, p ⬍
+.05, d ⫽ .31. It did not, however, reduce feelings of sadness after
+the bullying scenario: for the incremental article, M ⫽ 4.04, SD ⫽
+1.70; for the control article, M ⫽ 4.14, SD ⫽ 2.00; t(185) ⫽ 0.37,
+ns, This latter result was also predicted, because sadness can result
+from many sources (e.g., sympathy) and is not an emotion that is
+expected to stem primarily from an entity theory, as hatred and
+shame are (Tangney et al., 2007). Hence, sadness was not included
+in the mediational model discussed later.
+Vengeance as an emotion-regulation strategy. The incremental article, in addition, significantly reduced how much better
+participants thought they would feel after imagining revenge: for
+the incremental article, M ⫽ 2.58, SD ⫽ 1.42; for the control
+article, M ⫽ 3.05, SD ⫽ 1.74; t(185) ⫽ 2.02, p ⬍ .05, d ⫽ .29.
+Mediational model. To formally test for mediation by these
+variables, we first used Preacher and Hayes’s (2008) macro to test
+the model presented in Figure 2, which included all four mediators.
+We found that the effect of the incremental theory on vengeance
+was reduced from ␤ ⫽ ⫺.23, p ⬍ .05, in a model with no
+mediators to ␤ ⫽ ⫺.10 (B ⫽ ⫺.17, 95% CI [⫺.46, .12], ns) in the
+model presented in Figure 2, suggesting full mediation by these
+variables (indirect B ⫽ ⫺.42, 95% CI [⫺.72, ⫺.15], p ⬍ .05, ␤ ⫽
+⫺.13). Of interest, when this same analysis was conducted without
+including emotion regulation as a mediator, only partial mediation
+was found. Thus, by expanding our set of mediators to include
+emotion regulation, and by specifying the negative emotions felt
+after victimization (shame and hatred), we were able to fully
+account for the effects of implicit theories on the desire for
+vengeance.
+However, when we built the latent variable structural model
+presented in Figure 2, we found that it was a very poor fit to the
+data, ␹2(49) ⫽ 143.75, ␹2/df ⫽ 3.04, p ⬍ .05, CFI ⫽ .884,
+RMSEA ⫽ .108, suggesting that there is a more complicated chain
+of mediation involving these variables. Yet, the present study’s
+design, with its concurrent self-report measures, does not allow for
+firm conclusions regarding the temporal ordering of the mediators.
+Therefore, we briefly describe an exploratory analysis that is
+suggestive of one possible order, and we propose it as a guide for
+future investigations.
+Specifically, we propose that emotion regulation is a later step
+in the path from an incremental theory to vengeance, with attributions and emotions as antecedents. That is, judgments and
+emotions may need to be generated before they are regulated.
+On the basis of this theory, we tested the model presented in
+Figure 3. We found that it provided adequate fit to the data,
+␹2(48) ⫽ 81.821, p ⬍ .05, ␹2/df ⫽ 1.705, CFI ⫽ .961, RMSEA ⫽
+.064, and yielded a significant indirect effect of the incremental
+theory on vengeance (B ⫽ ⫺.32, 95% CI [⫺.55, ⫺.15], p ⬍ .05,
+␤ ⫽ ⫺.13). In addition, the direct effect of the incremental theory
+8
+To test the robustness of this result, we also recoded prosocial and
+neutral responses into separate categories (0 ⫽ vengeful, 1 ⫽ neutral, 2 ⫽
+prosocial) and analyzed the data with a multinomial logistic regression in
+which neutral and prosocial responses were each separately compared with
+vengeful responses. We found a similar pattern of results: An incremental
+theory significantly predicted the desire to use prosocial or neutral responses relative to vengeful responses.
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+
+on vengeance was reduced to being no longer significant (B ⫽
+⫺.27, 95% CI [⫺.56, .01], p ⫽ .056, ␤ ⫽ ⫺.11). In this model, an
+incremental theory reduced participants’ feelings of shame after
+victimization, which in turn reduced their hatred for the bullies
+(indirect effect of incremental theory on hatred, B ⫽ ⫺.19, 95% CI
+[⫺.45, ⫺.01], p ⬍ .05, ␤ ⫽ ⫺.05).9 In addition, the incremental
+theory reduced bad-person attributions, which in turn reduced their
+vengeful emotion-regulation strategies (total indirect effect of incremental theory on emotion regulation, B ⫽ ⫺.39, 95% CI [⫺.69,
+⫺.14], p ⬍ .05, ␤ ⫽ ⫺.12). Finally, vengeful emotion-regulation
+strategies significantly mediated the effect of both hatred and
+bad-person attributions on the desire for vengeance (indirect effect
+of bad-person attributions on vengeance, B ⫽ .25, 95% CI [.06,
+.52], p ⬍ .05, ␤ ⫽ .09; indirect effect of hatred on vengeance, B ⫽
+.15, 95% CI [.09, .23], p ⬍ .05, ␤ ⫽ .22; see Figure 3).10
+It is interesting to note that the effect of the incremental
+theory on hatred was mediated by feelings of shame. This
+account is consistent with established sociological theories on
+shame, which suggests that shame arises from a worry about
+one’s permanent status in the community. In this view, shamed
+victims are motivated to derogate and hate those who threaten
+that status (Scheff, 1994; Scheff & Retzinger, 1991; see also
+Gilbert & Andrews, 1998). This finding also resonates with
+psychological research on hatred. For example, Fitness and
+Fletcher (1993) found that hatred, relative to anger, more frequently followed from incidents of humiliation. In addition,
+experimental investigations have shown that leading adolescents to feel ashamed can increase their motivation to behave
+aggressively (Reijntjes et al., in press; Thomaes et al., 2008).
+The present study’s findings contribute to this research by
+showing that an incremental theory can reduce shame and
+subsequently hatred by changing the meaning of peer victimization, so that the conflict is perceived as a less permanent (and
+hence less humiliating) threat to a victim’s status.
+Internal replication of the causal effect. Last, we attempted
+to internally replicate our experiment’s primary findings within
+our control group by examining whether changes over time in
+implicit theories from Study 1’s survey to the present study’s
+survey significantly predicted changes in the desire for vengeance.
+To do so, we first created a change in implicit theories measure by
+subtracting the z score for the implicit theories at baseline from the
+z score for the implicit theories manipulation check in the present
+study, and we coded it so that higher values corresponded to more
+of an incremental theory. We then used this change score to predict
+changes in desire for vengeance, as indexed by the z score for
+baseline vengeance subtracted from the z score for the desire for
+vengeance in the present study, so that higher values corresponded
+to more vengeance. In this regression analysis, changes toward
+holding more of an incremental theory significantly predicted
+decreases in desire for vengeance, B ⫽ ⫺.34, SE ⫽ .14, p ⬍ .05,
+␤ ⫽ ⫺.24, replicating our experiment’s main finding with a
+different methodology.
+Summary. Overall, these results suggest that when adolescents are taught that people can change, they are not as likely to
+think that bullies are simply bad people, they do not feel as
+ashamed after victimization, they do not hate the bullies as
+much, and they are less motivated to imagine vengeance to
+regulate their negative emotions. In turn, they are less likely to
+
+1101
+
+say they would like to respond to the conflict in an aggressive,
+vengeful way.
+Our overall hypothesis that implicit theories led to the differences we observed in this study was supported by an internal
+replication with short-term longitudinal associations and by the
+finding that the article changed implicit theories, predictions of
+trait consistency, and the key mediators that we found in our
+previous studies.
+
+General Discussion
+Adolescents frequently experience peer conflicts, ranging from
+minor slights to outright victimization, and they respond to those
+conflicts in various ways. Sometimes adolescents seek prosocial
+ways to handle the conflict and move on. Other times, adolescents
+hold enduring grudges toward their transgressors and wish them
+harm. What predicts which type of response adolescents prefer? In
+the present research, we propose that the meaning adolescents
+make of their social conflicts, arising from their implicit theories of
+personality, can shed light on how they cope with social setbacks.
+Three studies found that implicit theories can predict how adolescents in high school respond to conflicts with their peers. In
+Study 1, we found that an entity theory, or a belief in fixed traits,
+was related to a greater desire for vengeance when adolescents
+recalled recent conflicts in their lives. In Study 2, we replicated the
+results, using a vivid hypothetical incident of victimization. In an
+experiment, Study 3 showed that learning an incremental theory,
+or a belief in the potential for change, could reduce the desire for
+revenge after hypothetical peer victimization.
+The relation between implicit theories and the desire for vengeance was consistent and robust. This association was clear
+across very different samples: a socioeconomically diverse, mostly
+9
+The total indirect effect of shame on desire for vengeance was B ⫽ .11,
+95% CI [.06, .17], p ⬍ .05, ␤ ⫽ .18, and the indirect effect of shame on
+vengeful emotion regulation was B ⫽ .13, 95% CI [.07, .21], p ⬍ .05,
+␤ ⫽ .15.
+10
+Because this mediational analysis was exploratory, we built alternative models in which we changed the order of the mediators or added/
+removed paths. We tested whether the fit of these models was lower or
+higher by comparing the ␹2/df, CFI, RMSEA, Akaike information criterion, and Bayesian information criterion fit statistics relative to the theoretical model in Figure 3. Our final model had better fit with regard to each
+of these five statistics relative to any alternative model we tested, although
+the magnitude of these differences was often quite small. For example,
+model fit was lower when the desire for vengeance was not the final
+variable in the model, when bad-person attributions were placed after
+emotion regulation, and when shame was placed after either hatred or
+emotion regulation. Because the model in Figure 3 provided better fit to the
+data than all other models tested, and because theory led us to predict that
+emotion regulation would come after the emotions were generated, we
+have presented the model shown in Figure 3. It should be noted that the
+final model in Figure 3, which includes ordering of the mediators, fit the
+data similarly to a model with covariances between the mediators and no
+ordering, ␹2(46) ⫽ 79.330, p ⬍ .05, ␹2/df ⫽ 1.725, CFI ⫽ .961, RMSEA ⫽
+.065. We chose a final model that ordered the mediators because, as noted
+earlier, we thought of attributions and emotions as prior processes to the
+evaluation of strategies for regulating those emotions, and the ordering of
+the mediators provides more direction for future empirical and theoretical
+studies.
+
+1102
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+Figure 2.
+
+Preliminary multiple mediation model in Study 3.
+
+White sample from Finland and two racially and ethnically diverse
+low-income samples from urban schools in the United States Of
+interest, when we explicitly tested the difference in effect size
+between the homogeneous Finnish subsample and the diverse U.S.
+
+subsample in Study 1, we found no evidence that the effect of
+implicit theories on adolescents’ desire for vengeance (or on the
+mediators of that relationship) was stronger or weaker in either
+subsample. Because few studies have directly tested the general-
+
+Figure 3. Path model leading from an incremental theory to a reduced desire for vengeance in Study 3.
+Numbers are standardized coefficients. Circles represent latent variables, and squares represent manifest
+variables. Bad-person attributions and the incremental manipulation were categorical variables; all others were
+continuous. Nonsignificant paths and indicators of latent variables were removed from the figure for ease of
+presentation. ⴱ p ⬍ .05.
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+
+izability of the social– cognitive processes documented among
+Finnish youths, this study yielded reassuring findings about the
+generality of these processes.
+Implicit theories were associated with adolescents’ desire for
+vengeance above and beyond the effects of many other factors
+(such as sex, levels of peer victimization, or race/ethnicity). Implicit theories were related to vengeance after a broad array of
+social conflicts (Study 1) and, more specifically, after hypothetical
+peer victimization and aggression (Studies 2 and 3). Changes in
+implicit theories over a few weeks toward more of an incremental
+theory were associated with a reduction in the desire for vengeance
+over the same period (Study 3). Moreover, when implicit theories
+were experimentally changed, an incremental theory played a
+causal role in reducing the vengeance a victim desired (Study 3).
+No previous experiment with children or adults has shown that
+vengeful responses to peer victimization could be reduced by
+learning an incremental theory.
+Our demonstration of the causal role of implicit theories of
+personality can have implications for intervention. Recent incidents of planned school violence in America, Finland, and other
+countries have been found to be related to experiences of peer
+victimization in school and fantasies of revenge afterward (Leary
+et al., 2003; Punamäki, Nokelainen, Marttunen, & Tirri, in press;
+Vossekuil et al., 2002; for a review, see Borum et al., 2010).
+Notably, peer victimization does not appear to have a direct effect
+on adolescents’ adjustment problems but rather an indirect one that
+works through their social cognitions. In past research, when a
+maladaptive pattern of social cognitions did not result from peer
+rejection, later violence was less likely to ensue (see Dodge,
+Greenberg, Malone, & the Conduct Problems Prevention Research
+Group, 2008; Pettit, Lansford, Malone, Dodge, & Bates, 2010).
+Thus, the present research suggests that interventions targeting one
+particular psychological factor— beliefs about whether people can
+change—may perhaps buffer peer-victimized adolescents from the
+desire to use vengeance as a solution.
+
+Relation of Implicit Theories to Attributions and
+Emotions
+This research also illuminates why and how implicit theories
+affect the desire for vengeance after a conflict by exploring several
+mediators. Study 1 showed that, when considering a past conflict,
+adolescents who held an entity theory were more likely to judge
+the perpetrator to be a bad person and to harbor negative feelings
+about themselves. These then predicted the desire to use vengeance
+as a solution. This study was unique in examining both selfrelevant and other-relevant processes as mediators in the path
+leading from an entity theory to a desire for revenge. Study 3,
+which changed implicit theories, found support for similar mediators and showed that the negative emotions of hatred and shame
+played a key role in promoting vengeance. Study 3 also extended
+the theoretical model by adding a measure that tapped a belief in
+vengeful thoughts as a good way to regulate emotions. This, too,
+was found to partially explain the impact of implicit theories on
+vengeful responses, consistent with theories of the role of anticipated emotional states in motivating aggression (Baumeister et al.,
+2007). Taken together, our mediators fully accounted for the effect
+of learning an incremental theory on reduced endorsement of
+vengeful responses. Although future research is still needed to
+
+1103
+
+understand the order and manner in which these mediators operate,
+our studies suggest that adolescents’ implicit theories of personality predict their responses to social conflicts with acquaintances
+because they predict their attributions, emotions, and emotionregulation strategies.
+Depicting the transgressor. Our findings in Studies 1 and 3
+regarding bad-person attributions suggest that believing people can
+be permanently labeled with descriptors like bully may make it
+more likely that one will summarily dismiss transgressors as bad
+people. Because “bad” people may be seen as deserving more
+punishment, those with more of an entity theory may feel more
+justified in their endorsement of revenge toward the transgressors.
+An interesting future direction is to investigate the role of dehumanization and moral disengagement (Bandura, 1999) in the process just described. For example, adolescent victims of bullying
+who also hold an entity theory may find it easier to think of
+transgressors in terms of fixed labels, instead of in terms of a
+bundle of complex human motivations. Once the victim has dehumanized the transgressor with a pejorative label, it may be easier
+for the victim to disengage from the guilt that may be normally
+associated with desiring that someone suffer.
+Next, previous research on attribution theory (Weiner, 1986,
+1995) has focused on the role of stable characterological attributions in leading to more punitive evaluations of transgressors. The
+results of Study 3, which showed that characterological attributions could be reduced by an incremental theory, added to this
+perspective by showing that implicit theories may be an antecedent
+step in this social– cognitive process (see also Blackwell et al.,
+2007, Study 1, for related results in the academic domain).
+Attributions of intent. Previous groundbreaking and highly
+important research has shown the role of biased attributions of
+hostile intent in predicting aggression (Hudley & Graham, 1993;
+for reviews, see Crick & Dodge, 1994; Dodge et al., 2006). This
+research has shown that adolescents who chronically perceive
+hostile intent when a perpetrator’s motivation is ambiguous are
+more likely to respond aggressively. However, the focus on perceptions of a perpetrator’s intent might not explain how adolescents respond when it is clear that a transgressor has victimized
+them on purpose. That is, given clear hostile intent, why do some
+adolescents seek more revenge after conflicts?
+The present research has suggested that implicit theories play an
+important role in responses to unambiguously intentional conflicts.
+To address this question directly, we asked participants to rate how
+much they thought the acquaintance in the recalled conflict had
+acted negatively toward them on purpose (1 ⫽ completely by
+accident, 7 ⫽ completely on purpose) as part of Study 1. We found
+that this did not matter. In other words, when we controlled for the
+degree to which adolescents believed that the transgression had
+been committed on purpose, the effect of an entity theory on the
+desire for vengeance was not changed in either of the samples.
+Therefore, it seems that implicit theories predict responses to
+conflict regardless of perceived intent.
+However, an entity theory may well be related to attributions of
+hostile intent when intent is ambiguous. An adolescent with more
+of an entity theory may see ambiguous actions as driven by the
+traits of transgressors and, therefore, as arising from relatively
+clear intent. Yet, an adolescent with an incremental theory, with an
+appreciation of situational or developmental influences on behav-
+
+1104
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+ior, might not reach such a conclusion. We are currently examining
+these possibilities.
+
+Limitations
+The present research is not without its limitations. The most
+important caveat is that Study 3 was a demonstration, not an
+intervention. It is important to determine in future research
+whether an incremental theory of personality can be taught to
+adolescents in a lasting way and how to teach it appropriately.
+Adolescents who learn an incremental theory might incorrectly
+believe they are supposed to change a bully by themselves, potentially leading to guilt or danger if their efforts are not effective. An
+intervention should make it clear that adolescents ought not always
+believe that it is their responsibility or within their power to change
+a transgressor. It should also teach that change is neither easy nor
+certain and may only happen over time— but it is usually possible.
+Additionally, an incremental intervention, while teaching victims
+that bullies are not inherently bad, also needs to teach the victims
+that they themselves are not to blame. A task for future research,
+then, is to determine how best to teach adolescents to flexibly
+apply malleable theories about transgressors and about themselves,
+an issue that must be addressed in the design and implementation
+of real-world interventions.
+A potential limitation in our research is that the measurement
+and manipulation of implicit theories combined both implicit theories about the self and theories about others. This was done
+intentionally to maximize ecological validity. In pilot investigations and focus group interviews with adolescents, many adolescents had global mind-sets that viewed people’s traits as generally
+either fixed or malleable. We also believed it was more ethical in
+Study 3 to manipulate both implicit theories for the reasons mentioned earlier. However, it is possible for these implicit theories to
+be separated and to have separate effects. That is, some adolescents may have an entity theory of others but not of the self or vice
+versa. In the former case, they would be predicted to make dispositional (bad person) attributions about others but not to make
+negative, dispositional attributions about themselves. As such,
+some victims of bullying might think that they can improve over
+time, even though the bullies will continue to be bad people. Thus,
+future research might assess the potentially separate effects of
+implicit theories about the self and about others.
+Next, the present research focused on the desire for vengeance
+(Studies 1–3) and on vengeful intentions (Study 3) and not on
+actual vengeful behavior. We think it is likely that implicit theories
+would relate to behavioral responses to peer conflict, because
+previous studies have found a relation between an entity theory
+and increased aggressive behavior (measured by self-reports and
+parent reports; Rudolph, 2010) and between an incremental theory
+and increased prosocial confronting behavior (Rattan & Dweck,
+2010). Nevertheless, an important next step is to investigate
+whether teaching an incremental theory reduces actual vengeful
+behavior following peer conflicts.
+It is also important to note that, as in much of the literature,
+many of our measures, such as the measures of attributions and
+emotions, consisted of single items. Single-item measures typically have lower reliability, and measurement error in mediators
+often leads to overestimation of the direct effects of independent
+variables (Bullock, Green, & Ha, 2010). This bias, however, would
+
+work against the significance of the indirect effects, a fact that
+highlights the potential importance of the mediators we identified
+in our studies. Nevertheless, future studies should use more extensive and more fully validated measures (e.g., Tangney et al.’s,
+1996, measure of shame). Along similar lines, future research
+might investigate additional emotions that could arise from implicit theories. For example, in line with Tangney et al.’s (1996)
+formulation, incremental theorists might feel more guilt rather than
+shame for their part in a conflict, which could lead to constructive
+actions rather than aggressive ones.
+Our investigation focused primarily on why some adolescents
+who experience social setbacks turn to vengeful fantasies as a
+coping strategy. Yet, implicit theories may also play a role in the
+actions of those who initiate bullying or aggression toward others.
+For instance, aggressors may justify their actions with fixed beliefs
+that their victims are inherently losers or otherwise personally
+flawed. However, if they humanized the potential victims and saw
+them as people with thoughts and feelings—and not as people who
+are permanently stuck in low-status social categories—then their
+motivation to bully might be reduced. Thus, it may be interesting
+in future investigations to attempt to reduce bullying by teaching
+aggressors an incremental theory about their potential victims.
+Finally, in Study 1, we found that adolescents’ implicit theories
+predicted their desire for vengeance after a broad range of recalled
+conflicts with acquaintances, who are more likely than close
+friends to perpetrate intense victimization (Olweus, 1993). However, research on the domain specificity of aggression suggests that
+responses to conflicts with close friends or romantic partners may
+have a different relation to social– cognitive variables than do
+responses to conflicts with acquaintances or enemies (e.g., Peets et
+al., 2007, 2008; Pettit et al., 2010). Thus, it is important to conduct
+future studies extending our research to other groups of peers.
+
+Conclusion
+It has become increasingly important to understand the psychological dynamics of peer conflict as adolescents have gained
+unprecedented access to weapons and as society has increasingly
+grappled with violence and suicide in schools. The present research attempts to contribute to the knowledge of the motivation
+behind violent retaliation after peer conflicts in general or victimization in particular. Our findings are consistent in suggesting that
+adolescents who construe their social world in terms of good
+people and bad people can, after conflict or victimization, enter a
+cycle of hatred and shame that leads to a desire for vengeance,
+particularly when they believe that thoughts of revenge will make
+them feel better about themselves. However, our findings also
+suggest that a more positive cycle of thoughts, feelings, and desires
+can be fostered by teaching adolescents to view themselves and
+their peers as works in progress rather than as finished products.
+
+References
+Arbuckle, J. L. (2006). Amos 7.0 programming reference guide. Spring
+House, PA: Amos Development Corporation.
+Bandura, A. (1999). Moral disengagement in the perpetration of inhumanities. Personality and Social Psychology Review, 3, 193–209. doi:
+10.1207/s15327957pspr0303_3
+Baumeister, R. F., Smart, L., & Boden, J. (1996). Relation of threatened
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+egotism to violence and aggression: The dark side of high self-esteem.
+Psychological Review, 103, 5–33. doi:10.1037/0033-295X.103.1.5
+Baumeister, R. F., Vohs, K. D., DeWall, C. N., & Zhang, L. (2007). How
+emotion shapes behavior: Feedback, anticipation, and reflection, rather
+than direct causation. Personality and Social Psychology Review, 11,
+167–203. doi:10.1177/1088868307301033
+Bee, H. L., Barnard, K. E., Eyres, S. J., Gray, C. A., Hammond, M. A.,
+Spietz, A. L., . . . Clark, B. (1982). Prediction of IQ and language skill
+from perinatal status, child performance, family characteristics, and
+mother–infant interaction. Child Development, 53, 1134 –1156. doi:
+10.2307/1129003
+Beer, J. S. (2002). Implicit self-theories of shyness. Journal of Personality
+and Social Psychology, 83, 1009 –1024. doi:10.1037/0022-3514.83
+.4.1009
+Berger, K. S. (2007). Update on bullying at school: Science forgotten?
+Developmental Review, 27, 90 –126. doi:10.1016/j.dr.2006.08.002
+Blackwell, L. S., Trzesniewski, K., & Dweck, C. S. (2007). Implicit
+theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. Child Development, 78,
+246 –263. doi:10.1111/j.1467-8624.2007.00995.x
+Borum, R., Cornell, D. G., Modzeleski, W., & Jimerson, S. R. (2010).
+What can be done about school shootings? A review of the evidence.
+Educational Researcher, 39, 27–37. doi:10.3102/0013189X09357620
+Brent, D. A., Baugher, M., Bridge, J., Chen, T., & Chiappetta, L. (1999).
+Age- and sex-related risk factors for adolescent suicide. Journal of the
+American Academy of Child and Adolescent Psychiatry, 38, 1497–1505.
+doi:10.1097/00004583-199912000-00010
+Bullock, J. G., Green, D. P., & Ha, S. E. (2010). Yes, but what’s the
+mechanism? (Don’t expect an easy answer). Journal of Personality and
+Social Psychology, 98, 550 –558. doi:10.1037/a0018933
+Bushman, B. J., Baumeister, R. F., & Phillips, C. M. (2001). Do people
+aggress to improve their mood? Catharsis beliefs, affect regulation
+opportunity, and aggressive responding. Journal of Personality and
+Social Psychology, 81, 17–32. doi:10.1037/0022-3514.81.1.17
+Chiu, C., Dweck, C. S., Tong, J. Y., & Fu, J. H. (1997). Implicit theories
+and conceptions of morality. Journal of Personality and Social Psychology, 73, 923–940. doi:10.1037/0022-3514.73.5.923
+Chiu, C. Y., Hong, Y., & Dweck, C. S. (1997). Lay dispositionism and
+implicit theories of personality. Journal of Personality and Social Psychology, 73, 19 –30. doi:10.1037/0022-3514.73.1.19
+Crick, N. R., & Dodge, K. A. (1994). A review and reformulation of social
+information-processing mechanisms in children’s social adjustment.
+Psychological Bulletin, 115, 74 –101. doi:10.1037/0033-2909.115.1.74
+Dodge, K. A. (2008). Framing public policy and prevention of chronic
+violence in American youths. American Psychologist, 63, 573–590.
+doi:10.1037/0003-066X.63.7.573
+Dodge, K. A., Coie, J. D., & Lynam, D. (2006). Aggression and antisocial
+behavior in youth. In W. Damon (Series Ed.) & N. Eisenberg (Vol. Ed.),
+Handbook of child psychology: Vol. 3. Social, emotional, and personality development (6th ed.). New York, NY: Wiley.
+Dodge, K. A., Greenberg, M. T., Malone, P. S., & the Conduct Problems
+Prevention Research Group. (2008). Testing an idealized dynamic cascade model of the development of serious violence in adolescence. Child
+Development, 79, 1907–1927. doi:10.1111/j.1467-8624.2008.01233.x
+Dweck, C. S., Chiu, C., & Hong, Y. (1995). Implicit theories and their role
+in judgments and reactions: A world from two perspectives. Psychological Inquiry, 6, 267–285. doi:10.1207/s15327965pli0604_1
+Erdley, C., Cain, K., Loomis, C., Dumas-Hines, F., & Dweck, C. S. (1997).
+The relations among children’s social goals, implicit personality theories
+and response to social failure. Developmental Psychology, 33, 263–272.
+doi:10.1037/0012-1649.33.2.263
+Erdley, C., & Dweck, C. S. (1993). Children’s implicit theories as predictors of their social judgments. Child Development, 64, 863– 878. doi:
+10.2307/1131223
+
+1105
+
+Fitness, J., & Fletcher, G. (1993). Love, hate, anger, and jealousy in close
+relationships: A prototype and cognitive appraisal analysis. Journal of
+Personality and Social Psychology, 65, 942–958. doi:10.1037/00223514.65.5.942
+Gervey, B., Chiu, C., Hong, Y., & Dweck, C. S. (1999). Differential use of
+person information in decision-making about guilt vs. innocence: The
+role of implicit theories. Personality and Social Psychology Bulletin, 25,
+17–27. doi:10.1177/0146167299025001002
+Gilbert, P., & Andrews, B. (1998). Shame: Interpersonal behavior, psychopathology, and culture. New York, NY: Oxford University Press.
+Giles, J. W. (2003). Children’s essentialist beliefs about aggression. Developmental Review, 23, 413– 443. doi:10.1016/S0273-2297(03)
+00039-X
+Graham, S., Bellmore, A. D., & Mize, J. (2006). Aggression, victimization,
+and their co-occurrence in middle school. Journal of Abnormal Child
+Psychology, 34, 363–378. doi:10.1007/s10802-006-9030-2
+Graham, S., & Juvonen, J. (1998). Self-blame and peer victimization in
+middle school: An attributional analysis. Developmental Psychology, 34,
+587–599. doi:10.1037/0012-1649.34.3.587
+Haselhuhn, M. P., Schweitzer, M. E., & Wood, A. M. (2010). How implicit
+beliefs influence trust recovery. Psychological Science, 21, 645– 648.
+doi:10.1177/0956797610367752
+Hong, Y., Chiu, C., Dweck, C. S., Lin, D., & Wan, W. (1999). Implicit
+theories, attributions, and coping: A meaning system approach. Journal
+of Personality and Social Psychology, 77, 588 –599. doi:10.1037/00223514.77.3.588
+Hudley, C., & Graham, S. (1993). An attributional intervention to reduce
+peer-directed aggression among African-American boys. Child Development, 64, 124 –138. doi:10.2307/1131441
+Janoff-Bulman, R. (1979). Characterological versus behavioral self-blame:
+Inquiries into depression and rape. Journal of Personality and Social
+Psychology, 37, 1798 –1809. doi:10.1037/0022-3514.37.10.1798
+Juvonen, J., Graham, S., & Schuster, M. (2003). Bullying among young
+adolescents: The strong, the weak, and the troubled. Pediatrics, 112,
+1231–1237. doi:10.1542/peds.112.6.1231
+Kaltiala-Heino, R., Rimpelä, M., Marttunen, M., Rimpelä, A., & Rantanen,
+P. (1999). Bullying, depression, and suicidal ideation in Finnish adolescents: School survey. British Medical Journal, 319, 348 –351.
+Kammrath, L. K., & Dweck, C. S. (2006). Voicing conflict: Preferred
+conflict strategies among incremental and entity theorists. Personality
+and Social Psychology Bulletin, 32, 1497–1508. doi:10.1177/
+0146167206291476
+Kaufman, P., Chen, X., Choy, S. P., Ruddy, S. A., Miller, A. K., Chandler,
+K. A., . . . Klaus, P. (1999). Indicators of school crime and safety (NCES
+1999 – 057/NCJ-178906). Washington, DC: U.S. Department of Education and U.S. Department of Justice.
+Killen, M., Crystal, D. S., & Watanabe, H. (2002). Japanese and American
+children’s evaluations of peer exclusion, tolerance of differences, and
+prescriptions for conformity. Child Development, 73, 1788 –1802. doi:
+10.1111/1467-8624.t01–1-00506
+Killen, M., Kelly, M. C., Richardson, C., & Jampol, N. S. (2010). Attributions of intentions and fairness judgments regarding interracial peer
+encounters. Developmental Psychology, 46, 1206 –1213. doi:10.1037/
+a0019660
+Kray, L. J., & Haselhuhn, M. (2007). Implicit negotiation beliefs and
+performance: Longitudinal and experimental evidence. Journal of Personality and Social Psychology, 93, 49 – 64. doi:10.1037/00223514.93.1.49
+Kunda, Z., & Nisbett, R. E. (1986). The psychometrics of everyday life.
+Cognitive Psychology, 18, 195–224. doi:10.1016/0010-0285(86)
+90012-5
+Lahti, A., Räsänen, P., Karvonen, K., Särkioja, T., Meyer-Rochow, V. B.,
+& Hakko, H. (2006). Autumn peak in shooting suicides of children and
+
+1106
+
+YEAGER, TRZESNIEWSKI, TIRRI, NOKELAINEN, AND DWECK
+
+adolescents from northern Finland. Neuropsychobiology, 54, 140 –146.
+doi:10.1159/000098265
+Leary, M., Kowalski, R., Smith, L., & Phillips, S. (2003). Teasing, rejection, and violence: Case studies of the school shootings. Aggressive
+Behavior, 29, 202–214. doi:10.1002/ab.10061
+Levy, S., & Dweck, C. S. (1999). Children’s static vs. dynamic person
+conceptions as predictors of their stereotype formation. Child Development, 70, 1163–1180. doi:10.1111/1467-8624.00085
+Levy, S., Stroessner, S., & Dweck, C. S. (1998). Stereotype formation and
+endorsement: The role of implicit theories. Journal of Personality and
+Social Psychology, 74, 1421–1436. doi:10.1037/0022-3514.74.6.1421
+Loeb, I., & Dweck, C. S. (1994, July). Beliefs about human nature as
+predictors of reactions to victimization. Paper presented at the Sixth
+Annual Convention of the American Psychological Society, Washington, DC.
+MacCallum, R. C., Zhang, S., Preacher, K. J., & Rucker, D. D. (2002). On
+the practice of dichotomization of quantitative variables. Psychological
+Methods, 7, 19 – 40. doi:10.1037/1082-989X.7.1.19
+McGlothlin, H., & Killen, M. (2006). Intergroup attitudes of European
+American children attending ethnically homogeneous schools. Child
+Development, 77, 1375–1386. doi:10.1111/j.1467-8624.2006.00941.x
+McGlothlin, H., & Killen, M. (2010). How social experience is related to
+children’s intergroup attitudes. European Journal of Social Psychology,
+40, 625– 634. doi:10.1002/ejsp.733
+Miller, C. H., Burgoon, J. K., & Hall, J. R. (2007). The effects of implicit
+theories of moral character on affective reactions to moral transgressions. Social Cognition, 25, 819 – 832. doi:10.1521/soco.2007.25.6.819
+Nishina, A., & Juvonen, J. (2005). Daily reports of witnessing and experiencing peer harassment in middle school. Child Development, 76,
+435– 450. doi:10.1111/j.1467-8624.2005.00855.x
+Ojanen, T., Grönroos, M., & Salmivalli, C. (2005). An interpersonal
+circumplex model of children’s social goals: Links with peer-reported
+behavior and sociometric status. Developmental Psychology, 41, 699 –
+710. doi:10.1037/0012-1649.41.5.699
+Olweus, D. (1993). Bullying at school: What we know and what we can do.
+Cambridge, MA: Blackwell.
+Peets, K., Hodges, R., Kikas, E., & Salmivalli, C. (2007). Hostile attributions and behavioral strategies in children: Does relationship type matter? Developmental Psychology, 43, 889 –900. doi:10.1037/00121649.43.4.889
+Peets, K., Hodges, R., & Salmivalli, C. (2008). Affect-congruent social–
+cognitive evaluations and behavior. Child Development, 79, 170 –185.
+doi:10.1111/j.1467-8624.2007.01118.x
+Peled, M., & Moretti, M. M. (2007). Rumination on anger and sadness in
+adolescence: Fueling of fury and deepening of despair. Journal of
+Clinical Child and Adolescent Psychology, 36, 66 –75. doi:10.1207/
+s15374424jccp3601_7
+Pettit, G. S., Lansford, J. E., Malone, P. S., Dodge, K. A., & Bates, J. E.
+(2010). Domain specificity in relationship history, social-information
+processing, and violent behavior in early adulthood. Journal of Personality and Social Psychology, 98, 190 –200. doi:10.1037/a0017991
+Plaks, J. E., Stroessner, S., Dweck, C. S., & Sherman, J. (2001). Person
+theories and attention allocation: Preference for stereotypic vs. counterstereotypic information. Journal of Personality and Social Psychology,
+80, 876 – 893. doi:10.1037/0022-3514.80.6.876
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling
+strategies for assessing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40, 879 – 891. doi:10.3758/
+BRM.40.3.879
+Punamäki, R., Nokelainen, P., Marttunen, M., & Tirri, K. (in press).
+Violent behavior and school killings: Societal, developmental and social
+factors. Finnish Academy of Science and Letters.
+Raine, A., Dodge, K. A., Loeber, R., Gatzke-Kopp, L., Lynam, D., Reynolds, C., . . . Liu, J. (2006). The Reactive–Proactive Aggression Ques-
+
+tionnaire: Differential correlates of reactive and proactive aggression in
+adolescent boys. Aggressive Behavior, 32, 159 –171. doi:10.1002/
+ab.20115
+Rattan, A., & Dweck, C. S. (2010). Who confronts prejudice? The role of
+implicit theories in the motivation to confront prejudice. Psychological
+Science, 21, 952–959. doi:10.1177/0956797610374740
+Reijntjes, A., Thomaes, S., Bushman, B. J., Boelen, P. A., Orobio de
+Castro, B., & Telch, M. J. (in press). The outcast lash-out effect in youth:
+Alienation increases aggression following peer rejection. Psychological
+Science.
+Robins, R. W., & Pals, J. L. (2002). Implicit self-theories in the academic
+domain: Implications for goal orientation, attributions, affect, and selfesteem change. Self and Identity, 1, 313–336. doi:10.1080/
+15298860290106805
+Rudolph, K. D. (2010). Implicit theories of peer relationships. Social
+Development, 19, 113–129. doi:10.1111/j.1467-9507.2008.00534.x
+Salmivalli, C., Ojanen, T., Haanpää, J., & Peets, K. (2005). “I’m OK but
+you’re not” and other peer-relational schemas: Explaining individual
+differences in children’s social goals. Developmental Psychology, 41,
+363–375. doi:10.1037/0012-1649.41.2.363
+Scheff, T. J. (1994). Bloody revenge: Emotion, nationalism and war.
+Boulder, CO: Westview Press.
+Scheff, T. J., & Retzinger, S. (1991). Violence and emotions. Lexington,
+MA: Lexington Books.
+Sirin, S. R. (2005). Socioeconomic status and academic achievement: A
+meta-analytic review of research. Review of Educational Research, 75,
+417– 453. doi:10.3102/00346543075003417
+Sourander, A., Jensen, P., Rönning, J. A., Niemelä, S., Helenius, H.,
+Sillanmäki, L., . . . Almqvist, F. (2007). What is the early adulthood
+outcome of boys who bully or are bullied in childhood? The Finnish
+“From a Boy to a Man” study. Pediatrics, 120, 397– 404. doi:10.1542/
+peds.2006-2704
+Statistics Finland. (2009). Statistical yearbook of Finland 2009. Helsinki,
+Finland: Author.
+Swearer, S. M., Espelage, D. L., Vaillancourt, T., & Hymel, S. (2010).
+What can be done about school bullying? Linking research to educational practice. Educational Researcher, 39, 38 – 47. doi:10.3102/
+0013189X09357622
+Swearer, S. M., Song, S. Y., Cary, P. T., Eagle, J. W., & Mickelson, W. T.
+(2001). Psychosocial correlates in bullying and victimization: The relationship between depression, anxiety, and bullying. Journal of Emotional Abuse, 2, 95–121. doi:10.1300/J135v02n02_07
+Tangney, J. P., Miller, R. S., Flicker, L., & Barlow, D. H. (1996). Are
+shame, guilt and embarrassment distinct emotions? Journal of Personality and Social Psychology, 70, 1256 –1269. doi:10.1037/00223514.70.6.1256
+Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and
+moral behavior. Annual Review of Psychology, 58, 345–372. doi:
+10.1146/annurev.psych.56.091103.070145
+Thomaes, S., Bushman, B. J., Stegge, H., & Olthof, T. (2008). Trumping
+shame by blasts of noise: Narcissism, self-esteem, shame, and aggression in young adolescents. Child Development, 79, 1792–1801. doi:
+10.1111/j.1467-8624.2008.01226.x
+Trach, J., Hymel, S., Waterhouse, T., & Neale, K. (2010). Bystander
+responses to school bullying: A cross-sectional investigation of grade
+and sex differences. Canadian Journal of School Psychology, 25, 114 –
+130. doi:10.1177/0829573509357553
+Twenge, J. M., Baumeister, R. F., Tice, D. M., & Stucke, T. S. (2001). If
+you can’t join them, beat them: Effects of social exclusion on aggressive
+behavior. Journal of Personality and Social Psychology, 81, 1058 –1069.
+doi:10.1037/0022-3514.81.6.1058
+Vossekuil, B., Fein, R. A., Reddy, M., Borum, R., & Modzeleski, W.
+(2002). The final report and findings of the Safe School Initiative:
+Implications for the prevention of school attacks in the United States.
+
+IMPLICIT THEORIES AND ADOLESCENT VENGEANCE
+Washington, DC: U.S. Secret Service and U.S. Department of Education.
+Walker, D., Greenwood, C., Hart, B., & Carta, J. (1994). Prediction of
+school outcomes based on early language production and socioeconomic
+factors. Child Development, 65, 606 – 621. doi:10.2307/1131404
+Weiner, B. (1986). An attributional theory of motivation and emotion. New
+York, NY: Springer-Verlag.
+Weiner, B. (1995). Judgments of responsibility: A foundation for a theory
+of social conduct. New York, NY: Guilford Press.
+
+1107
+
+Williams, K. D. (2009). Ostracism: A temporal need–threat model. In M.
+Zanna (Ed.), Advances in experimental social psychology (Vol. 41, pp.
+275–314). New York, NY: Academic Press. doi:10.1016/S00652601(08)00406-1
+
+Received June 6, 2010
+Revision received January 5, 2011
+Accepted January 19, 2011 䡲
+
+Online First Publication
+APA-published journal articles are now available Online First in the PsycARTICLES database.
+Electronic versions of journal articles will be accessible prior to the print publication, expediting
+access to the latest peer-reviewed research.
+All PsycARTICLES institutional customers, individual APA PsycNET威 database package subscribers, and individual journal subscribers may now search these records as an added benefit.
+Online First Publication (OFP) records can be released within as little as 30 days of acceptance and
+transfer into production, and are marked to indicate the posting status, allowing researchers to
+quickly and easily discover the latest literature. OFP articles will be the version of record; the
+articles have gone through the full production cycle except for assignment to an issue and
+pagination. After a journal issue’s print publication, OFP records will be replaced with the final
+published article to reflect the final status and bibliographic information.
+
+

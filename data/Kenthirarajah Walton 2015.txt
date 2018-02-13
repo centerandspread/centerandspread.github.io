@@ -1,0 +1,614 @@
+How Brief Social-Psychological
+Interventions Can Cause
+Enduring Effects
+DUSHIYANTHINI (TONI) KENTHIRARAJAH and GREGORY M. WALTON
+
+Abstract
+In recent years, several studies have shown that brief, theory-based socialpsychological interventions can cause large, enduring effects on important outcomes, such as school achievement and marital relationships. How are such
+effects possible? We propose a field-theory model: this model distinguishes “nudge”
+interventions—interventions designed to change a “snapshot” in time such as
+a particular decision or behavior—from interventions designed to change a
+“movie”—core beliefs or other aspects of the self and thus people’s behavior
+as it unfolds over time in diverse settings. Movie interventions target underlying
+social-psychological processes—such as students’ confidence that they belong in
+school or individuals’ felt security in close relationships. These psychological processes can interact with naturalistic variables—such as how people interact with one
+another and the relationships they build—to propel intervention effects forward in
+time. In this model, real-world factors can serve as proximal outcomes that catalyze
+long-term effects. An important implication is that such interventions can sometimes
+amplify their effects over time, if the targeted recursive process “snowballs.” A second implication is that the long-term effects of movie interventions are dependent on
+the context—specifically, on whether the context affords naturalistic variables that
+can catalyze changes in the self forward in time. To illustrate this field-theory model,
+we compare it to Mortensen and Cialdini’s (2010) full-cycle model. Although both
+models share important features, including an emphasis on laboratory research, the
+latter treats forces in the world as “noise” and predicts that the effects of psychological interventions will dissipate, not strengthen with time. In addition to their applied
+potential, movie interventions raise profound new theoretical questions, such as how
+psychological processes unfold over time and do so in interaction with social contexts. Exploring these questions represents an exciting direction for future research.
+
+INTRODUCTION
+It is increasingly obvious that most if not all major social problems have
+a behavioral, and specifically a psychological component. Why do people
+eat too much junk food; how can we encourage healthier eating? Why
+Emerging Trends in the Social and Behavioral Sciences. Edited by Robert Scott and Stephan Kosslyn.
+© 2015 John Wiley & Sons, Inc. ISBN 978-1-118-90077-2.
+
+1
+
+2
+
+EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES
+
+do few people sign up to be organ donors or contribute to retirement
+savings programs? Why do many people not vote; can we promote greater
+civic engagement? Why do students disengage from school; can we raise
+achievement? What causes marriages to go awry; can we prevent this? How
+can we promote more sustainable behaviors?
+In recent years, the social sciences have seen a veritable explosion of
+techniques to promote positive behavior change in diverse settings (Cohen
+& Sherman, 2014; Thaler & Sunstein, 2009; Walton, 2014; Yeager & Walton,
+2011). These techniques aim to help people flourish—to accomplish their
+own personally important goals—and, in so doing, to begin to address major
+societal problems. In an effort to facilitate a deeper understanding of diverse
+social problems and how we can tackle them, this review distinguishes
+two kinds of interventions. The first, often referred to as nudges (Thaler &
+Sunstein, 2009) aims to change a specific decision or behavior in a specific
+setting. We call these “snapshot interventions”: They aim to change behavior
+in a moment in time. Although important in many contexts, we argue that
+this approach is inherently limited. Many social problems unfold over time
+in diverse settings, such as the quality of close relationships or students’
+achievement in school. Is it possible to change behavior in a great array of
+situations so as to strengthen marriages or to raise school achievement? We
+call interventions that aim to accomplish this “movie interventions”: Movie
+interventions aim to change core beliefs or other aspects of the self and thus
+people’s behavior over time in diverse settings in ways that can become
+self-perpetuating and improve outcomes such as these.
+To illustrate this distinction, we begin with a prominent model of the intersection of psychological research with real-world problems: Mortensen and
+Cialdini (2010)’s full-cycle model. We discuss some of the assumptions this
+model makes and predictions that follow from it about how psychological
+strategies can affect real-world outcomes. Next, we discuss several recent
+interventions that are not well-explained by the full-cycle model and propose a complementary model—a field-theory model—to account for them.
+We conclude by discussing critical questions these interventions raise for the
+field.
+
+FOUNDATIONAL RESEARCH
+MORTENSEN & CIALDINI (2010)’S FULL-CYCLE MODEL OF PSYCHOLOGICAL RESEARCH
+Mortensen and Cialdini’s full-cycle model emphasizes how theory development, laboratory experimentation and field research iteratively inform one
+another. In this model, the control available in laboratory settings helps
+researchers develop psychological theory and a precise understanding of
+
+How Brief Social-Psychological Interventions Can Cause Enduring Effects
+
+3
+
+causal relationships, which may be weaker or less apparent in naturalistic
+settings. Analogously, while field research can reveal whether an independent variable can change behavior that matters in the real world, Mortensen
+and Cialdini argue that field settings are ill-equipped to identify the theoretical processes that underlie an effect. Moreover, they suggest, because
+variables that were deliberately controlled in the laboratory may be influential in naturalistic settings, the field represents a conservative test of effects
+established in the laboratory. They conceptualize naturalistic variables
+as noise: “Once in the field and unable to carefully manipulate variables
+under study while eliminating all confounding variables—variables that, as
+mentioned before, may actually overpower the effects of the variables under
+study outside the lab—one can see if an effect is really worth its salt.” (p. 59).
+According to this model, it is crucial to test an effect in the laboratory to
+understand its scope in a controlled environment and to identify underlying
+mechanisms and in the field to identify boundary conditions and assess its
+prevalence and strength.
+SNAPSHOT INTERVENTIONS: NUDGES TO CHANGE A SPECIFIC DECISION OR BEHAVIOR IN A
+SPECIFIC CONTEXT
+If real-world settings are replete with noise that risks drowning out any intervention, then the task of the social scientist who wishes to promote positive
+social change is daunting. From this perspective, one way forward is to identify key decision points or single behaviors that are consequential and can
+be impacted positively with an understanding of underlying psychological
+processes. By narrowly targeting a single important decision or behavior,
+this approach tests whether a psychological process matters in terms of an
+important outcome while limiting the influence of other factors that may
+arise in field settings that would wash out the impact of a more comprehensive approach.
+For instance, research points to the role of defaults in determining whether
+people agree to be organ donors (Johnson & Goldstein, 2003); setting the
+default as to donate rather than to not donate (opt-out versus opt-in) conveys a norm of donating that encourages greater support for organ donation
+(Davidai, Gilovich, & Ross, 2012). In addition, research suggests that one way
+to increase voter turn-out is to represent voting as an opportunity to become a
+valued kind of person, not just an errand to be run (Bryan, Walton, Rogers, &
+Dweck, 2011). In this research, simply asking registered voters to respond to a
+series of questions the day before an election about “being a voter” instead of
+parallel questions about “voting” increased voter turnout in two state-wide
+elections in the United States by about 11%—one of the largest experimental
+effects ever observed on objective measurements of voter turnout.
+
+4
+
+EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES
+
+An obvious limitation of this approach is that many social problems are
+not discrete decisions or behaviors but behaviors that unfold over time,
+in interaction with social systems. Can “nudges” change behavior over
+time? One approach to such problems is to instantiate fixed features in
+social situations that continually evoke and re-evoke desired behaviors.
+For instance, reorganizing a school cafeteria to make healthy options more
+convenient can reduce how much junk food students eat (Hanks, Just,
+Smith, & Wansink, 2012). In addition, research shows that “broken-windows
+policing”—that is, fixing “broken windows”: cleaning vacant lots, razing
+abandoned buildings, removing graffiti, and improving street lighting—can
+reduce crime in those neighborhoods. Working with police in Lowell,
+Massachusetts, Braga and Bond (2008) randomized local crime hotspots
+to broken-windows or business-as-usual policing. As compared to control
+hotspots, the cleaned-up hotspots showed 19.8% fewer citizen 911 calls for
+infractions such as assault, robbery, and disorder over the next 6 months.
+Why? Laboratory research and small-scale field experiments (e.g., Cialdini,
+Reno, & Kallgren, 1990) show that salient cues of disorder signal that
+rule breaking is acceptable in a setting. By changing those cues, local law
+enforcement changed the perceived social norm and thus people’s behavior
+within that setting over time.
+What happens, however, when people leave one neighborhood and walk
+into another? Alternatively, if signs of disorder in a neighborhood accumulate, perhaps after the broken-windows policing grant has run its course
+or the police chief moves to a new city? Put bluntly, “nudge” interventions
+have no theory of time beyond the immediate cues in a situation—no way
+to understand how to change people’s behavior so as to improve their
+outcomes in many situations over long periods of time. Yet this is exactly
+characteristic of many social problems, from school achievement, to health
+behaviors, to relationships. Another kind of intervention can address these
+social problems—they target the one thing people carry with them from
+situation to situation: the self.
+CUTTING-EDGE RESEARCH: SOCIAL-PSYCHOLOGICAL
+INTERVENTIONS AFFECT THE SELF OVER TIME
+Diverse lines of research show that brief, single-shot social-psychological
+interventions can affect people over long-periods of time and along diverse
+outcomes. These movie interventions aim to change not a moment in time but
+people’s experience over time (Walton, 2014; Wilson, 2011). For instance,
+Walton and Cohen’s (2007, 2011) social-belonging intervention consisted
+of a single hour-long session during students’ first-year of college. This
+intervention gave students a new belief about the transition to college—that
+
+How Brief Social-Psychological Interventions Can Cause Enduring Effects
+
+5
+
+worries about belonging are normal in this transition and pass with time.
+This raised at-risk students’ achievement over the next 3 years. Finkel,
+Slotter, Luchies, Walton, & Gross (2013) asked married couples to complete
+three 7-min writing tasks over a year: they reflected on how a neutral third
+party would view conflicts in their marriage and how they could adopt this
+perspective in future conflicts. This caused couples to experience greater
+passion, intimacy, and love in their marriages over the year, and the benefits
+amplified over time.
+How are such effects possible? As an intervention recedes in time, will it
+not recede in recipients’ minds? How can an experience that is distal in time
+and presumably in mind continue to cause effects?
+To understand movie interventions, we propose a field-theory model (see also
+Garcia & Cohen, 2013; Yeager & Walton, 2011). This model incorporates several aspects of the full-cycle model, including the importance of psychological
+theory and basic laboratory research and the interplay between laboratory
+and field research. However, the field-theory model conceptualizes the field
+as not just a source of noise that risks undermining intervention effects but
+as also replete with naturalistic variables—such as relationships people can
+develop or skills they can acquire—that can serve as potential mediators or
+catalysts that can propel intervention effects forward in time. These variables
+are often of necessity absent in laboratory settings. However, in real-world
+settings, the long-term effects of movie interventions may depend on them
+(Table 1).
+This approach builds on classic theorizing in social psychology. Lewin’s
+(1943) field-theory analysis posits that people operate within a force field
+Table 1
+Comparison of “Snapshot” and “Movie” Interventions
+Snapshot Interventions
+Theoretical questions
+
+Role of real-world variables
+
+Role of time
+Size of effect in laboratory
+versus field settings
+Range of situations in which
+intervention effects may
+arise
+
+Movie Interventions
+
+Psychological processes that Psychological processes that
+can be isolated in the
+arise in field settings and
+laboratory
+how these interact with
+social contexts over time
+“Noise” that may attenuate
+Mediators that may propel
+intervention effects
+intervention effects forward
+in time
+Intervention effects assumed Intervention effects may
+to diminish over time
+sustain or amplify over time
+Assumed to be larger in the May be as large or larger in
+laboratory
+field settings
+Narrow
+Potentially broad
+
+6
+
+EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES
+
+or tension system in which, at any moment, multiple forces act upon the
+individual. The equilibrium of forces determines the individual’s attitudes
+and behaviors. Because forces in the system are interrelated, adding,
+changing, or removing a force can change the individual’s outcomes. An
+underappreciated aspect of this theorizing is that the force field is dynamic.
+A change in how a person understands or responds to a setting can change
+the situation they face later. As a consequence, a well-timed, well-targeted
+intervention can, in theory, change people’s experiences in the future.
+Movie interventions generally initiate change by first instantiating change
+within the self, for instance in a person’s core beliefs and/or construal of
+the social world. Because these interventions occur in naturalistic environments, the events, experiences and interactions that take place in these settings supply input, allowing the individual to use and act on a new way of
+understanding the world. In a recursive environment, doing so elicits a congruent response from the environment. Over time, the force field is restructured, allowing the effects of an initial intervention to persist without further
+intervention—to “snowball.”
+Consider an intervention that promotes a less hostile view of a marital conflict. If successful, this intervention might change how people interact with
+their spouse—whether they treat them generously or cruelly. This in turn
+may change the situation the person finds him or herself in the future—with a
+well-disposed or an angry spouse. As this process repeats over time, positive
+interactions become easier. Through processes such as this, a brief intervention may generate lasting effects.
+Because movie interventions are designed to change recursive processes
+over time, they may be most effective in settings that are inherently recursive,
+such as school environments, where students build relationships and learn
+academic material over time, and close and intergroup relationship contexts.
+Next we review brief movie interventions in all these areas.
+SCHOOL ACHIEVEMENT
+Social-Belonging Intervention. In the social-belonging intervention (Walton & Cohen, 2007, 2011), first-year college students learned that many
+students worry about their social belonging when they first enter college
+but, with time, come to feel at home. This 1-h intervention raised the
+grade-point-average of African American students over the next 3 years
+as compared to randomized controls, reducing the achievement gap with
+White-American students by 52%. The intervention effect increased with
+time; senior year it reduced the achievement gap by 79%. Moreover, at
+the end of college, African American students in the treatment condition
+reported being healthier and happier than peers in the control condition.
+
+How Brief Social-Psychological Interventions Can Cause Enduring Effects
+
+7
+
+How is this possible? At the end of college, participating students were
+asked what they had learned in the intervention. By and large, they could
+not remember the intervention message. The intervention did not work
+by remaining salient in students’ minds. Instead, it changed the implicit
+narrative students used to interpret early experiences in college and thus
+how they engaged with others over time. Students who are underrepresented
+and negatively stereotyped in school can easily worry whether “someone
+like me” can belong there. By giving students a non-threatening narrative
+with which to interpret social adversity on campus—Everyone worries at first
+about whether they belong: It doesn’t mean I don’t belong—the intervention helps
+students ride out the inevitable early struggles of the college transition,
+such as feeling lonely or disrespected, to reach out and build the kind of
+positive peer and mentor relationships that are necessary for success in a
+demanding academic environment; indeed, research increasingly shows that
+this intervention helps students see daily adversities in less negative, global
+terms and helps students build better relationships in school over time (e.g.,
+Walton & Cohen, 2011; Walton, Logel, Peach, Spencer, & Zanna, in press).
+In this research, changing a critical psychological variable—students’
+beliefs about belonging in the transition to college—surely did not improve
+their outcomes years later alone. However, this change-in-belief helped
+students engage with others in the academic environment in ways that
+promoted better relationships. The result was that, long after the intervention, intervention-condition students literally led different lives than
+control-condition students—lives that afforded greater support to succeed
+in college.
+Implicit Theories of Intelligence Interventions. Using an 8-session workshop,
+Blackwell, Trzesniewski, and Dweck (2007) taught middle school students
+effective study skills. In addition, half learned that the brain is like a
+muscle—that it grows new connections and “gets smarter” when a person
+works hard on challenging tasks (a “growth-mindset”). Students in the
+“growth mindset” condition showed a sharp increase in math grades over
+the rest of the academic year. Students in the control condition exhibited a
+continued decline in math grades, which is typical in middle school.
+Why was this intervention powerful? Some students believe that intelligence is fixed—you either have it or you do not. This belief leads students
+to avoid challenges and, when they experience a setback, to attribute this to
+a lack of ability. Thus when schoolwork is challenging students disengage
+and learn less (Blackwell et al., 2007). By contrast, students who believe that
+intelligence is malleable prize learning. They seek out challenges that offer an
+opportunity to learn and, when they experience a setback, attribute it to a lack
+of effort or the wrong strategy. Thus they redouble their effort or seek help.
+
+8
+
+EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES
+
+By changing students’ beliefs about the nature of intelligence, the
+“growth-mindset” intervention transformed how students responded to
+the increasing academic difficulties of middle school. It led students to stay
+engaged as learners as the work got harder. Growth-mindset interventions
+can thus forestall vicious cycles in which poor performance reinforces a
+student’s belief that intelligence is fixed (and “I don’t have it”). Instead,
+they facilitate virtuous cycles in which students respond to challenges
+with increased effort and improved learning, reinforcing the belief that
+intelligence is malleable.
+Value-Affirmation Interventions. In a series of trials, Cohen and colleagues
+have given adolescent students 15–20 min writing exercises in which they
+reflect on values. Students write either about values that are personally
+important to them or about values that are not important to them but
+might matter to someone else. The results show that at-risk students
+who write about personally important values exhibit striking gains in
+academic performance. In one study, this “value-affirmation” intervention,
+delivered several times, raised the overall grade-point-average of initially
+low-performing African American adolescents over the next 2 years (Cohen,
+Garcia, Purdie-Vaugns, Apfel, & Brzustoski, 2009).
+How does this intervention work? Laboratory research shows that reflecting on personally important values can defuse psychological threat and help
+people function more effectively in difficult situations. Doing so helps people understand a psychological threat in the broader context of values that
+matter to them, and thus prevents people from feeling overwhelmed by the
+threat. School is an inherently evaluative environment; it is especially threatening for students who face negative intellectual stereotypes, such as African
+American students. Moreover, because school is so recursive, a poor performance early on, especially when experienced as a psychological threat,
+can undermine later performance. Value-affirmation interventions delivered
+early in the school year can prevent ethnic-minority students who struggle
+early from inferring that they cannot fit in or succeed in school. By interrupting a cycle of poor performance and feelings of nonbelonging, the intervention caused lasting benefits among initially low-performing African American students.
+CLOSE RELATIONSHIPS
+Close relationships are perhaps nothing more than recursive processes. One
+person behaves; the other person construes that behavior. That construal
+affects their behavior in turn; the first person responds. I get mad and you do
+too; I am kind and you are kind too. Can we alter such recursive processes to
+improve close relationships over time?
+
+How Brief Social-Psychological Interventions Can Cause Enduring Effects
+
+9
+
+The “Take-a-Compliment!” Intervention. People with low self-esteem habitually question their worth. As a consequence, they may question whether
+a relationship partner truly loves them. This can prevent people with low
+self-esteem from truly accepting a compliment from a romantic partner—
+from believing that the compliment reflects how their partner views and
+values them in a global way (e.g., “He appreciates that I am thoughtful” vs
+“He said I was thoughtful”; Marigold, Holmes, & Ross, 2007).
+Marigold et al. (2007) and Marigold, Holmes, and Ross (2010) designed an
+intervention to induce people with low self-esteem to accept a compliment
+from a romantic partner. They asked young people in relationships to think
+of a compliment their partner had recently given them. Then some people
+were asked to describe the setting in which their partner had complimented
+them—when and where. Others were asked to describe “why your partner admired you … [and] what it meant to you and its significance for your
+relationship.”
+What was the effect? For people with high self-esteem, which question was
+asked did not matter much—they seemed to have no trouble accepting a
+compliment in either case. However, for people with low self-esteem, being
+asked to describe why a compliment had general significance transformed
+their experience in the relationship. In this condition, low self-esteem
+participants reported valuing the relationship more and feeling more secure
+in it. Several weeks later, they continued to feel more secure and, further,
+their partners reported they behaved more positively toward them in the
+interim. In turn, participants reported that their partner had behaved more
+positively toward them as well (Marigold et al., 2007, 2010). The intervention
+thus changed the recursive interplay between romantic partners; it set
+couples off on a better trajectory.
+One caveat suggests the importance of precision in this intervention. When
+people with low self-esteem were asked not “why” but “whether your partner admired you” all the benefits disappeared (Marigold et al., 2007). When
+asked “why,” people with low self-esteem could explain why their partner
+had meant a general meaning. However, when asked “whether,” people with
+low self-esteem essentially construed the compliment as not having a global
+meaning.
+The Third Person Perspective Intervention. Every few months, Finkel et al.
+(2013) asked married couples enrolled in a longitudinal study to reflect on
+the most serious conflict in their marriage. One year into the 2-year study,
+a random half of the couples were asked, in addition, to describe (i) how
+“a neutral third-party who wants the best for all” would think about the
+conflict, (ii) barriers that could prevent them from taking this perspective
+
+10
+
+EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES
+
+in future conflict situations with their spouse, and (iii) how they could
+overcome these barriers to adopt this perspective. Couples completed this
+7-min writing exercise three times over the course of a year. Couples in
+the control condition, who did not complete this exercise, continued to
+show the decline in marital quality that is typical in longitudinal studies.
+However, couples who completed the perspective-taking task stabilized in
+their marital quality—they reported levels of passion, intimacy, love, and
+satisfaction as high at the end of the intervention year as at the beginning.
+Why was this intervention so effective? Couples in both conditions reported
+the same levels of conflict—the intervention did not reduce the conflict couples experienced. However, the intervention prevented conflicts from spiraling out of control. One of the most damaging cycles in relationships is
+known as negative affect reciprocity (Gottman, 1998), where each person gets
+angry in turn, exacerbating the other’s distress. By teaching couples to take
+a neutral third-party perspective, the intervention reduced couples’ distress
+in conflicts. With less distress, couples were presumably better able to use
+conflicts to address issues in their relationships and problem-solve, instead
+of exacerbating a negative interaction.
+INTERGROUP RELATIONSHIPS
+People often feel anxious interacting with members of another social
+group, especially if they think that these interactions will go poorly. If
+people avoid such interactions as a consequence, this may only increase
+their anxiety about and avoidance of intergroup interactions. Page-Gould,
+Mendoza-Denton, and Tropp (2008) hypothesized that developing a single
+close intergroup friendship would contradict people’s negative expectations about intergroup interactions, and could thus reduce anxiety about
+intergroup interactions and improve intergroup outcomes more broadly.
+They assigned Latino and White students to interact in either same-race or
+cross-race dyads in a series of three meetings. Partners got to know each
+well over these meetings—asking one another increasingly self-disclosing
+questions and completing several cooperative tasks together. As predicted,
+participants in the cross-group dyads reported less anxiety in their daily
+lives when interacting across racial lines and sought out more intergroup
+interactions. Developing a close intergroup friendship helped participants
+learn that intergroup interactions need not go badly, reducing anxiety and
+facilitating further intergroup contact.
+Additional research shows that even minimal social connections across
+group lines can improve intergroup attitudes and interest in intergroup
+interactions in some circumstances, with effects lasting as long as 6 months
+later (Brannon & Walton, 2013). In demonstrating ways positive intergroup
+
+How Brief Social-Psychological Interventions Can Cause Enduring Effects
+
+11
+
+interactions and relationships can become self-reinforcing, this research illustrates how psychological interventions can set in motion enduring change.
+KEY ISSUES FOR FUTURE RESEARCH
+Mortensen and Cialdini’s full-cycle model effectively accounts for snapshot
+interventions—nudges to change a specific decision or behavior in a specific setting. However, it does not aim to account for movie interventions,
+which aim to change the self and thus behavior over time and in diverse
+circumstances. Yet movie interventions are especially exciting not only for
+their applied potential but also because they raise profound new theoretical
+questions absent in snapshot interventions: How does the psychological process
+targeted by the intervention affect recursive processes that unfold over time? How
+can proximal outcomes become mediators that affect subsequent outcomes? In so
+doing, movie interventions force researchers to develop theories about social
+contexts and how psychological processes intersect with these contexts over
+time. For instance, researchers must consider whether a context provides the
+necessary affordances for an initial psychological change to carry forward. If
+a student acquires a growth mindset, is she exposed to challenging material
+she can learn from and “practice” her growth-mindset on? Do her teachers
+notice and support a more engaged approach to learning? Similarly, if an
+intervention invites a person to take a more charitable approach to a marital
+conflict, is there sufficient trust for his or her spouse to respond in kind?
+These theoretical questions are fundamentally interdisciplinary. They
+involve how social-psychological variables (e.g., What is the key psychological
+process the intervention addresses? How?) play out over time, a core concern of
+developmental psychology, and how they do so in interaction with social and
+structural factors, core concerns of sociology. Research at this intersection
+will give rise to a new understanding of how and when social-psychological
+processes contribute to major social problems in interaction with social systems. It will also help us diagnose social problems in a new way. For instance,
+if a growth-mindset intervention has no impact on students’ achievement
+in particular settings, we can look to those settings and ask whether key
+mediators of higher performance were present—was challenging material
+available to students? Were teachers supportive of students’ efforts to learn?
+This research will help us develop more comprehensive theories of social
+problems and, simultaneously, reach more people in need.
+REFERENCES
+Blackwell, L. A., Trzesniewski, K. H., & Dweck, C. S. (2007). Theories of intelligence
+and achievement across the junior high school transition: A longitudinal study
+and an intervention. Child Development, 78, 246–263.
+
+12
+
+EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES
+
+Braga, A. A., & Bond, B. J. (2008). Policing crime and disorder hot spots: A randomized, controlled trial. Criminology, 46, 577–607.
+Brannon, T. N., & Walton, G. M. (2013). Enacting cultural interests: How intergroup
+contact reduces prejudice by sparking interest in an outgroup’s culture. Psychological Science, 24, 1947–1957.
+Bryan, C. J., Walton, G. M., Rogers, T., & Dweck, C. S. (2011). Motivating voter turnout
+by invoking the self. Proceedings of the National Academy of Sciences of the United
+States of America, 108, 12653–12656.
+Cialdini, R. B., Reno, R. R., & Kallgren, C. A. (1990). A focus theory of normative
+conduct: Recycling the concept of norms to reduce littering in public places. Journal
+of Personality and Social Psychology, 58, 1015–1026.
+Cohen, G. L., Garcia, J., Purdie-Vaugns, V., Apfel, N., & Brzustoski, P. (2009). Recursive processes in self-affirmation: Intervening to close the minority achievement
+gap. Science, 324, 400–403.
+Cohen, G. L., & Sherman, D. K. (2014). The psychology of change: Self-affirmation
+and social psychological intervention. Annual Review of Psychology, 65, 333–371.
+Davidai, S., Gilovich, T., & Ross, L. D. (2012). The meaning of defaults for potential
+organ donors. Proceedings of the National Academy of Sciences, 109(38), 15201–15205.
+Finkel, E. J., Slotter, E. B., Luchies, L. B., Walton, G. M., & Gross, J. J. (2013). A brief
+intervention to promote conflict reappraisal preserves marital quality over time.
+Psychological Science, 24, 1595–1601.
+Garcia, J., & Cohen, G. L. (2013). A social psychological perspective on educational
+intervention. In E. Shafir (Ed.), Behavioral foundations of policy (pp. 329–350). New
+York, NY: Russell Sage.
+Gottman, J. M. (1998). Psychology and the study of marital processes. Annual Review
+of Psychology, 49, 169–197.
+Hanks, A. S., Just, D. R., Smith, L. E., & Wansink, B. (2012). Healthy Convenience:
+nudging students toward healthier choices in the lunchroom. Journal of Public
+Health, 34, 370–376.
+Johnson, E. J., & Goldstein, D. G. (2003). Do defaults save lives? Science, 302,
+1338–1339.
+Lewin, K. (1943). Defining the “Field at a Given Time”. Psychological Review, 50,
+292–310.
+Marigold, D. C., Holmes, J. G., & Ross, M. (2007). More than words: Reframing compliments from romantic partners fosters security in low self-esteem individuals.
+Journal of Personality and Social Psychology, 92, 232–248.
+Marigold, D. C., Holmes, J. G., & Ross, M. (2010). Fostering relationship resilience:
+An intervention for low self-esteem individuals. Journal of Experimental Social Psychology, 46, 624–630.
+Mortensen, C., & Cialdini, R. B. (2010). Full cycle social psychology for theory and
+application. Social and Personality Psychology Compass, 4, 53–63.
+Page-Gould, E., Mendoza-Denton, R., & Tropp, L. R. (2008). With a little help from my
+cross-group friend: Reducing anxiety in intergroup contexts through cross-group
+friendship. Journal of Personality and Social Psychology, 95, 1080–1094.
+
+How Brief Social-Psychological Interventions Can Cause Enduring Effects
+
+13
+
+Thaler, R. H., & Sunstein, C. R. (2009). Nudge: Improving decisions about health, wealth,
+and happiness. New York, NY: Penguin Books.
+Walton, G. M. (2014). The new science of wise psychological interventions. Current
+Directions in Psychological Science, 23, 73–82.
+Walton, G. M., & Cohen, G. L. (2007). A question of belonging: Race, social fit, and
+achievement. Journal of Personality and Social Psychology, 92, 82–96.
+Walton, G. M., Logel, C., Peach, J., Spencer, S., & Zanna, M. P. (in press). Two brief
+social-psychological interventions transform women’s experience, relationships,
+and achievement in engineering. Journal of Educational Psychology.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves
+academic and health outcomes among minority students. Science, 331, 1447–1451.
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education:
+They’re not magic. Review of Educational Research, 81, 267–301.
+
+FURTHER READING
+Dweck, C. (2007). Mindset: The new psychology of success. New York, NY: Random
+House.
+Murray, S. L., Homes, J. G., & Collins, N. L. (2006). The relational signature of felt
+security. Psychological Bulletin, 132, 641–666.
+Sherman, D. K., & Cohen, G. L. (2006). The psychology of self-defense:
+Self-affirmation theory. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 38, pp. 183–242). San Diego, CA: Academic Press.
+Steele, C. M. (2010). Whistling Vivaldi: And other clues to how stereotypes affect us. New
+York, NY: Norton.
+Walton, G. M., Spencer, S. J., & Erman, S. (2013). Affirmative meritocracy. Social Issues
+and Policy Review, 7, 1–35.
+Wilson, T. D. (2011). Redirect: The surprising new science of psychological change. New
+York, NY: Little Brown.
+
+DUSHIYANTHINI (TONI) KENTHIRARAJAH SHORT BIOGRAPHY
+Dushiyanthini (Toni) Kenthirarajah is a PhD candidate in Social Psychology at Stanford University (http://stanford.edu/∼tonikent). She received a
+BA with Honors in Psychology from the University of Waterloo in 2010 and
+an MA in Psychology from Stanford University in 2013. Working with Gregory M. Walton and Geoffrey L. Cohen, Toni’s research examines subtle cues
+that affect social perception and judgment in intergroup contexts, such as
+the effects of ethnic-minority versus Anglo first names on judgments about
+who should be granted U.S. Citizenship, hired for a job or what the appropriate prison sentence is in a criminal case. In other research, Toni studies
+how subtle linguistic cues that signal a fixed versus growth mindset about
+intelligence in critical feedback affect students’ persistence and motivation
+following setbacks.
+
+14
+
+EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES
+
+GREGORY M. WALTON SHORT BIOGRAPHY
+Gregory M. Walton is an assistant professor of social psychology at Stanford
+University (http://www.stanford.edu/∼gwalton). Much of his research
+investigates psychological processes that contribute to major social problems
+and how “wise” interventions that target these processes can address these
+problems. These interventions can be brief but generate lasting effects.
+For instance, one 1-h intervention he developed with Geoffrey Cohen to
+bolster students’ feelings of social belonging in college raised the academic
+achievement of ethnic minority students over the next 3 years. Other
+research investigates the bases of academic motivation, how to promote
+positive close and intergroup relationships and how to increase voter
+turnout. In addition to his research, he teaches courses on psychology and
+social problems, including one entitled “Wise Interventions.” He earned
+his A.B. in Philosophy from Stanford and a PhD in Psychology from Yale
+University. After graduate school, he worked for a year as a fellow in the
+Office of Senator Hillary Rodham Clinton and then completed a postdoctoral
+fellowship at the University of Waterloo.
+RELATED ESSAYS
+What Is Neuroticism, and Can We Treat It? (Psychology), Amantia Ametaj
+et al.
+Peers and Adolescent Risk Taking (Psychology), Jason Chein
+Delusions (Psychology), Max Coltheart
+Misinformation and How to Correct It (Psychology), John Cook et al.
+Problems Attract Problems: A Network Perspective on Mental Disorders
+(Psychology), Angélique Cramer and Denny Borsboom
+Controlling the Influence of Stereotypes on One’s Thoughts (Psychology),
+Patrick S. Forscher and Patricia G. Devine
+Emerging Evidence of Addiction in Problematic Eating Behavior (Psychology), Ashley Gearhardt et al.
+Insomnia and Sleep Disorders (Psychology), Elizabeth C. Mason and Allison
+G. Harvey
+Mental Imagery in Psychological Disorders (Psychology), Emily A. Holmes
+et al.
+Normal Negative Emotions and Mental Disorders (Sociology), Allan V.
+Horwitz
+Dissociation and Dissociative Identity Disorder (DID) (Psychology), Rafaële
+J. C. Huntjens and Martin J. Dorahy
+Computer Technology and Children’s Mental Health (Psychology), Philip C.
+Kendall et al.
+
+How Brief Social-Psychological Interventions Can Cause Enduring Effects
+
+15
+
+Understanding Risk-Taking Behavior: Insights from Evolutionary Psychology (Psychology), Karin Machluf and David F. Bjorklund
+Disorders of Consciousness (Psychology), Martin M. Monti
+Culture as Situated Cognition (Psychology), Daphna Oyserman
+Cognitive Remediation in Schizophrenia (Psychology), Clare Reeder and Til
+Wykes
+Cognitive Bias Modification in Mental (Psychology), Meg M. Reuland et al.
+Clarifying the Nature and Structure of Personality Disorder (Psychology),
+Takakuni Suzuki and Douglas B. Samuel
+Rumination (Psychology), Edward R. Watkins
+Emotion Regulation (Psychology), Paree Zarolia et al.
+
+

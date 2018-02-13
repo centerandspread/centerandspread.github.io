@@ -1,0 +1,726 @@
+INAUGURAL ARTICLE
+
+Beliefs about willpower determine the impact of
+glucose on self-control
+Veronika Joba,1, Gregory M. Waltonb, Katharina Berneckera, and Carol S. Dweckb,1
+a
+
+Department of Psychology, University of Zurich, 8050 Zurich, Switzerland; and bDepartment of Psychology, Stanford University, Stanford, CA 94305
+
+This contribution is part of the special series of Inaugural Articles by members of the National Academy of Sciences elected in 2012.
+
+Past research found that the ingestion of glucose can enhance selfcontrol. It has been widely assumed that basic physiological
+processes underlie this effect. We hypothesized that the effect
+of glucose also depends on people’s theories about willpower.
+Three experiments, both measuring (experiment 1) and manipulating (experiments 2 and 3) theories about willpower, showed
+that, following a demanding task, only people who view willpower as limited and easily depleted (a limited resource theory)
+exhibited improved self-control after sugar consumption. In contrast, people who view willpower as plentiful (a nonlimited resource theory) showed no beneﬁts from glucose—they exhibited
+high levels of self-control performance with or without sugar
+boosts. Additionally, creating beliefs about glucose ingestion (experiment 3) did not have the same effect as ingesting glucose for
+those with a limited resource theory. We suggest that the belief
+that willpower is limited sensitizes people to cues about their
+available resources including physiological cues, making them dependent on glucose boosts for high self-control performance.
+self theories
+
+| implicit theories | ego depletion | cognitive performance
+
+“Ideas set free beliefs, and the beliefs set free our wills.”
+—William James, The Energies of Man (1907, p. 14) (1)
+
+n intriguing ﬁnding in recent years is that the short-term
+ingestion of glucose can improve a variety of basic cognitive
+and self-regulatory functions including episodic memory, information processing, attention, and self-control (2–5). For instance, studies show that the ingestion of glucose can prevent the
+drop in self-control performance that can otherwise follow the
+exertion of self-control (6–8), improving such things as persistence and the inhibition of impulses.
+In suggesting a close relationship between glucose and cognitive and self-regulatory outcomes, these ﬁndings raise fundamental questions about how physiological and psychological
+processes intersect. Popular theories suggest that glucose directly
+fuels brain functions, which would otherwise suffer from a lack of
+glucose (9–11). These theories can be taken to suggest that optimal performance on everyday cognitive and self-regulatory tasks
+requires frequent glucose boosts.
+Given the centrality of cognitive performance and self-regulation for human functioning and welfare in general, it would be
+striking if these functions were so fragile as to depend to a signiﬁcant extent on the short-term ingestion of glucose (12, 13).
+Research shows that various processes in the body (such as
+glucose release from the liver) assure that under normal conditions the brain has ample energy supplies for neuronal functioning (14). Moreover, numerous studies show that self-control
+performance can be restored by various psychological manipulations (e.g., positive mood, mindfulness meditation) without
+glucose ingestion (15–18). Taken together, these ﬁndings imply
+that brain functions are unlikely to depend on the short-term
+intake of glucose (14, 19). Why then does glucose ingestion
+improve self-control performance?
+
+A
+
+www.pnas.org/cgi/doi/10.1073/pnas.1313475110
+
+In contrast to the “brain-fueling” hypothesis, we hypothesized
+that a culturally shaped belief common in modern society creates
+conditions in which glucose facilitates cognitive performance and
+self-regulation. If this is the case, it would mean that many of the
+limits in self-control attributed to a lack of glucose are imposed
+largely by our society and ourselves. Our reasoning is consistent
+with the classic theorizing of William James, who wrote, “We live
+subject to inhibition by degrees of fatigue which we have come
+only from habit to obey” (1, p. 5).
+Is it only from habit—stemming from a common cultural belief—that the ingestion of glucose affects subsequent cognitive
+and self-regulatory performance? With a particular focus on selfcontrol, we hypothesized that the pervasive belief that willpower
+is limited and easily depleted can cause people to become dependent on glucose boosts for optimal functioning. This belief,
+which we call a limited resource theory of willpower, may sensitize people to cues about their available resources and their
+capacity to sustain a high level of self-control. Glucose ingestion
+and the physiological processes it triggers may serve as one such
+cue, signaling to people who believe that willpower is highly
+limited that they have the capacity to sustain effort.
+How might glucose ingestion signal people with a limited resource theory that they have sufﬁcient resources? One route suggested by previous research involves peripheral sensory receptors
+(e.g., in the mouth and digestive system), which activate dopaminergic pathways connected to reward regions in the brain (20, 21).
+For instance, recent studies ﬁnd that merely rinsing the mouth
+with glucose without ingesting it can improve self-control performance (22–24). Thus, people who have ingested glucose may
+perform better because these peripheral cues signal the likely
+availability of energy, motivating them to sustain effort on difﬁcult tasks (25–27). In the present research, we hypothesized
+that such cues are relevant only for people who think that willpower is a limited resource, because only these people are concerned about the availability of mental resources and expect that
+their capacity for self-control will diminish as a consequence of the
+exertion of self-control.
+Signiﬁcance
+The present research provides critical new ﬁndings about the
+role of glucose ingestion in self-control and cognitive performance. It argues against the popular view that self-control
+depends on a limited physiological resource (blood glucose) that
+is depleted by even brief acts of self-control and is restored by
+glucose consumption. Instead, the results highlight the critical
+role of beliefs about willpower in self-control performance.
+Author contributions: V.J., G.M.W., and C.S.D. designed research; V.J. and K.B. performed
+research; V.J. analyzed data; and V.J., G.M.W., and C.S.D. wrote the paper.
+The authors declare no conﬂict of interest.
+See QnAs on page 14818.
+1
+
+To whom correspondence may be addressed. E-mail: v.job@psychologie.uzh.ch or
+dweck@stanford.edu.
+
+PNAS | September 10, 2013 | vol. 110 | no. 37 | 14837–14842
+
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+
+Contributed by Carol S. Dweck, July 18, 2013 (sent for review January 19, 2013)
+
+Our proposal draws on past research that examined people’s
+beliefs about the nature of willpower (28). One belief, as noted
+above, is the belief that willpower is limited and easily depleted
+(assessed with questions like “After a strenuous mental activity,
+your energy is depleted and you must rest to get it refueled
+again”). The other belief, which we call the nonlimited resource
+theory,* is the idea that willpower is not easily used up but can
+even be activated through the exertion of self-control (e.g.,
+“After a strenuous mental activity, you feel energized for further
+challenging activities”). Job et al. (28) found that only people with
+a limited resource theory performed more poorly on cognitive
+and self-control tasks as demands on self-control accumulated.
+People who believed—or who had been led to believe—that
+willpower is nonlimited continued to perform well on a series
+of tasks regardless of whether they had previously exerted selfcontrol or not.
+Importantly, this past research provides initial evidence that
+people with a limited resource theory perform worse after a
+demanding task because they are sensitive to cues about the
+availability of mental resources. Although people induced to
+hold a limited resource theory and a nonlimited theory of willpower found an initial demanding task equally fatiguing, only for
+those with the limited resource theory did the extent to which
+they found the task fatiguing predict worse performance on the
+next self-control task.
+If a limited resource theory sensitizes people to cues about the
+availability of resources, one such cue could be glucose and the
+physiological response it triggers (22). If so, only people with
+a limited resource theory about willpower should exhibit glucosedependent self-control performance. By contrast, people with a
+nonlimited theory of willpower should perform well regardless
+of whether they have consumed glucose or not.
+Moreover, if it is really the belief that accounts for differences
+in the reaction to glucose ingestion and not a preexisting difference between groups (e.g., in glucose tolerance), then the
+same ﬁndings should emerge both when willpower theories are
+measured as an individual difference and when they are manipulated experimentally.
+Overview of Studies
+Three experiments tested the joint effect of lay theories about
+willpower and glucose ingestion on self-control performance
+following an initial demanding task. Lay theories about willpower were measured in experiment 1 and manipulated in
+experiments 2 and 3 to test their causal effect. In experiment 3,
+the belief that one had ingested sugar was additionally manipulated to see whether the mere belief would have the same effect
+as actually ingested glucose. Across all studies, we predicted that
+only people with a limited resource theory of willpower would
+show poor performance following a demanding task and improved performance with the ingestion of glucose.
+Experiment 1
+Experiment 1 tested the effects of ingesting a sugar drink as
+opposed to an artiﬁcially sweetened drink on self-control after
+a demanding task. We predicted, as noted, that this effect would
+differ as a function of people’s lay theory about willpower. Participants (n = 87) were recruited for a study on perception of
+food and tasks. Following past studies, they were asked not to eat
+or drink anything but water in the 2 h before the study (8, 9).
+During the session, participants ﬁrst completed several scales
+including the implicit theories about willpower scale (six items)
+
+*The term nonlimited should not be confused with unlimited. People with a nonlimited
+theory of willpower reject the view that willpower is highly constrained and easily depleted (e.g., by a relatively modest act of mental exertion). However, such people do not
+necessarily view willpower as limitless and are not immune to depletion from highly
+strenuous tasks of long duration.
+
+14838 | www.pnas.org/cgi/doi/10.1073/pnas.1313475110
+
+(28). Next, they drank and evaluated lemonade sweetened with
+either sugar (140 calories) or a sugar substitute (0 calories). We
+allowed 10 min to pass before the key dependent measure
+(the time prescribed by past research for glucose to exert its
+physiological effect) (9). During this time, all participants completed a demanding self-control task that required them to override a previously established habit (crossing out every “e” in a text)
+based on a more complex rule that required them to cross out
+some “e’s” but not others (29, 30). Finally, as the primary outcome, participants completed a computer-based Stroop task,
+a frequently used measure of self-control (31). Color words
+appeared on a screen in a font color that was either congruent
+(48 trials) or incongruent (48 trials) with the color name. Participants were instructed to identify as quickly as possible the
+font color. When the word-color combination is incongruent
+(e.g., the word “green” written in red), participants must inhibit
+the interfering word meaning to respond with the correct font
+color. As a measure of self-control performance on the Stroop
+task, we examined the difference in reaction time between congruent and incongruent trials (Stroop interference).
+Conﬁrming the success of random assignment, there were no
+differences between the sugar and nonsugar conditions in participants’ theories of willpower or any other variable assessed
+before the tasting task. However, although participants could not
+detect whether they had consumed a sugar or a nonsugar beverage (χ2 < 1), they liked the sugar drink (mean = 4.66, SD =
+1.45) more than the sugar-substitute drink (mean = 3.67, SD =
+1.53) [t(85) = 3.15, P = 0.002]. We therefore included the liking
+of the beverage as a covariate in our analyses. Including this
+covariate did not alter the results.
+A hierarchical regression analysis of Stroop interference was
+conducted with control variables in the ﬁrst block,† experimental
+condition (sugar = 0, nonsugar =1) and lay theories about willpower (centered) in the second block, followed by their interaction term in the third block.
+Neither the main effect of drink condition nor the main effect
+of lay theories about willpower was signiﬁcant; their interaction,
+however, was signiﬁcant [b = 30.62, seb = 14.56, ΔR2 = 0.05, t(78) =
+2.10, P = 0.04]. Fig. 1 displays Stroop interference as a function
+of drink condition and willpower theory (for participants 1 SD
+above and below the mean). Participants with a limited resource
+theory who consumed the nonsugar drink show greater Stroop
+interference than the other three groups. A simple slopes analysis yielded a signiﬁcant effect of drink condition for participants
+with a limited resource theory [b = 43.34, seb = 20.52, t(78) =
+2.11, P = 0.04]. Their self-control performance was better in the
+sugar condition than in the nonsugar condition. However, participants with a nonlimited theory showed no difference between
+the sugar and nonsugar conditions [t(78) < 1]. If anything, they
+performed more poorly in the sugar condition. Further, theories
+about willpower predicted Stroop performance within the nonsugar condition [b = 21.72, seb = 10.77, t(78) = 2.02, P = 0.05].
+Without sugar, participants with a limited theory performed
+more poorly than those with a nonlimited theory. Within the
+sugar condition, theories about willpower were not related to
+performance [t(78) ≤1].‡
+These results demonstrate that the effect of glucose on selfcontrol after a demanding task depends on people’s theories
+†
+
+First, age was controlled for, because it is known to predict Stroop performance (32). In
+the third block, it had a marginal effect [β = −0.15, t(79) = −1.39, P = 0.17]. Second, we
+included a dummy variable for the two laboratory rooms where participants were
+seated. The rooms differed in the intrusion of outside noise, which may explain a slight
+difference in Stroop performance between them [β = −0.20, t(79) = −1.86, P = 0.07].
+Finally, accuracy (the total number of errors on the Stroop task) was included [β = 0.22,
+t(78) = 2.10, P = 0.04] to control for speed-accuracy tradeoffs.
+
+‡
+
+The same analyses with accuracy as the dependent variable did not yield signiﬁcant
+results either in experiment 1 or in experiment 3.
+
+Job et al.
+
+Stroop Interference
+
+Limited Theory (+1 SD)
+140
+120
+100
+80
+60
+
+Sugar Drink
+
+Sugar-Substitute Drink
+
+Fig. 1. Mean Stroop interference (reaction time to incongruent trials – reaction time to congruent trials) in milliseconds as a function of drink condition and implicit theories about willpower at ±1 SD (experiment 1).
+
+about willpower. Only people with a limited theory of willpower
+performed better after consuming glucose.
+Experiment 2
+Experiment 2 manipulated theories about willpower to test their
+causal effect. It also sought to extend our ﬁndings to a different
+measure of cognitive performance. Theories of willpower were
+manipulated by having participants (n = 62) complete a biased
+eight-item questionnaire that was altered from the original
+questionnaire by adding words like “can” or “sometimes” to
+foster agreement with either a limited theory (e.g., “Working on
+a strenuous mental task can make you feel tired such that you
+need a break before accomplishing a new task.”) or a nonlimited
+theory (e.g., “Sometimes, working on a strenuous mental task
+can make you feel energized for further challenging activities.”)
+(28). Next, participants completed the same tasting task as in
+experiment 1, followed by a 10-min task requiring self-control.
+For the latter task, participants wrote about a recent trip without
+using the letters “a” or “n” (33, 34). As the dependent measure,
+participants were then given eight moderately difﬁcult nonverbal
+IQ problems. Each problem contained a series of geometric
+ﬁgures. Participants were asked to identify from a set of possible
+solutions the ﬁgure that completed the series. This type of intellectual performance requires active self-regulation and is
+particularly susceptible to decrements after self-control exertion
+(35). Participants had 20 s to ﬁnd the correct solution to each IQ
+problem. The number of problems answered incorrectly served
+as the measure of (poor) self-control performance. By using a
+different task to tax self-control and a different dependent measure of self-control, experiment 2 ensures that the effects observed are not speciﬁc to the tasks used in experiment 1.
+As in experiment 1, participants were unable to detect what kind
+of beverage they had consumed [χ2(1) = 1.10, P = 0.29]. In addition, in this study, there was no effect of sugar vs. nonsugar on
+participants’ reported liking of the beverage [t(60) = 1.11, P = 0.27].
+To test whether the theories of willpower manipulation moderated the effects of sugar, we conducted an ANOVA on the
+total number of failed IQ problems. The predicted interaction
+was signiﬁcant [F(1,58) = 5.16, P = 0.03, η2 = 0.08; Fig. 2].
+Paralleling the results of experiment 1, simple-effects analyses
+revealed that participants in the limited theory condition performed more poorly in the nonsugar condition than in the sugar
+condition [F(1,58) = 6.32, P = 0.01, η2 = 0.10]. However, participants in the nonlimited theory condition showed no effect of
+drink condition [F(1,58) = 0.52, P = 0.47, η2 = 0.01]. Further,
+within the sugar-substitute condition, participants in the nonlimited theory condition performed better than participants in
+Job et al.
+
+Experiment 3
+The major aim of experiment 3 was to replicate the ﬁndings of
+experiments 1 and 2 and to examine the impact of beliefs about
+the glucose content of the beverage. We suggested that a limited
+theory sensitizes people to cues that can tell them about the
+availability or nonavailability of resources that might be relevant
+to the exertion of self-control, such as feelings of fatigue (28) and
+the ingestion of glucose (experiments 1 and 2). Experiment 3
+tested whether the belief that one has consumed sugar would
+have the same effect as actually consuming sugar and improve
+self-control performance among people with a limited theory
+about willpower.§ Would a limited willpower theory sensitize
+people to both top-down cues (the belief that one has consumed
+sugar) and bottom-up cues (bodily cues that might result from
+the ingestion of sugar) or would it sensitize people to bodily cues
+alone (22)? At the same time, the study tests whether a nonlimited theory of willpower liberates people from a dependence
+on both kinds of cues.
+Additionally, we removed the restriction that participants not
+eat or drink for 2 h before the study to make the ﬁndings more
+widely applicable. Removing the restriction also provided a more
+stringent test of our hypothesis that those with a limited willpower theory are sensitive to local cues, because participants
+were not deprived of glucose at the start of the study and any
+deﬁcit in willpower would come solely from their experience with
+the depleting task.
+Participants (n = 154) completed one of the two versions
+of the biased questionnaire to manipulate their theories about
+willpower. Then they performed the tasting task (consuming a
+sugar or sugar-substitute drink). Fully crossed with the drink
+manipulation used in experiments 1 and 2 was a third manipulation. Participants were told that the drink contained either
+sugar or a sugar substitute. During the subsequent 10 min, all
+participants performed a thought suppression task requiring selfcontrol. They were asked to write down all their thoughts on a
+piece of paper without thinking about a white bear (36).{ As in
+experiment 1, participants then completed a Stroop task as the
+dependent measure of self-control performance. Finally, they
+completed a manipulation check for the sugar-expectation manipulation. When asked whether they believed the drink was
+ﬂavored with sugar or a sugar substitute, all participants agreed
+with their assigned sugar-expectation description.
+There was no effect of induced theories or beliefs about sugar
+(or their interaction) on liking of the beverage, and the two
+beverages did not differ in how much they were liked.
+We entered the Stroop interference scores into a 2 (drink
+condition: nonsugar vs. sugar) × 2 (theory condition: nonlimited vs. limited) × 2 (sugar-expectation condition: nonsugar vs.
+sugar) ANOVA.jj Replicating experiments 1 and 2, there was
+
+§
+
+In experiments 1 and 2, participants were asked at the end of the study whether they
+thought the beverage contained sugar or a sugar substitute. These retrospective reports
+did not predict performance or interact with theories about willpower or
+glucose ingestion.
+
+{
+
+jj
+
+The thought suppression task was followed by several questions about participants’
+overall mood. There were no effects of the experimental manipulations on these questions and they were unrelated to subsequent self-control performance.
+
+To follow the same analytic approach as study 1, analyses controlled for age and accuracy on the Stroop task. In study 3, these were not signiﬁcant covariates [F(1,139) < 1]
+and removing them does not change the results. We did not control for different laboratory rooms, because all participants worked in cubicles in the same room.
+
+PNAS | September 10, 2013 | vol. 110 | no. 37 | 14839
+
+INAUGURAL ARTICLE
+
+Nonlimited Theory (-1 SD)
+160
+
+the limited theory condition [F(1,58) = 6.47, P = 0.01, η2 = 0.10].
+In the sugar condition, there was no effect of induced theory
+[F(1,58) = 0.29, P = 0.59, η2 = 0.01].
+The results replicate experiment 1, show that the effect of willpower theories on responses to glucose ingestion is causal, and
+extend the effect to another measure of cognitive performance.
+
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+
+180
+
+Nonlimited Theory
+Incorrect IQ Problems
+
+4.5
+
+Limited Theory
+
+4.0
+3.5
+3.0
+2.5
+2.0
+
+Sugar Drink
+
+Sugar-Substitute Drink
+
+Fig. 2. Mean number of incorrect IQ problems as a function of drink condition and induced theory about willpower condition (experiment 2).
+
+a signiﬁcant interaction between theory condition and drink condition [F(1,139) = 5.28, P = 0.02, η2 = 0.04; Fig. 3]. Participants in
+the limited theory condition showed better Stroop performance
+when they had consumed glucose compared with sugar substitute [F(1,139) = 6.53, P = 0.01, η2 = 0.04]. For participants in
+the nonlimited theory condition, the glucose content of the
+drink did not affect Stroop performance [F(1,139) < 1]. Within
+the sugar-substitute condition, participants in the nonlimited
+theory condition outperformed participants in the limited theory condition [F(1,139) = 4.45, P = 0.04, η2 = 0.03]. In the sugar
+condition, there was no effect of induced theory [F(1,139) =
+1.15, P = 0.29, η2 = 0.01].
+The main effect of the sugar expectation condition and its
+interactions with both drink condition and theory condition were
+all non signiﬁcant [Fs(1,141) < 1]. Those with a limited willpower
+theory were not swayed by explicit information about whether
+they had ingested glucose. They were swayed only by internal
+cues that resulted from the consumption of a drink with or
+without sugar.**
+Replicating experiment 2, experiment 3 shows that people led
+to think of willpower as reliant on a limited resource became
+dependent on glucose: they exerted self-control more successfully after having consumed glucose than not and they performed
+worse without glucose than participants led to think of willpower
+as nonlimited. Furthermore, the data indicate that for people
+with a limited resource theory, just believing that they had consumed sugar did not improve performance. They seem to be
+sensitive speciﬁcally to internal signals about the availability
+of resources.
+General Discussion
+This research shows that a seemingly basic physiological process,
+the effect of glucose ingestion on self-control, depends on cultural beliefs about the nature of willpower. Replicating past research, we found that glucose ingestion can improve self-control
+and cognitive performance following the exertion of self-control
+(8). However, this effect occurred only when people endorsed
+
+**Although there was no effect of beliefs about sugar consumption on Stroop interference (reaction time to incongruent − congruent trials), an interesting pattern emerged on
+reaction times overall. Analysis across all trials with HLM yielded a signiﬁcant three-way
+interaction between theory condition (nonlimited = 0, limited = 1), drink condition (nonsugar = 0, sugar = 1), and sugar expectation condition (nonsugar = 0, sugar = 1) [b = 43.88,
+seb = 15.17, t(11800) = 2.89, P = 0.004]. Being told that the drink contained sugar made
+participants with a limited theory who had in fact consumed a diet beverage respond
+faster overall [b = −38.64, seb = 8.31, t(2811) = −4.65, P = 0.001]. However, it did not affect
+their capacity for self-control, as shown by the null effect of the sugar expectation condition on Stroop interference.
+
+14840 | www.pnas.org/cgi/doi/10.1073/pnas.1313475110
+
+the theory that willpower relies on a limited resource or had
+been led to endorse this belief experimentally. When people
+believed instead that willpower is not limited (experiment 1) or
+when they had been led to endorse this belief (experiments 2 and
+3), they did not need glucose to sustain high levels of self-control
+performance. A nonlimited theory of willpower liberates people
+from the need for constant glucose boosts to exert self-control
+successfully. Put the other way around, the performance enhancing effect of glucose arises in part because people behave in
+the context of a cultural belief that willpower is limited and
+readily depleted.
+These results provide compelling evidence against the theory
+that self-control really does rely on a limited physiological resource that is depleted by even brief acts of self-control and is
+restored by glucose consumption (8, 11). Again, only those who
+believe that willpower relies on a limited resource show poor
+performance without sugar and a replenishment effect with
+sugar. We suggest that those who believe that willpower is not
+highly limited show no replenishment effect when given sugar
+because they do not need one and/or because they are not vigilant for cues about the availability of mental energy. Future research may further analyze and test these mechanisms. However,
+by demonstrating that glucose boosts are not necessary for
+people with a nonlimited resource theory, our results suggest
+that failures in self-control, at least in the normal course of
+events, do not result from a ﬁxed physiological constraint involving a shortage in the supply of glucose.
+This conclusion should not be taken to imply that glucose is
+irrelevant to human functioning. We do not doubt that glucose is
+the major fuel of cerebral processes (14, 37). Indeed, because the
+brain cannot afford to run out of glucose, the body contains
+redundant mechanisms to ensure its supply (14, 19, 38).
+The implication that people do not need frequent sugar boosts
+to self-regulate effectively is especially important in a society that
+faces an epidemic of obesity and glucose-related disorders (e.g.,
+type II diabetes) (39, 40). The present ﬁndings suggest that cultivating a culture in which people understand that willpower is
+not highly limited but rather self-generating—teaching that selfcontrol begets self-control—may liberate people from the need
+for frequent sugar boosts or a dependence on other momentary
+internal or external cues that signal the availability of resources in
+their everyday lives (e.g., hunger, hours of sleep, time of the day,
+social conventions to take a break). Previous research has shown
+that it is possible to change people’s beliefs about the malleability
+of other aspects of the self, such as intelligence and personality,
+and that doing so can improve intellectual and interpersonal
+
+140
+120
+
+Stroop Interference
+
+5.0
+
+Nonlimited Theory
+Limited Theory
+
+100
+80
+60
+40
+20
+
+Sugar Drink
+
+Sugar-Substitute Drink
+
+Fig. 3. Mean Stroop interference (reaction time to incongruent trials – reaction time to congruent trials) in milliseconds as a function of drink condition and induced theory about willpower condition (experiment 3).
+
+Job et al.
+
+Methods
+Experiment 1. Participants and design. Eighty-seven students at a US university
+(50 females, Mage = 20.83) participated in a “study on food and task perception” in exchange for course credit or $10. Participants were asked not to
+eat or drink anything but water for 2 h before the study. There were two
+independent variables: participants’ implicit theory of willpower (measured)
+and glucose vs. nonglucose ingestion (manipulated).
+Procedure. Participants took part individually. The procedure followed past
+studies on glucose ingestion and self-control (8, 10). Instructions and tasks
+were presented on a computer to ensure standardization across participants.
+First, participants provided informed consent and demographic information,
+reported their current hunger and thirst, reported when and what they last
+ate and drank, and completed several scales. Embedded among these was
+the theories about willpower scale (six items) (28). Items included “After
+a strenuous mental activity your energy is depleted and you must rest to get
+it refueled again” (limited theory) and “Your mental stamina fuels itself;
+even after strenuous mental exertion you can continue doing more of it”
+(nonlimited theory) (1 = strongly agree, 6 = strongly disagree). Items referring to the limited theory were reverse-scored so that higher values
+represent greater agreement with the limited resource theory (α= 0.81,
+mean = 4.17, SD = 0.74).
+Next, following past research (8), participants drank 14 oz of Kool-Aid
+lemonade described only as “a beverage.” The drink was sweetened with either sugar (140 calories) or a sugar substitute (Splenda; 0 calories). To bolster
+the cover story, participants then evaluated the drink’s taste and appearance.
+Again following past research, we allowed 10 min to pass before the key
+dependent measure (the time prescribed by past research to allow glucose to
+exert its physiological effects) (10). During this time, all participants completed a task used in previous research, which requires people to exert selfcontrol (18, 29, 30). This paper-and-pencil task, described as a “stimulus
+detection task,” consisted of two parts each lasting 5 min. First, all participants crossed out every “e” on a page of typewritten text; this is designed
+to establish a behavioral pattern. Next, they performed a version of the task
+with complex rules that required them to inhibit the previously established
+response in certain instances (e.g., not to cross out “e’s” followed by vowels).
+Finally, participants completed a computer-based Stroop task, which
+provided the critical self-control outcome. Color words appeared on the
+screen (red, green, yellow, blue) in a font color that was either congruent or
+incongruent with the meaning of the word. On each of 96 trials (48 incongruent), participants were instructed to press a key marked with the color
+the word was written in. On incongruent trials, the meaning of the word
+interferes with naming its color and has to be suppressed. Only correct Stoop
+trials (95%) were included in the analysis. Data were corrected on the trial
+level (i.e., identifying outlying trials within each individual) and on the group
+level (i.e., identifying outliers on Stroop interference). Outlying trials were
+deﬁned as ≥3 SDs from each individual’s mean within each trial category
+(congruent and incongruent) and were removed from analyses. Removing
+outlying trials led to the exclusion of 1.08% of all correct trials (48). Stroop
+interference was calculated by subtracting the mean reaction time for
+congruent trials from the mean reaction time for incongruent trials. Two
+participants were identiﬁed as statistical outliers on the Stroop interference
+score, >3 SDs above the mean, and removed from analyses.
+
+Job et al.
+
+Experiment 2. Participants. Sixty-two members of a Swiss university participant
+pool (40 females; Mage = 25.62) took part in exchange for 10 Swiss francs. As
+in experiment 1, participants were asked not to eat or drink anything but
+water in the 2 h before the study.
+Materials and procedure. First, we manipulated lay theories about willpower.
+Following a procedure validated in past research (28), participants completed
+a biased eight-item questionnaire (translated into German) formulated to
+foster agreement with either a limited theory (e.g., “Working on a strenuous mental task can make you feel tired such that you need a break before
+accomplishing a new task”) or a nonlimited theory (e.g., “Sometimes,
+working on a strenuous mental task can make you feel energized for further
+challenging activities”) (1 = strongly agree, 6 = strongly disagree). Onesample t tests comparing the mean in each condition to the scale midpoint
+(3.50) indicated that participants agreed with the suggested theory in both
+the limited theory condition [mean = 2.19; t(31) = −12.63, P < 0.001] and the
+nonlimited theory condition [mean = 2.32; t(30) = −9.00, P < 0.001].
+Next, participants completed the same tasting task as in experiment 1,
+followed by a 10-min writing task, used in previous research that require selfcontrol (33, 34). Participants wrote about a recent trip without using the
+letters “a” or “n.”
+As the dependent measure, participants were then given eight moderately
+difﬁcult IQ problems. They were asked to select which of ﬁve ﬁgures best
+completed a series of ﬁgures, with 20 s allotted to each problem. The number
+of IQ problems not answered correctly served as the measure of poor selfcontrol performance (35).
+As in experiment 1, participants then reported whether they thought the
+beverage they had drunk contained sugar or a sugar substitute, completed
+the suspicion check, and were debriefed.
+Experiment 3. Participants. One hundred ﬁfty-four German students (128
+female, Mage = 22.78) took part in a study on “perception of tastes and tasks”
+in exchange for 5 Euros.
+Procedure. As in experiment 2, participants were randomly assigned to
+complete one of the two versions of the biased questionnaire to manipulate
+lay theories about willpower. They then performed the tasting task. Fully
+crossed with the drink manipulation used in experiments 1 and 2 (i.e., sugar
+vs. sugar substitute) was a third manipulation. Participants were told the
+drink contained either sugar or a sugar substitute. As in the previous studies,
+they then drank the full beverage before evaluating it. During the subsequent 10 min, all participants performed a task requiring self-control. They
+were asked to write down all their thoughts on a piece of paper without
+thinking about a white bear (36). Every time they thought of a white bear
+they were asked to make a mark in the margin of the paper.
+Finally, participants completed a Stroop task, which was slightly altered
+from that used in experiment 1. The proportion of incongruent trials was
+reduced to one-third to make a correct response on these trials more difﬁcult
+(49, 50). To keep the number of incongruent and congruent trials equal, we
+therefore included control trials in which only a colored square appeared. In
+total, participants completed 130 trials, 10 practice trials followed by 40
+trials of each kind (congruent, incongruent, and control) in a random order.
+Only reaction times for correct trials were included in the analysis. Reaction
+times were trimmed as in experiment 1, which led to the exclusion of 1.37%
+of all correct trials. Stroop interference was calculated by subtracting the
+mean reaction time for congruent trials from the mean reaction time for
+incongruent trials. Five participants were identiﬁed as statistical outliers
+and removed from analyses (two were >3 SDs above the mean in the
+Stroop interference; three answered fewer than half of the incongruent
+trials correctly).
+At the end of the study, participants were asked what they thought the study
+was about; no participant guessed the study’s purpose. In addition, a manipulation check conﬁrmed that all participants believed the manipulation of the
+description of the drink (i.e., as containing sugar vs. a sugar substitute).
+ACKNOWLEDGMENTS. We thank Susanne Anrig, Krishna Savani, Martin
+Sutnar, Ariane Wepfer, and Rebecca Wheeler for invaluable assistance. This
+research was supported by Swiss National Science Foundation Fellowship
+PZ00P1-131858 (to V.J.).
+
+PNAS | September 10, 2013 | vol. 110 | no. 37 | 14841
+
+INAUGURAL ARTICLE
+
+At the end of the study, participants were asked whether they thought the
+beverage they had drunk contained sugar or a sugar substitute and what they
+thought the study was about; no participant guessed the study’s purpose.
+Finally, participants were debriefed and reimbursed.
+
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+
+outcomes in a relatively enduring way (41–43). Future research
+should test whether interventions that foster a nonlimited theory
+of willpower can help people sustain high levels of self-control in
+important real-world settings.
+Is just believing that willpower is not highly limited sufﬁcient
+for successful self-control? Certainly not, but it may be an important ingredient. People also need effective self-regulation
+strategies to put this understanding to work. Such strategies
+might involve arranging situations to minimize temptations (e.g.,
+keeping junk food out of the house; blocking Facebook while
+trying to study) or planning in advance when, where, and how to
+act or respond to difﬁculties (e.g., “If I feel like having a chocolate snack I’ll go and get a fruit cup.”) (44–47). With a nonlimited mindset and effective strategies, people may exert selfcontrol over an extended period without frequent glucose boosts.
+As William James (1) suggested more than a century ago, people
+have far greater capacity to exert self-control than they may
+believe—or than a simple glucose model would suggest.
+
+1. James W (1907) The energies of men. Science 25(635):321–332.
+2. Leigh Gibson E, Green MW (2002) Nutritional inﬂuences on cognitive function:
+Mechanisms of susceptibility. Nutr Res Rev 15(1):169–206.
+3. Hoyland A, Lawton CL, Dye L (2008) Acute effects of macronutrient manipulations on
+cognitive test performance in healthy young adults: A systematic research review.
+Neurosci Biobehav Rev 32(1):72–85.
+4. Messier C (2004) Glucose improvement of memory: A review. Eur J Pharmacol
+490(1-3):33–57.
+5. Smith MA, Riby LM, Eekelen JAM, Foster JK (2011) Glucose enhancement of human
+memory: A comprehensive research review of the glucose memory facilitation effect.
+Neurosci Biobehav Rev 35(3):770–783.
+6. Dewall CN, Baumeister RF, Gailliot MT, Maner JK (2008) Depletion makes the heart
+grow less helpful: Helping as a function of self-regulatory energy and genetic relatedness. Pers Soc Psychol Bull 34(12):1653–1662.
+7. Gailliot MT, Peruche BM, Plant EA, Baumeister RF (2009) Stereotypes and prejudice in
+the blood: Sucrose drinks reduce prejudice and stereotyping. J Exp Soc Psychol 45(1):
+288–290.
+8. Gailliot MT, et al. (2007) Self-control relies on glucose as a limited energy source:
+Willpower is more than a metaphor. J Pers Soc Psychol 92(2):325–336.
+9. Donohoe RT, Benton D (2000) Glucose tolerance predicts performance on tests of
+memory and cognition. Physiol Behav 71(3-4):395–401.
+10. Donohoe RT, Benton D (1999) Blood glucose control and aggressiveness in females.
+Pers Individ Dif 26(5):905–911.
+11. Gailliot MT, Baumeister RF (2007) The physiology of willpower: Linking blood glucose
+to self-control. Pers Soc Psychol Rev 11(4):303–327.
+12. Beedie CJ, Lane AM (2012) The role of glucose in self-control: Another look at the
+evidence and an alternative conceptualization. Pers Soc Psychol Rev 16(2):143–153.
+13. Kurzban R (2010) Does the brain consume additional glucose during self-control
+tasks? Evol Psychol 8(2):244–259.
+14. Peters A, et al. (2004) The selﬁsh brain: Competition for energy resources. Neurosci
+Biobehav Rev 28(2):143–180.
+15. Clarkson JJ, Hirt ER, Jia L, Alexander MB (2010) When perception is more than reality:
+The effects of perceived versus actual resource depletion on self-regulatory behavior.
+J Pers Soc Psychol 98(1):29–46.
+16. Egan PM, Hirt ER, Karpen SC (2012) Taking a fresh perspective: Vicarious restoration
+as a means of recovering self-control. J Exp Soc Psychol 48(2):457–465.
+17. Friese M, Messner C, Schaffner Y (2012) Mindfulness meditation counteracts selfcontrol depletion. Conscious Cogn 21(2):1016–1022.
+18. Tice DM, Baumeister RF, Shmueli D, Muraven M (2007) Restoring the self: Positive
+affect helps improve self-regulation following ego depletion. J Exp Soc Psychol 43(3):
+379–384.
+19. Coker RH, Kjaer M (2005) Glucoregulation during exercise : The role of the neuroendocrine system. Sports Med 35(7):575–583.
+20. Berridge KC, Robinson TE (1998) What is the role of dopamine in reward: Hedonic
+impact, reward learning, or incentive salience? Brain Res Brain Res Rev 28(3):309–369.
+21. Kringelbach ML (2004) Food for thought: Hedonic experience beyond homeostasis in
+the human brain. Neuroscience 126(4):807–819.
+22. Molden DC, et al. (2012) Motivational versus metabolic effects of carbohydrates on
+self-control. Psychol Sci 23(10):1137–1144.
+23. Hagger MS, Chatzisarantis NLD (2013) The sweet taste of success: The presence of
+glucose in the oral cavity moderates the depletion of self-control resources. Pers Soc
+Psychol Bull 39(1):28–42.
+24. Sanders MA, Shirk SD, Burgin CJ, Martin LL (2012) The gargle effect: Rinsing the
+mouth with glucose enhances self-control. Psychol Sci 23(12):1470–1472.
+25. Inzlicht M, Schmeichel BJ (2012) What is ego depletion? Toward a mechanistic revision of the resource model of self-control. Perspect Psychol Sci 7(5):450–463.
+26. Scholey AB, Sünram-Lea SI, Greer J, Elliott J, Kennedy DO (2009) Glucose enhancement of memory depends on initial thirst. Appetite 53(3):426–429.
+
+14842 | www.pnas.org/cgi/doi/10.1073/pnas.1313475110
+
+27. Wang XT, Dvorak RD (2010) Sweet future: Fluctuating blood glucose levels affect
+future discounting. Psychol Sci 21(2):183–188.
+28. Job V, Dweck CS, Walton GM (2010) Ego depletion—Is it all in your head? Implicit
+theories about willpower affect self-regulation. Psychol Sci 21(11):1686–1693.
+29. Baumeister RF, Bratslavsky E, Muraven M, Tice DM (1998) Ego depletion: Is the active
+self a limited resource? J Pers Soc Psychol 74(5):1252–1265.
+30. Wheeler SC, Briñol P, Hermann AD (2007) Resistance to persuasion as self-regulation:
+Ego-depletion and its effects on attitude change processes. J Exp Soc Psychol 43(1):
+150–156.
+31. Inzlicht M, Gutsell JN (2007) Running on empty: Neural signals for self-control failure.
+Psychol Sci 18(11):933–937.
+32. West R, Alain C (2000) Age-related decline in inhibitory control contributes to the
+increased Stroop effect observed in older adults. Psychophysiology 37(2):179–189.
+33. Schmeichel BJ (2007) Attention control, memory updating, and emotion regulation
+temporarily reduce the capacity for executive control. J Exp Psychol Gen 136(2):
+241–255.
+34. Schmeichel BJ, Harmon-Jones C, Harmon-Jones E (2010) Exercising self-control increases approach motivation. J Pers Soc Psychol 99(1):162–173.
+35. Schmeichel BJ, Vohs KD, Baumeister RF (2003) Intellectual performance and ego depletion: Role of the self in logical reasoning and other information processing. J Pers
+Soc Psychol 85(1):33–46.
+36. Wegner DM, Schneider DJ, Carter SR, 3rd, White TL (1987) Paradoxical effects of
+thought suppression. J Pers Soc Psychol 53(1):5–13.
+37. Attwell D, Laughlin SB (2001) An energy budget for signaling in the grey matter of
+the brain. J Cereb Blood Flow Metab 21(10):1133–1145.
+38. Hitze B, et al. (2010) How the selﬁsh brain organizes its supply and demand. Front
+Neuroenergetics 2(7):1–13.
+39. Wang Y, Beydoun MA, Caballero B, Kumanyika SK (2008) Will all Americans become
+overweight or obese? Estimating the progression and cost of the US obesity epidemic.
+Obesity 16(10):2323–2330.
+40. Wild S, Roglic G, Green A, Sicree R, King H (2004) Estimates for the year 2000 and
+projections for 2030. Diabetes Care 27(5):1047–1053.
+41. Aronson J, Fried CB, Good C (2002) Reducing the effects of stereotype threat on
+African American college students by shaping theories of intelligence. J Exp Soc
+Psychol 38(2):113–125.
+42. Blackwell LS, Trzesniewski KH, Dweck CS (2007) Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. Child Dev 78(1):246–263.
+43. Yeager DS, Trzesniewski KH, Dweck CS (2013) An implicit theories of personality intervention reduces adolescent aggression in response to victimization and exclusion.
+Child Dev 84(3):970–988.
+44. Duckworth AL, Grant H, Loew B, Oettingen G, Gollwitzer PM (2011) Self‐regulation
+strategies improve self‐discipline in adolescents: Beneﬁts of mental contrasting and
+implementation intentions. Educ Psychol UK 31(1):17–26.
+45. Magen E, Gross JJ (2007) Harnessing the need for immediate gratiﬁcation: Cognitive
+reconstrual modulates the reward value of temptations. Emotion 7(2):415–428.
+46. Stadler G, Oettingen G, Gollwitzer PM (2010) Intervention effects of information
+and self-regulation on eating fruits and vegetables over two years. Health Psychol
+29(3):274–283.
+47. Webb TL, Sheeran P (2003) Can implementation intentions help to overcome egodepletion? J Exp Soc Psychol 39(3):279–286.
+48. Salvatore J, Shelton JN (2007) Cognitive costs of exposure to racial prejudice. Psychol
+Sci 18(9):810–815.
+49. Carter CS, et al. (2000) Parsing executive processes: Strategic vs. evaluative functions
+of the anterior cingulate cortex. Proc Natl Acad Sci USA 97(4):1944–1948.
+50. Logan GD, Zbrodoff NJ (1979) When it helps to be misled: Facilitative effects of increasing the frequency of conﬂicting stimuli in a Stroop-like task. Mem Cognit 7(3):
+166–174.
+
+Job et al.
+
+

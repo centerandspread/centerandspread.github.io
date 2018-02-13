@@ -1,0 +1,2073 @@
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+Journal of Personality and Social Psychology
+2014, Vol. 106, No. 6, 000
+
+© 2014 American Psychological Association
+0022-3514/14/$12.00 DOI: 10.1037/a0036335
+
+The Far-Reaching Effects of Believing People Can Change: Implicit
+Theories of Personality Shape Stress, Health, and Achievement
+During Adolescence
+AQ: au
+AQ: 1
+
+David Scott Yeager
+
+Rebecca Johnson
+
+University of Texas at Austin
+
+National Institutes of Health, Bethesda, Maryland
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Brian James Spitzer
+
+AQ:2, 3
+
+Kali H. Trzesniewski
+
+New York University
+
+University of California, Davis
+
+Joseph Powers and Carol S. Dweck
+Stanford University
+
+The belief that personality is fixed (an entity theory of personality) can give rise to negative reactions to social
+adversities. Three studies showed that when social adversity is common—at the transition to high school—an
+entity theory can affect overall stress, health, and achievement. Study 1 showed that an entity theory of
+personality, measured during the 1st month of 9th grade, predicted more negative immediate reactions to
+social adversity and, at the end of the year, greater stress, poorer health, and lower grades in school. Studies
+2 and 3, both experiments, tested a brief intervention that taught a malleable (incremental) theory of
+personality—the belief that people can change. The incremental theory group showed less negative reactions
+to an immediate experience of social adversity and, 8 months later, reported lower overall stress and physical
+illness. They also achieved better academic performance over the year. Discussion centers on the power of
+targeted psychological interventions to effect far-reaching and long-term change by shifting interpretations of
+recurring adversities during developmental transitions.
+Keywords: implicit theories, stress, health, ostracism, psychological interventions
+Supplemental materials: http://dx.doi.org/10.1037/a0036335.supp
+
+Future (Gale, Canton, & Zemeckis, 1985) depict teens as indelibly
+marked as “losers,” “jocks,” or “bullies”—labels that are thought
+to haunt them or buoy them throughout high school and into
+adulthood. Contemporary news outlets reinforce this belief. For
+instance, Newsweek Magazine stated that “the labels we get as
+teenagers shape the rest of our lives” (Dailey, 2010, p. 1), while
+New York Magazine explained “why you never truly leave high
+school” (Senior, 2013, p. 1). Are these beliefs innocuous or could
+they be harmful? It is possible that if a teen believed that social
+attributes were set for life in high school, their worries about these
+attributes, whether founded or unfounded, could have negative
+long-term consequences. And perhaps these consequences could
+extend beyond their social lives into other domains, such as overall
+life stress, physical health or academic achievement.
+Past research has shown that implicit theories of personality—
+beliefs about whether people’s attributes are fixed or are malleable— have domain-specific effects (e.g., Chiu, Dweck, Tong, &
+Fu, 1997; Chiu, Hong, & Dweck, 1997; Yeager, Trzesniewski, &
+Dweck, 2013; Yeager, Trzesniewski, Tirri, Nokelainen, & Dweck,
+2011; see Molden & Dweck, 2006; also see Finkel, Burnette, &
+Scissors, 2007; Knee, 1998). Across a variety of situations and
+populations, those who hold more of an entity theory of personality—the belief that personal characteristics are fixed—show more
+negative reactions to social adversities such as exclusion (see
+
+In America, the high school years are often thought of as a time
+when a person’s social standing becomes set for life. Iconic films
+such as The Breakfast Club (Tanen & Hughes, 1985) or Back to the
+
+David Scott Yeager, Department of Psychology, University of Texas at
+Austin; Rebecca Johnson, Department of Bioethics, National Institutes of
+AQ: 31 Health, Bethesda, Maryland; Brian James Spitzer, Steinhardt School of Culture, Education, and Human Development, New York University; Kali H.
+Trzesniewski, Department of Human Development, University of California,
+Davis; Joseph Powers, Graduate School of Education, Stanford University;
+AQ: 32 Carol S. Dweck, Department of Psychology, Stanford University.
+Support for the conduct and reporting of this research was provided by the
+Thrive Foundation for Youth, the Spencer Foundation, and the Raikes Foundation. We thank the students and teachers involved in this research for their
+cooperation. We also thank Cary Catching, April House, Ahmad Saleh,
+Jennifer McDonald, Kerry Morrissey, Shannon Morrissey, April Scott, Hector
+Villalpando, Adriana Miu, Terry Yu, and Alexandria Ordway for their help
+collecting data and Greg Walton, Geoff Cohen, and members of the DweckWalton lab for their extensive comments. All remaining errors are the authors’
+own. The authors declare no competing financial interests.
+Correspondence concerning this article should be addressed to David
+Scott Yeager, 108 East Dean Keeton Stop A8000, Austin, TX 78712-1043.
+E-mail: dyeager@utexas.edu
+1
+
+AQ: 4
+
+AQ: 5
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2
+
+YEAGER ET AL.
+
+Yeager & Dweck, 2012). For instance, children and adolescents
+with more of an entity theory react to social exclusion by feeling
+worse about themselves (Yeager et al., 2011; see also Rudolph,
+2010) and making more self-blaming attributions, such as “maybe
+I’m not a likable person” (Erdley, Cain, Loomis, Dumas-Hines, &
+Dweck, 1997). Furthermore, experimental manipulations have
+shown this is a causal process. Teaching an incremental theory of
+personality—the belief that people have the potential to change—
+reduces negative reactions to social adversity, including shame and
+aggressive retaliation (Yeager, Miu, Powers, & Dweck, 2013;
+Yeager et al., 2011). Overall, this research has found consistent
+effects of implicit theories of personality on relevant measures of
+hostile social cognition and behavior.
+However, the full importance of these findings has not yet been
+determined because it is not known how far-reaching these effects
+might be. It is possible that implicit theories—involving beliefs
+about whether people’s attributes are fixed or are malleable—
+could cause more global, long-term patterns of adjustment in areas
+that on their surface have very little to do with perceptions of
+personality traits. We suggest that implicit theories may create an
+interpretive framework that, during times of social difficulty, could
+have consequences for diverse domains of functioning. For instance, the transition to high school is laden with social adversities
+such as peer exclusion (Barber & Olsen, 2004; Crosnoe, 2011),
+and it is also a time during which stress increases while health and
+achievement decline (Benner, 2011; Haugland, Wold, Stevenson,
+Aaroe, & Woynarowska, 2001; Sundblad, Jansson, Saartok, Renström, & Engström, 2008). Stress, health, and underachievement
+are outcomes that independently represent major research priorities, difficult to understand and address in their own right. Yet
+implicit theories might tap into a social-cognitive “hub” from
+which these outcomes emerge (also see G. L. Cohen & Sherman,
+2014; Inzlicht & Kang, 2010; Walton & Cohen, 2011). To our
+knowledge, no previous theory or data have shown a belief about
+the malleability of social attributes simultaneously has an influence on all of these consequential outcomes.
+
+Implicit Theories Affect Coping and Resilience During
+Times of Adversity
+Individuals can have implicit theories about a variety of human
+attributes, including intellectual ability (Blackwell, Trzesniewski,
+& Dweck, 2007) and social characteristics, such as personality
+(Chiu, Hong, & Dweck, 1997; Yeager et al., 2011), moral character (Chiu, Dweck, Tong, & Fu, 1997), or shyness (Beer, 2002;
+also see Finkel et al., 2007; Rudolph, 2010). Broadly, implicit
+theories in these domains create psychological worlds or “meaning
+systems” that affect self-regulation and behavior by shaping how
+information is processed (Molden & Dweck, 2006).
+When individuals are not experiencing any difficulty, implicit
+theories are not strongly predictive of self-regulation and behavior
+(for a meta-analysis, see Burnette, O’Boyle, VanEpps, Pollack, &
+Finkel, 2013). Just as the belief that intelligence is fixed is not
+threatening when school is easy (Blackwell et al., 2007), the belief
+that people’s socially relevant characteristics are fixed is not likely
+to lead to helplessness when there is no threat to one’s social status
+(see Chen, DeWall, Poon, & Chen, 2012). However, during times
+of difficulty, the different psychological worlds created by entity
+versus incremental theories can lead to divergent coping and
+
+resilience-related behaviors (Blackwell et al., 2007; see Yeager &
+Dweck, 2012; also see Mueller & Dweck, 1998). In response to
+exclusion or bullying, an entity theory—with its focus on static
+traits and its tendency to view small behaviors as diagnostic of
+global traits— can lead to the judgment that those who behave
+aggressively are “bad people” and that a rejected person is “a
+loser” (Erdley et al., 1997; Erdley & Dweck, 1993; Yeager et al.,
+2011). These types of attributions compromise resilience by putting individuals in a world in which negative people or circumstances seem set in stone (Graham & Juvonen, 1998). As a result,
+individuals with more of an entity theory tend to experience more
+shame, harbor grudges, and seek aggressive revenge (Yeager et al.,
+2011; Yeager, Trzesniewski, & Dweck, 2013; also see Finkel et
+al., 2007).
+Nearly all this research, however, has focused on implicit theories and resilience within a given domain, such as the effect of
+implicit theories of intelligence on academic achievement (Blackwell et al., 2007; for a meta-analysis, see Burnette et al., 2013) or
+the effect of implicit theories of socially relevant personality traits
+on aggression in response to a social conflict (e.g., Yeager et al.,
+2011; Yeager, Trzesniewski, & Dweck, 2013; also see Chen et al.,
+2012). The present research extends these ideas by suggesting that
+when individuals are in a developmental period during which
+social adversity is chronic and widespread, then there may be
+important spillover effects of implicit theories of personality into a
+number of discrete domains of functioning (cf. Inzlicht & Kang,
+2010). While it would be possible to test this hypothesis during any
+such developmental period, below we outline why the transition to
+high school is one appropriate period during which to do this.
+
+The Transition to High School Is an Appropriate Time
+to Measure and Change Implicit Theories
+All life transitions have the potential to affect a person’s social
+life, but the transition to high school can be especially difficult for
+several reasons. First, moving into high school frequently disrupts
+social networks, as old friendships are lost and new ones must be
+created (Cairns & Cairns, 1994). For instance, during the first year
+of high school, roughly 50% of casual friendships are different
+from 1 month to the next (Chan & Poulin, 2007). This can make
+social status precarious. Students often turn to aggression and
+exclusion as a means of shoring up their social status (G. L. Cohen
+& Prinstein, 2006; Faris & Felmlee, 2011; see Pellegrini & Long,
+2002). In the face of this social reality, adolescents can understandably be anxious about threats to their social status coming
+from exclusion or other forms of aggression, even if they themselves are not directly victimized (Juvonen & Graham, 2014).
+Second, experience-sampling studies also suggest that adolescents become preoccupied with peer relationships. These studies
+find that the percentage of time thinking about peer relationships
+rises dramatically as teens move into high school (e.g., Richards,
+Crowe, Larson, & Swarr, 1998).
+Third, the threat that social adversity poses may be heightened
+by the social-cognitive changes that lead adolescents to interpret
+adversity in more problematic ways. High school-aged adolescents, relative to children or younger adolescents, increasingly
+come to believe that social attributes are fixed entities that cannot
+change (e.g., Killen, Kelly, Richardson, & Jampol, 2010). For
+instance, older adolescents rely more on traits such as niceness or
+
+AQ: 6
+
+AQ: 7
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+meanness as a way of classifying peers, relative to younger children (e.g., Birnbaum, Deeb, Segall, Ben-Eliyahu, & Diesendruck,
+2010; Diesendruck & haLevi, 2006). Thus, adolescents entering
+high school are both in a context that requires them to be more
+vigilant to threats to their social status, and they hold more implicit
+theories that make these threats seem more constant.
+In summary, the changes common to the transition to high
+school—the increased uncertainty of peer relationships, the heightened preoccupation with peer relationships, and the growing view
+of personality traits as fixed—make it an appropriate developmental period to test whether the effects of implicit theories of personality generalize beyond reactions to social adversity and extend
+to adjustment in multiple domains of functioning.
+
+Stress, Health, and Achievement
+Here we review the rationale for our specific predictions regarding the effects of implicit theories on stress, health, and achievement during the transition to high school.
+
+Stress
+Stress is defined as the sense that the demands in one’s environment are greater than one’s ability to cope with them (Lazarus
+& Folkman, 1984), and past research has found that stress is
+greatest when ambiguity and uncertainty about social status are
+high, such as when social hierarchies are uprooted (for a review of
+the primate and human literature, see Sapolsky, 2005; also see
+Gould, 2003). This perfectly describes adolescent life during the
+transition to high school (Juvonen & Graham, 2014). However, not
+all adolescents will experience the transition to high school as
+equally stressful. Social-cognitive theories of development emphasize that adverse experiences, such peer exclusion or victimization,
+do not always undermine long-term adjustment. This is because
+the interpretations of these adversities matter (Olson & Dweck,
+2008; for a classic formulation in the context of depression, see
+Beck, 1967). From this social-cognitive perspective, adolescents
+who draw problematic conclusions from their social adversities—
+for instance, believing exclusion means they are a “loser” who will
+never be included—will tend to appraise them as more stressful.
+Hence, life overall might be experienced as more stressful for high
+school adolescents who interpret social failures through the lens of
+an entity theory (e.g., Erdley et al., 1997). If so, then perhaps an
+intervention designed to teach adolescents a different interpretation of adversity— one growing out of an incremental theory of
+personality— could reduce overall levels of stress in life.
+
+Physical Health
+The social adversities common in unstable social hierarchies
+also pose a greater likelihood of poor physical health (see Sapolsky, 2005). This is because chronic stress can produce physiological changes that undermine the immune system (see Miller, Chen,
+& Cole, 2009; Sapolsky, 2005). Not surprisingly, then, largesample correlational studies find that experiences of peer social
+adversity during childhood or adolescence predict poorer health
+(Gini & Pozzoli, 2009), and this effect can persist long into
+adulthood (Wolke, Copeland, Angold, & Costello, 2013). Additionally, blaming one’s own character for social difficulties is
+
+3
+
+associated with physical health symptoms (see Dickerson, Gruenewald, & Kemeny, 2011). Thus, it is possible that an intervention targeting implicit theories, which lessens negative reactions
+such as shame when social status comes under attack (Yeager et
+al., 2011), could, over time, result in reports of better health among
+teens making the transition to high school.
+
+Academic Achievement
+Finally, social adversities such as exclusion could undermine
+academic achievement for several reasons. Hormones commonly
+elicited by social stressors such as peer dominance can have a
+direct effect on the brain’s ability to form connections and create
+new memories following a learning task (see Lupien, Maheu, Tu,
+Fiocco, & Schramek, 2007). In addition, when social threats are
+chronic—as they often are during the transition to high school—
+the vigilance required to monitor one’s social status might monopolize attention, impairing the ability to focus on academic content
+(Guinote, 2007a, 2007b), engage in abstract learning (Smith &
+Trope, 2006), and make strategic decisions that benefit long-term
+self-interests (Smith, Jostman, Galinsky, & van Dijk, 2008). Furthermore, ninth-grade students who believe that bullying is prevalent at their high school— even if they themselves are not bullied—are less likely to be committed to doing well at that school,
+disagreeing with items such as “I try hard at school” (Mehta,
+Cornell, Fan, & Gregory, 2013). Perhaps an entity theory, beyond
+exacerbating the subjective experience of common social adversities, could impair learning, attention, and engagement, resulting in
+lower academic performance over the year. Relatedly, perhaps an
+appropriately timed nudge in the direction of an incremental theory
+of personality could reduce this hypervigilance. This might allow
+adolescents to focus on and engage more effectively with their
+schoolwork, resulting in better grades over the year.
+
+The Importance of Longitudinal Field Experiments for
+Testing Basic Psychological Theory
+Our research rests on the recognition that social-psychological
+processes have a temporal dimension—that they do not end with
+the first outcome assessed but instead can continue to unfold over
+time (G. L. Cohen & Garcia, 2008; G. L. Cohen & Sherman, 2014;
+Lewin, 1943; also see Reis & Gosling, 2010; Ross & Nisbett,
+1991; Wilson, 2006; Yeager & Walton, 2011). Building on this,
+the present research tests the hypothesis that interpretations of
+social adversity arising from implicit theories trigger accumulating
+consequences. Over time, these lead to divergent levels of stress,
+health and academic achievement. Following recommendations
+from Lewin (1952) and Bronfenbrenner (1979), we use longitudinal field experiments to test this. A presumption of this research is
+that a brief but theoretically informed intervention could have
+effects that persist many months later (e.g., G. L. Cohen, Garcia,
+Purdie-Vaugns, Apfel, & Brzustoski, 2009; Finkel, Slotter,
+Luchies, Walton, & Gross, in press; Sherman et al., 2013; Walton
+& Cohen, 2011; see Garcia & Cohen, 2012; Walton, in press;
+Wilson, 2006; Yeager & Walton, 2011). It could do so by changing
+a key force in a “tension system”—the network of interacting
+forces that drive behavior in a social environment (Bronfenbrenner, 1979; Lewin, 1952; Ross & Nisbett, 1991). Such a key
+force might be a psychological tendency that asserts its influence
+
+AQ: 8
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+4
+
+YEAGER ET AL.
+
+repeatedly, such as a tendency to interpret social adversity as fixed
+rather than changeable (Abelson, 1985; Yeager et al., in press).
+Intervention experiments can inform theory because they can test
+whether a given psychological tendency is truly influential in a
+given real-world tension system that abounds with uncontrolled
+and powerful forces affecting behavior (see Cialdini & Paluck, in
+press; Reis & Gosling, 2010). An additional advantage of intervention experiments is that they can directly inform efforts to
+address major social issues (Cialdini & Paluck, in press; Wilson,
+2006)—in the present case, social coping, stress, health, and academic underachievement during a difficult adolescent transition.
+
+mental theory of personality. We used a double-blind experiment
+to assess its impact on immediate reactions to social adversity and
+its longer-term impact on stress, physical health, and academic
+achievement. In Study 3, we replicated the intervention in a new
+context—a low-income, predominately ethnic minority urban public high school—to assess the generality of the processes. This
+study also explored potential long-term effects on adolescents’
+construals of themselves, to begin to understand how and why an
+implicit theories intervention might have a lasting impact.1
+
+Fn1
+
+Study 1
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Method
+The Elusiveness of Cross-Domain Effects in
+Intervention Research
+Finally, the present research seeks to achieve one elusive goal of
+research in the behavioral social sciences: transfer of an intervention’s benefits across domains. Several comprehensive early childhood interventions lasting several years and costing many thousands of dollars per person such as Perry Preschool or the
+Abecedarian Project have successfully produced cross-domain effects (Heckman & Kautz, in press). Yet the track record is much
+more disappointing for similarly comprehensive and expensive
+adult or adolescent interventions explicitly designed to produce
+cross-domain effects. For instance, Heckman and Kautz (in press)
+reviewed a large number of diverse adolescent interventions, including interventions providing counseling, career and college
+readiness skills, and improved nutrition. They did not find a
+single example of a program that positively affected both educational outcomes and health outcomes upon longitudinal
+follow-up. However, these past interventions, often involving
+long-term training or residency programs, were not built on
+precise social-psychological theory.
+The present research provides a test of the general question of
+whether it is possible for a theory-based adolescent intervention to
+have effects on stress, health, and academic achievement. This
+possibility rests on the finding that social relationships have wideranging downstream consequences (Cacioppo & Patrick, 2008;
+also see Walton & Cohen, 2011). Thus, the present research is
+an opportunity to assess the power of precise psychological
+theory to make progress where more traditional human capital
+interventions have hit an impasse.
+
+The Present Research
+In three studies, we investigated the longitudinal effects of implicit
+theories of personality on stress, health, and academic achievement in
+addition to the well-established short-term effects on social coping.
+The first study asked whether there is correlational evidence that an
+entity theory of personality predicts adjustment across a variety of
+domains during the transition to high school—specifically, responses
+to social adversity and levels of stress, health, and academic achievement. This longitudinal study measured implicit theories and responses to social adversity in the first month of school and then
+examined associations with year-end levels of these adjustment measures, controlling for initial levels.
+The second study used a randomized experiment to address the
+causal role of implicit theories. During the first month of high
+school we delivered an intervention that taught students an incre-
+
+Participants. Participants were ninth grade students at a high
+school in Northern California (N ! 158). Eight percent of students
+received free or reduced-price lunch, a measure of low socioeconomic status. Forty-four percent of participants were White, 41%
+Asian, 13% Latino, and 2% another racial or ethnic group. Fortyfour percent were female. Social adversities were common. On a
+survey conducted in the third week of the school year, many
+students (77%) already reported being the victim of at least some
+physical, verbal, or social aggression.2 Some students did not
+provide data at both assessments, and so degrees of freedom varied
+across analyses.
+Procedure. During the first week of the school year in September, parental consent was obtained for all students. In the third
+week, students assented and completed an initial survey measuring
+implicit theories of personality, baseline levels of global psychological stress and reported physical health, and background characteristics. One week later students came to the school’s computer
+lab, where they participated in an established protocol for eliciting
+feelings of social exclusion (described below). After the task,
+participants reported their responses to the event. In May, at the
+end of the school year, students were again surveyed to measure
+their global stress and physical illness symptoms. After the school
+year, official grades were collected from the school’s registrar.
+Experience of peer exclusion. To elicit reactions to social
+exclusion, students participated in a standard laboratory experience
+of exclusion—the “Cyberball” paradigm (Williams & Jarvis,
+2006). Cyberball is a short-lived and ultimately harmless instance
+of social exclusion (Williams, 2009) and involves an online game
+of catch with two “peers” purportedly from the students’ school.3
+The task was programmed so that at first the other “players”
+threw the ball to the participant twice. Then, for the remaining
+minutes of the task, the other players threw it exclusively to each
+other and not to the participant. Immediately following this, dependent variables were assessed.
+1
+Greater detail on all procedures, measures, and results in the three
+studies can be found in the online supplemental materials.
+2
+In this study and throughout the article, the stopping rule was to collect
+as much data as possible given the logistical constraints, student absences,
+and class sizes in each school.
+3
+To further confirm that our Cyberball procedure had no lasting negative effect on stress, health, or achievement and that our extensive precautions were effective, in the present study, we were fortunate that other
+students in the same school were surveyed at the beginning and end of the
+year but did not play Cyberball. These students (who are a part of a
+different study and are not discussed further) did not differ significantly in
+their September or May outcomes compared to their peers who participated
+in Cyberball, as described below.
+
+Fn2
+
+Fn3
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+We took several precautions to make the exclusion experience
+ultimately innocuous. Specifically, after completing initial dependent variables, participants saw an “error” box appear on the
+screen informing them that there had been a glitch in the first
+round such that the other Cyberball players were not able to see
+their icon and therefore could not throw the ball to them. They
+were asked to play again, and this time, participants were fully
+included in the game of catch. At this point participants answered
+a number of generic open-ended questions that were later coded to
+assess suspicion (e.g., “Is there anything you’d like to share with
+the research team?”). After the entire session was completed,
+research assistants informed the class that in fact Cyberball had
+been created by researchers in order to understand exclusion in
+high school and that no one had actually been excluded. Assistants
+answered students’ questions about the task. Students in general
+saw the value of the task and many spontaneously said that they
+were glad to have participated in the study and contributed to
+science.
+To minimize any possibility of participants informing other
+students about the true purpose of the study, all participants were
+run through the study in 1 day, in back-to-back classes in three
+different computer labs in each class period. Beyond the openended questions described previously, the survey asked students if
+they had heard anything about the study before entering the classroom and, if so, what they had heard. Participants’ responses to
+these and all other open-ended questions were reliably coded by
+research assistants. Twenty-two students suspected that the Cyberball task was being controlled by the computer, either because they
+had been informed by a peer (four students) or because they did
+not believe the cover story (18 students). These students were
+excluded only from analyses of responses to Cyberball. Throughout the article, students were reliably coded as suspicious or not
+about the Cyberball task by two independent coders (blind to
+identities and characteristics of students) on the basis of participants’ open-ended responses to questions in the posttask survey
+(Krippendorff’s " # .81). Suspicion was uncorrelated with all
+measured variables.
+Measures.
+Implicit theories of personality. On the initial survey in September of ninth grade, students were given four items used in
+previous research to assess adolescents’ implicit theories of personality (Yeager et al., 2011; e.g., “Bullies and victims are types
+of people who really can’t be changed”; 1 ! Strongly disagree
+to 6 ! Strongly agree). Responses were averaged (" ! .81),
+and higher values corresponded to stronger endorsement of an
+entity theory.
+Negative reactions to social exclusion. One week after the
+initial survey, participants underwent the Cyberball procedure and
+reported how they reacted to it (three items: “How much stress
+were you feeling when playing Cyberball?” “How much anxiety
+were you feeling when playing Cyberball?” “How good or bad
+were you feeling about yourself when playing Cyberball?”) on
+fully labeled 7-point scales, with 7 corresponding to the most
+negative responses (e.g., An extreme amount of stress or feeling
+Extremely bad about yourself). In this study and throughout the
+article, the items were averaged (" ! .75), then log-transformed to
+reduce significant skew and converted to z-scores for ease of
+interpretation (the joint test of both skew and kurtosis for the
+untransformed metric was significant at p $ .0000001, and “ladder
+
+5
+
+of powers” analyses revealed that the log transformation improved
+normality the most).
+Global psychological stress. First on the initial survey and
+then again at the end of the year, participants completed the
+10-item Perceived Stress Scale (S. Cohen, Kamarck, & Mermelstein, 1983). This scale measures global appraisals that situations
+in one’s life are stressful and beyond one’s ability to cope with
+them (e.g., “In the last month, how often have you felt difficulties
+were piling up so high that you could not overcome them?”). These
+items, each rated on a fully labeled 5-point scale (1 ! Never, 5 !
+Very often), were averaged (" ! .83).
+Physical health. We sought to measure the extent to which
+adolescents were sick to the point that it affected the quality of
+their daily lives. To examine whether symptom levels were of this
+magnitude, we adapted a subset of items from the validated Medical Outcomes Study core measures of health-related quality of life
+(Hays, Sherbourne, & Mazel, 1993). In the form of this survey
+intended for adults, items ask whether physical health symptoms
+limit one’s role at work; in a validation study, such items were the
+highest-loading items on a global factor of physical health (Hays et
+al., 1993). In the present study, minor edits were made to make
+these items relevant for adolescents. Three items assessed complaints that feeling “sick, tired, or in pain” interfered with “schoolwork or other regular daily activities” in the past 4 weeks (e.g.,
+whether they “cut down the amount of time” spent on daily
+activities due to illness; for each, 1 ! Yes, 0 ! No; items were
+summed; range ! 0 –3; " ! .78).
+Academic achievement. End-of-semester grades for English,
+math, and science for the fall and spring terms of ninth grade were
+obtained from official school records. Grades were reported on a
+range from 0 to 4, with 4 corresponding to an “A” and 0 corresponding to an “F.”
+Covariates and moderators. On the initial survey, participants
+reported sex, race, and ethnicity. Students also reported their
+frequency of experiencing various forms of peer victimization
+(e.g., being excluded, having rumors spread about you, insulted,
+hit; these were rated on a scale from 0 to 4, such that 0 ! Never,
+and 4 ! All the time; ratings were then averaged). From school
+records, we obtained grades earned the prior year, in eighth
+grade.
+
+Results
+We examined the relationship between implicit theories of personality and responses to the experience of Cyberball exclusion,
+each assessed in the first month of the school year. Next, we
+examined associations between initial implicit theories and endof-year adjustment in each of the three domains— global psychological stress, health, and grades— controlling for initial levels of
+each variable.
+With the exception of academic achievement, all key variables
+were analyzed with ordinary least squares regressions using
+heteroskedasticity-robust standard errors. To examine associations
+with academic achievement, three-level hierarchical linear models
+with grading period and school subject nested within students were
+estimated using the lme4 package in R (in these models, p-values
+for significance tests were estimated using Monte Carlo sampling,
+following best practices; Bates, 2010). All analyses controlled for
+student sex and race/ethnicity. For tables reporting results that do
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+6
+
+YEAGER ET AL.
+
+Table 1
+Effects of Implicit Theories of Personality on Stress, Physical Illness, and Grade Point Average
+Independent variable
+Study 1: Entity theory of
+personality measure
+(September of ninth grade)
+(N ! 158)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Dependent variable
+
+T1
+
+Immediate reactions to social exclusion
+(September of ninth grade)
+Global psychological stress
+(May of ninth grade)
+Physical illness (May of ninth grade)
+Grade point average (Cumulative over
+ninth grade)
+
+b
+
+SE
+
+0.22!!
+
+0.09
+
+.21
+
+0.18!!
+0.27!
+
+0.06
+0.10
+
+.20
+.19
+
+&0.18!!!
+
+0.06
+
+&.16
+
+%
+
+Study 2: Incremental theory
+of personality intervention
+(September of ninth grade)
+(N ! 78)
+b
+
+SE
+
+%
+
+&0.50!
+
+0.22
+
+&.26
+
+&0.37!!
+&0.58!
+
+0.15
+0.28
+
+0.34!
+
+0.17
+
+Study 3: Incremental theory of
+personality intervention
+(September of ninth grade)
+(N ! 150)
+b
+
+SE
+
+%
+
+&0.32!
+
+0.16
+
+&.18
+
+&.27
+&.23
+
+&0.23!
+&0.54!!
+
+0.11
+0.19
+
+&.18
+&.21
+
+.16
+
+0.95!!
+
+0.35a
+
+.34
+
+Note. The effect on each dependent variable for each study was estimated in a separate regression model. Models predicting reactions to exclusion, global
+stress, and physical illness were estimated using ordinary least squares, controlling for sex and race and, when available, baseline values. Models predicting
+grades were estimated in hierarchical linear models, with subjects and marking periods (e.g., semesters) nested within students; these models controlled for
+sex, race, and prior (Grade 8) performance.
+a
+Results for grades in Study 3 were estimated among those with an entity theory at baseline (#3.5 on the entity theory measure, N ! 42), due to a significant
+Intervention ' Baseline Implicit Theories interaction for that outcome. N is the maximum sample size; exact sample sizes vary across analyses within a
+study due to missing data.
+!
+p $ .05. !! p $ .01. !!! p $ .001.
+
+not include these covariates, and tables reporting results of regression models used in exploratory mediational analyses, see the
+online supplemental materials. These do not differ in their overall
+pattern of statistical significance. In this study and throughout the
+article, all means, standard deviations, and proportions reported in
+the text are raw, unadjusted numbers. All test statistics (t, z, etc.)
+come from regression models and test the significance of a given
+regression coefficient when controlling for the covariates noted
+above.
+Response to social adversity. Conceptually replicating past
+research (Erdley et al., 1997; Yeager et al., 2011), during the first
+month of ninth grade, adolescents with more of an entity theory
+of personality reacted to the experience of Cyberball exclusion
+more negatively, reporting more stress, anxiety, and negative
+self-feelings, unstandardized b ! .22, t(147) ! 2.56, p ! .01,
+standardized % ! .21 (see Table 1). We next turned to the
+question of whether this effect on the social domain could,
+generalize to additional outcomes over the course of the year.
+Global psychological stress, physical health, and academic
+achievement. Controlling for baseline levels of global stress,
+adolescents who began the school year with more of an entity theory
+of personality reported more global stress at the end of the school
+year, b ! .18, t(138) ! 3.03, p ! .003, % ! .20 (see Table 1).
+Adolescents with more of an entity theory of personality at the
+beginning of the year also reported poorer physical health at the
+end of the school year (i.e., more complaints that physical illness
+impaired daily functioning), b ! .27, t(139) ! 2.37, p ! .02, % !
+.19, again controlling for initial levels. Finally, stronger endorsement of an entity theory predicted lower grades over ninth grade
+(averaging across math, science, and English), b ! &.18,
+t(157) ! &3.10, p $ .001, % ! &.16, controlling for eighth-grade
+achievement. Illustrating this finding, adolescents who held an
+entity theory at baseline (who “agreed,” on average, with the entity
+theory questions, i.e., average score #3.5 on the 1– 6 scale) had a
+cumulative grade point average of 2.62, compared with a grade
+
+point average of 3.08 among those who did not endorse an entity
+theory (!3.5 on the 1– 6 scale).
+In summary, an entity theory of personality—which was measured during a student’s first weeks in high school–predicted not
+only more negative short-term reactions to social adversity (a
+domain-specific effect) but also greater stress, worse health, and
+lower grades over the course of the year, controlling for initial
+levels of these variables. This suggests that implicit theories may
+have longer term, cross-domain implications during a socially
+difficult adolescent transition.4
+Mediation. Recall that our theory was that the effects of
+implicit theories of personality would generalize to other domains
+to the extent that they alter interpretations of social adversity. We
+therefore considered the possibility that negative reactions to Cyberball exclusion (i.e., reporting more stress, anxiety, and negative
+self-feelings) might statistically mediate the link between implicit
+theories and measures of overall adjustment across domains. If this
+were the case, it might suggest that reactions to social adversity fed
+into changes in the other variables over time. Consistent with this
+expectation, correlation analyses found that more negative reac4
+Past theory and data suggest that implicit theories should predict
+adjustment and behavior primarily in times of adversity (Burnette et al.,
+2013; Yeager & Dweck, 2012), and past research has shown this by
+documenting an interaction between reports of peer victimization and
+implicit theories in predicting adjustment outcomes (Rudolph, 2010; Yeager et al., 2013). At the same time, the present study was conducted during
+the transition to high school—a time when, as noted at the outset, large
+majorities of students experience at least some social adversity, and even
+if they did not, they might reasonably worry that social difficulty could
+befall them at any time. Nevertheless we examined whether students’
+initial reports of the frequency of peer victimization might moderate
+implicit theories effects on long-term adjustment. In separate regressions,
+none of the Implicit Theories ' Peer Victimization interactions were
+significant (ts $ 1.4, ps # .3), and none were in the theoretically expected
+direction.
+
+Fn4
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+AQ: 9
+AQ: 10
+
+AQ: 11
+
+tions to Cyberball exclusion in the first month of school significantly predicted year-end levels of global stress (r ! .31, p $ .001)
+and poorer physical health (r ! .24, p ! .002). In mediational
+analyses (Imai, Keele, & Tingley, 2010; Imai, Keele, Tingley, &
+Yamamoto, 2010), there was a significant indirect (mediated)
+effect of implicit theories through Cyberball reactions on global
+stress (b ! .05, Quasi-Bayesian 95% confidence interval [CI]: .02,
+.10) and physical health (b ! .06, 95% CI: .01, .14). We did not
+find that our measure of reactions to Cyberball exclusion mediated
+the effect on academic achievement (negative reactions to exclusion were uncorrelated with grades in either term, rs $ .05, ps #
+.8).
+In sum, we found significant evidence for mediation by negative
+reactions to Cyberball exclusion for global stress and physical
+health. Mediation by Cyberball was not apparent for grades.
+
+Study 2
+Study 1 was a preliminary correlational longitudinal study
+showing that an entity theory of personality (the belief that people’s traits are fixed) is associated with harsher immediate reactions to social exclusion and also to longer-term differences in
+overall adjustment across multiple domains over the school year.
+Clearly, however, an experiment with random assignment to condition is needed to speak to the causal role of implicit theories.
+Therefore in Studies 2 and 3 we administered an incremental
+theory intervention during the first month of high school. The
+intervention was designed to redirect adolescents’ implicit theories
+away from an entity theory, so as to cut off cascading cycles of
+stress, illness and underperformance before they could gain momentum (cf. Cook, Purdie-Vaughns, Garcia, & Cohen, 2012; Finkel et al., in press; Sherman et al., 2013). Mirroring Study 1, we
+first tested whether the intervention lessened negative reactions to
+social exclusion— how much stress, anxiety, and negative selffeelings participants report experiencing after being excluded. We
+then assessed whether implicit theories affected long-term global
+stress, physical health, and grades.
+Aside from the intervention’s ability to illuminate the causal
+relation between implicit theories and adjustment, the present
+longitudinal field experiment is unique in several regards. First,
+past implicit theories of personality interventions looked chiefly at
+social outcomes, such as emotional and attributional reactions to
+social exclusion (Yeager, Trzesniewski, & Dweck, 2011), aggressive retaliation (Yeager, Trzesniewski, & Dweck, 2013), or misconduct in school (Yeager, Trzesniewski, & Dweck, 2013). By
+contrast, we test for wide-ranging effects on stress, health and
+academic achievement. Second, in contrast to previous research,
+the present study used a precise and light-touch intervention to
+manipulate incremental theories. A past intervention used six
+facilitated classroom workshops to alter adolescents’ implicit theories of personality (Yeager, Trzesniewski, & Dweck, 2013).
+However, this past intervention involved many elements (e.g., lectures, discussion groups, skits). It is unknown whether a briefer
+intervention that more precisely and efficiently communicates the
+incremental theory could alter outcomes in the long term, with no
+reinforcement.
+In addition, no past control condition in an implicit theories of
+personality experiment has taught a message about growth. Past
+control conditions taught helpful skills (Yeager, Trzesniewski, &
+
+7
+
+Dweck, 2013) and/or delivered no message (Yeager et al., 2011;
+Yeager, Trzesniewski, & Dweck, 2013). An important extension
+of the present research is to rule out the possibility that any
+optimistic message of growth—whether it addresses personality
+traits or not— could promote positive outcomes across domains.
+We compare an incremental theory of personality to an incremental theory about an important area that is thought to be unrelated to
+responses to social exclusion.
+Finally, we conducted this research during the first few weeks of
+ninth grade. This is because of past theory and research demonstrating the recursive nature of social and academic life, with early
+successes, failures, relationships and resources affecting later ones
+(Garcia & Cohen, 2012; G. L. Cohen & Sherman, 2014; Yeager &
+Walton, 2011). Indeed, Cook et al. (2012) conducted a brief
+psychological intervention (a values affirmation) and manipulated
+timing within the school year. These authors showed that the brief
+intervention delivered early in the school year improved students’
+grades significantly more than the same intervention delivered just
+a few weeks later (also see meta-analytic evidence from Raudenbush, 1984). Building on this, the present intervention sought to
+change implicit theories in the first few weeks of the first year of
+high school, to slow or stop any possible negative recursive processes.
+
+AQ: 12
+AQ: 13
+
+AQ: 14
+
+Method
+Participants. Study 2 was conducted in a school similar to the
+one used in Study 1. Participants were all the ninth-grade students
+enrolled in Algebra I at a high school in Northern California (N !
+82), and so sample size was determined by the school setting. All
+but four participants provided data at the long-term follow-up,
+leaving N ! 78 for analysis. No other participants were excluded.
+One percent of students were eligible for free or reduced-price
+lunch. Participants were 44% White, 44% Asian American, and
+12% Latino. In this school, only lower performing students took
+Algebra I, with the majority of ninth graders taking Algebra II.
+Hence this sample was academically at-risk relative to the school
+population. It might more readily show the impact of an incremental theory intervention on their grades because they should be less
+affected by range restrictions (i.e., students with all “A” grades
+cannot improve).5
+Procedure. The procedures were similar to those in Study 1. A
+baseline survey was administered in the third week of the school year,
+in September, as was the implicit theories of personality intervention.
+One to 2 days later, negative reactions to exclusion due to the
+Cyberball protocol and postintervention implicit theories were measured. A survey assessing global stress and health was administered in
+May, and grades for the year were obtained from the registrar.
+Unfortunately baseline levels of stress and health were not assessed.
+The implicit theories of personality intervention was the only manipulation in this study (and in Study 3).
+Intervention. The intervention procedure is described in
+greater detail in the online supplement. Here, we provide an
+overview.
+5
+Preliminary analyses of data from this study— but not analyses of the
+dependent variables reported here—appear in a prior article (Study 3 in
+Yeager, Miu, Powers, & Dweck, 2013).
+
+Fn5
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+8
+
+AQ: 15
+
+Fn6
+
+YEAGER ET AL.
+
+As a preface to the intervention, during the first week of school,
+Algebra I teachers gave an overview to both the experimental and
+control groups of how the brain changes and learns. About 2 weeks
+later, 1 week after the baseline survey, researchers came into the
+classroom. They handed out envelopes containing either an experimental intervention or a control activity, which was randomly assigned at the individual level, with researchers blind to condition.
+Students completed it silently during class time, and it took roughly
+25 min. Importantly, teachers were kept blind to study hypotheses,
+message content and students’ experimental conditions.
+The experimental intervention (incremental theory of personality) presented information in support of the idea that people
+have the potential to change and that therefore (a) if you are
+excluded or victimized, it is not due to a fixed, personal
+deficiency on your part, and (b) people who exclude or victimize you are not fixed, bad people but instead have complicated
+motivations that are subject to change. Students read a brief
+article summarizing actual neuroscience studies showing that
+people’s behaviors are controlled by “thoughts and feelings in
+their brains” and that such pathways in the brain can be
+changed. Next, participants read three quotes purportedly written by upperclassmen who had previously read the same article.
+The upperclassmen provided testimonials of how they used the
+information discussed in the article when they encountered a
+peer conflict. Finally, participants were asked to write their own
+version of such a narrative to share with future ninth graders,
+drawing on the examples they had just read from the upperclassmen or on their own experiences in high school or middle
+school. As in past interventions (e.g., Yeager, Trzesniewski, &
+Dweck, 2013), this is a “saying is believing” activity designed
+to promote the internalization of the intervention message (see
+E. Aronson, 1999; J. Aronson, Fried, & Good, 2002; Walton &
+Cohen, 2011). After completing the one-time activity, it was not
+mentioned again to students by researchers or teachers.
+The control group activity was parallel but focused on the
+malleability of athletic ability—a nonpersonality area that was not
+thought to be as central to social adversity and therefore was not
+predicted to have widespread effects during times of social adversity.6 As noted, this was done to eliminate the possibility that
+simple optimism about the potential for growth in any important
+area might account for our results. Although one way to test the
+incremental theory of personality intervention would be to compare it to an entity theory intervention, this condition was precluded for obvious ethical reasons.
+Experience of social exclusion. One to 2 days postintervention (depending on the class schedule), all students experienced
+exclusion through the Cyberball protocol described in Study 1
+and online. Research assistants administering the task were
+blind to students’ experimental condition assignments. Five
+students’ Cyberball data were not analyzed due to suspicion that
+the Cyberball players were controlled by the computer—judgments that, as noted in Study 1, were made by coders blind to
+condition assignment or other participant characteristics. In this
+study and in Study 3, these judgments did not differ across
+conditions.
+Measures. The same measures of negative reactions to social
+exclusion (i.e., stress, anxiety, and overall negative feelings about
+the self), global psychological stress, and physical health, as described in Study 1 were again employed. In this study (and in
+
+Study 3) we were able to obtain preintervention (eighth grade)
+state test scores and combine these with preintervention grade
+point averages so as to more completely control for prior differences in achievement. These were converted to z-scores and then
+averaged. In addition, in the present study more grading periods
+were available for analysis (three per semester, yielding six total
+over the year, rather than only the final semester grades used in
+Study 1). At each grading period, grades in the different subjects
+demonstrated acceptable internal consistency reliability ("s #
+.72).
+As a first manipulation check, two coders, blind to experimental
+hypotheses and to participant identities and characteristics, independently and reliably (Krippendorff’s " ! .85) judged whether
+participants sufficiently answered the writing prompts in the intervention materials. This allowed us to assess whether the manipulation successfully elicited thinking that is in line with the incremental theory. When the coders disagreed, they were coached to
+agreement by a third blind coder. As a second manipulation check,
+the same implicit theories of personality measure as described in
+Study 1 was administered in the baseline survey (1 week preintervention) and again after the Cyberball experience (one to 2 days
+postintervention; "s # .78).
+
+Results
+Effectiveness of random assignment. There were no baseline
+differences between the experimental and control groups in terms
+of any variable we measured (see supplemental materials).
+Manipulation check. We first investigated whether participants successfully read and processed the intervention materials.
+The large majority of participants (97%) provided responses to the
+intervention that were in line with the incremental theory. Specifically, when participants were asked to write about a time they felt
+rejected or excluded and then explain to a peer how to use the
+incremental theory in response to such an event, they wrote essays
+such as those listed in Table 2.
+The intervention also altered students’ reports of their implicit
+theories. The experimental intervention led to lower postintervention entity theories of personality one to 2 days after compared to
+students in the control group (Experimental M ! 2.39, SD ! 1.09;
+Control M ! 2.86, SD ! 1.20), t(76) ! &2.05, p ! .04,
+d ! &0.39, controlling for baseline theories.
+Response to social adversity. Furthermore, replicating the
+Study 1 correlational findings, students in the experimental condition reacted less negatively to the Cyberball exclusion one to 2
+days after the intervention (Z-scored, unadjusted data: Experimental M ! &.22, SD ! .97; Control M ! .27, SD ! .92),
+t(71) ! &2.24, p ! .03, d ! &0.52. Recall that, in this study and
+throughout the article, means and standard deviations come from
+raw data, while t-statistics come from a regression testing the
+6
+Testifying to the strength of the control intervention that focused on
+athletic ability, females in the control significantly increased their likelihood of joining a sport in the Fall semester compared to those in the
+incremental theory of personality treatment. There was no effect among
+males and no omnibus effect. Including sports participation as a covariate
+did not change any of our results, and sports participation did not predict
+the key outcomes.
+
+T2
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+9
+
+Table 2
+Representative Quotes Written by Participants Who Were Taught an Incremental Theory of Personality
+Study
+
+Quotes
+
+2
+
+“All the people that are mean and hurtful to you are just missing out on a good friend they could’ve had. But with all that said people can
+change and learn what they did and said are wrong. Just because someone is one way right now doesn’t mean they can’t change at all
+in time. Because in reality they can change.”
+“If someone was being picked on at school, I would tell its [sic] not going to last forever and it only hurts for a little while . . . if they feel
+different or left out the person that they are now is not the person they will be in 10 years.”
+“When we were starting the school year I went [to] where my friends hang out. Then they just looked at me and kept on talking . . . I felt
+really left out especially because we were all really good friends in middle school . . . [Although] it may seem like your life is crashing
+down, and that nothing will ever get better, it is not the end of the world. Your life will not be like this forever. . . . People can change.
+It’s only your first day of school.”
+“After all that [peer victimization] happened . . . I knew that they would one day change but I didn’t know when. . . . maybe they were
+going through a hard time and they all just wanted to make themselves feel better. Or maybe they were back-stabbed by their old
+friends and wanted to release their anger. I honestly don’t know but I made new friends and they are so nice! Don’t be afraid to make
+new friends, they can change your way of thinking.”
+“Understand that she could be going through some hard times in her life too. The problem isn’t always you. It could be her too. I felt
+very out of place at the school I went to. But over time, I started to change, and people around me started to change too. After that
+year, I felt right in place.”
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+3
+
+Fn7
+
+F1
+
+significance of the treatment variable in a model with covariates.7
+Overall, it appears that students read and processed the intervention, and it altered their immediate reactions to social exclusion,
+conceptually replicating past findings (e.g., Yeager et al., 2011).
+Building on these analyses, we turn to our primary question:
+whether the effect of the intervention on responses to social
+adversity generalizes to multiple domains of adjustment over the
+first year of high school.
+Global psychological stress, physical health, and academic
+achievement. Extending the Study 1 findings, incremental theory condition participants reported significantly lower global stress
+scores 8 months postintervention (Experimental condition M !
+2.86, SD ! 0.69; Control M ! 3.21, SD ! 0.63), t(76) ! &2.53,
+p ! .01, d ! &0.56. In addition, the incremental theory intervention improved reports of health (i.e., reduced reports of symptoms
+of physical illness that impaired daily functioning) at the end of the
+year (Experimental M ! 1.19, SD ! 1.21; Control M ! 1.76,
+SD ! 1.32), t(76) ! &2.03, p ! .04, d ! &0.46.
+We next examined effects on grades. The achievement of students in the two conditions did not differ before the intervention,
+t(76) ! 0.08, ns (also see Figure 1 and online). However, the
+incremental theory intervention led to higher grades over the
+course of the year (Experimental condition M ! 2.47, SD ! .95;
+Control M ! 2.12, SD ! 1.12), t(76) ! 2.11, p ! .037, d ! 0.34
+(statistical test from the hierarchical linear model). Plotting the
+grades over the year (see Figure 1) showed that the intervention
+did not lead to rising grades so much as it slowed a decline in
+grades (cf. G. L. Cohen et al., 2009; Finkel et al., in press). That
+is, Figure 1 shows that in the months following the intervention,
+control-condition students showed a steep decline in performance,
+which is common for academically at-risk students during the
+transition to high school (Benner, 2011). The incremental theory
+intervention, however, softened the decline such that experimental
+condition students better maintained their grades over the year.
+This pattern of results is consistent with the notion that social and
+academic processes are interwoven and build on each other during
+difficult transition periods—and that appropriately timed psychological interventions can redirect interpretations of adversity and
+set in motion more beneficial, self-reinforcing processes across
+
+domains (see G. L. Cohen & Sherman, 2014; Cook et al., 2012;
+Garcia & Cohen, 2012; Walton, in press; see Wilson, 2011).8
+An important predictor of later achievement is passing Algebra
+I by ninth grade. This is a crucial “gateway” course for high school
+graduation. Students who have to repeat the course are highly
+unlikely to graduate (e.g., Silver, Saunders, & Zarate, 2008; also
+see Langenkamp, 2011). We found that 14% of control-condition
+students received a D or below in both semesters of Algebra I (the
+level of performance at which students were encouraged by teachers to repeat the course), compared to only 2% of experimental
+condition students, logistic regression (2(1) ! 3.83, p ! .05, odds
+ratio (OR) ! .13.
+Moderation by baseline implicit theories? Past implicit theories research (e.g., Blackwell et al., 2007) has found evidence in
+the direction of larger treatment effects among those with an entity
+theory at baseline. This is sensible because those who hold an
+entity theory presumably have more to gain from learning an
+incremental theory than do those who already hold an incremental
+theory. Therefore our hypothesis was that the incremental theory
+of personality intervention would have the largest effects among
+those who began the year with an entity theory. In separate
+regressions, one for each outcome, we tested for Experimental
+Condition ' Baseline implicit theories interactions. Surprisingly,
+in this study, none were significant (ts # 1, ps # .3). That is,
+although we had predicted stronger effects among those who may
+need the incremental theory the most, it appeared, at least in this
+sample, that students across the implicit theories continuum benefited equally from the incremental message.
+7
+The overall pattern of significance was not altered when analyses were
+reconducted with no covariates in the model (see regression tables in the
+online supplement).
+8
+The effect of the intervention was not moderated by baseline levels of
+peer victimization. In separate regression analyses, the Intervention ' Peer
+Victimization interactions were not significant at p $ .05: When predicting
+year-end global stress or health (ts $ 1, ps # .4); when predicting grades,
+b ! .25, t(76) ! 1.80, p ! .08. Unlike in Study 1, in every case the
+nonsignificant moderation was in the theoretically expected direction of
+greater long-term effects for students reporting more peer victimization at
+baseline.
+
+Fn8
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+10
+
+YEAGER ET AL.
+
+3.0
+
+Grade Point Average
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+2.7
+
+2.4
+
+2.1
+
+Intervention
+
+Condition
+Incremental Theory of Personality
+Control
+
+1.8
+
+End of
+8th Grade
+
+1
+
+2
+
+End of
+Semester 1
+of 9th Grade
+
+Grading Period
+
+4
+
+5
+
+End of
+Semester 2
+of 9th Grade
+
+Figure 1. Effect of incremental theory of personality intervention on academic performance across the
+transition to high school (Study 2). Lines represent raw means for a given marking period, drawn with a LOESS
+smoothing curve. Eighth-grade performance is a composite of grade point average and state test scores (with test
+scores rescaled to have the same mean and standard deviation of the eighth-grade point average).
+
+Mediation. Negative reactions to Cyberball exclusion significantly predicted year-end levels of global stress (r ! .28, p !
+.02), and mediated the effect of the treatment on stress (b ! –.09,
+95% CI –.21, –.002). Next, negative reactions to Cyberball exclusion did not significantly predict year-end health (r ! .21, p !
+.10). While Cyberball reactions did not significantly mediate the
+effect of the treatment effect on health (b ! –.11, 95% CI –.34,
+.03), it is possible that this latter mediation failed to reach statistical significance due to lower statistical power than in Study 1.
+Indeed, the standardized indirect effect in the present study (% !
+.045), was nearly identical to the same indirect effect in Study 1
+(% ! .044).
+Analysis suggested that the effects of the intervention on grades
+were partially mediated by Cyberball reactions. In a hierarchical
+linear model, negative reactions to Cyberball at the beginning of
+the school year predicted grades over the year (% ! .17, p ! .03),
+controlling for eighth-grade achievement. Next, controlling for
+Cyberball reactions reduced the treatment effect to nonsignificance
+(p ! .13). We then conducted a “2-2-1” mediation model (Zhang,
+Zyphur, & Preacher, 2009). In the present mediational model, the
+“Level 2” variable (implicit theories intervention) predicts another
+“Level 2” variable (Cyberball reactions), which in turn predicts the
+“Level 1” variable (grades). Because there is not a standard package to implement this model in R, we wrote a custom bootstrapping program. When doing this, there was a significant indirect
+
+effect of the treatment on grades through Cyberball reactions (% !
+.04, bias-corrected and accelerated 95% CI: .029, .049). In sum,
+when looking broadly across Studies 1 and 2, in five out of six
+cases (four of which were significantly different from zero at p $
+.05) the mediational data were consistent with the idea that implicit
+theories could affect overall adjustment across domains by altering
+reactions to social exclusion.
+
+Study 3
+Study 2 demonstrated the causality of the processes documented
+in Study 1 and showed that it is possible for an intervention in one
+domain to have effects that ripple into various domains of functioning during adolescence. The present study was a replication
+conducted a year later in a different school— one of the poorestperforming and lowest-income in California. Many researchers
+have recently emphasized the importance of exact replications for
+building a psychological science that maximizes reproducible findings (Schimmack, 2012; Simmons, Nelson, & Simonsohn, 2011).
+This study was designed to do this.
+At the same time, many factors could affect the likelihood of a
+replication in a new and different context. As Lewin’s (1952)
+theory maintained, any psychological strategy to promote behavior
+change is embedded in a “tension system” of factors promoting
+and hindering behavior (G. L. Cohen & Sherman, 2014; Ross &
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+AQ: 16
+
+Nisbett, 1991). Often, psychological interventions such as that
+tested here assume that the system was poised for change, provided
+that thinking was redirected. When that is not the case, divergent
+results may emerge. Stated differently, brief psychological interventions that produce widespread and lasting treatment effects
+likely do so through a number of different, interconnected mediators that depend critically on context (cf. Pennebaker & Chung,
+2011). When these intermediary processes are not present, or are
+not effectively altered, then an intervention might not produce
+either immediate or sustained change (G. L. Cohen & Sherman,
+2014).
+Study 2 was conducted in a nonpoor, largely nonminority context, in which students on average experienced high quality instruction and are presumed to be safer in their neighborhoods
+relative to youth in less advantaged contexts. Yet perhaps in such
+a context social exclusion is a primary source of stress, meaning
+that a psychological intervention to take the edge off these experiences could transfer across multiple domains of functioning.
+However, many adolescents live in different settings—settings in
+which social adversity involving peers in school is just one stressor
+among many. It is unknown whether similar effects would be
+observed for youth with greater environmental stressors—for instance, racial minority youth living in high-poverty, high-violence
+neighborhoods with historically low levels of educational attainment. Perhaps the effect would be drowned out by competing
+adversities. Then again, perhaps social adversity matters as much
+or more in these contexts, and so an incremental theory intervention would have similar or larger effects. Altogether, the present
+study was designed to push the boundaries of the effect of implicit
+theories of personality to a new population, as an initial foray into
+examining the generality of the effect.
+Finally, Study 3 involved exploratory analyses to extend theory
+about the role of implicit theories of personality in affecting the
+development of views about the self during adolescence. Following some recent research, we focus on students’ construals of
+themselves (Sherman et al., 2013). Key to our theory is research
+suggesting that those with more of an incremental theory of
+personality place greater emphasis on behaviors than on traits,
+because behaviors are more dynamic, context-sensitive and malleable (e.g., Chiu, Hong, & Dweck, 1997; also see Molden &
+Dweck, 2006). Perhaps students receiving the intervention would
+be more likely to see themselves in terms of actions as opposed to
+labels—as “doing” rather than “being.” To explore this we took
+advantage of a feature of the Study 3 baseline and follow-up
+surveys: a new warm-up question that asked participants to write
+about what people in school thought of them. This open-ended
+question was likely to elicit students’ construals of themselves and
+their social image. We coded students’ responses using the LIWC
+textual analysis software (Pennebaker, Francis, & Booth, 2007)
+and analyzed the use of common verbs (as an index of seeing
+oneself as “doing” rather than “being”).
+
+11
+
+leadership was strong and progressive, and so perhaps there was
+untapped potential for student motivation and learning. To mirror
+the Study 2 sample, students in Algebra I were invited to participate and parental consent and assent were obtained from nearly all
+(95%).9 Forty-nine percent of the participants were female; 77%
+were Hispanic or Latino, 10% were White, 5% were Black or
+African American, and 8% indicated some other race or ethnicity.
+A majority spoke Spanish in the home. As in Study 2, many
+students in the school experienced social adversities: 70% of
+students reported at least some form of physical, verbal, or socialrelational aggression on a baseline survey in the first month of the
+school year. Some students could not be reached for the year-end
+survey, and so degrees of freedom varied across analyses.
+Procedures. We made every effort to conduct a precise replication, although we had to adapt to the realities of the school.
+First, many students’ English skills were poor, so we provided
+students the option of reading the intervention in Spanish (which
+had been translated by native Spanish speakers). Seven percent
+chose to do it in Spanish (this was no different by condition and
+did not have an effect on experimental outcomes). The intervention
+was delivered by computer rather than on paper (which was done
+in Study 2) so as to enable the option to complete the activity in
+Spanish or use web-based translation software. Next, the school
+was unable to provide an additional class session for the Cyberball
+experience of exclusion. Therefore, the measure of reactions to
+social adversity and the manipulation check survey items were
+administered immediately after the intervention, rather than 1–2
+days later as in Study 2. Finally, all data collection (and the
+intervention) occurred in nonacademic classes such as physical
+education or art.
+As in Studies 1 and 2, some students (19) suspected that the peer
+Cyberball players were being controlled by the computer (as
+judged by reliable, independent coders blind to hypotheses or
+condition assignments; this did not differ by condition), and so
+their reactions to Cyberball were not analyzed (although their data
+for the remaining dependent variables were analyzed).
+Measures. All measures in Study 3 were identical in terms of
+both content and timing of assessment to those administered in
+Study 2, except for (a) the change noted above in the timing of the
+Cyberball experience and manipulation check, (b) the addition of
+a “warm-up” question that was useful for assessing self-construals,
+and (c) only end-of-semester grades were available for the two
+semesters and not the two additional intermediate grades per
+semester that were available in Study 2.
+Self-construals. The first question on the September preintervention survey and May postintervention survey was this: “In
+general, what do people in your grade at school think about you?
+Type as many or as few words that people in general might think
+about you in the box below.” Ninety percent of students wrote a
+response, with an average number of 10 words. Responses to this
+question were first spell-checked to correct common errors and
+increase match rates for the LIWC software. The theoretically
+
+Method
+Participants. Participants (N ! 150) were ninth-grade students attending one of the lowest-performing high schools in
+California according to test scores. Seventy-three percent of students in the school were eligible for free or reduced-price lunch, an
+indicator of low socioeconomic status. Despite this, the school
+
+9
+Students were excluded if they had a disability and were placed in
+special education (e.g., dyslexia or autism), because these students would
+not be expected to successfully self-administer the theory-change materials
+in the time allotted, and because their grades were not comparable (teachers
+provided grades for those students based on an individualized education
+plan, not based on mastery of grade-level content standards).
+
+Fn9
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+12
+
+YEAGER ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+relevant linguistic category was common verbs (e.g., walk, went,
+see; not auxiliary verbs such as am, will, or have). Examples of
+statements with common verbs were “I think outside the box” or “I
+know for a fact a few people do not like me, which honestly
+doesn’t bug me at all” or “I get my work done-most of the time”
+or “I try to be nice to people.” A dichotomous variable was
+created, such that participants received a value of 1 if they used
+any word in a category and 0 if they did not. The base rate was
+65%. The other standard LIWC dictionaries were also applied (see
+www.liwc.net/descriptiontable1.php), and exploratory analyses are
+reported in the supplemental materials.
+
+Results
+Effectiveness of random assignment. There were no baseline
+differences between the experimental and control groups in terms
+of any variable we measured (see online supplement).
+Manipulation check. As in Study 2, independent, reliable
+coders (Krippendorff’s " ! .88) judged that the overwhelming
+majority of participants (93%) wrote acceptable responses to the
+prompt asking participants to support the incremental theory of
+personality with an example from their own lives. Some examples
+written by participants are in Table 2.
+Unexpectedly, unlike Study 2 or past studies (Yeager et al.,
+2013) the intervention did not measurably alter students’ responses
+to the manipulation check measure assessing implicit theories of
+personality (Experimental M ! 3.14, SD ! 1.22; Control M !
+3.07, SD ! 1.32), t(150) ! 0.52, p ! .60, d ! &0.08, controlling
+for baseline theories. (As noted earlier, throughout this study
+means and standard deviations are from raw data while statistical tests come from regression models.) We believe this null
+finding is likely due to the difference in experimental procedure
+noted above (i.e., with the implicit theory measure coming right
+after the Cyberball experience), but we are unsure of the mechanism. Perhaps adolescents showed greater reactance because
+they had just viewed persuasive materials, or perhaps the Cyberball experience differentially changed the meaning of the
+scale choices.
+Response to social adversity. Most important, however, we
+replicated the Study 2 finding that participants in the experimental
+condition reacted to the Cyberball exclusion significantly less
+negatively than did those in the control condition (as in Studies
+1–2, this log-transformed measure was z-scored: Experimental
+M ! –.22, SD ! 1.03; Control M ! .07, SD ! .96), t(123) !
+–2.02, p ! .045, d ! &0.31. Thus, given the effect on immediate
+interpretations of social adversity—and given students’ openended responses, which clearly demonstrate that participants read
+and processed the incremental theory message—we proceeded to
+test whether the intervention again generalized its effects to overall
+stress, health and grades.
+Stress and physical health. The findings related to stress and
+health were replicated (Table 1). Eight months postintervention,
+intervention condition participants reported reduced global psychological stress (Experimental M ! 2.68, SD ! .60; Control M !
+2.91, SD ! .66), t(135) ! –2.14, p ! .03, d ! &0.37, and better
+physical health (i.e., fewer complaints of physical illness that
+impaired daily functioning; Experimental M ! 0.89, SD ! 1.06;
+Control M ! 1.43, SD ! 1.99), t(133) ! –2.59, p ! .01,
+d ! &0.46. As in Study 2, none of these findings were moderated
+
+by baseline implicit theories (ts $ 1, ps # .7) or reports of peer
+victimization (ts $ 1.3, ps # .17), although all of these were in the
+theoretically expected direction (greater effects for victimized students and those with more of an entity theory at baseline). Of
+course, the large majority of adolescents reported at least some
+peer victimization, and so perhaps all participants faced sufficient
+worries about being excluded by peers and therefore could benefit
+from the incremental theory. Overall, the effect of the incremental
+theory intervention on stress and health replicated even in a lowincome, urban public school—a population thought to have many
+more environmental stressors and threats to health than the Study
+2 population.
+Academic achievement. The incremental theory intervention
+significantly improved grades among those who began the school
+year with more of an entity theory and not among those who
+already held an incremental theory. There was no significant main
+effect of the intervention on grades, b ! .04, t(149) ! 0.25, p !
+.80, d ! 0.03, but the expected Experimental Condition ' Baseline implicit theories interaction (which was not found in Study 2)
+emerged, t(149) ! 2.56, p ! .01. To interpret this result, which
+was obtained using the continuous implicit theories measure, we
+examined the simple effects within substantively meaningful
+groups: those who had an entity theory of personality at baseline
+(who “agreed,” on average, with the entity theory scale, i.e., #3.5)
+and those who did not (!3.5 on the entity theory scale). Among
+baseline entity theorists, there was a large and significant treatment
+effect on grades (Experimental M ! 2.29 on the 0 – 4-point scale,
+SD ! 1.23; Control M ! 1.23, SD ! 1.22), t(40) ! 2.71, p ! .009,
+d ! 0.80. Among those who did not have an entity theory at
+baseline there was no effect of the treatment on grades (Experimental M ! 2.01, SD ! 1.33; Control M ! 2.05, SD ! 1.25),
+t(106) ! – 0.75, p ! .45, d ! 0.12. There was no significant
+moderation by baseline peer victimization in the full sample or
+either subsample of students with an entity or incremental
+theory at baseline (ts $ 1, ps # .5). Thus grades were improved
+by a great deal for a theoretically and practically important,
+albeit small, subgroup of participants with an entity theory at
+baseline.
+We replicated the effect of the intervention on course failures in
+Algebra I among those with an entity theory at baseline. In that
+subsample, 42% of control-condition students received a D or
+below in both semesters of Algebra I, compared to only 19% of
+experimental condition students: logistic regression (2(1) ! 5.36,
+p ! .02, OR ! .32.
+Mediation. Looking only at the data from Study 3, negative
+reactions to Cyberball exclusion did not significantly predict yearend global stress (r ! .13, p ! .14), or grades, % ! .03, p ! .81
+but did predict health (r ! .21, p ! .02) and did not significantly
+mediate the effect of the intervention on these outcomes at the p $
+.05 level (Stress: b ! –.01, 95% CI: –.07, .04; Health: b ! –.07,
+95% CI: –.20, .01; Grades: b ! –.06, 95% CI: –.11, .01). Some of
+this discrepancy may be due to statistical power. To examine this
+further, we maximized power by stacking data from Studies 2 and
+3 into a single data set (see Cooper & Patall, 2009, for a review of
+raw data meta-analysis; also see Schimmack, 2012). We then
+conducted moderated mediation tests (Imai, Keele, et al., 2010) to
+assess whether the indirect effects were significant overall and
+whether the indirect effects were significantly different across the
+two studies. In the stacked data set with Studies 2 and 3 combined,
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Fn10
+
+Cyberball exclusion significantly mediated treatment effects on
+long-term stress, –.02, 95% CI: –.03, –.01, corresponding to 8% of
+the direct effect—a small but statistically detectable amount. Cyberball reactions also significantly mediated treatment effects on
+long-term health (b ! –.08, 95% CI: –.12, –.04), corresponding to
+35% of the direct effect. Moderated mediation tests comparing
+Study 2 to Study 3 did not approach significance (p ! .30 and p!
+.76, respectively). Thus, when using all of the available data,
+Studies 2 and 3 support theory regarding the role of differential
+reactions to social exclusion as one mediator of long-term stress
+and health effects. This closely parallels the Study 1 correlational
+findings. For grades, the mediational findings across studies were
+more inconsistent.10
+Self-construals. The design of Study 3 allowed for an analysis
+of intervention effects on self-construals, assessed via subtle features of the text of students’ self-descriptions coded by the LIWC
+program. The data supported the hypothesis that learning more of
+the incremental theory might lead students to see themselves more
+in terms of actions as opposed to labels. In the experimental group,
+74% of students used a common verb in their May selfdescriptions, compared to 56% of control students, (2(1) ! 5.53,
+p ! .02. These groups did not differ at baseline on this metric,
+(2(1) ! 1.59, p ! .21, and controlling for initial levels in a logistic
+regression did not eliminate the statistical significance of the May
+condition effect on verb-use (in the covariate model, p ! .03).
+Summary. The core of the Study 2 findings were replicated in
+this highly different context with a larger sample. A brief intervention teaching an incremental theory of personality reduced
+immediate negative reactions to social exclusion, and, 8 months
+postintervention, reduced overall life stress and reports of physical
+health problems. In addition, the intervention improved overall
+grades among those expected to benefit the most—students with
+an entity theory of personality at baseline. Furthermore, a textual
+analysis of students’ self-descriptions suggests the intervention
+may have seeped into students’ construals of themselves. If these
+linguistic analyses are confirmed in future studies, this may lead to
+new avenues for understanding the long-term maintenance of the
+treatment effect.
+
+General Discussion
+The present correlational and experimental studies support a
+novel social-cognitive account of what causes some people to
+adjust better than others during a developmental transition that is
+fraught with social adversities. Study 1 showed that adolescents
+just beginning high school reacted to social adversity more negatively when they interpreted it through the lens of an entity theory
+of personality, an implicit theory that leads students to see social
+adversity as stemming from traits that cannot change (Erdley et al.,
+1997; Yeager et al., 2011). And perhaps because the stresses of
+social adversity accumulate over time, an entity theory predicted
+greater overall stress, poorer health, and worse grades at the end of
+the school year.
+Given that an entity theory seems to be a psychological
+liability during the transition to high school, we sought to
+determine whether delivering a brief but theoretically informed
+intervention to reduce entity theories could promote adjustment.
+Studies 2 and 3 showed that exposing adolescents to an incremental theory of personality—the idea that people’s traits in
+
+13
+
+high school are not fixed throughout life but have the potential
+to change— could alter responses to immediate social adversity
+and reduce reports of global stress and physical illness at the
+end of the school year. These findings replicated in a relatively
+advantaged high school sample and in a low-income, lowperforming high school. Interestingly, the intervention had
+these lasting effects with no explicit reinforcement or mention
+of the incremental theory after the initial session.
+The incremental theory intervention reported in Studies 2 and
+3 also improved English, math, and science grades over the
+school year. In Study 2 this was true for all students. In Study
+3 this was true for students who began the school year with
+more of an entity theory, a finding that is consistent with
+theoretical expectations. In each study, the intervention also
+affected more specific academic outcomes such as the pass rate
+in Algebra I, an important predictor of whether students will go
+on to graduate high school and attend college (Silver et al.,
+2008). The overall pattern of results suggests that implicit
+theories of personality can tap into a psychological hub during
+the transition to high school, resulting in effects that benefit
+multiple domains of development— even domains that, at first
+glance, seem remote to beliefs about personality traits.
+The present findings add to past research in several ways. First,
+previous research has shown that implicit theories of intelligence
+can affect academic performance (e.g., Blackwell et al., 2007). But
+no research had shown that implicit theories of personality relate
+to academic performance— either correlationally or experimentally. Next, previous interventions have taught an incremental
+theory of personality and affected social outcomes, such as realworld aggression in response to peer provocation (e.g., Yeager et
+al., 2013). However, the present research is among the first to
+show that an intervention addressing a belief about the social self
+could extend to the variables of stress, health, and academic
+performance during difficult adolescent transitions (also see Walton & Cohen, 2011).
+Next, much research has documented an association between
+stress or health on the one hand and self-relevant cognitions and
+emotions such as self-blame or shame on the other (e.g., Dickerson
+et al., 2011). Yet no research had examined the link between stress
+or health and the underlying beliefs—in the present case, implicit
+theories—that have been shown to give rise to self-blame or shame
+(Erdley et al., 1997; Yeager et al., 2011).
+More generally, a large number of past adolescent interventions
+have found it difficult to produce cross-domain effects on stress,
+health, and achievement, and this is often been interpreted as
+meaning that larger, more time-intensive, and earlier interventions
+are required (e.g., Heckman & Kautz, in press). Yet this interpretation perhaps undervalues the importance of psychological construals of adversity during difficult life transitions. The present
+research illustrates that a precise theory of the beliefs that give rise
+10
+Unfortunately the Imai, Keele, et al. (2010) program cannot test
+moderated multilevel mediation. Yet it seems likely that significant moderation by sample would occur given the robust mediation in Study 2 and
+the effect in the opposite direction in the present study, Study 3. At the
+same time, recall that the mediation effect for grades was only tested within
+the smaller subsample of roughly 45 students who began the year with
+more of an entity theory. And so statistical power to detect mediation for
+that outcome was dramatically reduced.
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+14
+
+YEAGER ET AL.
+
+to problematic interpretations of difficulty can, during developmental periods rife with social hardship, have counterintuitively
+large and lasting effects across a number of domains of human
+functioning (see G. L. Cohen & Sherman, 2014).
+
+Understanding the Lasting Effects of
+Brief Interventions
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+AQ: 17
+
+The present intervention used tactics developed in a long line of
+past brief social-psychological interventions that affected consequential outcomes over time (see G. L. Cohen et al., 2009; Pennebaker, 2004; Ross & Nisbett, 1991; Sherman et al., 2013; see
+Walton, in press; Wilson, 2006; Yeager & Walton, 2011). Wilson
+et al. (2002) showed that a brief attributional retraining intervention could improve struggling students’ grades at the end of the
+following semester, and Walton and Cohen (2011) showed that a
+brief (1-hr) social belonging intervention could improve minority
+college students’ academic achievement 3.5 years postintervention
+(also see G. L. Cohen et al., 2009; Sherman et al., 2013). These
+studies have many elements in common with the present research.
+Each starts with a theory about how interpretations of a commonly
+recurring adversity—low grades, experiences of being left out or
+negatively stereotyped— could feed into a cycle of stress and
+academic performance. Next, these interventions seek to alter the
+meaning of these adversities—for instance, preventing the conclusion that struggling in school means you are “dumb” or “don’t
+belong,” or, in the present research, that being picked on means
+you are a “loser” and that the aggressors are “bullies.” Crucially,
+these interventions are delivered at times when adversities were
+predicted to recur, precisely when changes in the meaning of
+adversity can be critical for setting in motion the processes that
+sustain change and maximize its impact (Cook et al., 2012). Of
+course, an important future direction is to directly examine the
+optimal timing of the present intervention through further experimentation, in addition to broader efforts to develop theory and data
+about recursive processes that affect development (G. L. Cohen &
+Sherman, 2014; Yeager & Walton, 2011).
+
+Strengths, Weaknesses, and Future Directions
+Several features of our studies lead to confidence in our conclusions. Studies 2 and 3 were conducted in two highly different
+school sites— one low-income and urban and one higher income
+and suburban—and we found evidence for the relation between
+implicit theories of personality and overall adjustment in both.
+This supports the generalizability of the direct effects, at least in
+these two different settings, acknowledging that it is unknown how
+similar these schools are to urban and suburban schools in general.
+Importantly, justification for causal inferences within these schools
+was clear. The experimental intervention was double-blind, meaning that teachers (and students) were unaware of assignment to
+groups and to hypotheses regarding stress, health or achievement,
+preventing them from treating experimental and control students
+differentially on the basis of condition assignments. Moreover, the
+implicit theories of personality intervention were compared to a
+control group that also learned a positive and optimistic message
+about growth, which controls for the simple placebo effect of
+getting an uplifting message. It therefore adds to previous implicit
+theories of personality studies that have not done this (such as
+Yeager et al., 2011, 2013).
+
+Still, the present research is not without limitations. As with
+many findings in psychology, we do not fully understand the set of
+conditions required to obtain the effects documented here. While it
+is helpful that the findings replicated in very different school
+settings, it is also true that the research team held a number of
+procedural details relatively constant across the two experiments
+that may or may not have affected the results. This involves factors
+such as timing during the school year (the first few weeks; Cook
+et al., 2012), keeping students blind to the persuasive purpose of
+the materials, piloting and customizing the intervention and assessments, and procedures to ensure students were minimally
+distracted when completing the materials. To the extent that future
+studies might alter these, effect sizes might differ. Effect sizes
+might also vary when contextual factors that produced the sustained treatment effect are not present (cf. Lewin, 1952), as may be
+the case when conducting these interventions in new school settings. Altogether, the boundary conditions of the effects have not
+yet been mapped out and thoughtful replication efforts may help
+document these.
+The present findings may also lead to future lines of research.
+First, the mechanisms that sustained the effect of the intervention
+until the end of the year could be further explored. One explanation
+is that the intervention produced lasting changes in adolescents’
+interpretations of social adversity. Indeed, the exploratory linguistic analyses of self-construals presented in Study 3 provide evidence consistent with this possibility (also see analyses of lasting
+changes in interpretations of social adversity in Study 2 in the
+online supplement). A second explanation, however, is that the
+intervention’s effects on reactions to adversity might “wear off,”
+but only after they have set in motion positive recursive social and
+academic processes that reinforce themselves through their repetition (cf. G. L. Cohen et al., 2009; Finkel et al., in press; Sherman
+et al., 2013). Perhaps treated students, by reacting with less stress,
+anxiety and negative self-feelings following early social exclusion, were more resilient when making friends, leading them to
+have more stable social networks. These social supports may
+have reduced stress levels and improved health and grades over
+time (see, e.g., Walton, Logel, Peach, Spencer, & Zanna, 2013;
+also see Cacioppo & Patrick, 2008). Future research with more
+diverse assessments from multiple informants could more fully
+track these potential processes.
+All participants in the experimental studies were exposed to
+Cyberball ostracism following the incremental theory intervention
+to test the hypothesis that responses to Cyberball would mediate
+long-term effects. However it is possible that exposure to this
+social adversity itself could have facilitated the longitudinal treatment effects by allowing students to “practice” their new, more
+hopeful way of thinking in the short term, before the incremental
+theory message faded. Indeed, past intervention studies testing the
+effects of values affirmation (Cook et al., 2012; Sherman et al.,
+2013), attribution retraining (Wilson et al., 2002), and emotional
+reappraisal (Jamieson, Mendes, Blackstock, & Schmader, 2010)
+have used an analogous procedure of having a challenge or adversity immediately follow the delivery of a brief psychological
+intervention. Like these past studies, we did not directly test
+whether this feature of our design facilitated the long-term treatment effects. Perhaps this was not necessary because high school
+could provide enough stressful experiences; the experience of
+Cyberball may be redundant with the real-world exclusion teen-
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+AQ: 18
+AQ:18,
+19
+
+agers face. If so, then teens might have the opportunity to utilize
+their new implicit theory whether an immediate social adversity
+experience is provided by researchers or not.
+Our research relied on self-reports to assess stress and health. It
+is reassuring that the relation between implicit theories, stress, and
+health both matched theoretical predictions and replicated across
+three different schools. Nevertheless, future research might supplement these self-reports by assessing the relation of implicit
+theories to biological indicators of stress following social adversity, such as levels of cortisol (see Dickerson & Zoccola, in press),
+as well as more objective and comprehensive measures of physical
+health.
+Last, future research should assess the temporal relation between changes in stress and changes in achievement and health.
+We believe it is possible and even likely that the intervention, in
+softening interpretations of social exclusion, altered levels of overall stress, which in turn affected learning and academic performance. Indeed, in supplemental analyses not reported in the text,
+we found that the effect of implicit theories on grades over the year
+was significantly mediated by year-end levels of overall stress in
+all three studies. However, due to the timing of our assessments
+(stress was assessed in May, grades over the entire year), such
+mediational analyses cannot truly illuminate the direction of the
+relation between global life stress and either grades or health. An
+alternative possibility is that by affecting early levels of stress, the
+interventions improved grades and health, which in turn affected
+year-end levels of stress, in a recursive process that strengthened
+through its repetition (cf. G. L. Cohen et al., 2009; Cook et al.,
+2012; Finkel et al., in press; Sherman et al., 2013). Testifying to
+the interconnectedness of these outcomes, Knack et al. (2011)
+showed that stress reactivity following peer victimization predicted later health problems, while Nishina and Juvonen (2005)
+showed that the low grades and absenteeism among victimized
+teens could be explained in part by physical health complaints (see
+Juvonen & Graham, 2014). It will be interesting and important in
+future research to understand these possible reciprocal relations.
+
+Conclusion
+As we noted at the outset, a common idea in American society
+is that being labeled “cool” or a “nerd” early in high school defines
+a person forever after, regardless of the changes they may make
+later. Our research shows that many teens are hearing this message
+loud and clear, and it is undermining their resilience.
+Of course, not all people think this way. For instance, Winnie
+Holzman, the creator of the iconic show about high school, My
+So-Called Life (Herskovitz, Zwick, & Holzman, 2007), said (as
+summarized by Senior, 2013):
+“In high school we become pretty convinced that we know what
+reality is: We know who looks down on us, who is above us, exactly
+who our friends and our enemies are.” The truth of the matter, is that
+we really have no clue. “What seems like unshakable reality is
+basically just a story we learned to tell ourselves.” (p. 5)
+
+Consistent with this notion, our research shows that adolescents
+can learn to tell themselves a different story, a story in which
+people have the potential to change. And when they do, they show
+better adjustment across the board: lower stress, better health, and
+higher grades. Going forward, it will be important for researchers,
+
+15
+
+educators, parents, and media outlets to find ways to emphasize
+this message of the human potential for change.
+
+References
+Abelson, R. P. (1985). A variance explanation paradox: When a little is a
+lot. Psychological Bulletin, 97, 129 –133. doi:10.1037/0033-2909.97.1
+.129
+Aronson, E. (1999). The power of self-persuasion. American Psychologist,
+54, 875– 884. doi:10.1037/h0088188
+Aronson, J., Fried, C., & Good, C. (2002). Reducing the effects of stereotype threat on African American college students by shaping theories of
+intelligence. Journal of Experimental Social Psychology, 38, 113–125.
+doi:10.1006/jesp.2001.1491
+Barber, B. K., & Olsen, J. A. (2004). Assessing the transitions to middle
+and high school. Journal of Adolescent Research, 19, 3–30. doi:10.1177/
+0743558403258113
+Bates, D. M. (2010). lme4: Mixed-effects modeling with R. Retrieved from
+http://lme4.r-forge.r-project.org/book/
+Beck, A. T. (1967). Depression: Clinical, experimental and theoretical
+aspects. New York, NY: Hoeber Medical Division, Harper & Row.
+Beer, J. S. (2002). Implicit self-theories of shyness. Journal of Personality
+and Social Psychology, 83, 1009 –1024. doi:10.1037/0022-3514.83.4
+.1009
+Benner, A. D. (2011). The transition to high school: Current knowledge,
+future directions. Educational Psychology Review, 23, 299 –328. doi:
+10.1007/s10648-011-9152-0
+Birnbaum, D., Deeb, I., Segall, G., Ben-Eliyahu, A., & Diesendruck, G.
+(2010). The development of social essentialism: The case of Israeli
+children’s inferences about Jews and Arabs. Child Development, 81,
+757–777. doi:10.1111/j.1467-8624.2010.01432.x
+Blackwell, L. S., Trzesniewski, K., & Dweck, C. S. (2007). Implicit
+theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. Child Development, 78,
+246 –263. doi:10.1111/j.1467-8624.2007.00995.x
+Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Cambridge, MA: Harvard University Press.
+Burnette, J. L., O’Boyle, E., VanEpps, E. M., Pollack, J. M., & Finkel, E. J.
+(2013). Mindsets matter: A meta-analytic review of implicit theories and
+self-regulation. Psychological Bulletin, 139, 655–701. doi:10.1037/
+a0029531
+Cacioppo, J. T., & Patrick, W. (2008). Loneliness: Human nature and the
+need for social connection. New York, NY: Norton.
+Cairns, R. B., & Cairns, B. D. (1994). Lifelines and risks: Pathways of
+youth in our time. New York, NY: Cambridge University Press.
+Chan, A., & Poulin, F. (2007). Monthly changes in composition of friendship networks in early adolescence. Merrill-Palmer Quarterly, 53, 578 –
+602. doi:10.1353/mpq.2008.0000
+Chen, Z., DeWall, C. N., Poon, K.-T., & Chen, E.-W. (2012). When
+destiny hurts: Implicit theories of relationships moderate aggressive
+responses to ostracism. Journal of Experimental Social Psychology, 48,
+1029 –1036. doi:10.1016/j.jesp.2012.04.002
+Chiu, C., Dweck, C. S., Tong, J. Y., & Fu, J. H. (1997). Implicit theories
+and conceptions of morality. Journal of Personality and Social Psychology, 73, 923–940. doi:10.1037/0022-3514.73.5.923
+Chiu, C. Y., Hong, Y., & Dweck, C. S. (1997). Lay dispositionism and
+implicit theories of personality. Journal of Personality and Social Psychology, 73, 19 –30. doi:10.1037/0022-3514.73.1.19
+Cialdini, R., & Paluck, E. L. (in press). Field research methods. In H. T.
+Reis, & C. M. Judd (Eds.), Handbook of research methods in personality
+AQ: 20
+and social psychology. New York, NY: Cambridge University Press.
+Cohen, G. L., & Garcia, J. (2008). Identity, belonging and achievement: A
+model, interventions, implications. Current Directions in Psychological
+Science, 17, 365–369. doi:10.1111/j.1467-8721.2008.00607.x
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+16
+
+YEAGER ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Cohen, G. L., Garcia, J., Purdie-Vaugns, V., Apfel, N., & Brzustoski, P.
+(2009). Recursive processes in self-affirmation: Intervening to close the
+minority achievement gap. Science, 324, 400 – 403. doi:10.1126/science
+.1170769
+Cohen, G. L., & Prinstein, M. J. (2006). Peer contagion of aggression and
+health-risk behavior among adolescent males: An experimental investigation of effects on public conduct and private attitudes. Child Development, 77, 967–983. doi:10.1111/j.1467-8624.2006.00913.x
+Cohen, G. L., & Sherman, D. (2014). The psychology of change: Selfaffirmation and social psychological intervention. Annual Review of
+Psychology, 65, 333–371. doi:10.1146/annurev-psych-010213-115137
+Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of
+perceived stress. Journal of Health and Social Behavior, 24, 385–396.
+doi:10.2307/2136404
+Cook, J. E., Purdie-Vaughns, V., Garcia, J., & Cohen, G. L. (2012).
+Chronic threat and contingent belonging: Protective benefits of values
+affirmation on identity development. Journal of Personality and Social
+Psychology, 102, 479 – 496. doi:10.1037/a0026312
+Cooper, H., & Patall, E. A. (2009). The relative benefits of meta-analysis
+conducted with individual participant data versus aggregated data. Psychological Methods, 14, 165–176. doi:10.1037/a0015565
+Crosnoe, R. (2011). Fitting in, standing out: Navigating the social challenges of high school to get an education. New York, NY: Cambridge
+University Press. doi:10.1017/CBO9780511793264
+Dailey, K. (2010, December 16). The legacy of high school cliques: How
+the labels we get as teenagers shape the rest of our lives, and why social
+networking and the economy are changing the way a generation deals
+with those early stereotypes. Newsweek. Retrieved from http://www
+.newsweek.com/can-you-ever-escape-those-high-school-labels-69097
+Dickerson, S. S., Gruenewald, T. L., & Kemeny, M. E. (2011). Physiological effects of social threat: Implications for health. In J. Cacioppo &
+J. Decety (Eds.), Handbook of social neuroscience (pp. 787– 803). New
+York, NY: Oxford University Press. doi:10.1093/oxfordhb/
+9780195342161.013.0052
+AQ: 21 Dickerson, S. S., & Zoccola, P. M. (in press). Cortisol responses to social
+exclusion. In C. N. DeWall (Ed.), The Oxford handbook of social
+exclusion. New York, NY: Oxford University Press.
+Diesendruck, G., & haLevi, H. (2006). The role of language, appearance,
+and culture in children’s social category based induction. Child Development, 77, 539 –553. doi:10.1111/j.1467-8624.2006.00889.x
+Erdley, C., Cain, K., Loomis, C., Dumas-Hines, F., & Dweck, C. S. (1997).
+The relations among children’s social goals, implicit personality theories
+and response to social failure. Developmental Psychology, 33, 263–272.
+doi:10.1037/0012-1649.33.2.263
+Erdley, C., & Dweck, C. S. (1993). Children’s implicit theories as predictors of their social judgments. Child Development, 64, 863– 878. doi:
+10.2307/1131223
+Faris, R., & Felmlee, D. (2011). Status struggles: Network centrality and
+gender segregation in same- and cross-gender aggression. American
+Sociological Review, 76, 48 –73. doi:10.1177/0003122410396196
+Finkel, E. J., Burnette, J. L., & Scissors, L. E. (2007). Vengefully ever
+after: Destiny beliefs, state attachment anxiety, and forgiveness. Journal
+of Personality and Social Psychology, 92, 871– 886. doi:10.1037/00223514.92.5.871
+Finkel, E. J., Slotter, E. B., Luchies, L. B., Walton, G. M., & Gross, J. J.
+(in press). A brief intervention to promote conflict reappraisal preserves
+marital quality over time. Psychological Science.
+Gale, B. (Producer), Canton, N. (Producer), & Zemeckis, R. (Director).
+(1985). Back to the future [Motion picture]. United States: Universal
+Pictures.
+Garcia, J., & Cohen, G. L. (2012). A social psychological approach to
+educational intervention. In E. Shafir (Ed.), Behavioral foundations of
+public policy (pp. 329 –347). Princeton, NJ: Princeton University Press.
+
+Gini, G., & Pozzoli, T. (2009). Association between bullying and psychosomatic problems: A meta-analysis. Pediatrics, 123, 1059 –1065. doi:
+10.1542/peds.2008-1215
+Gould, R. V. (2003). Collision of wills: How ambiguity about social rank
+breeds conflict. Chicago, IL: University of Chicago Press.
+Graham, S., & Juvonen, J. (1998). Self-blame and peer victimization in
+middle school: An attributional analysis. Developmental Psychology, 34,
+587–599. doi:10.1037/0012-1649.34.3.587
+Guinote, A. (2007a). Power affects basic cognition: Increased attentional
+inhibition and flexibility. Journal of Experimental Social Psychology,
+43, 685– 697. doi:10.1016/j.jesp.2006.06.008
+Guinote, A. (2007b). Power and the suppression of unwanted thoughts:
+Does control over others decrease control over the self? Journal of
+Experimental Social Psychology, 43, 433– 440. doi:10.1016/j.jesp.2006
+.03.003
+Haugland, S., Wold, B., Stevenson, J., Aaroe, L. E., & Woynarowska, B.
+(2001). Subjective health complaints in adolescence: A cross-national
+comparison of prevalence and dimensionality. European Journal of
+Public Health, 11, 4 –10. doi:10.1093/eurpub/11.1.4
+Hays, R. D., Sherbourne, C. D., & Mazel, R. M. (1993). The Rand 36-Item
+Health Survey 1.0. Health Economics, 2, 217–227. doi:10.1002/hec
+.4730020305
+Heckman, J., & Kautz, T. (in press). Fostering and measuring skills: AQ: 22
+Interventions that improve character and cognition. In J. Heckman, J. E.
+Humphries, & T. Kautz. (Eds.), The GED and the role of character in
+American life. Chicago, IL: University of Chicago Press.
+Herskovitz, M., Zwick, E., & Holzman, W. (Producers). (2007). My
+so-called life [Television series]. Los Angeles, CA: Shout! Factory.
+Imai, K., Keele, L., & Tingley, D. A. (2010). A general approach to causal
+mediation analysis. Psychological Methods, 15, 309 –334. doi:10.1037/
+a0020761
+Imai, K., Keele, L., Tingley, D. A., & Yamamoto, T. (2010). Causal
+mediation analysis using R. In H. D. Vinod (Ed.), Advances in social
+science research using R (pp. 129 –154). New York, NY: Springer.
+Inzlicht, M., & Kang, S. K. (2010). Stereotype threat spillover: How coping
+with threats to social identity affects aggression, eating, decisionmaking, and attention. Journal of Personality and Social Psychology,
+99, 467– 481. doi:10.1037/a0018951
+Jamieson, J. P., Mendes, W. B., Blackstock, E., & Schmader, T. (2010).
+Turning the knots in your stomach into bows: Reappraising arousal
+improves performance on the GRE. Journal of Experimental Social
+Psychology, 46, 208 –212. doi:10.1016/j.jesp.2009.08.015
+Juvonen, J., & Graham, S. (2014). Bullying in schools: The power of
+bullies and the plight of victims. Annual Review of Psychology, 65,
+159 –185. doi:10.1146/annurev-psych-010213-115030
+Killen, M., Kelly, M. C., Richardson, C., & Jampol, N. S. (2010). Attributions of intentions and fairness judgments regarding interracial peer
+encounters. Developmental Psychology, 46, 1206 –1213. doi:10.1037/
+a0019660
+Knack, J. M., Jensen-Campbell, L. A., & Baum, A. (2011). Worse than
+sticks and stones? Bullying is associated with altered HPA axis functioning and poorer health. Brain and Cognition, 77, 183–190. doi:
+10.1016/j.bandc.2011.06.011
+Knee, C. R. (1998). Implicit theories of relationships: Assessment and
+prediction of romantic relationship initiation, coping, and longevity.
+Journal of Personality and Social Psychology, 74, 360 –370. doi:
+10.1037/0022-3514.74.2.360
+Langenkamp, A. G. (2011). Effects of educational transitions on students’
+academic trajectory: A life course perspective. Sociological Perspectives, 54, 497–520. doi:10.1525/sop.2011.54.4.497
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. New
+York, NY: Springer.
+Lewin, K. (1943). Defining the “field at a given time”. Psychological
+Review, 50, 292–310. doi:10.1037/h0062738
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+IMPLICIT THEORIES, STRESS, HEALTH, AND ACHIEVEMENT
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Lewin, K. (1952). Group decision and social change. In G. E. Swanson,
+T. M. Newcomb, & E. L. Hartley (Eds.), Readings in social psychology
+(2nd ed., pp. 330 –344). New York, NY: Holt.
+Lupien, S. J., Maheu, F., Tu, M., Fiocco, A., & Schramek, T. E. (2007).
+The effects of stress and stress hormones on human cognition: Implications for the field of brain and cognition. Brain and Cognition, 65,
+209 –237. doi:10.1016/j.bandc.2007.02.007
+Mehta, B. S., Cornell, D., Fan, X., & Gregory, A. (2013). Bullying climate
+and school engagement in ninth-grade students. Journal of School
+Health, 83, 45–52.
+Miller, G., Chen, E., & Cole, S. (2009). Health psychology: Developing
+biologically plausible models linking the social world and physical
+health. Annual Review of Psychology, 60, 501–524. doi:10.1146/annurev
+.psych.60.110707.163551
+Molden, D. C., & Dweck, C. S. (2006). Finding “meaning” in psychology:
+A lay theories approach to self-regulation, social perception, and social
+development. American Psychologist, 61, 192–203. doi:10.1037/0003066X.61.3.192
+Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can
+undermine children’s motivation and performance. Journal of Personality and Social Psychology, 75, 33–52. doi:10.1037/0022-3514.75.1.33
+Nishina, A., & Juvonen, J. (2005). Daily reports of witnessing and experiencing peer harassment in middle school. Child Development, 76,
+435– 450. doi:10.1111/j.1467-8624.2005.00855.x
+Olson, K., & Dweck, C. S. (2008). A blueprint for social cognitive
+development. Perspectives on Psychological Science, 3, 193–202. doi:
+10.1111/j.1745-6924.2008.00074.x
+Pellegrini, A., & Long, J. (2002). A longitudinal study of bullying, dominance, and victimization during the transition from primary school
+through secondary school. British Journal of Developmental Psychology, 20, 259 –280. doi:10.1348/026151002166442
+AQ: 26 Pennebaker, J. (2004). Theories, therapies, and taxpayers: On the complexities of the expressive writing paradigm. Clinical Psychology: Science
+and Practice, 11, 138 –142. doi:10.1093/clipsy.bph063
+Pennebaker, J. W., & Chung, C. K. (2011). Expressive writing: Connections to physical and mental health. In H. S. Friendman (Ed.), The
+Oxford handbook of health psychology (pp. 417– 437). New York, NY:
+Oxford University Press.
+Pennebaker, J. W., Francis, M. E., & Booth, R. J. (2007). Linguistic Inquiry
+and Word Count: LIWC [Computer software]. Austin, TX: Liwc.net.
+Raudenbush, S. (1984). Magnitude of teacher expectancy effects on pupil
+IQ as a function of the credibility of expectancy induction: A synthesis
+of findings from 18 experiments. Journal of Educational Psychology,
+76, 85–97. doi:10.1037/0022-0663.76.1.85
+Reis, H. T., & Gosling, S. D. (2010). Social psychological methods outside
+the laboratory. In S. Fiske, D. Gilbert, & G. Lindzey (Eds.), Handbook
+of social psychology (5th ed., Vol. 1, pp. 82–114). Hoboken, NJ: Wiley.
+Richards, M. H., Crowe, P. A., Larson, R., & Swarr, A. (1998). Developmental patterns and gender differences in the experience of peer companionship during adolescence. Child Development, 69, 154 –163.
+Ross, L., & Nisbett, R. E. (1991). The person and the situation: Perspectives of social psychology. New York, NY: McGraw-Hill.
+Rudolph, K. D. (2010). Implicit theories of peer relationships. Social
+Development, 19, 113–129. doi:10.1111/j.1467-9507.2008.00534.x
+Sapolsky, R. M. (2005). The influence of social hierarchy on primate
+health. Science, 308, 648 – 652. doi:10.1126/science.1106477
+Schimmack, U. (2012). The ironic effect of significant results on the
+credibility of multiple-study articles. Psychological Methods, 17, 551–
+566. doi:10.1037/a0029487
+Senior, J. (2013, January 20). Why you never truly leave high school: New
+science on its corrosive, traumatizing effects. New York Magazine.
+Retrieved from http://nymag.com/news/features/high-school-2013-1/
+Sherman, D. K., Hartson, K. A., Binning, K. R., Purdie-Vaughns, V.,
+Garcia, J., Taborsky-Barba, S., . . . Cohen, G. L. (2013). Deflecting the
+
+17
+
+trajectory and changing the narrative: How self-affirmation affects academic performance and motivation under identity threat. Journal of
+Personality and Social Psychology, 104, 591– 618. doi:10.1037/
+a0031495
+Silver, D., Saunders, M., & Zarate, E. (2008). What factors predict high
+school graduation in the Los Angeles Unified School District? (California Dropout Research Project Report #14). Santa Barbara, CA: Univer- AQ: 28
+sity of California, Santa Barbara.
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive
+psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22,
+1359 –1366. doi:10.1177/0956797611417632
+Smith, P. K., Jostman, N. B., Galinsky, A. D., & van Dijk, W. W. (2008).
+Lacking power impairs executive functions, Psychological Science, 19,
+441– 447. doi:10.1111/j.1467-9280.2008.02107.x
+Smith, P. K., & Trope, Y. (2006). You focus on the forest when you’re in
+charge of the trees: Power priming and abstract information processing.
+Journal of Personality and Social Psychology, 90, 578 –596. doi:
+10.1037/0022-3514.90.4.578
+Sundblad, G. B., Jansson, A., Saartok, T., Renström, P., & Engström,
+L.-M. (2008). Self-rated pain and perceived health in relation to stress
+and physical activity among school-students: A 3-year follow-up. Pain,
+136, 239 –249. doi:10.1016/j.pain.2007.06.032
+Tanen, N. (Producer), & Hughes, J. (Producer & Director). (1985). The
+breakfast club [Motion picture]. United States: Universal Pictures.
+Walton, G. M. (in press). The new science of wise psychological interventions. Current Directions in Psychological Science.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes among minority students.
+Science, 331, 1447–1451. doi:10.1126/science.1198364
+Walton, G. M., Logel, C., Peach, J. M., Spencer, S. J., & Zanna, M. P.
+(2013). Two brief social-psychological interventions transform women’s
+experience, relationships and achievement in engineering. Unpublished
+manuscript, Stanford University, Stanford, CA.
+Williams, K. D. (2009). Ostracism: A temporal need-threat model. In M.
+Zanna (Ed.), Advances in experimental social psychology (Vol. 41, pp.
+279 –314). New York, NY: Academic Press.
+Williams, K. D., & Jarvis, B. (2006). Cyberball: A program for use in
+research on ostracism and interpersonal acceptance. Behavior Research
+Methods, 38, 174 –180. doi:10.3758/BF03192765
+Wilson, T. D. (2006). The power of social psychological interventions.
+Science, 313, 1251–1252. doi:10.1126/science.1133017
+Wilson, T. D. (2011). Redirect: The surprising new science of psychological change. New York, NY: Little, Brown. doi:10.1037/e506142012001
+Wilson, T. D., Damiani, M., & Shelton, N. (2002). Improving the academic
+performance of college students with brief attributional interventions. In
+J. Aronson (Ed.), Improving academic achievement: Impact of psychological factors on education (pp. 89 –108). San Diego, CA: Academic
+Press. doi:10.1016/B978-012064455-1/50008-7
+Wolke, D., Copeland, W. E., Angold, A., & Costello, E. J. (2013). Impact
+of bullying in childhood on adult health, wealth, crime, and social
+outcomes. Psychological Science, 24, 1958 –1970. doi:10.1177/
+0956797613481608
+Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience:
+When students believe that personal characteristics can be developed.
+Educational Psychologist, 47, 302–314. doi:10.1080/00461520.2012
+.722805
+Yeager, D. S., Miu, A., Powers, J., & Dweck, C. S. (2013). Implicit
+theories of personality and attributions of hostile intent: A meta-analysis,
+an experiment, and a longitudinal intervention. Child Development, 84,
+1651–1667. doi:10.1111/cdev.12062
+Yeager, D. S., Purdie-Vaughns, V., Garcia, J., Apfel, N., Pebley, P.,
+Master, A., . . . Cohen, G. L. (in press). Breaking the cycle of mistrust:
+
+APA NLM
+tapraid5/z2g-perpsy/z2g-perpsy/z2g00614/z2g4184d14z xppws S!1 3/14/14 0:38 Art: 2013-0713
+
+18
+
+YEAGER ET AL.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Wise interventions to provide critical feedback across the racial divide.
+Journal of Experimental Psychology: General.
+Yeager, D. S., Trzesniewski, K., & Dweck, C. S. (2013). An implicit
+theories of personality intervention reduces adolescent aggression in
+response to victimization and exclusion. Child Development, 84, 970 –
+988. doi:10.1111/cdev.12003
+Yeager, D. S., Trzesniewski, K., Tirri, K., Nokelainen, P., & Dweck, C. S.
+(2011). Adolescents’ implicit theories predict desire for vengeance after
+remembered and hypothetical peer conflicts: Correlational and experimental evidence. Developmental Psychology, 47, 1090 –1107. doi:
+10.1037/a0023769
+
+Yeager, D. S., & Walton, G. (2011). Social-psychological interventions in
+education: They’re not magic. Review of Educational Research, 81,
+267–301. doi:10.3102/0034654311405999
+Zhang, Z., Zyphur, M. J., & Preacher, K. J. (2009). Testing multilevel
+mediation using hierarchical linear models. Organizational Research
+Methods, 12, 695–719. doi:10.1177/1094428108327450
+
+Received July 11, 2013
+Revision received February 10, 2014
+Accepted February 11, 2014 !
+
+

@@ -1,0 +1,1697 @@
+556890
+research-article2014
+
+JEAXXX10.1177/0272431614556890Journal of Early AdolescenceKosovich et al.
+
+Article
+
+A Practical Measure
+of Student Motivation:
+Establishing Validity
+Evidence for the
+Expectancy-Value-Cost
+Scale in Middle School
+
+Journal of Early Adolescence
+2015, Vol. 35(5-6) 790­–816
+© The Author(s) 2014
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0272431614556890
+jea.sagepub.com
+
+Jeff J. Kosovich1, Chris S. Hulleman1,
+Kenneth E. Barron2, and Steve Getty3
+
+Abstract
+We present validity evidence for the Expectancy-Value-Cost (EVC) Scale
+of student motivation. Using a brief, 10-item scale, we measured middle
+school students’ expectancy, value, and cost for their math and science
+classes in the Fall and Winter of the same academic year. Confirmatory
+factor analyses supported the three-factor structure of the EVC Scale,
+as well as measurement invariance across gender, academic domain, and
+time. Predictions of the EVC Scale’s relationship with domain-specific
+future interest and prior achievement provide convergent and discriminant
+validity evidence. The practical utility of the survey is highlighted by the
+short administration time and the alignment between observed and latent
+means, indicating that practitioners can use raw scores rather than latent
+values. Finally, we discuss methods of how to use the EVC Scale to provide
+actionable information for educational practitioners, such as identifying
+
+1University
+
+of Virginia, Charlottesville, USA
+Madison University, Harrisonburg, VA, USA
+3Colorado College, Colorado Springs, CO, USA
+2James
+
+Corresponding Author:
+Jeff J. Kosovich, Center for Advanced Study of Teaching and Learning, University of Virginia,
+405 Emmet Street South, PO Box 80078, Charlottesville, VA 22904-0784, USA.
+Email: jk5ne@virginia.edu
+
+Kosovich et al.	
+
+791
+
+which motivation interventions are most needed for students and if those
+interventions are working.
+Keywords
+motivation, measurement, middle school, expectancy-value, cost
+Striking a balance between developing high psychometric qualities, on the
+one hand, and providing actionable information for practitioners, on the other
+hand, is a conundrum faced by many researchers. For example, scale developers typically recommend measuring constructs with numerous items to
+maximize scale reliability and content breadth. However, as the number of
+items being measured increases, the usability of the measure in the field is
+quickly limited due to such factors as time constraints and respondent fatigue
+(Bryk et al., 2013). A tension arises because focusing too much on technical
+specifications can result in a meaningful but unusable assessment, whereas
+focusing too much on practical concerns can result in a usable but potentially
+meaningless assessment. These tensions can produce confusion among
+researchers, evaluators, and practitioners about how best to assess important
+educational processes and outcomes.
+Although a number of motivation scales have been developed, existing
+measures have a variety of limitations for routine, widespread use. First, a
+proliferation of theoretical constructs can make it difficult for practitioners to
+know which measures to use (Murphy & Alexander, 2000). Second, motivational measures are often not validated across academic contexts (e.g., math
+and science), across populations with different characteristics, or across time.
+Third, the length of previous measures is not always practical for use in classrooms to quickly assess student motivation at a single time point, or to sample/measure motivation repeatedly over a longer period of time. Similarly,
+the lack of a reliable and easy-to-use motivation measure renders it difficult
+for researchers or program evaluators to assess the effectiveness of educational interventions designed to enhance student motivation.
+In this article, we address technical concerns as well as practical applications for a rapid measure of student motivation, the Expectancy-Value-Cost
+(EVC) Scale. We argue that a scale’s practical utility results from balancing
+technical properties and practical concerns. Using latent variable modeling,
+we demonstrate that the 10-item EVC Scale can measure three theoretically
+separate and important motivational constructs. Furthermore, we provide evidence that practitioners can draw similar conclusions about motivational differences without sophisticated statistical modeling and without sacrificing a
+large amount of class time.
+
+792	
+
+Journal of Early Adolescence 35(5-6)
+
+Expectancy-Value Motivation and Assessment
+Of the numerous motivation theories and constructs that appear in contemporary educational psychology, expectancy-value models (Eccles et al., 1983)
+offer a comprehensive framework for understanding student motivation
+(Brophy, 2010). The model proposes that motivation consists of two key factors that predict important educational outcomes (Eccles et al., 1983; Feather,
+1988): expectancy and value. Expectancy, which is linked to achievement
+outcomes (e.g., grades), reflects the extent to which a student thinks he or she
+can be successful in a task. Value, which is linked to other academic outcomes (e.g., future interests), reflects the extent to which a student thinks a
+task is worthwhile (Wigfield & Cambria, 2010).
+Assessments of expectancy-value motivation have a long history in education research (Wigfield & Cambria, 2010). Eccles and her colleagues proposed that expectancy and value are separate factors that each can be further
+distinguished into several dimensions (e.g., Eccles & Wigfield, 1995).
+Specifically, Eccles and colleagues (1983) argued for two dimensions of
+expectancy and four dimensions of value. The dimensions of expectancy
+included ability beliefs (what students think they can do now) and expectancy
+beliefs (what students think they will be able to do in the future). The dimensions of value are distinguished according to what enhances or undermines a
+student’s overall value for the activity. Positive contributors include intrinsic
+value (engaging in an activity because it is inherently enjoyable), utility value
+(engaging in the activity because it helps achieve other short-term or longterm goals), and attainment value (engaging in the activity because it affirms
+an important aspect of a student’s identity). In contrast, cost reflects negative
+aspects of engaging in an activity, such as perceptions of the effort and time
+required to be successful, the loss of engaging in other valued activities, or
+negative psychological states such as struggling or failing at the activity.
+Based on prior research, expectancy and value (with the exception of cost)
+are typically positive correlated with each other, as well as with educational
+outcomes such as achievement or student persistence (e.g., Durik, Vida, &
+Eccles, 2006). Alternatively, cost is negatively related to expectancy, value,
+and learning outcomes (for a review, see Barron & Hulleman, in press).
+Research on existing expectancy-value scales indicate several challenges
+that inform our current work. First, dimensions within each construct often
+are correlated highly or load onto one factor (Eccles & Wigfield, 1995). As a
+result, researchers tend to pool items across dimensions into an overall, combined expectancy or value scale (e.g., Jacobs, Lanza, Osgood, Eccles, &
+Wigfield, 2002). Second, combined scales are often taken from a larger pool
+of items that can vary across studies and contexts (e.g., items used in middle
+
+Kosovich et al.	
+
+793
+
+school may differ from those used in high school or college). Third, although
+Eccles experimented with cost scales as a dimension of value (see Parsons,
+1980), cost scales generally have not been investigated further in subsequent
+empirical work (for reviews, see Barron & Hulleman, in press; Flake, 2012).
+As a result, less is known about how cost actually functions alongside expectancy and value, to influence student motivation. A newer conceptualization
+of expectancy-value models, however, emphasizes an important distinction
+between value and cost by relabeling the model as EVC (Barron & Hulleman,
+in press). Recent empirical work across diverse samples also suggests that
+cost separates into its own factor, and is negatively related to expectancy and
+value (Conley, 2012; Flake et al., 2011; Grays, 2013; Trautwein et al., 2012).
+Despite the theoretical suggestion that expectancy, value, and cost represent separate factors of motivation, relatively little research has focused on the
+psychometric quality of these scales. Most often, a single study conducted by
+Eccles and Wigfield (1995) is cited as providing support for expectancy-value
+scales. However, the items in their study did not formally include items to
+measure cost. In addition, the items were developed and validated to capture
+multiple dimensions of expectancy and value, but are frequently combined to
+measure expectancy and value each unidimensionally. The Eccles and
+Wigfield study did not provide empirical evidence or tests of a shorter, more
+practically useful scale that assesses expectancy, value, and cost as three separate, unidimensional scales. In this article, we present our initial work to
+develop and validate a three-factor scale of EVC motivation to fill this gap.
+The proposed EVC Scale builds on a body of developmental work piloting
+the scale in a variety of classes with different student populations, ranging in
+age from middle school through early college. Careful attention was paid to
+the wording of items so the EVC Scale could be used across a variety of age
+levels without additional editing. Similarly, the academic domain measured
+by the scale can be easily altered by changing the reference (e.g., “math
+class” to “science class”). The initial version of the EVC Scale included 24
+items used in undergraduate general education courses (Flake et al., 2011;
+Grays, 2013). This larger pool of items was reduced to 12 for use in evaluating an online intervention in high school science (Getty, Hulleman, Barron,
+Stuhlsatz, & Marks, 2013). Subsequently, as part of a National Science
+Foundation grant, a panel of experts critically evaluated the items, including
+an analysis of whether or not the items aligned with the intended theoretical
+constructs (i.e., face validity). Other formative data contributing to the EVC
+Scale development were gleaned from qualitative research on cost (Flake,
+2012), and by coding and comparing open-ended responses with Likert-type
+scale item responses. Together, these studies form a basis for the current
+10-item EVC Scale.
+
+794	
+
+Journal of Early Adolescence 35(5-6)
+
+We also see the EVC Scale serving as a Tier I support scale as discussed
+in the school-wide positive behavioral support approach to prevention
+(Gresham, 2004). We intentionally draw a parallel between the EVC Scale
+and Tier I supports because the latter work provides a useful framework for
+identifying areas to target for intervention. Similar to Tier I behavioral supports for all students (Stewart, Benner, Martella, & Marchand-Martella,
+2007), we offer the EVC Scale as a Tier I support to capture motivation levels
+for students in a classroom, grade, or school. As such, the EVC Scale can
+provide a quick “pulse” of what the motivational profile of a student, classroom, or school could be. For example, teachers and administrators could use
+this scale to determine which motivational issues are of particular concern. In
+one classroom, expectancy for math may be the issue; in another classroom,
+value for science may be the issue. With such formative data, targeted interventions could be adopted or developed to address the particular motivational
+issues that are identified (expectancy, value, and/or cost).
+An emerging body of research highlights the potential for targeted psychological interventions to focus on certain elements of student motivation
+(e.g., Yeager & Walton, 2011). Furthermore, different interventions should be
+used to impact different motivational concerns. For example, Dweck and colleagues’ growth mindset intervention changes student perceptions about
+whether they can be successful in a class through effort rather than inherent
+ability (Blackwell, Trzesniewski, & Dweck, 2007; Dweck, 2006). As such,
+the growth mindset intervention could be considered a type of expectancy
+intervention (Hulleman, Barron, Kosovich, & Lazowski, in press). Similarly,
+Hulleman and colleagues’ relevance intervention increases perceived utility
+value for learning material (Hulleman & Harackiewicz, 2009). In addition,
+Cohen and Garcia (2005) self-affirmation intervention decreases stereotype
+threat (a cost for learning) and could be considered a cost intervention.
+Recognizing that different types of interventions are needed for different
+motivational concerns, we developed the EVC Scale to help practitioners
+identify beneficial interventions for their students.
+
+A Blended Approach to Measuring Motivation
+In order to develop a scale that is both technically sound and practically
+usable, we pursued a blended approach to measurement to evaluate the EVC
+Scale. First, we focus on the technical specifications (i.e., validity evidence;
+Messick, 1995) that address scale structure and item functionality from a
+psychometric perspective. Second, we examine usability concerns such as
+administration time and readily useable results from an applied perspective
+(i.e., social validity; Gresham & Lopez, 1996). Our approach to measurement
+
+Kosovich et al.	
+
+795
+
+Figure 1.  Competing factor structures of the EVC Scale.
+
+Note. The diagram shows four possible models for the relationships among expectancy, value,
+and cost. Model 1tests a single-factor model comprising all 10 items. Model 2 tests Eccles’s
+original two-factor model in which expectancy items form a single factor while value and cost
+items form another factor. In Model 3, expectancy and value items form a single factor, and
+cost items form a separate factor. Model 4 tests a framework in which expectancy, value, and
+cost are distinct latent factors (i.e., the EVC Scale). EVC = Expectancy-Value-Cost.
+
+strengthens the argument that the EVC Scale is both meaningful (technically
+and theoretically sound) and usable (easy to implement).
+We use confirmatory factor analysis (CFA) to test the congruence between
+the theoretical and observed scale structure. Based on different theoretical
+possibilities about the relationships between expectancy, value, and cost, four
+scale structures were tested for the EVC Scale (see Figure 1). In following
+best practice guidelines for CFA model comparisons (Kline, 2011), the first
+model tests a one-factor structure in which all of the items represent a single
+construct (Motivation). The second model tests an additional two-factor
+structure with an Expectancy factor and a combined value-cost factor
+(Eccles’s Value; Eccles et al., 1983). The third model tests a two-factor structure in which expectancy and value form a single factor (Positive Motivation)
+and Cost a separate factor. The final model tests a three-factor structure with
+distinct Expectancy, Value, and Cost factors as proposed in the revised EVC
+framework (Barron & Hulleman, in press).
+An important issue when considering the practical utility of a scale is
+whether or not it can provide accurate information without sophisticated statistical modeling. Unfortunately, there are a number of problems associated
+
+796	
+
+Journal of Early Adolescence 35(5-6)
+
+with raw item information (Marsh, Scalas, & Nagengast, 2010), including
+variation in how students respond to items across different groups (e.g., gender, age), that can influence the factor structure, factor loadings, item intercepts, and item error variances. One solution is to sequentially test increasingly
+restrictive CFA models that constrain item parameters to be equal (measurement invariance; Vandenberg & Lance, 2000). Such tests of measurement
+invariance allow us to examine the extent to which variations in scale scores
+across students are due to real changes in a construct rather than systematic
+variation across groups or across time. Configural invariance tests whether
+the same-factor structure exists across groups or time. Metric invariance tests
+whether factor loadings (of the items on their respective expectancy, value, or
+cost factor) are equal across groups or time. Scalar invariance tests whether
+item intercepts are equal across groups or time. Finally, equal error invariance tests whether the error variances (or item uniqueness) are equal across
+groups or time. Establishing measurement invariance is integral to a scale’s
+practical utility because it tests for differential item functioning between
+groups or time and allows total scores to be calculated using raw data. If all
+four types of invariance are tenable, strong evidence exists that observed
+scores represent latent scores and differences in those scores are representative of actual construct differences.
+
+The Science, Technology, Engineering, and Math
+Context
+Although we designed the EVC Scale to apply across content areas, the current study focuses on student motivation in science, technology, engineering,
+and math (STEM) classes in middle school mathematics and science. STEM
+subjects play a vital and direct role in a student’s ability to be successful in
+school, to graduate from school, and to become a part of the STEM-related
+workforce. Research in STEM education highlights declines in student motivation for math and science (Global Science Forum, 2006). The proportion of
+students pursuing STEM fields in the United States has decreased despite a
+growing need for individuals with STEM training for continued economic
+competitiveness and success (National Research Council [NRC], 2010). One
+fruitful approach to understanding, and possibly reversing, this trend is the
+systematic study of non-cognitive skills and attitudes such as student motivation in STEM domains (Easton, 2013). Domain-specific motivation can predict course choice, educational persistence, and achievement (Durik et al.,
+2006; Jacobs et al., 2002). Well-developed and practitioner-friendly scales of
+motivation are needed toward this end.
+
+Kosovich et al.	
+
+797
+
+Goals of the Current Study
+Using a brief, 10-item scale, we measured middle school students’ expectancy, value, and cost for math and science in the Fall and again in the Winter
+of the same academic year. There are four major goals of the current study.
+First, we examined the dimensionality of the EVC Scale using CFA to determine whether the scale adheres to a three-factor structure or to alternative
+one- or two-factor structures. Second, we used measurement invariance models to test if observed scores on the EVC Scale can accurately reflect observed
+scores across gender, academic domain, and time. Third, we examined convergent and discriminant evidence by testing the extent to which the EVC
+Scale correlates with standardized test scores, future interest in that academic
+domain, and EVC Scale scores in other domains (i.e., math and science).
+Finally, we examined average survey completion times to determine if the
+scale was able to be administered quickly.
+
+Method
+Participants
+The current study uses data collected from students at a diverse, public middle school in the southeast (59% free/reduced lunch, 45% limited English
+proficiency, 40% White, 39% Hispanic, 10% African American). Of the 547
+students enrolled in the middle school’s sixth, seventh, and eighth grades,
+approximately 100 had no EVC Scale data due to logistical problems during
+the first year of scale administration. In addition, some students were missing
+data due to absences or data collection issues (e.g., illness, early release days,
+snow days). Because we were interested in comparing math and science
+motivation, our sample was further restricted to students who either had complete EVC Scale data in math and science in one academic year during Fall
+2012 or Winter 2013. This resulted in an overall sample of 401 students.
+Demographically, boys and girls were evenly represented in the final sample
+(51.4% girls). The racial distribution was 51% White, 31% Hispanic, 9%
+Black, 4% Asian, and 5% Mixed or Other.
+Due to relatively small numbers of students within grades, the sample
+included students from sixth (n = 114), seventh (n = 137), and eighth (n =
+150) grades. Prior research suggests that sixth-, seventh-, and eighth-grade
+students follow similar trajectories of motivation over time (Jacobs et al.,
+2002). Preliminary CFAs and invariance analyses also suggested some support for invariance across grades (see Supplementary Material provided
+online), but due to small sample size, we did not have sufficient statistical
+power for a formal test of invariance across grade levels.
+
+798	
+
+Journal of Early Adolescence 35(5-6)
+
+Procedure and Measures
+Expectancy-Value-Cost Scale. Students completed the brief, 10-item EVC
+Scale (see the appendix) through an online survey platform before participating in benchmark tests about that respective domain (math or science).
+Some students who did not have access to a computer completed the survey
+using paper and pencil. Response times were collected for all computer
+administrations. Sample items include expectancy (three items, for example, “I know I can learn the material in my math/science class”), value
+(three items, for example, “I value my math/science class”), and cost (four
+items, for example, “My math/science classwork requires too much time”).
+Items used a 6-point, Likert-type scale ranging from 1 (strongly disagree)
+to 6 (strongly agree).
+Outcome measures. Separate three-item scales were used to assess future
+interest in math (αFall = .81; αWinter = .86) and science (αFall = .87; αWinter = .88),
+which were based on similar measures of future interest (Hulleman, Godes,
+Hendricks, & Harackiewicz, 2010). The future interest scale consists of items
+such as “I look forward to learning more about math/science,” “I want to take
+more math/science classes in the future,” and “I want to have a job that
+involves math/science someday.” Standardized test scores (i.e., the state’s No
+Child Left Behind assessments) from Spring of the prior year were obtained
+from school district data.
+
+Data Analysis Plan
+Confirmatory factor analysis.  To test different conceptualizations of the EVC
+Scale, the four competing CFA models presented in Figure 1 were tested using
+Mplus 7.1. In all models, the items were constrained to load only on their
+respective factor (no cross loading), and the factors were allowed to correlate.
+CFAs were conducted separately for math and science in both the Fall and
+Winter samples. To assess the adequacy of global fit, we examined adjusted
+chi-square difference tests (Satorra & Bentler, 2010) to compare nested models. We also examined root mean square error of approximation (RMSEA),
+comparative fit index (CFI), and standardized root mean square residual
+(SRMR) values that provide information about model misspecification,
+improvement over a null model, and an average estimate of correlation residuals, respectively. Recommendations for good fit were ≤ .06 for RMSEA, ≥.95
+for CFI, and ≤ .08 for SRMR (for a review, see Hooper, Coughlan, & Mullen,
+2008). In addition, we further investigated model misspecification by examining model residuals. Following recommendations from Kline (2011), we
+
+Kosovich et al.	
+
+799
+
+focused particularly on correlation and standardized residuals with values
+greater than |.10| and |3.0|, respectively. Although these guidelines are provided, it is largely left to a researcher’s judgment to determine if the local
+misfit is a concern and which index to use. We treated our measures as continuous indicators (Rhemtulla, Brosseau-Liard, & Savalei, 2012) and used
+maximum likelihood estimation with robust standard errors (MLR) for all
+CFA and invariance tests.
+Measurement invariance. Three sets of measurement invariance were also
+conducted. First, gender invariance was tested separately for math and science in both the Fall and Winter samples. Second, cross-domain invariance
+was conducted to determine if the EVC Scale functions the same in math and
+science. Finally, longitudinal invariance analyses were conducted separately
+for math and science. In specifying the longitudinal invariance models, latent
+standardization (i.e., setting latent means to 0 and latent variances to 1) was
+used to set the scale of the latent factors. This method of standardization is
+particularly useful in longitudinal invariance because the parameter estimates
+of the latent means that are produced are analogous to Glass’s Δ (Little,
+Slegers, & Card, 2006). The production of latent Glass’s Δ also enables us to
+compare latent and observed effect sizes (i.e., examines whether or not practitioners can use the scale without advanced statistics).
+Rather than testing if more restrictive models (i.e., metric and scalar)
+improve fit, invariance testing is concerned with maintaining fit. Thus, more
+restricted invariance models are considered to fit if they do not drastically
+decrease the fit of models as measured by chi-square difference tests (p > .05)
+and changes in CFI (≤.01; Cheung & Rensvold, 2002). Instead of using strict
+accept/reject decision rules (Iacobucci, 2009; Steiger, 2007), we used assessments of global model fit, local model fit, and change in model fit between
+competing models to make holistic judgments about the adequacy of tested
+models.
+Convergent and discriminant evidence.  One method for establishing convergent
+and discriminant evidence for validity is assessing whether or not responses
+to the EVC Scale for science differ from responses for math. To do this, we
+examined the latent correlations of the EVC Scale in math class and science
+class. To further assess convergent and discriminant evidence, we also correlated expectancy, value, and cost with another measure of domain-specific
+motivation (future interest in each respective academic domain) as well as a
+measure of domain-specific achievement (prior state standardized test
+scores). These correlations were used to assess if the EVC Scale related to
+future interest and prior achievement in expected directions at expected
+
+800	
+
+Journal of Early Adolescence 35(5-6)
+
+magnitudes. The correlations with science achievement are based on smaller
+samples due to missing data and the fact that only sixth-grade science
+achievement scores were available.
+Completion time.  To assess if the EVC Scale could be administered with relatively little time commitment, we calculated descriptive statistics for student
+completion time of the scale.
+
+Results
+Descriptive Analyses
+Individual item descriptive statistics were similar across domains and time
+points. Expectancy and value items tended to have means of near 5.0 and
+standard deviations of 1.0, whereas cost items tended to have means near 2.5
+with standard deviations of 1.3 (see Supplementary Material). Given past
+research on student levels of motivation (Jacobs et al., 2002), these high
+means are not without precedent among middle school–aged students. The
+full range of responses was used except for Winter math expectancy that did
+not use the strongly disagree option. In terms of percentage of people who
+chose each response category, expectancy and value items tended to have the
+three disagree options chosen 5% to 15% of the time, whereas cost items had
+slightly more spread across response options (see Supplementary Material).
+Finally, when examining item correlations for math and science in Winter
+and Fall (see Supplementary Material), items within the same construct
+tended to be more highly correlated with each other than with items from
+other constructs.
+
+Confirmatory Factor Analyses
+Model fit was assessed for all factor structures tested (see Figure 1). The onefactor model (Model 1) and the two-factor model of expectancy versus
+Eccles’s value (Model 2) did not display adequate fit. Although the two-factor model of positive motivation versus cost (Model 3) typically displayed
+adequate fit, the three-factor EVC model (Model 4) was championed in all
+instances because it displayed superior fit (see Table 1). In the Fall, Model 4
+displayed good fit in measuring math, χ2(32) = 30.46, p = .54; RMSEA < .01;
+CFI > .99; SRMR = .02, and science, χ2(32) = 44.87, p = .07; RMSEA = .04;
+CFI = .99; SRMR = .03, and demonstrated significantly better fit than Model
+3 in both math, Δχ2(2) = 56.96, p < .01, and science, Δχ2(2) = 53.82, p < .01.
+Similarly in the Winter, Model 4 displayed good fit in measuring math,
+
+801
+
+Kosovich et al.	
+
+Table 1.  CFA Global Fit and Local Fit Summary Values for Math and Science in
+Winter and Fall.
+Residuals
+Model tested
+
+χ2
+
+Math, Fall 2012
+  Model 1
+296.30*
+274.63*
+  Model 2d
+85.10*
+  Model 3e
+30.46
+  Model 4f
+Science, Fall 2012
+  Model 1
+362.65*
+314.15*
+  Model 2d
+97.99*
+  Model 3e
+44.87
+  Model 4f
+Math, Winter 2013
+  Model 1
+289.98*
+398.13*
+  Model 2d
+189.69*
+  Model 3e
+40.58
+  Model 4f
+Science, Winter 2013
+  Model 1
+273.02*
+187.49*
+  Model 2d
+74.71*
+  Model 3e
+42.70
+  Model 4f
+
+df
+
+RMSEA
+
+CFI
+
+SRMR
+
+35
+34
+34
+32
+
+.16
+.15
+.07
+.00
+
+0.72
+0.74
+0.95
+1.00
+
+.12
+.12
+.04
+.02
+
+35
+34
+34
+32
+
+.17
+.17
+.08
+.04
+
+0.66
+0.70
+0.93
+0.99
+
+.12
+.10
+.04
+.03
+
+35
+34
+34
+32
+
+.16
+.20
+.13
+.03
+
+0.68
+0.57
+0.81
+0.99
+
+.10
+.12
+.08
+.03
+
+35
+34
+34
+32
+
+.16
+.13
+.07
+.04
+
+0.72
+0.81
+0.95
+0.99
+
+.11
+.09
+.04
+.03
+
+SRa
+
+0%
+
+4%
+
+7%
+
+9%
+
+CRb
+
+Δχ2,c
+
+7%
+
+ 
+ 
+ 
+56.96*
+
+4%
+
+ 
+ 
+ 
+53.82*
+
+7%
+
+ 
+ 
+ 
+147.36*
+
+0%
+
+ 
+ 
+ 
+35.65*
+
+Note. Total N = 401. n = 311 for math and science in Fall 2012. n = 270 for math and science
+in Winter. Italicized lines indicate championed models. CFA = confirmatory factor analysis;
+RMSEA = root mean square error of approximation; CFI = comparative fit index; SRMR =
+standardized root mean square residual; SR = standardized residual; CR = correlation residual.
+aSR indicates the percentage of standardized residuals greater than |3.00|.
+bCR indicates the percentage of correlation residuals greater than |.10|.
+cDifference tests were only conducted to compare models that displayed acceptable fit.
+Models 1 and 2 displayed inadequate fit in all cases and fit values. dThis model tests Eccles’s
+original two-factor model in which expectancy items form one factor while value and cost
+items form a second factor.
+eThis model tests a conventional wisdom two-factor model in which expectancy and value
+items form one factor while and cost items form a second factor.
+fThis model tests a three-factor model in which Expectancy, Value, and Cost form are
+separate.
+*p < .05.
+
+χ2(32) = 40.58, p = .14; RMSEA = .03 CFI = .99; SRMR = .03, and science
+motivation, χ2(32) = 42.70, p = .10; RMSEA = .04; CFI = .99; SRMR = .03,
+
+802	
+
+Journal of Early Adolescence 35(5-6)
+
+and demonstrated better fit than Model 3 in both math, Δχ2(2) = 147.36, p < .01,
+and science, Δχ2(2) = 35.65, p < .01. Based on these findings, we tested for
+invariance of the three-factor model (Model 4), which represented separate
+factors of expectancy, value, and cost.
+
+Gender, Cross-Domain, and Longitudinal Invariance
+Gender invariance. We concluded that some measurement invariance was
+present when comparing gender (see Table 2, Gender). It is important to note
+that in all cases, the global fit indices for the scalar models decreased only
+slightly from the metric models. For example, when comparing the metric
+model, χ2(71) = 104.53, p = .01; RMSEA = .06; CFI = .97; SRMR = .06, with
+the scalar model, χ2(78) = 115.46, p < .01; RMSEA = .06; CFI = .97;
+SRMR = .07, and Δχ2(7) = 11.13, p = .13, the fit indices were virtually identical. Despite areas of local misfit, we determined that the EVC Scale effectively displayed scalar invariance for gender. However, for equal error
+invariance models, the SRMR values and percentages of large correlation
+residuals increased substantially. Further inspection of correlation residuals
+revealed that the model was overestimating the correlations between the first
+and third expectancy items. The model also appeared to be overestimating
+expectancy and cost item correlations, and underestimating the correlations
+between some value and cost items, though these values tended to be closer
+to |.10| and likely less problematic. The boys’ and girls’ models both displayed similar areas of local misfit, but the values tended to be larger for
+boys. As a result, we caution comparing mean differences between boys and
+girls without latent variable modeling.
+Academic domain invariance.  Academic domain invariance (i.e., math vs. science) was more clearly supported than gender invariance (see Table 2, Invariance models, Academic domain). We judged the fit of the equal error
+invariance model to be adequate in the Fall, χ2(169) = 253.01, p < .01;
+RMSEA = .04; CFI = .97; SRMR = .06, and Δχ2(10) = 16.29, p = .09, as well
+as in the Winter, χ2(169) = 284.29, p < .01; RMSEA = .05; CFI = .95; SRMR =
+.06, and Δχ2(10) = 20.90, p = .02. Despite a decline in fit from the scalar
+model to the equal error variance model, as indicated by significant chisquare difference tests, global and local fit were still quite good for the latter.
+In terms of local misfit, the majority of larger residuals indicated over- or
+underestimation within domain (though the actual residual values were still
+quite small), rather than between domains.
+In addition to testing measurement invariance, the academic domain
+invariance models provided information about the domain specificity of
+
+803
+
+Kosovich et al.	
+Table 2.  Invariance Modeling, Global Fit Indices, Local Fit Summaries, and Δχ2
+Change.
+Invariance models
+ 
+Gender
+Math
+Fall
+ 
+Gender
+Science
+Fall
+ 
+Gender
+Math
+Winter
+ 
+Gender
+Science
+Winter
+ 
+Academic
+domain
+Fall
+ 
+Academic
+domain
+Winter
+ 
+ 
+Longitudinal
+Math
+ 
+ 
+Longitudinal
+Science
+ 
+
+Global fit
+
+Model†
+
+χ2
+
+df
+
+C
+M
+Sc
+Ec
+C
+M
+S
+E
+C
+M
+S
+E
+C
+M
+S
+E
+C
+M
+S
+E
+C
+M
+S
+E
+C
+M
+S
+E
+C
+M
+S
+E
+
+94.88*
+104.53*
+115.46*
+121.68*
+81.32
+85.80
+101.28*
+126.92*
+89.28*
+91.55
+101.84*
+120.10*
+57.53
+65.30
+69.98
+81.71
+157.41
+172.07
+235.40*
+253.01*
+213.97*
+218.63*
+256.45*
+284.29*
+178.83*
+191.15*
+214.29*
+234.03*
+195.14*
+201.07*
+206.41*
+223.69*
+
+64
+71
+78
+88
+64
+71
+78
+88
+64
+71
+78
+88
+64
+71
+78
+88
+145
+155
+159
+169
+145
+155
+159
+169
+145
+155
+159
+169
+145
+155
+159
+169
+
+Local fit
+
+RMSEA CFI SRMR SRa
+.06
+.06
+.06
+.05
+.04
+.04
+.04
+.05
+.05
+.05
+.05
+.05
+.00
+.00
+.00
+.00
+.02
+.02
+.04
+.04
+.04
+.04
+.05
+.05
+.02
+.02
+.03
+.03
+.03
+.03
+.03
+.03
+
+0.97
+0.97
+0.97
+0.97
+0.98
+0.99
+0.98
+0.96
+0.97
+0.98
+0.97
+0.97
+1.00
+1.00
+1.00
+1.00
+1.00
+0.99
+0.97
+0.97
+0.97
+0.97
+0.96
+0.95
+0.99
+0.99
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+
+.04
+.06
+.07
+.09
+.04
+.05
+.06
+.10
+.05
+.05
+.06
+.10
+.03
+.06
+.07
+.07
+.03
+.05
+.05
+.06
+.04
+.05
+.05
+.06
+.03
+.05
+.05
+.05
+.03
+.05
+.05
+.05
+
+Change
+
+CRb
+
+Δχ2
+
+2%
+0%
+
+19%
+24%
+
+9.62
+11.13
+13.71
+
+6%
+4%
+
+20%
+31%
+
+4.30
+18.81*
+39.59*
+
+2%
+8%
+
+17%
+20%
+
+1.96
+10.70
+30.95*
+
+1%
+3%
+
+12%
+9%
+
+7.78
+3.88
+24.68*
+
+4%
+3%
+
+6%
+6%
+
+14.37
+136.22*
+16.29
+
+3%
+3%
+
+7%
+11%
+
+6.54
+93.72*
+20.90*
+
+4%
+4%
+
+6%
+6%
+
+12.32
+49.07*
+17.35
+
+1%
+2%
+
+4%
+6%
+
+6.35
+5.52
+14.84
+
+df
+ 
+7
+7
+10
+ 
+7
+7
+10
+ 
+7
+7
+10
+ 
+7
+7
+10
+ 
+10
+4
+10
+ 
+10
+4
+10
+ 
+10
+4
+10
+ 
+10
+4
+10
+
+Note. Italicized lines indicate championed models. RMSEA = root mean square error of approximation; CFI
+= comparative fit index; SRMR = standardized root mean square residual; SR = standardized residual; CR =
+correlation residual;
+†Model: C = configural model; M = metric model; S = scalar model; E = equal error model.
+aSR refers to the percentage of standardized residuals greater than |3.0|.
+bCR refers to the percentage of correlation residuals greater than |.10|.
+cGender in Fall math shows two plausible models.
+*p < .05.
+
+804	
+
+Journal of Early Adolescence 35(5-6)
+
+motivation constructs in the form of latent variable correlations. The patterns
+of latent correlations demonstrate that math expectancy, value, and cost are
+only somewhat related to science expectancy, value, and cost (see Table 2,
+Academic domain invariance by Time). Cross-academic domain, same-factor motivation correlations (e.g., Fall math and science expectancy, r = .29)
+were typically larger than cross-academic domain, different-factor correlations (e.g., Fall math value and Fall science expectancy, r = .19). One notable
+exception was that cross-academic domain cost was moderately correlated in
+both Fall, r = .57, and Winter, r = .57. The larger cross-domain cost correlations suggest that either cost is measured at a more domain-general level, or
+that cost is a construct that is less dependent on domain. Following these
+results, we tested for longitudinal invariance from Fall to Winter in science
+and math.
+Longitudinal invariance.  The EVC Scale also demonstrated observed longitudinal invariance (see Table 2, Longitudinal Math and Longitudinal Science).
+Both the math, χ2(169) = 234.03, p < .01; RMSEA = .03; CFI = .98; SRMR =
+.05, and Δχ2(10) = 17.35, p = .07, and science, χ2(169) = 223.69, p < .01;
+RMSEA = .03; CFI = .98; SRMR = .05; Δχ2(10) = 14.84, p = .14, equal error
+invariance models displayed excellent global fit (see Supplementary Material). Local misfit tended to be weak or nonexistent, though there may be
+some underestimation between some expectancy and cost items as well as
+between different cost items at different time points. As with the domain
+invariance models, the chi-square difference tests suggest that the scalar
+models fit worse that the metric models. However, both latent invariance and
+observed invariance models display good fit in their own right.
+Mean change over time.  The results of the longitudinal invariance analyses allowed us to compare the latent mean differences (ΔL) to the observed
+mean differences (ΔO). Small or negligible discrepancies would allow
+practitioners to use the observed change as reliable indicators of construct
+change. The only notable discrepancy was between the latent and observed
+effect size for science expectancy. Observed and latent change was otherwise comparable. Math expectancy did not change (ΔL = 0.01, p = .92; ΔO =
+0.08, p = .36), but science expectancy showed a positive trend (ΔL = 0.08,
+p = .16; ΔO = 0.20, p = .01). Math value did not change (ΔL = −0.05, p = .32;
+ΔO = 0.08, p = .49), but science value again showed a small increase (ΔL =
+0.14, p < .01; ΔO = 0.24, p < .01). In contrast, there was a decrease in both
+math cost (ΔL = −0.18, p < .01; ΔO = −0.25, p < .01) and science cost (ΔL =
+−0.17, p < .01; ΔO = −0.21, p = .01). These findings indicate that latent and
+observed change is similar.
+
+Kosovich et al.	
+
+805
+
+Reliability estimates.  Reliability estimates were calculated using coefficient
+omega, which is a more accurate index of internal consistency than alpha
+(Yang & Green, 2011). Because the error variances were constrained to be
+equal, reliabilities for each construct were the same in the Fall and Winter.
+Reliabilities were good for math, ωexpectancy = .88, ωvalue = .84, ωcost = .86, as
+well as science, ωexpectancy = .88, ωvalue = .88, ωcost = .87. The EVC Scale also
+displayed moderate to strong test-retest reliability at the latent level (see
+Table 3, Longitudinal invariance by Domain), with the longitudinal correlations being slightly higher, for example, when comparing math expectancy,
+rfall.winter= .74, to science expectancy, r fall.winter = .68.
+
+Convergent and Discriminant Evidence
+In an effort to test for convergent and discriminant evidence, we examined the
+relationships between expectancy, value, and cost, future academic domain
+interest, and domain-specific standardized achievement scores. Table 3 presents the latent within- and between-domain correlations for expectancy, value,
+and cost. As expected, correlations among the subscales of the EVC Scale
+were more strongly related within domain than across domain. For example,
+math expectancy and math value are moderately correlated, r = .55, whereas
+math expectancy and science value are less strongly correlated, r = .31.
+Similarly, math expectancy and science expectancy are also weakly correlated, r = .29, indicating evidence for cross-domain discrimination between
+constructs.
+Results indicated that the predicted pattern of correlations in math held
+between future interest and expectancy, value, and cost in the Fall (ri.e = .59,
+ri.v = .68, ri.c = −.36) as well as in the Winter (ri.e = .53, ri.v = .70, ri.c = −.44).
+A similar pattern of correlations in science emerged between future interest
+and expectancy, value, and cost in the Fall (ri.e = .61, ri.v = .76, ri.c = −.38) as
+well as in the Winter (ri.e = .70, ri.v = .76, ri.c = −.47).
+In addition to interest, the EVC subscales were correlated with math and
+science achievement. Reduced samples of students were used to calculate
+these correlations because we were unable to obtain achievement scores for
+all students. For example, the science test was only completed by sixth graders. For math achievement, there were expected correlation patterns with
+expectancy, value, and cost in the Fall (rm.e = .18, rm.v = .14, rm.c = −.17; n =
+305) and in the Winter (rm.e = .18, rm.v = .15, rm.c = −.17; n = 262). There were
+similar correlation patterns for science achievement with expectancy, value,
+and cost in the Fall (rs.e = .39, rs.v = .26, rs.c = −.29; n = 49) and in the Winter
+(rs.e = .47, rs.v = .35, rs.c = −.41; n = 86).
+
+806	
+
+Journal of Early Adolescence 35(5-6)
+
+Table 3.  Latent Correlation Matrices for Academic Domain Invariance and
+Longitudinal Invariance (N = 401).
+Academic domain invariance by Fall (below diagonal) and Winter (above diagonal)a
+ 
+ 
+
+Math
+Expectancy
+
+Math
+ Expectancy
+ Value
+ Cost
+Science
+ Expectancy
+ Value
+ Cost
+
+Science
+
+Value
+
+Cost
+
+Expectancy
+
+Value
+
+Cost
+
+.55
+
+–.62
+–.54
+
+.38
+.36
+–.35
+
+.31
+.43
+–.36
+
+–.29
+–.27
+.57
+
+.86
+
+–.63
+–.56
+ 
+
+.80
+–.45
+
+–.50
+
+.29
+.26
+–.29
+
+.19
+.32
+–.28
+
+–.28
+–.31
+.57
+
+.82
+–.56
+
+–.47
+
+Longitudinal invariance by math (below diagonal) and science (above diagonal)b
+ 
+ 
+
+Time 1 (Fall)
+Expectancy
+
+Time 1 (Fall)
+ Expectancy
+ Value
+ Cost
+Time 2 (Winter)
+ Expectancy
+ Value
+ Cost
+
+Time 2 (Winter)
+
+Value
+
+Cost
+
+Expectancy
+
+Value
+
+Cost
+
+.85
+
+–.54
+–.46
+
+.68c
+.56
+–.48
+
+.64
+.73c
+–.45
+
+–.60
+–.51
+.62c
+
+.84
+
+–.64
+–.58
+ 
+
+.80
+–.51
+
+–.57
+
+.74c
+.59
+–.50
+
+.49
+.75c
+–.51
+
+–.55
+–.50
+.82c
+
+.64
+–.60
+
+–.56
+
+aValues
+
+below the diagonal in the domain correlations represent the Fall sample (n = 311) and
+values above the diagonal represent the Winter sample (n = 270).
+bValues below the diagonal in the longitudinal correlations represent math, and values above
+the diagonal represent science.
+cDenotes latent test–retest correlations for the construct.
+
+Scale Completion Time
+A desirable property of a practical scale is a short completion time—a property displayed by the EVC Scale. The average completion time in minutes for
+both math, M = 4.00, SD = 0.97, and science, M = 3.36, SD = 0.89, was less
+than 5 minutes. Times also decreased slightly after the first implementation
+
+Kosovich et al.	
+
+807
+
+of the scale. It is important to note that as part of the administration of the
+EVC Scale, additional demographic questions were included. As a result, the
+time estimates are conservative and the EVC items alone would have taken
+less time. Based on these results, practitioners could gain a relatively large
+amount of information in little time.
+
+Discussion
+Building upon prior work, the EVC Scale offers a rapid, practical means to
+measure student motivation. The current study provides validity evidence for
+the EVC Scale in math and science classes. First, we examined the structural
+properties of the EVC Scale. Second, we assessed if the observed values
+could be used by practitioners without latent variable modeling by testing for
+measurement invariance. Third, we examined whether or not responses to the
+EVC Scale correlated with other measures of motivation and achievement in
+expected ways. Finally, we assessed how efficiently the scale could be administered by examining completion time.
+
+Structural Properties of the Expectancy-Value-Cost Scale
+A revised, three-factor EVC framework (Barron & Hulleman, in press) was
+supported through CFA, suggesting that expectancy, value, and cost are separate factors in both math and science. Furthermore, invariance testing offered
+preliminary support that the three-factor model accurately reflected the
+observed data. Thus, observed score results of the EVC Scale can be used by
+practitioners without needing to rely on advanced statistical techniques. In
+addition, the invariance analyses revealed that the EVC Scale can be used to
+compare student motivation over time in both math and science. Reliability
+estimates were also favorable at each measurement occasion. As mentioned,
+the EVC Scale is intended to be used as a regularly administered, primary
+support measure that can provide practitioners, evaluators, and researchers
+with a general pulse of students’ motivation.
+
+Convergent and Discriminant Evidence
+The correlations presented between the EVC Scale in math and science, as
+well as those between the EVC Scale and domain-specific achievement and
+future interest provide convergent and discriminant evidence for the EVC
+Scale. First, in line with the expectancy-value framework (Wigfield &
+Cambria, 2010), correlating the EVC Scales for math and science provides
+evidence that motivation is domain specific. Second, because future interest
+
+808	
+
+Journal of Early Adolescence 35(5-6)
+
+is promoted by seeing value (Eccles et al., 1983), value should be highly correlated with future interest—in the current data, value and future interest
+were highly correlated, providing some convergent evidence for the EVC
+Scale. In contrast, expectancy and cost were more weakly correlated with
+future interest, providing discriminant evidence. Moreover, correlations
+between future interest, expectancy, and value also highlight how expectancy
+and value are unique constructs, despite high expectancy-value correlations.
+Finally, the expected pattern of relationships between EVC Scale subscales
+and achievement was present—achievement correlated more strongly with
+expectancy than value.
+
+Practicality of the Expectancy-Value-Cost Scale
+In terms of practicality, the EVC Scale can be completed quickly with minimal intrusion on class instruction. Most administrations occurred via an
+online survey platform and required, on average, less than 5 minutes. This is
+encouraging because two major barriers to psychological measurement in
+applied settings are time limitations and delivery constraints (Bryk et al.,
+2013). A rich body of work has investigated the role of non-cognitive skills in
+learning and achievement, such as motivation, perseverance, academic
+behaviors, or academic mindsets toward success in school (for reviews, see
+Pintrich, 2003; Snipes, Fancsali, & Stoker, 2012). As such, the development
+of the EVC Scale provides practitioners, researchers, and program evaluators
+with a tool for quickly assessing three types of non-cognitive attributes.
+Using the EVC Scale could help researchers identify how types of motivation connect to academic performance, or to a student’s future interest in
+those domains. It is also possible that the EVC Scale could be used to track
+or measure the effectiveness of a motivation intervention. For example, the
+EVC Scale was used to evaluate the effectiveness of an online intervention in
+student learning outcomes (Getty et al., 2013; Lazowski, Hulleman, Barron,
+& Getty, 2012). In this case, the intervention replaced typical science instruction while the EVC Scale made it possible to assess student reactions to
+online instructional materials. Not only did students react differently to the
+computerized instruction across classrooms, but motivation during the threeweek period also predicted changes in learning outcomes. Specifically,
+expectancy positively predicted science content knowledge, value positively
+predicted future science interest, and cost negatively predicted science content knowledge.
+Having information on expectancy, value, or cost problems can help
+teachers tailor instruction based on classroom-wide or individual motivation
+deficits. Interventions that increase student expectancy are different than
+
+Kosovich et al.	
+
+809
+
+interventions focused on increasing value or decreasing cost. As noted earlier, growth mindset interventions (e.g., Blackwell et al., 2007) help convince
+students that they can learn and get smarter through effort and engaging in
+academic challenges. This type of intervention, which promotes expectancy,
+is very different than an intervention designed to enhance students’ perceptions of value for the material. In contrast, a value intervention might ask
+students to focus on how the material they are studying relates to their life
+(Hulleman & Harackiewicz, 2009). These interventions improve motivation
+by targeting different psychological processes that could be identified as
+expectancy or value deficits. We propose administering the EVC Scale to
+determine which intervention is needed by identifying which general motivational factors are most at risk for a particular classroom.
+Finally, prior research has demonstrated that student motivation declines
+over time as students progress through Grades K to 12 (e.g., Jacobs et al.,
+2002). In particular, students undergoing academic transitions often suffer
+the largest motivational declines, such as when transitioning to middle
+school (Eccles & Wigfield, 2000), high school (Casillas et al., 2012), or
+college (Silva & White, 2013). The EVC Scale could be utilized before,
+during, and after these key transition points to help identify struggling students in need of motivational remediation. For example, the Carnegie
+Foundation (Silva & White, 2013) has identified several key indicators of
+student success in developmental mathematics courses in community colleges by using brief, practical measures of student beliefs and attitudes
+about learning. These indicators have then been used to develop a set of
+interventions to boost students’ expectancies and reduce perceived costs of
+learning mathematics. This work has contributed to an increase in the completion rate of developmental math courses from 15% to 50% in just over
+three years.
+
+Limitations and Future Research
+Despite the promising results present in the current study, there are several
+limitations to this work. First, further testing is needed to assess whether
+comparisons should be made across gender without latent variable modeling.
+We plan to conduct qualitative studies to aid in further refinement of the EVC
+Scale. Such data could provide valuable information about the differences
+between how boys and girls complete the EVC Scale. However, scalar invariance results were strong, implying that the EVC Scale can be readily used by
+researchers to investigate gender differences in motivation among middle
+school students with latent modeling.
+
+810	
+
+Journal of Early Adolescence 35(5-6)
+
+Second, although the global fit indices were generally good or acceptable,
+there was some indication of local model misfit. The presence of such local
+misfit suggests that, although the EVC Scale works well overall, there are
+some specific items that could be further revised to improve the scale.
+Specifically, we found presence of some positive correlation residuals (which
+can suggest item redundancy), and presence of negative correlation residuals
+(which can suggest a lack of unidimensionality). However, the relatively
+inconsistent pattern of residuals may also indicate that the large residuals are
+simply chance findings. Therefore, a next step is to cross-validate these models on another sample.
+Third, small sample sizes for sub-groups of students limited our ability to
+conduct more fine-grained invariance testing, such as comparing sixth, seventh, and eighth grades. These small sample sizes restrict the generalizability of our overall models because the observation/parameter ratios were
+large. For example, the gender invariance models compared relatively small
+groups of students in the Fall (nboys = 147, ngirls = 164) and Winter (nboys =
+125, ngirls = 145). We also note that because of the small sample of students
+for whom science achievement and interest data were available, these results
+need to be replicated in larger samples, and with additional age groups and
+domains.
+Fourth, we did not have access to students’ classroom membership and
+could not account for the nested structure of the data. Ignoring nesting can
+result in smaller standard errors and increased Type I error rates as the intraclass correlation increases. As such, the effects of nesting on the EVC Scale
+need to be addressed in future studies.
+Finally, it will be important to determine how well the EVC Scale functions in other academic domains and samples, as well as to examine changes
+in student motivation over longer periods of time than were investigated in
+the current study. All of the frequency distributions for expectancy and cost
+items were skewed in the current sample, resulting in relatively off-center
+means, potentially masking change in some participants. The low usage of a
+response category could also indicate that there may be too many response
+categories, or that they need to be changed. In prior samples (Getty et al.,
+2013), the full range of responses was used and the distributions were more
+normal. Thus, further testing with middle school samples is required to assess
+the efficacy of different response scales and students’ understandings of
+them. It is possible that the time at which students are measured could also
+affect responses. For example, testing key transition points, such as at the
+beginning of middle school or high school, may highlight students who are at
+particular risk of negative educational outcomes.
+
+811
+
+Kosovich et al.	
+
+Conclusion
+In this study, we present initial evidence for a tool that can be used by
+researchers, practitioners, and program evaluators to get a pulse of three
+types of domain-specific motivation: expectancy, value, and cost. In addition,
+we offered a blended approach to measuring motivation that balanced traditional psychometric standards of what makes a good scale along with practical considerations to ensure that it could be used by a wider range of
+stakeholders, most notably practitioners. We present this tool for researchers,
+practitioners, and evaluators to determine where motivational interventions
+could be targeted and potentially to assess the effectiveness of interventions
+on motivation after they are administered.
+
+Appendix
+1
+Strongly disagree
+E1
+E2
+E3
+V1
+V2
+V3
+C1
+C2
+C3
+C4
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Disagree
+
+Slightly disagree
+
+Slightly agree
+
+Agree
+
+Strongly agree
+
+I know I can learn the material in my [math or science] class.
+I believe that I can be successful in my [math or science] class.
+I am confident that I can understand the material in my [math or
+science] class.
+I think my [math or science] class is important.
+I value my [math or science] class.
+I think my [math or science] class is useful.
+My [math or science] classwork requires too much time.
+Because of other things that I do, I don’t have time to put into
+my [math or science] class.
+I’m unable to put in the time needed to do well in my [math or
+science] class.
+I have to give up too much to do well in my [math or science]
+class.
+
+Acknowledgment
+We thank Daniel Kirwan and Joseph Taylor for their assistance with data collection
+and scale development.
+
+Authors’ Note
+The opinions expressed are those of the authors and do not represent views of the
+National Science Foundation, Institute of Education Sciences, or U.S. Department of
+Education.
+
+812	
+
+Journal of Early Adolescence 35(5-6)
+
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+
+Funding
+The author(s) disclosed receipt of the following financial support for the research,
+authorship, and/or publication of this article: This research was supported by the
+Institute of Education Sciences, U.S. Department of Education, through Grant
+#R305B090002 to the University of Virginia and the National Science Foundation
+Grant DRL 1228661 awarded to Chris Hulleman, Kenneth Barron, and Steve
+Getty.
+
+References
+Barron, K. E., & Hulleman, C. S. (in press). Expectancy-value-cost model of motivation. In J. S. Eccles & K. Salmelo-Aro (Eds.), International encyclopedia of
+social and behavioral sciences: Motivational psychology (2nd ed.). New York:
+NY: Elsevier.
+Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of
+intelligence predict achievement across an adolescent transition: A longitudinal
+study and an intervention. Child Development, 78, 246-263. doi:10.1111/j.14678624.2007.00995.x
+Brophy, J. E. (2010). Motivating students to learn. New York, NY: Routledge.
+doi:10.1111/j.1467-8535.2010.01135_2_1.x
+Bryk, A. S., Yeager, D. S., Hausman, H., Muhich, J., Dolle, J. R., Grunow, A., …
+& Gomez, L. (2013, June). Improvement research carried out through networked communities: Accelerating learning about practices that support more
+productive student mindsets. In A White Paper prepared for the White House
+meeting on “Excellence in Education: The Importance of Academic Mindsets.
+Retrieved from http://www.carnegiefoundation.org/sites/default/files/improvement_research_NICs_bryk-yeager.pdf
+Casillas, A., Robbins, S., Allen, J., Kuo, Y. L., Ann Hanson, M., & Schmeiser, C.
+(2012). Predicting early academic failure in high school from prior academic
+achievement, psychosocial characteristics, and behavior. Journal of Educational
+Psychology, 104, 407-420. doi:10.1037/a0027180
+Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of-fit indexes for
+testing measurement invariance. Structural Equation Modeling, 9, 233-255.
+doi:10.1207/s15328007sem0902_5
+Cohen, G. L., & Garcia, J. (2005). “ I am us”: negative stereotypes as collective
+threats. Journal of Personality and Social Psychology, 89(4), 566-582. doi:
+10.1037/0022-3514.89.4.566
+Conley, A. M. (2012). Patterns of motivational beliefs: Combining achievement goals
+and expectancy-value perspectives. Journal of Educational Psychology, 1, 32-47.
+doi:10.1037/a0026042
+
+Kosovich et al.	
+
+813
+
+Durik, A. M., Vida, M., & Eccles, J. S. (2006). Task values and ability beliefs as
+predictors of high school literacy choices: A developmental analysis. Journal of
+Educational Psychology, 98, 382-393. doi:10.1037/0022-0663.98.2.382
+Dweck, C. (2006). Mindset: The new psychology of success. New York, NY: Random
+House, LLC. Retrieved from http://dx.doi.org/10.5860/choice.44-2397
+Easton, J. Q. (2013, June). Using measurement as leverage between developmental
+research and educational practice. Charlottesville, VA: Center for the Advanced
+Study of Teaching and Learning.
+Eccles, J. S., Adler, T. F., Futterman, R., Goff, S. B., Kaczala, C. M., Meece, J.
+L., & Midgley, C. (1983). Expectancies, values, and academic behaviors. In J.
+T. Spence (Ed.), Achievement and achievement motivation (pp. 74-146). San
+Francisco, CA: W. H. Freeman.
+Eccles, J. S., & Wigfield, A. (1995). In the mind of the actor: The structure of adolescents’ achievement task values and expectancy-related beliefs. Personality and
+Social Psychology Bulletin, 21, 215-225. doi:10.1177/0146167295213003
+Eccles, J. S., & Wigfield, A. (2000). Schoolings influences on motivation and achievement. In S. Danzinger & J. Waldfogel (Eds.), Securing the future: Investing in
+children from birth to college (pp. 153-181). New York, NY: Russell Sage.
+Feather, N. T. (1988). Values, valences, and course enrollment: Testing the role of
+personal values within an expectancy-valence framework. Journal of Educational
+Psychology, 80, 381-391. doi:10.1037/0022-0663.80.3.381
+Flake, J. K. (2012). Measuring cost: The forgotten component of expectancy value
+theory (Unpublished master’s thesis). James Madison University, Harrisonburg,
+VA.
+Flake, J. K., Barron, K. E., Hulleman, C. S., Lazowski, R. A., Grays, M. P., & Fessler,
+D. (2011, May 26-29). Evaluating cost: The forgotten component of expectancyvalue theory. Poster presented at the 23rd annual convention for the Association
+for Psychological Sciences, Washington, DC.
+Getty, S. R., Hulleman, C. S., Barron, K. E., Stuhlsatz, A. M., & Marks, J. C.
+(April, 2013). Factors that affect learning in high school science; measuring
+motivation, achievement, and interest in science. Paper presented at the meeting of the National Association for Research in Science Teaching, San Juan,
+Puerto Rico.
+Global Science Forum. (2006). Encouraging student interest in science and technology studies. OECD.
+Grays, M. P. (2013). Measuring motivation for coursework across the academic
+career: A longitudinal invariance study (Unpublished doctoral dissertation).
+James Madison University, Harrisonburg, VA.
+Gresham, F. M. (2004). Current status and future directions of school-based behavioral interventions. School Psychology Review, 33, 326-343. Retrieved from
+http://www.nasponline.org/publications/spr/index-list.aspx
+Gresham, F. M., & Lopez, M. F. (1996). Social validation: A unifying concept for
+school-based consultation research and practice. School Psychology Quarterly,
+11, 204-227. doi:10.1037/h0088930
+
+814	
+
+Journal of Early Adolescence 35(5-6)
+
+Hooper, D., Coughlan, J., & Mullen, M. R. (2008). Structural equation modelling:
+Guidelines for determining model fit. Electronic Journal of Business Research
+Methods, 6, 53-59. Retrieved from http://www.ejbrm.com/main.html
+Hulleman, C. S., Barron, K. E., Kosovich, J. J., & Lazowski, R. A. (in press)
+Expectancy-value models of achievement motivation in education. To appear
+in: A. A. Lipnevich, F. Preckel, & R. D. Robers (Eds.), Psychosocial skills and
+school systems in the Twenty-First century: Theory, research, and applications.
+New York, NY: Springer.
+Hulleman, C. S., Godes, O., Hendricks, B., & Harackiewicz, J. M. (2010). Enhancing
+interest and performance with a utility value intervention. Journal of Educational
+Psychology, 102, 880-895. doi:10.1037/a0019506
+Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting interest and performance in high school science classes. Science, 326, 1410-1412. doi:10.1126/science.1177067
+Iacobucci, D. (2009). Everything you always wanted to know about SEM (structural
+equations modeling) but were afraid to ask. Journal of Consumer Psychology, 19,
+673-680. doi:10.1016/j.jcps.2009.09.002
+Jacobs, J. E., Lanza, S., Osgood, D. W., Eccles, J. S., & Wigfield, A. (2002). Changes
+in children’s self-competence and values: Gender and domain differences across
+grades one through twelve. Child Development, 73, 509-527. doi:10.1111/14678624.00421
+Kline, R. B. (2011). Principles and practice of structural equation modeling (3rd ed.).
+New York, NY: Guilford.
+Lazowski, R. A., Hulleman, C. S., Barron, K. E., & Getty, S. (2012, September).
+Development of an expectancy-value scale for an online science curriculum.
+Paper presented at the Motivation Retreat, University of Tubingen, Germany.
+Little, T. D., Slegers, D. W., & Card, N. A. (2006). A non-arbitrary method of identifying latent variables in SEM and MACS models. Structural Equation Modeling,
+13, 59-72. doi:10.1207/s15328007sem1301_3
+Marsh, H. W., Scalas, L. F., & Nagengast, B. (2010). Longitudinal tests of competing factor structures for the Rosenberg Self-Esteem Scale: Traits, ephemeral
+artifacts, and stable response styles. Psychological Assessment, 22, 366-381.
+doi:10.1037/a0019225
+Messick, S. (1995). Validity of psychological assessment: Validation of inferences
+from persons’ responses and performances as scientific inquiry into score meaning. American Psychologist, 50, 741-749. doi:10.1037/0003-066X.50.9.741
+Murphy, P. K., & Alexander, P. A. (2000). A motivated exploration of motivation
+terminology. Contemporary Educational Psychology, 25(1), 3-53. doi:10.1006/
+ceps.1999.1019
+National Research Council. (2010). Rising above the gathering storm, revisited:
+Rapidly approaching category 5. Washington, DC: National Academies Press.
+Parsons, J. E. (1980). Self-perceptions, task perceptions, and academic choice: Origins
+and change (Unpublished final technical report, ERIC Document Reproduction
+Service No. ED 186577). Washington, DC: National Institute of Education.
+
+Kosovich et al.	
+
+815
+
+Pintrich, P. R. (2003). A motivational science perspective on the role of student motivation in learning and teaching contexts. Journal of Educational Psychology, 95,
+667-686. doi:10.1037/0022-0663.95.4.667
+Rhemtulla, M., Brosseau-Liard, P. E., & Savalei, V. (2012). When can categorical
+variables be treated as continuous? A comparison of robust continuous and categorical SEM estimation methods under suboptimal conditions. Psychological
+Methods, 17, 354-373. doi:10.1037/a0029315
+Satorra, A., & Bentler, P. M. (2010). Ensuring positiveness of the scaled difference
+chi-square test statistic. Psychometrika, 75, 243-248. doi:10.1007/s11336-0099135-y
+Silva, E., & White, T. (2013). Pathways to improvement: Using psychological strategies to help college students master developmental math. Stanford, CA: Carnegie
+Foundation for the Advancement of Teaching.
+Snipes, J., Fancsali, C., & Stoker, G. (2012). Student academic mindset interventions:
+A review of the current landscape. San Francisco, CA: The Stupski Foundation.
+Steiger, J. H. (2007). Understanding the limitations of global fit assessment in structural equation modeling. Personality and Individual Differences, 42, 893-898.
+doi:10.1016/j.paid.2006.09.017
+Stewart, R. M., Benner, G. J., Martella, R. C., & Marchand-Martella, N. E. (2007).
+Three-tier models of reading and behavior: A research review. Journal of Positive
+Behavior Interventions, 9, 239-253. doi:10.1177/10983007070090040601
+Trautwein, U., Marsh, H. W., Nagengast, B., Lüdtke, O., Nagy, G., & Jonkmann, K.
+(2012). Probing for the multiplicative term in modern expectancy–value theory:
+A latent interaction modeling study. Journal of Educational Psychology, 104,
+763-777. doi:10.1037/a0027470
+Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of the measurement invariance literature: Suggestions, practices, and recommendations for organizational research. Organizational Research Methods, 3, 4-70.
+doi:10.1177/109442810031002
+Wigfield, A., & Cambria, J. (2010). Expectancy-value theory: Retrospective and
+prospective. In T. C. Urdan & S. A. Karabenick (Eds.), The decade ahead:
+Theoretical perspectives on motivation and achievement (Vol. 16, pp. 74-146).
+Bingley, UK: Emerald Group Publishing Limited.
+Yang, Y., & Green, S. (2011). Coefficient alpha: A reliability coefficient for
+the 21st century? Journal of Psychoeducational Assessment, 29, 377-392.
+doi:10.1177/0734282911406668
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions in education: They’re not magic. Review of Educational Research, 81, 267-301.
+doi:10.3102/0034654311405999
+
+Author Biographies
+Jeff J. Kosovich is a PhD student in the Educational Psychology: Applied
+Developmental Science program at the University of Virginia. He earned his MA in
+
+816	
+
+Journal of Early Adolescence 35(5-6)
+
+quantitative psychology at James Madison University in 2013 and his BA in psychology at Northern Illinois University in 2011.
+Chris S. Hulleman is a research associate professor in the Department of Educational
+Leadership, Policy, and Foundations in the Curry School of Education and the Center
+for Advanced Study of Teaching and Learning at the University of Virginia. He also
+co-coordinates the Motivation Research Institute at James Madison University. He
+received his PhD in social and personality psychology from the University of
+Wisconsin–Madison.
+Kenneth E. Barron is a professor of psychology at James Madison University where
+he co-coordinates the Motivation Research Institute and is a faculty affiliate in the
+Center for Faculty Innovation. He received his PhD in social and personality psychology from the University of Wisconsin–Madison.
+Steve Getty is the director of the Quantitative Reasoning Center at Colorado College,
+Colorado Springs, Colorado. He has a BS in geology from University of Notre Dame,
+a MS in geological sciences from Brown University, and a PhD in geological sciences
+from Brown University.
+
+

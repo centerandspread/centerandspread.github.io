@@ -1,0 +1,1272 @@
+512856
+
+research-article2014
+
+CDPXXX10.1177/0963721413512856WaltonWise Psychological Interventions
+
+The New Science of Wise Psychological
+Interventions
+
+Current Directions in Psychological
+Science
+2014, Vol. 23(1) 73­–82
+© The Author(s) 2014
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0963721413512856
+cdps.sagepub.com
+
+Gregory M. Walton
+Stanford University
+
+Abstract
+Citizens complete a survey the day before a major election; a change in the survey items’ grammatical structure increases
+turnout by 11 percentage points. People answer a single question; their romantic relationships improve over several
+weeks. At-risk students complete a 1-hour reading-and-writing exercise; their grades rise and their health improves
+for the next 3 years. Each statement may sound outlandish—more science fiction than science. Yet each represents
+the results of a recent study in psychological science (respectively, Bryan, Walton, Rogers, & Dweck, 2011; Marigold,
+Holmes, & Ross, 2007, 2010; Walton & Cohen, 2011). These studies have shown, more than one might have thought,
+that specific psychological processes contribute to major social problems. These processes act as levers in complex
+systems that give rise to social problems. Precise interventions that alter them—what I call “wise interventions”—can
+produce significant benefits and do so over time. What are wise interventions? How do they work? And how can they
+help solve social problems?
+Keywords
+intervention, health, education, close relationships, prejudice
+When you imagine a “psychological intervention,” you
+might think of something dramatic (like a family challenging an alcoholic to stop drinking) or multifaceted
+and expensive (like an after-school program for at-risk
+youth). One of the most exciting developments in psychological science in recent years, however, is the emergence of a new class of interventions, which are more
+ordinary, briefer, and more precise. These interventions
+are much like everyday experiences. They aim, simply, to
+alter a specific way in which people think or feel in the
+normal course of their lives to help them flourish. We do
+this every day. Whenever a person tries to hold his or her
+temper in a fight or to encourage a child to work harder
+in school, they are trying to change how a person thinks
+or feels to produce a positive end. Intervention studies
+formalize strategies, rooted in laboratory research and
+social-psychological theory, and subject them to rigorous,
+field-experimental tests (see Tables 1–5 for samples of
+intervention studies on civic behavior, close relationships, education, health, and intergroup relationships).
+I call these wise interventions; they are wise to specific
+underlying psychological processes that contribute to
+social problems or prevent people from flourishing. In a
+wise intervention, the most important question is What is
+
+CORRECTED VERSION
+
+the psychological process at hand? Many other interventions, even if they involve psychology, do not take as
+their primary target a change in a specific psychological
+process. The term wise comes from gay culture in the
+1950s, in which it described straight people who understood the full humanity of gay people despite the overwhelming homophobia of the time (Goffman, 1963).
+Steele (1997) adopted the term to advocate for “wise
+schooling”—schooling that is sensitive to the experiences
+of diverse students and that defuses processes such as
+stereotype threat. Drawing on this tradition, a wise intervention depends on a precise understanding of people’s
+psychological reality—what it is like to be them and how
+they construe themselves and their social world. In creating a wise intervention, researchers identify an aspect of
+people’s psychology that harms their outcomes and aim
+to change this process.
+Wise interventions draw on a long tradition of research
+(e.g., Dimidjian et al., 2006; Lewin, 1952; McCord, 1978).
+Corresponding Author:
+Gregory M. Walton, Department of Psychology, Stanford University,
+Jordan Hall, Building 420, 450 Serra Mall, Stanford, CA 94305
+E-mail: gwalton@stanford.edu
+
+Walton
+
+74	
+Table 1.  A Sample of Wise Interventions: Civic Behavior
+Intervention
+
+Intervention condition
+
+Control condition
+
+Noun/Verb (Bryan, The day before elections, Survey items were
+Walton, Rogers, &
+eligible voters
+framed using verbs
+Dweck, 2011)
+responded to survey
+(e.g., “How important
+items framed using
+is it to you to vote
+nouns (e.g., “How
+. . . ?”).
+important is it to
+you to be a voter in
+tomorrow’s election?”).
+Social norms (Braga Randomly assigned crime Other crime hot spots
+& Bond, 2008; see
+hot spots were cleaned
+had routine policing
+also Goldstein,
+up (e.g., vacant lots
+(areas unidentified to
+Cialdini, &
+secured, street lighting
+police captains).
+Griskevicius, 2008)
+improved) and social
+disorder was reduced
+(e.g., more public
+drinkers arrested).
+
+But they are novel in that they are psychologically precise,
+often brief, and often aim to alter self-reinforcing processes
+that unfold over time and, thus, to improve people’s outcomes in diverse circumstances and long into the future.
+By changing the self over time, many wise interventions
+go beyond simple “nudges”—changes to a specific situation or decision framework to encourage better behavior
+in that context (Thaler & Sunstein, 2008). Wise interventions are special remedies for social problems and afford
+important implications for theory. How do wise interventions work? The research presented here reviews their
+foundations and the lessons and opportunities they provide for research and application.
+
+Wise Interventions Are Psychologically
+Precise
+A wise intervention begins with a specific, well-founded
+psychological theory. This theoretical precision allows
+researchers to create a precise tool, often instantiated in
+a brief exercise, to change a specific psychological process in a real-world setting. This psychological precision
+reflects the same values psychologists cultivate in laboratory research—keen insight into basic processes and
+methodological precision to isolate these processes. Wise
+interventions export this precision in theory and methodology to field settings. Consistent with the Lewinian mantra, “There is nothing so practical as a good theory,” a
+precise psychological theory allows researchers to construct strikingly “small” interventions that simultaneously
+test this theory and seek to bring about positive change.
+The interventions reviewed in Tables 1 through 5 are
+diverse. But each articulates and targets a specific psychological process.
+
+CORRECTED VERSION
+
+Psychological process
+Noun wording
+represents voting as
+an opportunity to
+become a valued kind
+of person—a “voter.”
+—not an errand to be
+accomplished.
+
+Major outcome
+An increase in voter
+turnout of 11
+percentage points as
+assessed by official
+records.
+
+Signs of disorder
+Treated hot spots had
+communicate that rule
+20% fewer citizen 911
+breaking is acceptable,
+calls during the next
+which increases
+6 months (e.g., 34%
+criminality.
+fewer assaults and 11%
+fewer larcenies/thefts)
+and fewer observations
+of disorder, with no
+increase in crime in
+adjacent areas.
+
+Consider Bryan, Walton, Rogers, and Dweck’s (2011)
+intervention to increase voter turnout. Relying on research
+that showed that people treat noun wording (e.g., I am a
+chocolate eater vs. I eat chocolate a lot) as conveying
+abstract meaning about a person, Bryan et al. hypothesized that nouns represent a potential future behavior as
+an opportunity to become a certain kind of person.
+Would a grammatical structure that portrays voting as an
+opportunity to become “a voter” motivate higher turnout?
+To test this hypothesis, Bryan et al. (p. 12655) manipulated 10 survey items completed by potential voters the
+day before two major elections. In one condition, items
+used nouns to refer to voting (e.g., “How important is it
+to you to be a voter in tomorrow’s election?”). In the
+other condition, items used verbs to refer to voting (e.g.,
+“How important is it to you to vote in tomorrow’s election?”). Results showed that the intervention led to one of
+the largest increases in turnout ever observed in a randomized experiment—an increase of 11 percentage
+points for participants in the noun condition compared
+with participants in the verb condition, as assessed by
+state records.
+Can precise interventions improve outcomes in arguably more complex contexts, such as relationships?
+Marigold, Holmes, and Ross (2007, 2010) theorized that
+people with low self-esteem, who tend to question their
+worth, often dismiss compliments from romantic partners
+as not having important meaning. To induce people with
+low self-esteem to truly accept a compliment, Marigold
+et al. (2007) asked participants to think of a compliment
+from their romantic partner and to “explain why your
+partner admired you. Describe what it meant to you and
+its significance for your relationship” (p. 235). This stimulus prompt, compared with a stimulus prompt that asked
+
+Wise Psychological Interventions	
+
+75
+
+Table 2.  A Sample of Wise Interventions: Close Relationships
+Intervention
+Abstract reframing
+of a compliment
+(Marigold,
+Holmes, & Ross,
+2007, 2010)
+
+Intervention condition
+
+Control condition
+
+Psychological process
+
+Major outcome
+
+People with low selfPeople described the
+People with low selfesteem wrote about
+context in which
+esteem tend to
+a compliment their
+their partner had
+question their worth
+romantic partner had
+complimented them or
+and, thus, dismiss
+recently given them
+“whether your partner
+compliments; the
+and “why your partner
+admired you. . . .”
+intervention leads
+admired you . . . [and]
+people to see a
+what it meant to you
+compliment as having
+and its significance for
+an important meaning.
+your relationship.”
+
+Cognitive retraining In up to 20 visits during
+of problems
+the child’s 1st year,
+in parenting
+interviewers asked
+(Bugental et al.,
+at-risk mothers about
+2002)
+problems with their
+child and possible
+causes of problems
+until the mother gave
+a non-self-blaming
+and non-child-blaming
+reason. They then
+asked mothers for
+possible solutions.
+Third-person
+Every 4 months for 1
+perspective on
+year, couples wrote
+marital conflicts
+about how “a neutral
+(Finkel, Slotter,
+third party who wants
+Luchies, Walton,
+the best for all” would
+& Gross, 2013)
+view a conflict in their
+marriage and how
+they could take this
+perspective.
+
+No visits or similar
+visits but without the
+cognitive-retraining
+component.
+
+Couples reported on
+conflicts but did
+not complete the
+third-person writing
+exercise.
+
+participants to describe the circumstances of the compliment, led participants with low self-esteem to feel more
+secure in their relationship immediately and several
+weeks thereafter. This feeling of security is essential in
+close relationships; it mitigates the fears of rejection that
+can cause people to withdraw from relationships and
+behave negatively toward their partner (Murray, Holmes,
+& Collins, 2006). Consistent with this theorizing, during
+this several-week period, reports from participants indicated that they valued their relationship more, behaved
+more positively toward their partners (as reported by
+partners), and saw their partners as behaving more positively toward them. The intervention changed the interplay of feelings and behavior between couples to improve
+their relationships.
+The significance of a precise psychological understanding means that an inaccurate psychological understanding
+can lead would-be interveners astray. An important insight
+in the Marigold et al. (2007) intervention is that people
+
+CORRECTED VERSION
+
+People with low selfesteem valued their
+relationships more and
+felt more secure in
+them immediately and
+several weeks later.
+They also behaved
+more positively toward
+their partners (partner
+reported) and saw their
+partners as behaving
+more positively toward
+them.
+Questions prompt
+The treatment reduced
+mothers to explain
+the percentage of
+and resolve problems
+infants abused during
+without blaming the
+the 1st year from
+self or child, and,
+approximately 25% to
+thus, to feel more
+4%; effects were largest
+empowered as parents.
+among high-risk (e.g.,
+premature) infants.
+The treatment also
+improved child health
+and reduced mother
+depression.
+
+A third-person
+perspective may
+prevent reciprocal
+patterns of negative
+affect between
+couples, making
+conflicts less
+distressing.
+
+Control-condition couples
+continued to decline
+in marital quality
+(e.g., satisfaction,
+love, intimacy, trust,
+passion). Treatmentcondition couples
+maintained their
+marital quality during
+the year.
+
+with low self-esteem tend to default to negative views of
+the self. As a consequence, in this intervention, the
+researchers invited participants to articulate why a compliment has an important meaning; they did not ask participants whether the compliment has this meaning. When
+Marigold et al. tested this prompt instead—“Explain
+whether you think what your partner said indicated that
+he/she admired you. Consider whether it was meaningful
+to you and significant for your relationship,” (p. 242)—
+people with low self-esteem essentially wrote that the
+compliment did not have a larger meaning and the experience produced no benefits. Or consider a growth mind-set
+of intelligence intervention. This intervention conveys
+that intelligence is not fixed but can expand with effort
+and help from others; it can help struggling students perform better in school for months after the intervention
+(Blackwell, Trzesniewski, & Dweck, 2007). But if misunderstood, a growth-mind-set message could be confused
+with the lay belief that students should be praised for their
+
+Walton
+
+76	
+Table 3.  A Sample of Wise Interventions: Education
+Intervention
+
+Intervention condition
+
+Expectancy value
+Ninth graders wrote
+(Hulleman &
+brief essays every
+Harackiewicz, 2009;
+3 to 4 weeks that
+see also Harackiewicz,
+described the
+Rozek, Hulleman, &
+relevance of their
+Hyde, 2012)
+science coursework
+to their lives.
+
+Control condition
+Students summarized
+the week’s science
+topic.
+
+Growth mind-set of
+Eighth-grade students
+Students learned about
+intelligence (Blackwell,
+learned in eight
+the relationship
+Trzesniewski, &
+classroom workshops
+between brain
+Dweck, 2007; see
+that intelligence is
+regions and brain
+also J. Aronson,
+malleable and can
+functions.
+Fried, & Good, 2002;
+grow like a muscle
+Good, Aronson, &
+with hard work and
+Inzlicht, 2003; Yeager,
+help from others.
+Trzesniewski, &
+Dweck, 2013)
+Social belonging (Walton First-year college
+Students learned about
+& Cohen, 2011; see
+students learned that
+unrelated aspects
+also Walton, Logel,
+all students worry
+of the transition to
+Peach, Spencer, &
+at first about their
+college.
+Zanna, 2013; Wilson,
+belonging in college
+Damiani, & Shelton,
+but that, over time,
+2002; Yeager et al., in
+everyone comes to
+press)
+feel at home.
+Value affirmation (Cohen, Seventh graders
+Garcia, Purdiecompleted several
+Vaughns, Apfel, &
+in-class exercises in
+Brzustoski, 2009; see
+which they wrote
+also Miyake et al.,
+about why their most
+2010; Sherman et al.,
+important values
+2013)
+(e.g., relationships
+with friends and
+family) were
+important to them.
+
+Students wrote
+about why values
+unimportant to them
+might matter to
+someone else.
+
+existing intelligence (“You’re so smart!”). It is ironic that
+this can induce a fixed mind-set about intelligence, which
+undermines motivation when students struggle (Mueller &
+Dweck, 1998). Wise interventions depend on wise theories
+of psychological processes. With a precise, well-founded
+theory, even brief exercises can produce significant
+benefits.
+
+Wise Interventions Target Recursive
+Processes to Cause Lasting Change
+Wise interventions can improve outcomes for years.
+Finkel, Slotter, Luchies, Walton, and Gross (2013) showed
+that three 7-minute perspective-taking exercises improved
+couples’ marriages over the course of a year. Several
+
+CORRECTED VERSION
+
+Psychological process
+
+Major outcome
+
+Making science
+The intervention raised
+personally relevant
+science grades
+increases students’
+among students who
+engagement with
+expected to perform
+course material,
+poorly.
+especially among
+students who expect
+to perform poorly
+and who otherwise
+may not have a
+reason to work hard.
+Students with a growth The control group
+mind-set interpret
+continued to show
+academic challenges
+a decline in math
+as opportunities to
+grades, whereas
+learn, not as evidence
+the treatment group
+of fixed inability, and
+showed a rebound.
+respond by trying
+harder, not by giving
+up.
+The treatment leads
+African American
+students to attribute
+students earned
+daily struggles to the
+higher grades during
+normal difficulties
+the next 3 years,
+of the transition
+halving the racialto college, not to
+achievement gap, and
+evidence they do not
+reported better health
+belong in school in
+3 years later.
+general.
+Writing about important Initially low-performing
+values bolsters
+African American
+students’ sense of
+students earned
+self-integrity in the
+higher core academic
+face of threat and
+grades during the
+prevents threat and
+next 2 years.
+poor performance
+from recurring in a
+negative recursive
+cycle.
+
+studies have shown that brief exercises, lasting an hour
+or less, can raise ethnic-minority students’ school achievement for as long as 3 years later (Cohen, Garcia, PurdieVaughns, Apfel, & Brzustoski, 2009; Sherman et al., 2013;
+Walton & Cohen, 2011).
+These interventions can seem magical (Yeager &
+Walton, 2011). To understand them, it is essential that
+one consider how interventions change not a moment in
+time (“a snapshot”) but a process that unfolds over time
+(“a movie”; Kenthirarajah & Walton, 2013). In a relationship, every interaction builds on the previous interaction.
+By targeting psychological processes that contribute to
+recursive dynamics that compound with time, wise interventions can improve downstream consequences (Garcia
+& Cohen, 2013). Consider two examples.
+
+Wise Psychological Interventions	
+
+77
+
+Table 4.  A Sample of Wise Interventions: Health
+Intervention
+
+Intervention condition
+
+Control condition
+
+Psychological process
+
+Major outcome
+
+Sense of control (Langer Nursing home residents
+& Rodin, 1976; Rodin & were reminded
+Langer, 1977; see also
+of their many
+Schulz, 1976; Schulz &
+responsibilities and
+Hanusa, 1978)
+choices, chose a
+plant to take care of,
+were encouraged to
+choose when to go
+to movies, and so
+forth.
+
+Residents were
+reminded of the
+staff’s responsibility
+for them, received
+a plant and were
+told a nurse would
+take care of it, were
+assigned a night to
+go to movies, and so
+forth.
+
+In institutionalized
+settings, people lose
+a sense of control
+over their daily lives;
+reintroducing a sense
+of control promotes
+health and wellbeing.
+
+Social connection
+People admitted to
+(Carter, Clover, Whyte,
+hospitals for selfDawson, & D’Este,
+poisoning received
+2013; see also Motto &
+eight postcards
+Bostrom, 2001)
+during the following
+year expressing the
+hospital’s concern
+and care.
+Value affirmation (Logel Undergraduate women,
+& Cohen, 2012; see
+half of whom were
+also Sherman, Bunyah,
+overweight, wrote
+Creswell, & Jaremka,
+about why their most
+2009)
+important values
+were important to
+them.
+
+Treatment as usual (i.e., Postcards communicate
+no postcards).
+the hospital’s
+ongoing concern and
+care for the patient.
+
+Three weeks later,
+residents reported
+being happier and
+more active, were
+judged more alert
+by interviewers and
+more improved by
+nurses, and spent
+more time visiting
+patients and talking
+with staff; 18 months
+later they were
+rated more active by
+nurses and healthier
+by doctors and
+suffered a lower
+mortality rate (15%
+vs. 30%).
+During the 5 years after
+discharge, patients
+had nearly 50% fewer
+readmissions for selfpoisoning.
+
+Women wrote
+about why values
+unimportant to them
+might matter to
+someone else.
+
+Writing about trauma
+Undergraduates
+Students wrote about
+(Pennebaker, Kiecoldwrote about “the
+neutral topics (e.g.,
+Glaser, & Glaser, 1988)
+most traumatic and
+daily plans).
+upsetting experiences
+of your entire life”
+for 20 minutes per
+day for 4 days.
+
+Finkel et al. (2013) surveyed couples every 4 months
+for 2 years about their marriages. During the 2nd year,
+couples randomized to the perspective-taking intervention were asked, in addition, how “a neutral third party
+who wants the best for all” would view a conflict in their
+marriage and how they could adopt this perspective in
+future conflicts (Finkel et al., 2013, p. 1597). This exercise
+was designed to forestall the reverberation of negative
+affect that can occur between couples in conflicts, in
+
+CORRECTED VERSION
+
+Writing about important Two-and-a-half
+values bolsters
+months later,
+people’s sense of
+treatment-condition
+self-integrity, reduces
+women weighed
+stress (a major cause
+approximately
+of weight gain), and
+6 pounds less,
+helps people sustain
+had smaller waist
+self-control in the
+circumferences,
+face of temptations.
+and ate fewer
+cookies after having
+previously exerted
+self-control.
+Writing encourages
+The treatment
+people to
+improved immune
+confront traumatic
+system function and
+experiences, which
+reduced doctor visits
+reduces inhibition
+during the next 6
+and helps people
+weeks.
+find meaning in the
+trauma.
+
+which each person gets angry in turn. During the intervention year, the marital quality of couples in the control
+condition continued to decline—these couples’ levels of
+love, satisfaction, intimacy, trust, and passion fell. But
+these indices stabilized among couples in the perspectivetaking condition.
+What would this experience be like for a couple?
+Suppose you and your spouse complete the perspectivetaking exercise. This may help you step back in a
+
+Walton
+
+78	
+Table 5.  A Sample of Wise Interventions: Intergroup Relationships
+Intervention
+
+Intervention condition
+
+Control condition
+
+Enacting cultural
+Asian and White
+Students were either not
+interests (Brannon
+students were led to
+led to feel socially
+& Walton, 2013)
+feel socially connected
+connected to the
+to a Mexican
+Mexican American
+American peer with
+peer, thought the
+whom they freely
+activity was unrelated
+took part in a Mexican
+to Mexican culture,
+cultural activity.
+or thought they had
+to do the Mexican
+cultural activity.
+
+Fast friends (PageGould, MendozaDenton, & Tropp,
+2008)
+
+During three sessions,
+Same-race dyads
+Latino/White
+completed the same
+dyads exchanged
+exercises.
+increasingly selfdisclosing questions
+(e.g., “Who is the
+most important person
+in your life?”) and
+completed cooperative
+activities.
+
+Jigsaw classroom
+(E. Aronson &
+Osherow, 1980)
+
+Individual grade-school
+Students studied alone
+children were each
+and participated in
+given a portion of a
+class on their own.
+topic to study, taught
+this part to peers in
+a jigsaw group, and
+were later tested on
+the whole topic.
+Social network
+High school students
+Wait list control.
+(Paluck, 2011; see
+took a weekly
+also Bond et al.,
+antiprejudice class that
+2012)
+encouraged students
+to intervene with
+peers when needed.
+
+Value confrontation
+(Rokeach, 1971)
+
+Students ranked 18
+values, typically
+ranking “freedom”
+higher than “equality.”
+They were told this
+meant they “care a
+great deal about their
+own freedom but are
+indifferent to other
+people’s freedom.”
+
+CORRECTED VERSION
+
+Students only completed
+the attitude and value
+scales.
+
+Psychological process
+A social connection
+can spark interest
+in another person’s
+culture. Freely
+enacting this
+cultural interest feels
+inconsistent with
+prejudice, thereby
+motivating prejudice
+reduction.
+
+Major outcome
+
+Participants showed
+reduced implicit
+prejudice against
+Latinos immediately.
+Six months later,
+they reported
+greater interest in
+interacting with
+Mexican Americans,
+including about
+racially sensitive topics
+(e.g., undocumented
+Mexican immigrants).
+A close cross-group
+Participants, especially
+friendship can
+those high in
+disconfirm negative
+prejudice or sensitivity
+expectations
+to race-based
+about intergroup
+rejection, showed
+interactions.
+reduced stress
+(cortisol) during
+the three sessions
+and initiated more
+daily intergroup
+interactions.
+Jigsaw groups reduce
+Students liked each
+competition and
+other more within and
+facilitate cooperative,
+across group lines
+equal-status intergroup
+and had higher selfcontact.
+esteem, and ethnicminority students
+learned more over
+several weeks.
+Antiprejudice attitudes
+Five months later,
+can spread through
+participants were
+social networks to
+more likely to be
+affect friends and
+nominated as standing
+peers.
+up for others;
+their friends and
+acquaintances were
+more likely to sign a
+gay rights petition.
+Making people aware
+Students were more
+of inconsistency in
+likely to respond to a
+their values creates
+solicitation from the
+self-dissatisfaction,
+National Association
+which drives personal
+for the Advancement
+change.
+of Colored People and
+to enroll in an ethnic
+studies program 3 to
+5 months later and
+expressed greater
+support for “equal
+rights for Negroes”
+through 15 to 17
+months later.
+
+Wise Psychological Interventions	
+subsequent conflict—you see the conflict from a broader
+perspective, so you get less angry. Now each of you is
+dealing with a better-disposed spouse. If the interaction
+goes better and you problem solve more effectively, you
+may be better prepared for the next conflict. You still
+have a conflict, but it is less distressing. When an intervention changes a recursive process, it effectively puts
+people in a new situation. Indeed, the intervention did
+not reduce conflicts. But it did reduce the distress couples reported in conflicts, and this result mediated the
+stabilization in marital quality.
+Wise interventions can also change recursive dynamics that begin with the psychology of individuals. Walton
+and Cohen’s (2011) social-belonging intervention aimed
+to forestall minority students’ worries that experiences
+such as being left out or criticized mean, in general, that
+they do not belong in school. The intervention gives students an alternative narrative for understanding negative
+experiences—namely that worries about belonging are
+normal in the transition to a new school but dissipate
+with time. Learning and reflecting on this information in
+a 1-hour exercise improved African American college students’ grades over a 3-year period, halving the racialachievement gap, and led them to report being happier
+and healthier at the end of college.
+How could this work? Imagine you are a freshman
+worried about whether you belong in college. Learning
+that such worries are common and improve with time
+may take the edge off negative experiences. Indeed, in
+the Walton and Cohen (2011) study, daily-diary measures
+showed that minority students in the intervention condition no longer saw daily slights as if they portended a
+global lack of belonging; this change in social construal
+mediated the 3-year improvement in grades. If everyday
+encounters feel less threatening, perhaps students can
+interact with others in more positive ways and build better relationships. Indeed, one social-belonging intervention helped women in male-dominated engineering
+majors form more friendships with male engineers
+(Walton, Logel, Peach, Spencer, & Zanna, 2013). These
+women are now in a different situation—they are embedded in a social network in engineering. As these psychological and social processes build over time, they position
+students to thrive.
+Wise interventions can change how people interact
+with one another in ways that improve their circumstances and propel effects forward in time. In these interventions, real-world factors, such as friendships in school,
+do not function only as “noise” that causes effects to
+decay. They also serve as proximal outcomes that facilitate longer-term effects. An important implication is that
+wise interventions are most likely to cause long-term
+gains in inherently recursive contexts—such as relationships and school, contexts in which positive experiences
+facilitate later positive outcomes. Another implication is
+
+CORRECTED VERSION
+
+79
+that wise interventions can amplify their effects over time
+if a recursive process “snowballs.” Indeed, the perspective-taking and social-belonging interventions both generated the largest benefits at the most distal time point
+assessed.
+These interventions used reading-and-writing exercises to change people’s psychology directly. They
+encouraged people to respond to ongoing experiences
+in more adaptive ways to remake their worlds. Many
+other interventions, however, introduce a new experience to people’s lives (e.g., a tutoring program). Such
+experiences change people’s psychology only indirectly;
+they can thus be less effective (even when they provide
+substantive resources; McCord, 1978). Moreover, relying
+on a new experience to change psychology can make an
+intervention vulnerable if that experience changes. Schulz
+(1976) tested whether being able to control or predict
+visits from a friendly college student would bolster a
+sense of control among elderly nursing home residents
+and, thus, improve their health and well-being. During a
+2-month period, residents received visits they could control or predict, yoked random visits, or no visits. At the
+end of this period, residents in the conditions in which
+they could control or predict visits used fewer medications, were rated as healthier and as having more “zest
+for life,” and reported being happier. However, tragically,
+during the course of the next 42 months, these residents
+showed a precipitous decline in their health and wellbeing and even had marginally higher mortality rates
+than did “random-visit” and “no-visit” residents (Schulz &
+Hanusa, 1978). The ability to control or predict visits
+from college students presumably bolstered a sense of
+control while the visits lasted. However, this change in
+psychology was identified entirely with the visits. When
+the visits ended, this may have confirmed the very lack of
+control residents had in their lives, thereby undermining
+their outcomes. A more robust strategy is to encourage
+people to construe their lives broadly as full of control,
+not just with a specific experience. One such intervention
+improved nursing home residents’ health and well-being
+during an 18-month period, which reduced mortality
+rates by 50% (Rodin & Langer, 1977).
+
+Wise Interventions Are Context
+Dependent—Not Silver Bullets
+Because wise interventions target specific psychological
+processes and recursive dynamics, they will not always
+produce the same effects. They must be wise to the population and context in at least three ways. First, a wise
+intervention will be effective only if the process it targets
+matters in the setting at hand. If people with high selfesteem readily accept compliments (as they do), interventions that address self-esteem will not improve their
+relationships.
+
+Walton
+
+80	
+Second, wise interventions will be effective only if
+they change the targeted psychological process. To be
+maximally effective in different contexts, interventions
+may need to be adapted, for instance, to illustrate the
+message in the local setting. In addition, rather than a
+passive exposure, many interventions use active exercises to drive home key ideas. For example, recipients
+may describe themselves or aspects of their lives in a
+specific way (Bryan et al., 2011; Cohen et al., 2009; Finkel
+et al., 2013; Marigold et al., 2007, 2010). Or they may
+complete “saying-is-believing” exercises in which they
+use their own experience to advocate for the idea conveyed in the intervention to other people (Walton &
+Cohen, 2011). This technique is powerful and persuasive:
+It encourages recipients to author the intervention message and to view their experience through its lens without feeling controlling or stigmatizing.
+Third, wise interventions will affect long-term outcomes only if they alter critical recursive processes. For
+instance, brief value-affirmation interventions delivered
+early in the school year can prevent downward cycles of
+psychological threat and poor performance among ethnic-minority adolescents for years; if delivered after such
+cycles are established, the same intervention is less effective (Cook, Purdie-Vaughns, Garcia, & Cohen, 2012).
+Relatedly, interventions will affect long-term outcomes
+only if the context provides appropriate affordances. If a
+social-belonging intervention generates lasting gains by
+helping students to form better relationships, its effectiveness will depend on the possibility of forming these ties.
+In addition, psychological interventions can be necessary
+but insufficient. Removing psychological barriers to
+learning will benefit only those students with access to
+adequate learning opportunities.
+
+Conclusion
+Wise interventions provide psychologists an enormous
+opportunity. They allow us to test how specific psychological processes contribute to specific social problems,
+how to change these processes in field settings, and how
+a change in psychology unfolds over time in interaction
+with the context. Addressing these questions will help us
+create distinctly psychological theories of and solutions
+to social problems. The far-reaching effects of wise interventions suggest that psychological processes often act
+as key levers in complex systems that give rise to social
+problems. The development of precise theories of how
+psychological processes contribute to these systems provides psychologists opportunities to collaborate with
+practitioners in local settings, with other social scientists,
+and with policymakers. It will also push us to “scale up”
+
+CORRECTED VERSION
+
+psychological interventions to large samples (e.g., using
+the Internet, see http://www.perts.net) and, in doing so,
+to contribute to large-scale social change.
+Social problems are complex and multicaused. But
+nearly every problem involves psychology. As psychologists, it is our job to identify those elements of a social
+problem—whether global warming, conflict, crime, poverty, racism, or low achievement—that are psychological
+and develop ways to address them.
+Recommended Reading
+Dweck, C. S. (2006). Mindset: The new psychology of success.
+New York, NY: Random House. A comprehensive overview
+of people’s implicit theories about the malleability of human
+qualities, such as intelligence, with applications to interventions in diverse areas.
+Paluck, E. L., & Cialdini, R. B. (in press). Field research methods. In H. Reis & C. Judd (Eds.), Handbook of research
+methods in social and personality psychology (2nd ed.).
+New York, NY: Cambridge University Press. A compelling
+discussion of the advantages and disadvantages of field
+research, including intervention field experiments, for the
+development of psychological theory.
+Rokeach, M. (1971). (See References). A little-known historical
+classic; one of the first papers to develop a brief psychological intervention and to test its effects over an extended
+period of time.
+Wilson, T. D. (2011). Redirect: The surprising new science of
+psychological change. New York, NY: Little Brown. A comprehensive review of psychological interventions in diverse
+areas, from behavior problems to racial prejudice to school
+achievement, with a focus on interventions that change
+people’s implicit stories about who they are and where
+they are going.
+Yeager, D. S. & Walton, G. M. (2011). (See References). An
+accessible review of brief social-psychological interventions in education, especially growth-mind-set, attributional-retraining, value-affirmation, and social-belonging
+interventions, including the psychological process each targets, how they cause change over time, and how they may
+be scaled to more students.
+
+Author Contributions
+G. M. Walton is the sole author of this article and is responsible
+for its content.
+
+Acknowledgments
+I thank Lauren Aguilar, Chris Bryan, Angela Duckworth, Carol
+Dweck, Sam Erman, Eli Finkel, James Gross, Bridgette Hard,
+and David Yeager for helpful comments.
+
+Declaration of Conflicting Interests
+The author declared that he had no conflicts of interest with
+respect to his authorship or the publication of this article.
+
+Wise Psychological Interventions	
+References
+Aronson, E., & Osherow, N. (1980). Cooperation, prosocial
+behaviour, and academic performance: Experiments in the
+desegregated classroom. In L. Bickerman (Ed.), Applied
+social psychology annual (pp. 163–196). Beverley Hills,
+CA: Sage.
+Aronson, J., Fried, C. B., & Good, C. (2002). Reducing the effect
+of stereotype threat on African American college students
+by shaping theories of intelligence. Journal of Experimental
+Social Psychology, 38, 113–125.
+Blackwell, L. A., Trzesniewski, K. H., & Dweck, C. S. (2007).
+Theories of intelligence and achievement across the junior
+high school transition: A longitudinal study and an intervention. Child Development, 78, 246–263.
+Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow,
+C., Settle, J. E., & Fowler, J. H. (2012). A 61-million-person
+experiment in social influence and political mobilization.
+Nature, 489, 295–298.
+Braga, A. A., & Bond, B. J. (2008). Policing crime and disorder
+hot spots: A randomized controlled trial. Criminology, 46,
+577–607.
+Brannon, T. N., & Walton, G. M. (2013). Enacting cultural interests: How intergroup contact reduces prejudice by sparking
+interest in an out-group’s culture. Psychological Science,
+24, 1947–1957.
+Bryan, C. J., Walton, G. M., Rogers, T., & Dweck, C. S. (2011).
+Motivating voter turnout by invoking the self. Proceedings
+of the National Academy of Sciences, USA, 108, 12653–
+12656.
+Bugental, D. B., Ellerson, P. C., Lin, E. K., Rainey, B., Kokotovic,
+A., & O’Hara, N. (2002). A cognitive approach to child abuse
+prevention. Journal of Family Psychology, 16, 243–258.
+Carter, G. L., Clover, K., Whyte, I. M., Dawson, A. H., & D’Este,
+C. (2013). Postcards from the EDge: 5-year outcomes of
+a randomised controlled trial for hospital-treated selfpoisoning. British Journal of Psychiatry, 202, 372–380.
+Cohen, G. L., Garcia, J., Purdie-Vaughns, V., Apfel, N., &
+Brzustoski, P. (2009). Recursive processes in self-affirmation: Intervening to close the minority achievement gap.
+Science, 324, 400–403.
+Cook, J. E., Purdie-Vaughns, V., Garcia, J., & Cohen, G. L.
+(2012). Chronic threat and contingent belonging: Protective
+benefits of values affirmation on identity development.
+Journal of Personality and Social Psychology, 102, 479–496.
+Dimidjian, S., Hollon, S. D., Dobson, K. S., Schmaling, K. B.,
+Kohlenberg, R. J., Addis, M. E., . . . Jacobson, N. S. (2006).
+Randomized trial of behavioral activation, cognitive therapy, and antidepressant medication in the acute treatment
+of adults with major depression. Journal of Counseling and
+Clinical Psychology, 74, 658–670.
+Finkel, E. J., Slotter, E. B., Luchies, L. B., Walton, G. M., & Gross,
+J. J. (2013). A brief intervention to promote conflict reappraisal preserves marital quality over time. Psychological
+Science, 24, 1595–1601.
+Garcia, J., & Cohen, G. L. (2013). A social psychological perspective on educational intervention. In E. Shafir (Ed.),
+Behavioral foundations of policy (pp. 329–350). New York,
+NY: Russell Sage.
+
+CORRECTED VERSION
+
+81
+Goffman, E. (1963). Stigma: Notes on the management of spoiled
+identity. New York, NY: Touchstone.
+Goldstein, N. J., Cialdini, R. B., & Griskevicius, V. (2008). A
+room with a viewpoint: Using social norms to motivate
+environmental conservation in hotels. Journal of Consumer
+Research, 35, 472–482.
+Good, C., Aronson, J., & Inzlicht, M. (2003). Improving adolescents’ standardized test performance: An intervention to
+reduce the effects of stereotype threat. Journal of Applied
+Developmental Psychology, 24, 645–662.
+Harackiewicz, J. M., Rozek, C. R., Hulleman, C. S., & Hyde, J.
+S. (2012). Helping parents to motivate adolescents in mathematics and science: An experimental test of a utility-value
+intervention. Psychological Science, 23, 899–906.
+Hulleman, C. S., & Harackiewicz, J. M. (2009). Promoting
+interest and performance in high school science classes.
+Science, 326, 1410–1412.
+Kenthirarajah, T., & Walton, G. M. (2013). Movie interventions:
+A field-theory model of how brief social-psychological interventions cause enduring effects. Manuscript submitted for
+publication.
+Langer, E. J., & Rodin, J. (1976). The effects of choice and
+enhanced personal responsibility for the aged: A field
+experiment in an institutional setting. Journal of Personality
+and Social Psychology, 34, 191–198.
+Lewin, K. (1952). Group decision and social change. In
+G. Swanson, T. Newcombe, & E. Hartley (Eds.), Readings
+in social psychology (pp. 459–473). New York, NY: Henry
+Holt.
+Logel, C., & Cohen, G. L. (2012). The role of the self in physical
+health: Testing the effect of a values-affirmation intervention on weight loss. Psychological Science, 23, 53–55.
+Marigold, D. C., Holmes, J. G., & Ross, M. (2007). More than
+words: Reframing compliments from romantic partners
+fosters security in low self-esteem individuals. Journal of
+Personality and Social Psychology, 92, 232–248.
+Marigold, D. C., Holmes, J. G., & Ross, M. (2010). Fostering
+relationship resilience: An intervention for low self-esteem
+individuals. Journal of Experimental Social Psychology, 46,
+624–630.
+McCord, J. (1978). A thirty-year follow-up of treatment effects.
+American Psychologist, 33, 284–289.
+Miyake, A., Smith-Kost, L. E., Finkelstein, N. D., Pollock, S.
+J., Cohen, G. L., & Ito, T. A. (2010). Reducing the gender
+achievement gap in college science: A classroom study of
+values affirmation. Science, 330, 1234–1237.
+Motto, J. A., & Bostrom, A. G. (2001). A randomized controlled
+trial of postcrisis suicide prevention. Psychiatric Services,
+52, 828–833.
+Mueller, C. M., & Dweck, C. S. (1998). Intelligence praise
+can undermine motivation and performance. Journal of
+Personality and Social Psychology, 75, 33–52.
+Murray, S. L., Holmes, J. G., & Collins, N. L. (2006). Optimizing
+assurance: The risk regulation system in relationships.
+Psychological Bulletin, 132, 664–666.
+Page-Gould, E., Mendoza-Denton, R., & Tropp, L. R. (2008). With
+a little help from my cross-group friend: Reducing anxiety in
+intergroup contexts through cross-group friendship. Journal
+of Personality and Social Psychology, 95, 1080–1094.
+
+82	
+Paluck, E. L. (2011). Peer pressure against prejudice: A high
+school field experiment examining social network change.
+Journal of Experimental Social Psychology, 47, 350–358.
+Pennebaker, J. W., Kiecold-Glaser, J. K., & Glaser, R. (1988).
+Disclosure of traumas and immune function: Health implications for psychotherapy. Journal of Consulting and
+Clinical Psychology, 56, 239–245.
+Rodin, J., & Langer, E. J. (1977). Long-term effects of a controlrelevant intervention with the institutionalized aged.
+Journal of Personality and Social Psychology, 35, 897–902.
+Rokeach, M. (1971). Long-range experimental modification of
+values, attitudes, and behavior. American Psychologist, 26,
+453–459.
+Schulz, R. (1976). Effects of control and predictability on the
+physical and psychological well-being of the institutionalized aged. Journal of Personality and Social Psychology, 33,
+563–573.
+Schulz, R., & Hanusa, B. H. (1978). Long-term effects of control
+and predictability-enhancing interventions: Findings and
+ethical issues. Journal of Personality and Social Psychology,
+36, 1194–1201.
+Sherman, D. K., Bunyah, D. P., Creswell, J. D., & Jaremka, L. M.
+(2009). Psychological vulnerability and stress: The effects of
+self-affirmation on sympathetic nervous system responses
+to naturalistic stressors. Health Psychology, 28, 554–562.
+Sherman, D. K., Hartson, K. A., Binning, K. R., Purdie-Vaughns,
+V., Garcia, J., Taborsky-Barba, S., . . . Cohen, G. L. (2013).
+Deflecting the trajectory and changing the narrative:
+How self-affirmation affects academic performance and
+motivation under identity threat. Journal of Personality and
+Social Psychology, 104, 591–618.
+
+CORRECTED VERSION
+
+Walton
+Steele, C. M. (1997). A threat in the air: How stereotypes shape
+intellectual identity and performance. American Psychologist,
+52, 613–629.
+Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving decisions about health, wealth, and happiness. New York, NY:
+Penguin Books.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging
+intervention improves academic and health outcomes
+among minority students. Science, 331, 1447–1451.
+Walton, G. M., Logel, C., Peach, J., Spencer, S., & Zanna, M. P.
+(2013). Two brief social-psychological interventions transform women’s experience, relationships, and achievement
+in engineering. Manuscript submitted for publication.
+Wilson, T. D., Damiani, M., & Shelton, N. (2002). Improving
+the academic performance of college students with brief
+attributional interventions. In J. Aronson (Ed.), Improving
+academic achievement: Impact of psychological factors
+on education (pp. 88–108). San Diego, CA: Academic
+Press.
+Yeager, D. S., Purdie-Vaughns, V., Garcia, J., Apfel, N.,
+Brzustoski, P., Master, A., . . . Cohen, G. L. (in press).
+Breaking the cycle of mistrust: Wise interventions to provide critical feedback across the racial divide. Journal of
+Experimental Psychology: General.
+Yeager, D. S., Trzesniewski, K., & Dweck, C. S. (2013). An
+implicit theories of personality intervention reduces adolescent aggression in response to victimization and exclusion.
+Child Development, 84, 970–988.
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological
+interventions in education: They’re not magic. Review of
+Educational Research, 81, 267–301.
+
+

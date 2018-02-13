@@ -1,0 +1,788 @@
+Chapter 11
+
+How the Subjective Relationship Between
+the Self, Others, and a Task Drives Interest
+Allison Master, Lucas P. Butler, and Gregory M. Walton
+
+Allison Master and Lucas P. Butler contributed equally to this
+work.
+
+The present chapter explores the hypothesis that an important influence on interest
+is the perceived or subjective social context in which a task is completed.
+There is an irony in this focus. When people evaluate their interest in a task, they
+typically do so with qualities of the task and themselves in mind (Sansone, Thoman,
+& Smith, 2010): Is this task novel or appealing? Do I feel capable at it? Is it relevant
+to my identity in some way? This focus on the intersection of a person and a task is
+also evident in people's experience of being engrossed by a task in the height of
+interest (Csikszentmihalyi, 1975). We also typically talk about interest in terms of
+the qualities of people (e.g., "She is interested in biology, but he is interested in history") and of tasks (e.g., "Reading my psychology textbook is more interesting than
+reading my economics textbook"). Correspondingly, classic theories have emphasized the person-task intersection, such as self-efficacy theory, which emphasizes
+people's self-assessed ability on a task or in a setting (Bandura, 1997). Current theories of interest have also incorporated situational factors, such as the objective social
+
+Allison Master and Lucas P. Butler contributed equally to this work.
+A. Master (l8l)
+University of Washington, Seattle, WA, USA
+e-mail: almaster@uw.edu
+L.P. Butler
+University of Maryland, College Park, MD, USA
+e-mail: lpbutler@umd.edu
+G.M. Walton
+Department of Psychology, Stanford University, Stanford, CA, USA
+e-mail: gwalton@stanford.edu
+©Springer International Publishing AG 2017
+P.A. 0' Keefe, J.M. Harackiewicz (eds.), The Science of Interest,
+DOl 10.1007/978-3-319-55509-6_11
+
+209
+
+210
+
+A. Master et a!.
+
+context in which a person engages with a task, as contributing to interest (Knogler,
+Harackiewicz, Gegenfurtner, & Lewalter, 2015; Renninger & Hidi, 2016; Sansone
+& Thoman, 2005).
+Extending this approach, we focus on the subjective social context in which a
+task is completed-simply people's perception of the relationship between themselves, a task, and other people engaged in the task. We call this the triadic relationship in which a task is completed. In general, we theorize that when people perceive
+themselves to be connected to others engaged in a task, or working with others on
+the task rather than separately, this will inspire greater interest and engagement.
+Consistent with our theorizing, research shows that both children and adults experience greater interest when working with or alongside a partner (Isaac, Sansone, &
+Smith, 1999). But the social context is also subjective-that is, people perceive and
+draw inferences about their relationships with other people in the setting-and these
+inferences can be consequential (e.g., Steele, 1997). Imagine going for a hike with
+another person. Even if the other person walks ahead of you out of sight, your experience is fundamentally different than if you were truly alone because the experience is shared. The subjective social context can also shift in substantive ways even
+when people engage in a personal task. Consider a student sitting down to work on
+her math homework. She may be physically alone, yet aware of her friends working
+through the same problems. She could think of herself and her friends as working
+on the problems together, for instance if she talked with her friends about the problems earlier in the day or anticipates going through them together the next day in
+school. Alternately, without such communications, she could think of herself and
+her friends as working on the same assignment but separately. As this case illustrates, even when people work alone, they may do so on terms defined by their
+understanding of how the activity is situated in a broader social context.
+This chapter focuses primarily on how the triadic relationship between the self,
+a task, and others engaged in the task gives rise to situational interest, a psychological state influenced by the situation the person is in. This is distinguished from
+individual interest, an enduring characteristic of the person (Hidi & Renninger,
+2006). Interest emerges from a person's affective and cognitive responses to particular content that contribute to a desire to reengage with that content in the future
+(Hidi & Harackiewicz, 2000; Renninger & Hidi, 2016). While interest is sometimes
+used interchangeably with intrinsic motivation (Schiefele, 1999), we define the latter as a tendency to engage in activities for their own sake (Sansone & Thoman,
+2005). We view interest and intrinsic motivation as having a recursive relationship-increased interest can lead people to increased intrinsic motivation (as measured by greater persistence and goal pursuit, even in the face of challenge), and the
+experience of being intrinsically motivated can lead to greater interest (Renninger &
+Hidi, 2016).
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task ...
+
+211
+
+The Objective and Subjective Social Context
+In focusing on the subjective social context, our argument implies that the social
+context always plays a part in interest, and a larger part than many existing theories
+credit. When previous theories have examined the role of the social context, they
+have tended to emphasize the objective social context. These include the physical
+presence of others, which can facilitate dominant responses to a task (e.g., Zajonc,
+1965); cooperation or competition with others who are physically present
+(Murayama & Elliot, 2012; Plass, O'Keefe et al., 2013; Tauer & Harackiewicz,
+2004); social comparison information, which shows that people often work harder
+when they compare themselves to someone more capable (Festinger, 1954; Kerr
+et al., 2007; Taylor & Lobel, 1989); and situations in which people's inputs to a collective task are unmarked, which can elicit social loafing, or in which outcomes are
+codependent with others who appear incompetent, which can elicit compensatory
+motivation (Williams & Karau, 1991; Williams, Karau, & Bourgeois, 1993).
+Alternately, previous theories have emphasized the role of inherently important
+people, like one's mother, who may be associated with specific motivations
+(Fitzsimons & Bargh, 2003; Iyengar & Lepper, 1999), or broad threats to one's
+belonging in general, which can undermine self-regulated goal pursuit (Baumeister,
+Twenge, & Nuss, 2002).
+Complementing these approaches, we argue that the subjective sense that one is
+connected to others engaged in a task--even to new interaction partners-can transform a person's interest (see Fig. 11.1). This transformation hinges on at least two
+aspects of an individual's psychological experience of the social context. The first is
+their perception of the personal connection they have (or do not have) to others
+engaged with the task. People can automatically take on the goals of others (Aarts,
+
+Task
+Fig. 11.1 The triadic relationship. Interest is not just a function of the relationship between a
+person and a task, but also the perceived relationship between a person, a task, and other people
+
+212
+
+A. Master et al.
+
+Gollwitzer, & Hassin, 2004); we suggest that when people feel connected to others,
+they will be more likely to incorporate their interests as their own. The second is a
+person's perception of the relationship between themselves, others engaged in the
+task, and the task. When people feel they are working together on a shared task,
+their interest may increase. This approach emphasizes interest as arising not just
+from the intersection between a person and a task-such as a person's confidence in
+their ability-but as a consequence of the triadic relationship among a person, a
+task, and the other people in the social context.
+A primary feature of our approach is that it highlights people's subjective construal of the social situation-the situation as understood by the actor. It is this
+construal that most directly shapes people's behavior (Ross & Nisbett, 1991). In
+some cases people make sense of their relationships with others in a setting from
+objective aspects of the social context (e.g., much of the developmental work; Isaac
+et al., 1999). But we also examine how these perceived relationships can arise from
+simple symbolic cues. These cues can create a sense of social connection with others engaged in a task or a sense of belonging in a performance domain, holding
+constant actual interaction and the objective social setting (Carr & Walton, 20 14;
+Murphy, Steele, & Gross, 2007; Walton, Cohen, Cwir, & Spencer, 2012).
+In this chapter, we explore how the triadic relationship between the self, a task,
+and others in the social context shapes situational interest and intrinsic motivation
+at different stages of development. In infancy, the importance of the social context
+is clearly illustrated in the overt, visible scaffolding between infants, adults, and
+learning contexts, as seen in situations involving social referencing and joint attention to an object (Baldwin, 1991; Sorce, Emde, Campos, & Klinnert, 1985) and the
+use of an adult as a secure base for exploration (Ainsworth, Blehar, Waters, & Wall,
+1978). Next, we argue that this triadic relationship remains important for adults, but
+can also arise in more subtle and complicated forms later in life. Finally, we discuss
+implications for our understanding of interest, including possible targets for "wise"
+interventions that could capitalize on triadic relationship processes to boost children's and adults' interest in important academic tasks (see Walton, 2014).
+
+Theoretical Background
+Why should the triadic relationship influence interest? An important reason involves
+the automatic tendency of people to connect to others, the benefits of doing so, and
+the fact that in doing so people often develop a shared orientation toward important
+aspects of the world (see Walton & Cohen, 2011b). The need to belong is a basic
+source of human motivation for adults (Baumeister & Leary, 1995) and children
+(Over, 2016). One indicator of its importance is in the consequences when it is disrupted. Indeed, when people imagine themselves excluded, they experience emotional and cognitive distress, even in trivial situations (Baumeister et al., 2002;
+Williams & Nida, 2011). Moreover, from infancy people show a basic orientation
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task ...
+
+213
+
+toward and coordination with others (Csibra, 2010; Farroni et al., 2005; Morton &
+Johnson, 1991). Adults unconsciously mimic the behavior of others, and this mimicry both causes social connections and results from social connections (Chartrand
+& Bargh, 1999). People also overcome barriers to coordinate behavior with others.
+In one study, people sitting in rocking chairs synchronized their rocking speeds with
+each other, even when their chairs were designed to rock at different frequencies
+(Richardson, Marsh, Isenhower, Goodman, & Schmidt, 2007). The pronouns "we"
+and "us" further have a positive emotional significance that is activated automatically and unconsciously (Perdue, Dovidio, Gurtman, & Tyler, 1990). In close relationships, representations of the self and other can even merge, so that people get
+the characteristics of the self confused with the characteristics of the relationship
+partner (Aron et al., 2004).
+People also have inclinations to share attention, behavior, and cognitions with
+others when responding to events in the world or when engaged in tasks. Similar
+neural mechanisms are involved in monitoring one's own and others' performance,
+creating parallel responses to events that occur to one person (Sebanz, Bekkering, &
+Knoblich, 2006). As noted, goals (e.g., to be helpful) can spread from one person to
+another automatically (Aarts et al., 2004). Suggesting that one function of this sharing is to cement social relationships, these tendencies can be increased by even
+subtle recognition of the social connections between people. In one study, participants who felt socially connected to a peer (due to shared personal preferences)
+experienced more similar emotional and physiological states as that peer, and this
+effect was mediated by their sense of connectedness to that person (Cwir, Carr,
+Walton, & Spencer, 2011). When people simply believe that they are paying attention to or experiencing something with other people this intensifies responses to that
+object or event, particularly when people feel connected to these co-observers (see
+Shteynberg, 2015). In a series of studies, participants made quicker and more accurate judgments about stimuli when they believed similar others were also evaluating
+the same stimuli, compared to dissimilar others or different stimuli (Shteynberg,
+2010). Similarly, sharing goals or emotions with similar others (compared to dissimilar others) intensifies the pursuit of those goals and the experience of those
+emotions (Shteynberg & Galinsky, 2011; Shteynberg et al., 2014).
+This sensitivity to cues that connect a person to others engaged in a task is functional. It brings people closer to others and builds a sense of belonging to a community (Aron, Norman, Aron, McKenna, & Heyman, 2000; Aronson, 2004;
+Baumeister & Leary, 1995). And it helps people accomplish goals that would be
+impossible to accomplish alone (Asch, 1952; Vygotsky, 1978). Indeed, theorists
+suggest that the capacity and desire to share intentions with others confers human
+many advantages, including the development and transmission of culture and language, and sets us apart from other primates (Tomasello, Carpenter, Call, Behne, &
+Moll, 2005).
+Together, this evidence indicates the importance of social connections to our
+experiences. The next sections explore empirical evidence for the triadic relationship in more detail.
+
+214
+
+A. Master et al.
+
+Evidence from Development
+Many theories of development emphasize the way in which adults create social situ. ations that engage infants and young children with tasks that promote exploration
+and learning (e.g., Ainsworth et al., 1978; Vygotsky, 1978). This tradition suggests
+that the triadic relationship between an individual, a task, and others in the subjective social context may play a fundamental role in interest from an early age. If so,
+even young children may be more interested in tasks that are perceived to involve
+social connection or engagement, and we may see continuity in this effect over the
+course of development.
+Indeed, from the very earliest days of life, infants selectively attend to social
+stimuli such as eyes and faces, preferentially orienting towards them rather than to
+non-social stimuli (Csibra, 2010; Farroni et al., 2005; Morton & Johnson, 1991).
+This early sensitivity sets the stage for the essential role of social relationships and
+interactions in development. From an early age, infants show a surprisingly sophisticated understanding of the social world. As early as 5 months of age, infants attend
+to the goals underlying the actions of others (Woodward, 1998). During the second
+year of life if not earlier they recognize that others are "like them," and that others'
+actions will be based on their perceptions, just as their own actions are (Meltzoff,
+2007). They also draw inferences about others' desires and preferences (Kushnir,
+Xu, & Wellman, 2010; Repacholi & Gopnik, 1997). Finally, they seek to imitate
+others in order to affiliate and build social bonds, for example more closely imitating when they have been primed with cues of rejection (Over & Carpenter, 2013).
+Thus, from early in development, children are attentive to social stimuli and motivated to engage with others to infer others' goals, and to build relationships. From
+an early age, then, children are equipped to share interests and goals with others.
+Moreover, it is clear that this early sociality plays an important role in young
+children's interest, and that the triadic relationship between the self, a task, and others in the social context is at its core. In the first 2 years of life, as soon as they are
+capable, children are particularly interested in engaging socially with others on joint
+tasks. For instance, 12-month-olds point informatively to make others aware of
+something new (Liszkowski, Carpenter, & Tomasello, 2007) or to locate hidden
+objects (Liszkowski et al., 2008). Fourteen-month-olds imitate others' goal-directed
+actions (Meltzoff, 1995) and help others achieve their goals (Over & Carpenter,
+2009; Warneken & Tomasello, 2006, 2007). In addition, 2-year-olds are highly
+interested in collaborative social games (Dunham & Moore, 1995; Ross & Lollis,
+1987; Warneken, Chen, & Tomasello, 2006), urging partners to continue participating even when they can accomplish the task alone (Warneken, Grafenhain, &
+Tomasello, 2012). They also spontaneously help adults achieve their instrumental
+(Warneken & Tomasello, 2006) and social goals (Beier, Over, & Carpenter, 2014).
+Children are also interested not only in engaging with others or helping others
+with their goals, but in collaborating on a shared task. They show some basic cooperative skills at 14 months, coordinating their actions with an adult partner in order
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task ...
+
+215
+
+to achieve a goal such as retrieving a toy (Warneken & Tomasello, 2007). Between
+ages 2 and 3 they begin to collaboratively solve simple physical problems (Ashley
+& Tomasello, 1998; Brownell & Carriger, 1990). By 3 they prefer to work cooperatively rather than work alone (Rekers, Haun, & Tomasello, 2011). This preference
+may confer benefits. In one study, 4- and 5-year-olds who worked on a task in pairs
+showed more positive affect, performed better on the task, and remembered it better
+than children who worked alone, especially the 5-year-olds (Perlmutter, Behrend,
+Kuo, & Muller, 1989). And children who made music together (i.e., had a shared
+goal in their music playing, by drumming together rather than independently) were
+more likely to spontaneously engage in prosocial behavior later, suggesting a link
+between social connection around a task and later social motivations (Kirschner &
+Tomasello, 2010). Finally, it appears that children are sensitive to cues in interpersonal interactions that help to define their relationships with others. In one study,
+preschoolers showed significantly more helping behavior when the person needing
+help had first engaged them in reciprocal, rather than parallel play (Barragan &
+Dweck, 2014). By middle school, the relationship may be more complex. In one
+study, middle-school students showed higher situational interest when they engaged
+socially in a math game, either competitively or cooperatively, than when they
+played individually (Plass, O'Keefe et al., 2013). When taken together, these streams
+of research show that children have a drive not only to engage socially with others
+from birth but to do so in a collaborative, cooperative manner centered around the
+triadic relationship between the self, a task, and other people in the social context.
+These past studies have focused on the objective social context; however, recent
+research also finds that young children are also responsive to subtle cues that shape
+the subjective social context in which they complete a task and, moreover, these
+cues inspire motivation and interest. One set of studies focused on the connection a
+child may feel with peers engaged in a task (Master & Walton, 2013). Preschoolers
+were given the opportunity to work on a challenging puzzle for as long as they liked.
+Before beginning, children in one condition were told they were part of "the puzzles
+group," thus giving them a group identity associated with the task; children in the
+other condition were told that they were "the puzzles child," giving them a personal
+identity associated with the task. All children then worked on the puzzle on their
+own. Those in the group condition persisted nearly 30% longer than children in the
+non-social identity condition. A second study found that merely being assigned to a
+group but one not associated with puzzles did not produce the same increase in
+motivation. Only when the group identity was associated with puzzles, creating a
+triadic relationship between the self, the task, and other children, did motivation
+increase. A third study extended the findings to word learning: children assigned to
+a group associated with a task learned more from the task than children assigned a
+personal identity associated with a task. Follow-up studies find that children also
+report greater enjoyment for and are more likely to prefer tasks completed as part of
+a task-oriented group (Master, Cheryan, & Meltzoff, 2017). These studies illustrate
+how the triadic relationship between the self, a task, and others in the social context
+can boost persistence, learning, and interest early in development.
+
+216
+
+A. Master et al.
+
+A second set of studies examined whether cues that merely represent one as
+working together on a task, even absent a group identity, might have similar effects
+(Butler & Walton, 2013). As in the studies just described, preschool-aged children
+were given the opportunity to work for as long as they liked on a challenging puzzle
+and did so on their own. In one condition, however, children first viewed a video of
+a child in another room starting to work on the puzzle, were told the video was live
+and were told that they and the other child were "doing the puzzle together." In the
+other condition, children saw the same video but were told that this was a recording
+from a different day when the other child had also done the puzzle. Thus, as in the
+studies on belonging to a group, the objective situation was identical across conditions--children worked alone on a puzzle task-but the construal of the situation
+varied. Children led to see the situation as one in which they were collaborating
+with another child worked more than 40% longer on the puzzle than children led to
+think of themselves as simply working on the same task another child had also
+worked on; they also reported enjoying the task more. A second study found that the
+working-together condition also increased persistence and enjoyment relative to a
+second control condition, one in which another child worked on the same puzzle at
+the same time but without creating the same triadic relationship--one where children were told they were taking turns with the other child.
+These studies provide promising evidence that perceived triadic relationships
+may play an important role in even young children's situational interest.
+
+Evidence from Adulthood
+The previous section showed that the triadic relationship between the self, a task,
+and others in the social context is present and psychologically meaningful early in
+childhood. Cues that encourage young children simply to construe a situation as one
+in which they are connected to others associated with a task or jointly engaged on a
+task boosts children's motivation and situational interest.
+We now turn to relevant evidence in adulthood. It is certainly possible that the
+triadic relationship between the self, a task, and others in the social context wanes
+in importance as adults become more independent and autonomous. Indeed, as we
+grow older, we are less likely to need overt scaffolding from others. However, we
+argue that the social context and real and perceived relationships with others remain
+important, and do so even when they operate in the background as people focus on
+a task (Csikszentrnihalyi, 1975). This may be most likely when people are considering a new, unfamiliar domain or task. First, we discuss evidence that people value
+objects and experiences more if they are connected to others. We then examine
+whether people show greater interest and motivation for tasks that are social, even
+as a consequence of subtle cues.
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task ...
+
+217
+
+Do We Value Social Objects and Experiences More?
+Pablo Neruda's Ode to Things describes a love for all things because they "bear the
+trace of someone's finger" (Neruda, 1994). Of course, we do not assign more value
+to used objects, which might be less useful, or objects like t-shirts that have been
+physically touched by others, which might be off-putting (Argo, Dahl, & Morales,
+2006). But we perceive more value in objects that belonged to someone admirable,
+such as Albert Einstein, and less value in those that belonged to someone evil like
+Hitler (Newman, Diesendruck, & Bloom, 2011), an effect shown even by young
+children (Gelman, Frazier, Noles, Manczak, & Stilwell, 2015). And obviously
+objects that are handmade and thus less common can be more valuable than objects
+from a factory. But holding all of those things constant, the mere idea that an object
+has a social history, that a person, even a generic stranger, contributed to its creation,
+makes it more appealing. In one study participants learned that a product was "made
+by people using machines in a small factory in Nebraska," prioritizing the role of
+people. This "social trace" caused people to value those objects more than objects
+"made by machines run by people in a small factory in Nebraska" (Job, Nikitin,
+Zhang, Carr, & Walton, 2017). Simply prioritizing the social history of the object
+increased its value.
+We also value activities more when they are social. One study gave adults a
+choice between completing a "dull" activity (e.g., listening to audio-tones) or a
+parallel "appealing" activity (e.g., listening to music). When both activities would
+be done alone, unsurprisingly participants strongly preferred the appealing activity.
+When the dull activity could be done with others, however, participants' preference
+for that activity relative to the appealing activity rose by 40% and they reported a
+smaller difference in how enjoyable they anticipated the activities being (described
+in Walton & Cohen, 2011b). When a task is social, it affords opportunities for social
+connections, exchanging emotions, and collaborating, placing it in a different light.
+Thus, both objects and activities take on additional value and become more interesting when connected to others.
+
+Does Social Connection Increase Our Interest and Motivation?
+Objective features of the social context in which people complete a task that facilitate connections with others can increase interest and intrinsic motivation. As mentioned previously, simply working with another person increases interest in an
+activity (Isaac et al., 1999). The experience of talking with others about an activity
+or class can also increase people's current and future interest in that activity or class
+(Thoman, Sansone, Fraughton, & Pasupathi, 2012; Thoman, Sansone, & Pasupathi,
+2007). Other research has found that membership in academic groups in real-world
+classrooms can promote learning and achievement (Aronson & Osherow, 1980;
+Johnson & Johnson, 2009), while feeling socially connected to peers and teachers
+
+218
+
+A. Master et al.
+
+in school in general predicts greater intrinsic motivation for academic tasks (e.g.,
+Furrer & Skinner, 2003; Goodenow, 1992; Hamre & Pianta, 2005).
+These studies examined real social interactions. However, echoing the recent
+developmental research presented earlier (Butler & Walton, 2013; Master & Walton,
+2013), subjective social cues can also define a triadic relationship between a person,
+a task, and others in the social context and thereby increase interest. As in the developmental work, research with adults has examined cues that convey two important
+representations of this triadic relationship: a sense of connection to others associated with a domain and a sense of working together with another person.
+
+How Social Belonging Boosts Interest and Motivation Even minimal cues that
+establish a sense of social connection with others can facilitate the social sharing of
+interest and motivation. We call these cues "mere belonging."
+One series of studies tested this hypothesis in the context of students' motivation
+for math (Walton et al., 2012). In one study, participants read an article about a math
+major who either shared their birthday or did not. Those for whom the math major
+shared their birthday persisted longer on a math puzzle and reported greater interest
+in math, an effect mediated by a greater sense of connection to math. In another
+study, participants told they were part of a minimal "numbers group" persisted longer on an insoluble math puzzle than participants told they were the "numbers person." In a third study, participants who read that the math department offered
+opportunities for collaboration and positive social interactions likewise showed
+greater motivation in math.
+These findings and follow-up studies on goal activation (Walton et al., 2012) suggest an active process in which a social connection with others increases the activation of others' goals and interest in pursuing them (see also Brannon & Walton,
+2013; Cwir et al., 2011; Master & Walton, 2013). This effect can be observed even
+when people's behavior is freely chosen and in private, suggesting that people have
+internalized the interests and motivations of others for themselves.
+How Working Together Boosts Interest and Motivation Another important representation of the triadic relationship is whether people think of themselves as working with others or separately from others. Although working together can be created
+by the objective social context (Isaac et al., 1999), subtle cues can also signal a state
+of working together and facilitate interest and intrinsic motivation (e.g., Butler &
+Walton, 2013). For example, as noted earlier students may study on their own for a
+class but, having exchanged tips and encouragement on the material with peers,
+may thereby experience a feeling of working together as they study. Absent such
+communications, even students working on a group project may construe their personal labor as separate from even if coordinated with other students' labor. We
+argue adults as well as young children respond to cues that evoke the feeling of
+working together with increased interest and motivation, and do so over and above
+simply working at the same time on the same task as others.
+Testing this hypothesis, in one series of studies, participants worked alone on an
+insoluble puzzle. However, some participants were treated as partners working with
+others on the task, while others were treated as working in parallel with others-at
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task ...
+
+219
+
+the same time, in the same environment, and on the same task, but not as together
+(Carr & Walton, 2014). Participants came to the laboratory in small groups, met,
+and then went to individual rooms where they were assigned to a condition. In the
+working-together condition, the experimenter told participants that the study concerned tips and puzzles and that they were "working together" with the other participants. The experimenter then explained that a coin flip (ostensibly determined by
+chance) would determine whether the participant would write a tip to another participant or receive a tip from one. All participants in this condition were then told
+that they had been assigned to receive a tip. The control condition was identical
+except that participants were not told that they were "working together" and believed
+they would write a tip for or receive a tip from the experimenter rather than another
+participant. In this condition participants thus learned that they would be working at
+the same time and on the same task as others in the same environment but without
+cues that signaled a state of working together.
+This procedure held constant an array of other factors. The recipient of the tip
+was ostensibly random, and thus not a signal of the perceived ability of the recipient. The tip participants received in both conditions was provided quickly and
+recounted an unsuccessful strategy for the puzzle; it thus provided minimal information about the other person's performance. In both conditions, participants also
+worked alone, in separate rooms, on their own task.
+Across five experiments, participants in the working-together condition persisted
+48-64% longer on the puzzle, rated the task as more enjoyable, were more likely to
+say that they had worked hard on it because it was interesting, were more engaged
+in the task (as shown by better memory for it later), and performed better on it.
+Why did the feeling of working together increase interest, intrinsic motivation,
+and performance? It was not because of external pressures-there was no difference
+in participants' feelings of obligation to others or sense of competition with others.
+It was also not because of negative emotions-there was no evidence that working
+together increased worries about being evaluated or judged based on their performance. Instead, cues of working together created a feeling of working together with
+others on a challenging task. When we engage in a task jointly with others, the task
+takes on social meaning that can help turn work into play (see also Shteynberg &
+Galinsky, 2011).
+
+Applications and Intervention
+We have argued that the triadic relationship between the self, a task or domain, and
+other people in the subjective social context can have a powerful effect on interest
+and motivation from our earliest days through adulthood. In incorporating the subjective social context, this perspective complements previous research on interest
+and motivation that focuses on the relationship between a person and a task, such as
+how choice (Cordova & Lepper, 1996) and beliefs about individual autonomy and
+competence (e.g., Bandura, 1997; Carver & Scheier, 2001) drive interest, as well as
+
+220
+
+A. Master et a!.
+
+recent work emphasizing the importance of the objective social context (Knogler
+et al., 2015; Renninger & Hidi, 2016; Sansone & Thoman, 2005). The crux of our
+proposal is that individuals' construal of a task as one in which they feel connected
+with others and jointly engaged with others can have major impacts on interest, even
+from the earliest years of development.
+Taken together, this research suggests promising potential targets for interventions to raise interest and motivation in important school, work, and other contexts.
+Such interventions would harness the power of this triadic relationship. Although
+not narrowly targeted at the triadic relationship we have discussed here, research
+demonstrates that interventions to promote students' sense of belonging in school
+can have powerful and lasting effects on motivation and achievement (Walton &
+Cohen, 2007, 2011a; Walton, Logel, Peach, Spencer, & Zanna, 2015; Yeager et al.,
+2016).
+These interventions are predicated on research indicating that students who face
+social stigma, negative stereotypes, or the underrepresentation of their group in
+school can, as a consequence, harbor persistent doubts about whether they belong
+(Walton & Cohen, 2007). This question of social belonging can lead students to
+infer from even commonplace negative events like feeling lonely or receiving critical academic feedback that they do not belong in general in school. This prevents
+students from engaging with others in school and developing interest in coursework
+(Cheryan, Master, & Meltzoff, 2015; Mendoza-Denton, Downey, Purdie, Davis, &
+Pietrzak, 2002). To address this worry, the social-belonging intervention offers students a more hopeful narrative for making sense of daily adversities. Through stories from older students, first-year students learn that worries about belonging are
+normal in an academic transition and improve with time, not proof of a lack of
+belonging. Students then have the opportunity to reflect on these ideas and write
+about how this process of change has been true for them. In one trial, this exercise
+completed in an hour-long session in the first year of college raised African
+American students' achievement through graduation, halving the racial achievement gap over this 3-year period (Walton & Cohen, 201la). Although interest was
+not measured, it is likely that feeling a secure sense of belonging allowed students
+to relax and pursue their academic interests. Such benefits have been observed in a
+variety of groups that are marginalized in academic settings, including among
+women in male-dominated engineering fields (Walton et al., 2015) and among
+diverse disadvantaged ethnic-minority groups and first-generation college students
+(Stephens, Hamedani, & Destin, 2014; Yeager et al. 2016). This research illustrates
+the importance of how students make sense of their social relationships in school.
+What might an intervention that targeted the triadic relationship precisely look like?
+Such an intervention would help people see themselves as connected to others
+engaged in a setting or a task, or as working with others in or on it. Importantly, this
+may be done through subjective cues that signal the relationships among the self, a
+task, and others-it may not require a change in the objective social context (Wing
+& Jeffery, 1999). This area of research is growing rapidly; here are some promising
+early examples.
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task ...
+
+221
+
+Extending the research we presented earlier on "mere belonging" (Walton et al.,
+2012), one intervention provided 9th grade teachers information about personal
+similarities they shared with a random subset of their students (Gehlbach et al.,
+2016), which presumably led teachers to interact with these students in ways that
+facilitated stronger relationships. This raised course grades for Black and Latino
+students, for whom personal relationships in school may otherwise be weakest,
+reducing the achievement gap between those students and White and Asian students
+by 60%.
+Or consider social-norm interventions. People are often thought to conform to
+social norms merely because what others do is taken as a sign of what is effective
+and what is sanctioned (Cialdini & Trost, 1998). However, normative appeals can
+also often represent a collective effort toward a common goal and invite people to
+work together toward this goal. For instance, Goldstein, Cialdini, and Griskevicius
+(2008) induced more hotel guests to reuse towels with a normative appeal that
+explicitly invited people to work together ("JOIN YOUR FELLOW GUESTS IN
+HELPING TO SAVE THE ENVIRONMENT. Almost 75% of guests ... [reuse] their
+towels more than once," capitalized in the original) as compared to an appeal that
+focused only on the environmental benefits ("HELP SAVE THE ENVIRONMENT").
+Did the aspect of the appeal that invited people to "join" with others to accomplish
+a goal evoke a feeling of working together and contribute to its effectiveness?
+Testing this hypothesis, Howe, Carr, and Walton (under review) manipulated
+whether appeals in three contexts merely provided normative information ("Most
+people do X") or also invited people to "join in" and "do it together." As predicted,
+as compared to both a no-norm control condition and mere normative information,
+participants expressed greater interest in giving to a charity and greater motivation
+to reduce personal carbon emissions when exposed to working-together normative
+appeals; these effects were further mediated by greater feelings of working together
+with others toward a goal. Finally, in a field experiment, restrooms on a college
+campus randomly assigned stickers that combined normative information with an
+appeal to work together to reduce paper towel use showed significantly greater
+reductions in paper towel use over 2 weeks than restrooms where the stickers provided only identical normative information.
+These results suggest the power of the perceived triadic relationship to motivate
+behavior in prosocial and environmental contexts. They raise intriguing questions
+about past research, such as whether classic interventions commonly understood as
+demonstrating the power of normative influence also evoked a sense of working
+with others toward a goal (e.g., Lewin's [1947] "cheap meat" intervention). Finally,
+although these studies have not examined interest and motivation in school or work
+settings, in combination with laboratory research (Carr & Walton, 2014) they suggest the potential promise of working-together interventions in these settings and
+the importance of research that pursues this question.
+
+222
+
+A. Master et al.
+
+Conclusion
+From early in life the subjective social context shapes children's approach to learning and sets the stage for the development of interest into adolescence and adulthood. Clearly more research is needed both to deepen our theoretical understanding
+of these processes and to translate these lessons into interventions that can promote
+students' development. However, it is clear that creating a sense of personal connection can help students develop interest and thrive in academic contexts.
+
+References
+Aarts, H., Gollwitzer, P.M., & Hassin, R. R. (2004). Goal contagion: Perceiving is for pursuing.
+Journal of Personality and Social Psychology, 87, 23-37.
+Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). Patterns of attachment: A psychological study of the strange situation. Hillsdale, NJ: Erlbaum.
+Argo, J. J., Dahl, D. W., & Morales, A. C. (2006). Consumer contamination: How consumers react
+to products touched by others. Journal of Marketing, 70, 81-94.
+Aron, A., McLaughlin-Volpe, T., Mashek, D., Lewandowski, G., Wright, S. C., & Aron, E. N.
+(2004). Including others in the self. European Review of Social Psychology, 15, 101-132.
+Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. (2000). Couples' shared
+participation in novel and arousing activities and experienced relationship quality. Journal of
+Personality and Social Psychology, 78, 273-284.
+Aronson, E. (2004). Reducing hostility and building compassion: Lessons from the jigsaw classroom. In A. G. Miller (Ed.), The social psychology of good and evil (pp. 469-488). New York:
+Guilford Press.
+Aronson, E., & Osherow, N. (1980). Cooperation, prosocial behavior, and academic performance:
+Experiments in the desegregated classroom. In L. Bickerman (Ed.), Applied social psychology
+annual (pp. 163-196). Beverley Hills, CA: Sage.
+Asch, S. E. (1952). Social psychology. New York: Prentice-Hall, Inc.
+Ashley, J., & Tomasello, M. (1998). Cooperative problem-solving and teaching in preschoolers.
+Social Development, 7, 143-163.
+Baldwin, D. A. (1991). Infants' contribution to the achievement of joint reference. Child
+Development, 62, 874-890.
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York: W. H. Freeman.
+Barragan, R. C., & Dweck, C. S. (2014). Rethinking natural altruism: Simple reciprocal interactions trigger children's benevolence. Proceedings of the National Academy of Sciences, Ill,
+17071-17074.
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments
+as a fundamental human motivation. Psychological Bulletin, 117, 497-529.
+Baumeister, R. F., Twenge, J. M., & Nuss, C. K. (2002). Effects of social exclusion on cognitive
+processes: Anticipated aloneness reduces intelligent thought. Journal of Personality and Social
+Psychology, 83,817-827.
+Beier, J. S., Over, H., & Carpenter, M. (2014). Young children help others to achieve their social
+goals. Developmental Psychology, 50, 934-940.
+Brannon, T. N., & Walton, G. M. (2013). Enacting cultural interests: How intergroup contact
+reduces prejudice by sparking interest in an out-group's culture. Psychological Science, 24,
+1947-1957.
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task ...
+
+223
+
+Brownell, C. A., & Carriger, M.S. (1990). Changes in cooperation and self-other differentiation
+during the second year. Child Development, 61, 1164-1174.
+Butler, L. P., & Walton, G. M. (2013). The opportunity to collaborate increases preschoolers'
+motivation for challenging tasks. Journal of Experimental Child Psychology, 116,953-961.
+Carr, P. B., & Walton, G. M. (2014). Cues of working together fuel intrinsic motivation. Journal of
+Experimental Social Psychology, 53, 169-184.
+Carver, C. S., & Scheier, M. F. (2001). On the self-regulation of behavior. Cambridge, England:
+Cambridge University Press.
+Chartrand, T. L., & Bargh, J. A. (1999). The chameleon effect: The perception-behavior link and
+social interaction. Journal of Personality and Social Psychology, 76, 893-910.
+Cheryan, S., Master, A., & Meltzoff, A. N. (2015). Cultural stereotypes as gatekeepers: Increasing
+girls' interest in computer science and engineering by diversifying stereotypes. Frontiers in
+Psychology, 6, 49.
+Cialdini, R. B., & Trost, M. R. (1998). Social influence: Social norms, conformity and compliance.
+In D. T. Gilbert, S. T. Fiske, & G. Lindzey (Eds.), The handbook of social psychology, Vols. 1
+and 2 (4th ed., pp. 151-192). New York: McGraw-Hill.
+Cordova, D. I., & Lepper, M. R. (1996).lntrinsic motivation and the process oflearning: Beneficial
+effects of contextualization, personalization, and choice. Journal of Educational Psychology,
+88,715-730.
+Csibra, G. (2010). Recognizing communicative intentions in infancy. Mind & Language, 25,
+141-168.
+Csikszentmihalyi, M. (1975). Beyond boredom and anxiety. San Francisco, CA: Jossey-Bass.
+Cwir, D., Carr, P. B., Walton, G. M., & Spencer, S. J. (2011). Your heart makes my heart move:
+Cues of social connectedness cause shared emotions and physiological states among strangers.
+Journal of Experimental Social Psychology, 47, 661-664.
+Dunham, P. J ., & Moore, C. ( 1995). Current themes in research on joint attention. In C. Moore &
+P. J. Dunham (Eds.), Joint attention: Its origins and role in development (pp. 15-28). Hillsdale,
+NJ: Erlbaum.
+Farroni, T., Johnson, M. H., Menon, E., Zulian, L., Faraguna, D., & Csibra, G. (2005). Newborns'
+preference for face-relevant stimuli: Effects of contrast polarity. Proceedings of the National
+Academy of Sciences of the United States of America, 102, 17245-17250.
+Festinger, L. (1954 ). A theory of social comparison processes. Human Relations, 7, 117-140.
+Fitzsimons, G. M., & Bargh, J. A. (2003). Thinking of you: Nonconscious pursuit of interpersonal
+goals associated with relationship partners. Journal of Personality and Social Psychology, 84,
+148-164.
+Furrer, C., & Skinner, E. (2003). Sense of relatedness as a factor in children's academic engagement and performance. Journal of Educational Psychology, 95, 148-162.
+Gehlbach, H., Brinkworth, M. E., King, A.M., Hsu, L. M., Mcintyre, J., & Rogers, T. (2016).
+Creating birds of similar feathers: Leveraging similarity to improve teacher-student relationships and academic achievement. Journal of Educational Psychology, 108, 342-352.
+Gelman, S. A., Frazier, B. N., Noles, N. S., Manczak, E. M., & Stilwell, S.M. (2015). How much
+are Harry Potter's glasses worth? Children's monetary evaluation of authentic objects. Journal
+of Cognition and Development, 16, 97-117.
+Goldstein, N.J., Cia1dini, R. B., & Griskevicius, V. (2008). A room with a viewpoint: Using social
+norms to motivate environmental conservation in hotels. Journal of Consumer Research,
+Special Issue: Consumer Welfare, 35, 472-482.
+Goodenow, C. (1992). Strengthening the links between educational psychology and the study of
+social contexts. Educational Psychologist, 27, 177-196.
+Hamre, B. K., & Pianta, R. C. (2005). Can instructional and emotional support in the first-grade
+classroom make a difference for children at risk of school failure? Child Development, 76,
+949-967.
+Hidi, S., & Harackiewicz, J. M. (2000). Motivating the academically unmotivated: A critical issue
+for the 21st century. Review of Educational Research, 70, 151-179.
+
+224
+
+A. Master et a!.
+
+Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. Educational
+Psychologist, 41,111-127.
+Howe, L. C., Carr, P. B., & Walton, G. M. (Under review). Normative appeals that invite people to
+work together toward a common cause are more effective.
+Isaac, J.D., Sansone, C., & Smith, J. L. (1999). Other people as a source of interest in an activity.
+Journal of Experimental Social Psychology, 35, 239-265.
+Iyengar, S. S., & Lepper, M. R. (1999). Rethinking the role of choice: A cultural perspective on
+intrinsic motivation. Journal of Personality and Social Psychology, 76, 349-366.
+Job, V., Nikitin, J., Zhang, S. X., Carr, P. B., & Walton, G. M. (2017). Social Traces of Generic
+Humans Increase the Value of Everyday Objects. Personality and Social Psychology Bulletin,
+43(6), 785-792.
+Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. Educational Researcher. 38, 365-379.
+Kerr, N. L., Messe, L. A., Seok, D., Sambolec, E. J., Lount, R. B., & Park, E. S. (2007).
+Psychological mechanisms underlying the Kohler motivation gain. Personality and Social
+Psychology Bulletin, 33, 828-841.
+Kirschner, S., & Tomasello, M. (2010). Joint music making promotes prosocial behavior in 4-yearold children. Evolution and Human Behavior; 31, 354-364.
+Knogler, M., Harackiewicz, J. M., Gegenfurtner, A., & Lewalter, D. (2015). How situational is situational interest? Investigating the longitudinal structure of situational interest. Contemporary
+Educational Psychology, 43, 39-50.
+Kushnir, T., Xu, F., & Wellman, H. M. (2010). Young children use statistical sampling to infer the
+preferences of other people. Psychological Science, 21, 1134-1140.
+Lewin, K. (1947). Group decision and social change. Readings in Social Psychology, 3, 197-211.
+Liszkowski, U., Carpenter, M., & Tomasello, M. (2007). Pointing out new news, old news, and
+absent referents at 12 months of age. Developmental Science, 10, Fl-F7.
+Liszkowski, U., Carpenter, M., & Tomasello, M. (2008). Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners. Cognition, 108, 732-739.
+Master, A., Cheryan, S., & Meltzoff, A. N. (2017). Social group membership increases STEM
+engagement among preschoolers. Developmental Psychology, 53, 201-209.
+Master, A., & Walton, G. M. (2013). Minimal groups increase young children's motivation and
+learning on group-relevant tasks. Child Development, 84, 737-751.
+Meltzoff, A. N. (1995). Understanding the intentions of others: Re-enactment of intended acts by
+18-month-old children. Developmental Psychology, 31, 838-850.
+Meltzoff, A. N. (2007). 'Like me': A foundation for social cognition. Developmental Science, 10,
+126-134.
+Mendoza-Denton, R., Downey, G., Purdie, V. J., Davis, A., & Pietrzak, J. (2002). Sensitivity to
+status-based rejection: Implications for African American students' college experience. Journal
+of Personality and Social Psychology, 83, 896-918.
+Morton, J., & Johnson, M. H. (1991). CONSPEC and CONLERN: A two-process theory of infant
+face recognition. Psychological Review, 98, 164-181.
+Murayama, K., & Elliot, A. J. (2012). The competition-performance relation: A meta-analytic
+review and test of the opposing processes model of competition and performance. Psychological
+Bulletin, 138, 1035-1070.
+Murphy, M. C., Steele, C. M., & Gross, J. J. (2007). Signaling threat: How situational cues affect
+women in math, science, and engineering settings. Psychological Science, 18, 879-885.
+Neruda, P. (1994). Odes to common things. Boston: Little, Brown, and Company.
+Newman, G. E., Diesendruck, G., & Bloom, P. (2011). Celebrity contagion and the value of
+objects. Journal of Consumer Research, 38,215-228.
+Over, H. (2016). The origins of belonging: Social motivation in infants and young children.
+Philosophical Transactions of the Royal Society B, 371, 20150072.
+Over, H., & Carpenter, M. (2009). Eighteen-month-old infants show increased helping following
+priming with affiliation. Psychological Science, 20, 1189-1193.
+
+11
+
+How the Subjective Relationship Between the Self, Others, and a Task.,.
+
+225
+
+Over, H., & Carpenter, M. (2013). The social side of imitation. Child Development Perspectives,
+7, 6-11.
+Perdue, C. W., Dovidio, J. F., Gurtman, M. B., & Tyler, R. B. (1990). Us and them: Social categorization and the process of intergroup bias. Journal of Personality and Social Psychology, 59,
+475.
+Perlmutter, M., Behrend, S. D., Kuo, F., & Muller, A. (1989). Social influences on children's problem solving. Developmental Psychology, 25,744-754.
+Plass, J., O'Keefe, P. A., Homer, B. D., Case, J., Hayward, E., Stein, M., & Perlin, K. (2013). The
+impact of individual, competitive, and collaborative mathematics game play on learning, performance, and motivation. Journal of Educational Psychology, 105, 1050--1066.
+Rekers, Y., Haun, D. B., & Tomasello, M. (2011). Children, but not chimpanzees, prefer to collaborate. Current Biology, 21, 1756-1758.
+Renninger, K. A., & Hidi, S. (2016). The power of interest for motivation and learning. New York;
+Routledge.
+Repacholi, B. M., & Gopnik, A. (1997). Early reasoning about desires: Evidence from 14-and
+18-month-olds. Developmental Psychology, 33, 12-21.
+Richardson, M. J., Marsh, K. L., Isenhower, R. W., Goodman, J. R., & Schmidt, R. C. (2007).
+Rocking together: Dynamics of intentional and unintentional interpersonal coordination.
+Human Movement Science, 26, 867-891.
+Ross, H. S., & Lollis, S. P. (1987). Communication within infant social games. Developmental
+Psychology, 23, 241-248.
+Ross, L., & Nisbett, R. E. (1991). The person and the situation: Perspectives of social psychology.
+New York: McGraw-Hill.
+Sansone, C., & Thoman, D. B. (2005). Interest as the missing motivator in self-regulation.
+European Psychologist, 10, 175-186.
+Sansone, C., Thoman, D. B., & Smith, J. L. (2010). Interest and self-regulation: Understanding
+individual variability in choices, efforts and persistence over time. In R. Hoyle (Ed.), Handbook
+~f personality and self-regulation (pp. 192-217). Malden, MA: Blackwell.
+Schiefele, U. (1999). Interest and learning from text. Scientific Studies of Reading, 3, 257-280.
+Sebanz, N., Bekkering, H., & Knoblich, G. (2006). Joint action: Bodies and minds moving
+together. Trends in Cognitive Science, 10, 70--76.
+Shteynberg, G. (2010). A silent emergence of culture: The social tuning effect. Journal of
+Personality and Social Psychology, 99, 683-689.
+Shteynberg, G. (2015). Shared attention. Perspectives on Psychological Science, 10, 579-590.
+Shteynberg, G., & Galinksy, A. D. (2011). Implicit coordination: Sharing goals with similar others
+intensifies goal pursuit. Journal of Experimental Social Psychology, 47, 1291-1294.
+Shteynberg, G., Hirsh, J. B., Apfelbaum, E. P., Larsen, J. T., Galinsky, A. D., & Roese, N.J. (2014).
+Feeling more together: Group attention intensifies emotion. Emotion, 14, 1102-1114.
+Sorce, J. F., Emde, R.N., Campos, J. J., & Klinnert, M.D. (1985). Maternal emotional signaling:
+Its effect on the visual cliff behavior of 1-year-olds. Developmental Psychology, 21, 195-200.
+Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and performance. American Psychologist, 52, 613-629.
+Stephens, N. M., Hamedani, M.G., & Destin, M. (20 14). Closing the social class achievement gap:
+A difference-education intervention improves first-generation students' academic performance
+and all students' college transition. Psychological Science, 25, 943-953.
+Tauer, J. M., & Harackiewicz, J. M. (2004 ). The effects of cooperation and competition on intrinsic
+motivation and performance. Journal of Personality and Social Psychology, 86, 849-861.
+Taylor, S. E., & Lobel, M. (1989). Social comparison activity under threat: Downward evaluation
+and upward contacts. Psychological Review, 96, 569-575.
+Thoman, D. B., Sansone, C.. Fraughton, T., & Pasupathi, M. (2012). How students socially evaluate
+interest: Peer responsiveness influences evaluation and maintenance of interest. Contemporary
+Educational Psychology, 37, 254-265.
+Thoman, D. B., Sansone, C., & Pasupathi, M. (2007). Talking about interest: Exploring the role of
+social interaction for regulating motivation and the interest experience. Journal of Happiness
+Studies, 8, 335-370.
+
+226
+
+A. Master et a!.
+
+Tomasello, M., Carpenter, M., Call, J., Behne, T., & Moll, H. (2005). Understanding and sharing
+intentions: The origins of cultural cognition. Behavioral and Brain Sciences, 28, 675-735.
+Vygotsky, L. S. (1978). Mind in society: The development of higher mental processes. Cambridge,
+MA: Harvard University Press.
+Walton, G. M. (2014). The new science of wise psychological interventions. Current Directions in
+Psychological Science, 23, 73-82.
+Walton, G. M., & Cohen, G. L. (2007). A question of belonging: Race, social fit, and achievement.
+Journal of Personality and Social Psychology, 92, 82-96.
+Walton, G. M., & Cohen, G. L. (2011a). A brief social-belonging intervention improves academic
+and health outcomes of minority students. Science, 331, 1447-1451.
+Walton, G. M., & Cohen, G. L. (20llb). Sharing motivation. In D. Dunning (Ed.), Social motivation (pp. 79-101). New York: Psychology Press.
+Walton, G. M., Cohen, G. L., Cwir, D., & Spencer, S. J. (2012). Mere belonging: The power of
+social connections. Journal of Personality and Social Psychology, 102, 513-532.
+Walton, G. M., Loge!, C., Peach, J. M., Spencer, S. J., & Zanna, M.P. (2015). Two brief interventions to mitigate a "chilly climate" transform women's experience, relationships, and achievement in engineering. Journal of Educational Psychology, 107, 468-485.
+Warneken, F., Chen, F., & Tomasello, M. (2006). Cooperative activities in young children and
+chimpanzees. Child Development, 77, 640-663.
+Warneken, F., Grafenhain, M., & Tomasello, M. (2012). Collaborative partner or social tool? New
+evidence for young children's understanding of joint intentions in collaborative activities.
+Developmental Science, 15,54-61.
+Warneken, F., & Tomasello, M. (2006). Altruistic helping in human infants and young chimpanzees. Science, 311, 1301-1303.
+Warneken, F., & Tomasello, M. (2007). Helping and cooperation at 14 months of age. Infancy, 11,
+271-294.
+Williams, K. D., & Karau, S. J. (1991). Social loafing and social compensation: The effects of
+expectations of co-worker performance. Journal of Personality and Social Psychology, 61,
+570-581.
+Williams, K. D., Karau, S. J., & Bourgeois, M. J. (1993). Working on collective tasks: Social loafing and social compensation. In M. A. Hogg & D. Abrams (Eds.), Group motivation: Social
+psychological perspectives (pp. 130-148). Hertfordshire, England: Harvester Wheatsheaf.
+Williams, K. D., & Nida, S. A. (2011). Ostracism consequences and coping. Current Directions in
+Psychological Science, 20,71-75.
+Wing, R. R., & Jeffery, R. W. (1999). Benefits of recruiting participants with friends and increasing
+social support for weight loss and maintenance. Journal of Consulting and Clinical Psychology,
+67, 132-138.
+Woodward, A. L. ( 1998). Infants selectively encode the goal object of an actor's reach. Cognition,
+69, 1-34.
+Yeager, D. S., Walton, G. M., Brady, S. T., Akcinar, E. N., Paunesku, D., Keane, L., Kamentz,
+D., Ritter, G., Duckworth, A. L., Urstein, R., Gomez, E., Markus, H. R., Cohen, G. L., &
+Dweck, C. S. (2016). Teaching a lay theory before college narrows achievement gaps at
+scale. Proceedings of the National Academy of Sciences of the United States of America, 113,
+E3341-E3348.
+Zajonc, R. B. (1965). Social facilitation. Science, 149, 269-274.
+
+

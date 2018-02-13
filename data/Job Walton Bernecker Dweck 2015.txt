@@ -1,0 +1,1249 @@
+Journal of Personality and Social Psychology
+2015, Vol. 108, No. 4, 637– 647
+
+© 2015 American Psychological Association
+0022-3514/15/$12.00 http://dx.doi.org/10.1037/pspp0000014
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Implicit Theories About Willpower Predict Self-Regulation and Grades
+in Everyday Life
+Veronika Job
+
+Gregory M. Walton
+
+University of Zurich
+
+Stanford University
+
+Katharina Bernecker
+
+Carol S. Dweck
+
+University of Zurich
+
+Stanford University
+
+Laboratory research shows that when people believe that willpower is an abundant (rather than highly
+limited) resource they exhibit better self-control after demanding tasks. However, some have questioned
+whether this “nonlimited” theory leads to squandering of resources and worse outcomes in everyday life
+when demands on self-regulation are high. To examine this, we conducted a longitudinal study, assessing
+students’ theories about willpower and tracking their self-regulation and academic performance. As
+hypothesized, a nonlimited theory predicted better self-regulation (better time management and less
+procrastination, unhealthy eating, and impulsive spending) for students who faced high self-regulatory
+demands. Moreover, among students taking a heavy course load, those with a nonlimited theory earned
+higher grades, which was mediated by less procrastination. These findings contradict the idea that a
+limited theory helps people allocate their resources more effectively; instead, it is people with the
+nonlimited theory who self-regulate well in the face of high demands.
+Keywords: implicit theories about willpower, self-regulation, grades
+
+high demands on self-control. Instead, we propose that an alternative belief—the belief that willpower is not easily used up and
+can even be fueled by the exertion of self-control (a nonlimited
+theory)—promotes more successful self-regulation and performance when people encounter challenging self-regulatory demands.
+
+Do people’s beliefs about the nature of self-control affect their
+ability to exert self-control in everyday life settings? If so, what
+beliefs are most functional? One hypothesis is suggested by the
+strength model of self-control (Baumeister, Bratslavsky, Muraven,
+& Tice, 1998; Baumeister, Vohs, & Tice, 2007). This model
+proposes that self-control relies on a limited resource and that
+understanding this limit helps people use this resource judiciously,
+improving self-regulation especially when demands on self-control
+are high (Vohs, Baumeister, & Schmeichel, 2012). In the present
+research, however, we propose the opposite, namely, that this
+limited-resource theory undermines people’s self-regulatory efforts and, moreover, does so especially when demands on selfcontrol are high. The belief that willpower relies on a limited
+resource, we suggest, leads people to act as though their selfregulatory resources are depleted long before they reach any actual
+limit in their self-regulatory capacity. As a consequence, we expect
+that people with a limited-resource theory will reduce their effort
+and engage in various overindulgent behaviors when they face
+
+The Strength Model of Self-Control
+Much contemporary research on self-regulation draws on the
+strength model of self-control, which, as noted, posits that selfcontrol relies on a limited energy resource (Baumeister et al., 1998,
+2007). According to this model, every act of self-control depletes
+this resource, directly reducing the capacity to exert further selfcontrol—a phenomenon termed ego depletion. Empirical support
+for this model comes from numerous laboratory experiments,
+which show that, after an initial task requiring self-control, people
+exhibit worse self-control on subsequent tasks than do people who
+engaged in an initial undemanding task (for a meta-analysis, see
+Hagger, Wood, Stiff, & Chatzisarantis, 2010).
+Recent field studies extend these findings to everyday selfregulation, and appear to suggest that the same principle applies.
+For instance, in an experience sampling study Hofmann, Vohs, and
+Baumeister (2012) found that the more participants controlled
+themselves by resisting desires the more likely they were to show
+self-control failures later in the day. Similarly, research on stress
+and self-regulation confirms that when people contend with stressful circumstances, such as daily hassles or academic examinations,
+they tend to engage in more problematic, potentially harmful,
+behaviors like eating unhealthy food, consuming alcohol, smoking, and spending excessively (Ng & Jeffery, 2003; Oaten &
+
+Veronika Job, Department of Psychology, University of Zurich; Gregory
+M. Walton, Department of Psychology, Stanford University; Katharina
+Bernecker, Department of Psychology, University of Zurich; Carol S.
+Dweck, Department of Psychology, Stanford University.
+This research was supported by the Swiss National Science Foundation
+(PZ00P1_131858 to Veronika Job). We thank Niall Bolger for helpful
+comments on a previous version of the manuscript.
+Correspondence concerning this article should be addressed to Veronika
+Job, Department of Psychology, University of Zurich, Binzmuehlestrasse
+14/6, 8050 Zurich, Switzerland. E-mail: v.job@psychologie.uzh.ch
+637
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+638
+
+JOB, WALTON, BERNECKER, AND DWECK
+
+Cheng, 2005; O’Connor, Jones, Conner, McMillan, & Ferguson,
+2008; Steptoe, Lipsey, & Wardle, 1998). It is thus well documented that self-control often suffers when self-control demands
+are high, both in laboratory and in everyday life settings.
+Given the importance of self-regulation for successful goalstriving, health, and overall functioning (e.g., Moffitt et al., 2011),
+identifying factors that predict better self-regulation, especially in
+the face of high demands, is critical. Recent research has identified
+several variables that moderate the ego depletion effect. For instance, motivational variables like incentives, expectations, and
+perceptions of a task can diminish or eliminate ego depletion in
+laboratory settings (Clarkson, Hirt, Jia, & Alexander, 2010; Martijn, Tenbult, Merckelbach, Dreezens, & De Vries, 2002; Muraven
+& Slessareva, 2003). Most pertinent to the present research, Job,
+Dweck, and Walton (2010) found that people’s lay beliefs about
+willpower, so called implicit theories,1 determined whether people
+showed ego depletion at all.
+
+Implicit Theories About Willpower
+Challenging the strength model of self-control, Job and colleagues (2010) demonstrated in a series of laboratory experiments
+that only people who believe that willpower is limited and easily
+depleted (a limited theory of willpower, assessed with questions
+like, “After a strenuous mental activity, your energy is depleted
+and you must rest to get it refueled again”) show ego depletion,
+that is, perform worse after an initial self-control task. People who
+reject the view that willpower is highly constrained and who
+believe, instead, that willpower can even be self-generating (e.g.,
+“After a strenuous mental activity, you feel energized for further
+challenging activities”) showed no impairment over a series of
+demanding self-control tasks (see also Miller et al., 2012). We call
+the latter belief a nonlimited theory of willpower. We intentionally
+do not use the term “unlimited.” People with a nonlimited theory
+may not believe that willpower is limitless or that they are immune
+to depletion from highly strenuous tasks of long duration. However, they reject the view that willpower is easily depleted by acts
+of self-control.
+Job and colleagues found that implicit theories about willpower
+predict ego depletion both measuring theories about willpower as
+an individual difference and manipulating them experimentally,
+suggesting their causal role. These findings imply that selfregulatory failure following the brief exertion of self-control results from people’s beliefs about their available resources rather
+than from a true lack of resources (see also Job, Walton, Bernecker, & Dweck, 2013).
+How do implicit theories about willpower affect ego depletion?
+Research suggests that the belief that willpower is limited sensitizes people to cues that may signal the availability or unavailability of mental resources. For example, finding an initial self-control
+task exhausting predicted worse subsequent self-control performance for people with a limited theory but was unpredictive for
+people with a nonlimited theory (Job et al., 2010, Study 3). In
+another series of studies, ingesting glucose restored self-control for
+those with a limited theory but had no effect on those with a
+nonlimited theory, who continued to perform well on self-control
+tasks whether they had ingested glucose or not (Job et al., 2013).
+Previous research suggests that glucose signals the restoration of
+self-control resources (Chambers, Bridge, & Jones, 2009; Molden
+
+et al., 2012). Our results suggest that only people who believe that
+willpower is highly limited carefully monitor for cues to the
+availability of self-control resources.
+Extending this research, Vohs and colleagues (2012) replicated
+the effects of implicit theories about willpower on ego depletion
+and raised an important question: Will the same effects hold when
+self-control demands are especially high? Vohs and colleagues
+hypothesized that implicit theories about willpower lead people to
+temporarily compensate for a lack of resources. They suggest that
+people can do so effectively in the face of mild or moderate
+self-control demands but not in the face of high demands, where
+“severe” depletion eventually takes its toll. In a laboratory experiment,
+they examined how a manipulation of theories about willpower
+interacted with three ego depletion conditions: a “no depletion”
+condition in which participants completed no initial self-control
+tasks; a “mild depletion” condition in which participants completed two initial self-control tasks; and a “severe depletion”
+condition in which participants completed four initial self-control
+tasks. Vohs and colleagues replicated the finding that a nonlimited
+theory of willpower improves self-control in the face of “mild
+depletion.” But in the “severe depletion” condition, there was no
+positive effect of a nonlimited theory and on one of two measures
+of self-control performance the effect even reversed: participants
+led to adopt a limited-resource theory performed better. Vohs and
+colleagues concluded that a nonlimited theory can be counterproductive. Thinking that willpower is nonlimited, they write, “might
+undermine the normal tendency to conserve resources (Muraven,
+Shmueli, & Burkley, 2006) so that people find themselves severely
+depleted after multiple tasks” (p. 186).
+Laboratory tasks, however, are not ideal for drawing conclusions about the limits of willpower. There are many reasons people
+might display less effort after a long series of demanding but
+potentially unmeaningful tasks. The critical test of how beliefs
+about willpower affect self-regulation must be conducted in realworld settings in which people contend with accumulating demands on their self-control as they strive to accomplish personal
+goals. Indeed, in contrast to Vohs and colleagues’ conclusion, an
+earlier longitudinal study found that college students who endorsed
+a nonlimited theory of willpower exhibited superior everyday
+self-regulation during the week before final exams, when demands
+on self-control were assumed to be high (Job et al., 2010, Study 4).
+They ate less unhealthy food, procrastinated less, and pursued
+personal achievement goals more effectively than students with a
+limited theory.
+The present research extends this prior study to provide a more
+detailed examination of how implicit theories about willpower
+predict everyday self-regulation. The study does so in several
+ways. First, the prior study simply assumed that self-regulatory
+demands were high for all students at a particular time; that is, as
+final exams approached. In the present research, we assessed the
+level of self-regulatory demands for each student on a week-byweek basis across an academic term so we could identify the
+students who faced consistently high demands and those who
+faced lower demands. We hypothesized that a nonlimited theory of
+1
+Here the term “implicit” means that theories about willpower are most
+often not articulated. However, we assume that people are able to recognize
+their beliefs when asked to respond to items that make them explicit.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WILLPOWER-THEORIES PREDICT SELF-REGULATION AND GRADES
+
+willpower would predict better self-regulatory outcomes among
+students who contended with high self-regulatory demands but not
+necessarily among students who faced low self-regulatory demands. Second, we assessed a broader range of self-regulatory
+outcomes than in past research, including not only procrastination
+and unhealthy eating but also ineffective time management, impulsive spending, and emotion-regulation failure. Finally, we examined a further important outcome that is determined in part by
+self-regulation, and that is not self-reported: participants’ end-ofterm grade point average (GPA) (see Duckworth & Seligman,
+2005). We examined whether a nonlimited theory of willpower
+would predict a higher GPA that term (controlling for past GPA)
+especially among students who took a heavy course load. We
+further expected that any improvement in GPA would be mediated
+by better self-regulation, especially lower levels of procrastination.
+In summary, we tested the hypothesis that students holding a
+nonlimited theory of willpower facing consistently high demands
+would display better self-regulation and consequently would reach
+higher grades than would students holding a limited theory facing
+similar circumstances. If this is the case, it would suggest that
+thinking of willpower as a nonlimited resource, rather than harming people by leading them to waste their resources, helps people
+stay focused on their goals when a heavy workload and accumulating demands make self-regulation challenging.
+
+Method
+Participants and Procedure
+Participants were 176 students at a selective university in the
+Western United States (101 women; Mage ⫽ 21.21, SD ⫽ 2.62).
+They were asked to complete an online questionnaire at five time
+points, once each week during the second half of a 10-week term
+(T1–T5). Students received $3 for completing each questionnaire
+and a $10 bonus for completing all five questionnaires. A total of
+113 participants completed all five questionnaires; 26 completed
+four, 13 completed three, 10 completed two, and 14 completed
+one. Data from all participants who completed at least two consecutive questionnaires were included in hierarchical linear modeling (HLM) analyses of self-regulation (N ⫽ 156). [Participants
+who completed the relevant measures versus those who did not did
+not differ in theories about willpower, t(174) ⫽ ⫺.84, p ⫽ .40.]
+Each week on Monday morning, participants received a link to the
+online questionnaire with a request to respond that day. On average, 65% of participants completed the questionnaire that day
+(ranging from 83% at T1% to 54% at T4). Nonresponding participants were sent a reminder on Tuesday and could respond until
+Wednesday night.
+At the beginning of the first questionnaire, participants provided
+informed consent and were asked to authorize the release of their
+college academic records from the term of their participation and
+the prior term. One hundred fifty-three participants (87%) authorized the release. [Participants who authorized the release of their
+academic record did not differ in their theories about willpower
+from those who did not, t(174) ⫽ 0.23, p ⫽ .82.]
+
+Measure of Implicit Theories About Willpower
+At Time 1 participants completed a 6-item measure assessing
+theories about willpower with respect to strenuous mental ex-
+
+639
+
+ertion (Job et al., 2010). Sample items include, “After a strenuous mental activity your energy is depleted and you must rest
+to get it refueled again” (limited-resource theory) and, “Your
+mental stamina fuels itself; even after strenuous mental exertion
+you can continue doing more of it” (nonlimited-resource theory) (1 ⫽ strongly agree, 6 ⫽ strongly disagree; ␣ ⫽ .85).
+Items referring to the limited-resource theory were reversescored so that higher values represent greater agreement with
+the limited-resource theory (Mgrand ⫽ 3.88, SD ⫽ .88).
+
+Measures of Everyday Self-Regulation Failures and
+Self-Regulatory Demands
+Our questionnaire allowed us to determine which students faced
+high demands over a several week period. Each questionnaire
+assessed, first, indices of everyday self-regulation failures during
+the previous week and, second, self-regulatory demands anticipated in the current week. This approach separates the assessment
+of the two critical variables for each week in order to prevent
+reports of one from biasing reports of the other. Since we had no
+measure of self-regulation failures during the last week of the
+study, we had complete information about anticipated selfregulatory demands and self-regulation failures for four weeks.
+Everyday self-regulation. Each questionnaire (T1–T5) assessed self-regulatory failures during the prior week by asking
+participants to report the frequency of (a) procrastination, defined
+as engaging in nonacademic activities rather than studying (e.g.,
+“How often did you meet friends instead of studying?”), (b)
+consumption of unhealthy (high fat/high sugar) foods and drinks,
+like chocolate bars or salty snacks, (b) poor time management
+(e.g., “How often did you come late to an appointment?”), (d)
+excess spending (e.g., “How often did you buy something knowing
+that it’s actually too expensive for you?”), and (e) failure to control
+emotions, (e.g., “How often did you have trouble controlling your
+temper?”) during the prior week (1 ⫽ never, 2 ⫽ 1 time per week,
+3 ⫽ 2 times per week, 4 ⫽ 3– 4 times per week, 5 ⫽ 5– 6 times per
+week, 6 ⫽ 1 time per day, 7 ⫽ two or more times per day).
+Descriptive statistics and reliability information are presented in
+Table 1.
+To assess whether the five indicators of self-regulation failure
+converged as indicators of a single latent variable, we conducted a
+confirmatory factor analysis with full information maximum likelihood estimation on the five measures assessed at T1. A onefactor model fit the data: ␹2(df ⫽ 5, N ⫽ 176) ⫽ 3.03, p ⫽ .70,
+comparative fit index (CFI) ⫽ 1.00, root mean square error of
+approximation (RMSEA) ⫽ .00. All loadings were significant
+(standardized values: procrastination ⫽ .67, consumption of unhealthy foods ⫽ .22, poor time management ⫽ .59, excess spending ⫽ .46, emotion-regulation failure ⫽ .52). Therefore, in addition to examining each measure separately, we also created a
+composite index of self-regulation failure by averaging scores for
+the five variables at each time point.
+Anticipated self-regulatory demands. We created a list of 13
+demands undergraduate students commonly face over an academic
+term. These included academic tasks (e.g., “class presentations to
+deliver,” “tests to take”) and social stressors (e.g., “conflicts with
+one’s professor or TA,” “experience of social exclusion or rejection”). For each demand, participants were asked to “indicate how
+much you will have to deal with [this] task or experience during
+
+JOB, WALTON, BERNECKER, AND DWECK
+
+640
+
+Table 1
+Means and Standard Deviations of Self-Regulation Failure (1 ⫽ Never, 7 ⫽ Two or More Times Per Day), Negative Affect (1 ⫽
+Never, 5 ⫽ Very Often), and Forecasted Self-Control Demands (1 ⫽ Not at all, 4 ⫽ Very Much)
+Sample item
+
+Range
+
+␣
+
+Week 1
+
+Week 2
+
+Week 3
+
+Week 4
+
+“How often did you meet friends instead
+of studying?” (6 items)
+“How often did you eat chocolate or candy
+bars?” (6 items)
+“How often did you come late to an
+appointment?” (4 items)
+“How often did you buy something
+knowing that it’s actually too expensive
+for you?” (6 items)
+“How often did you have trouble
+controlling your temper?” (3 items)
+“How much will you have to deal with
+papers/essays due?” (13 items, summed)
+
+1–7
+
+.78–.87
+
+158
+3.37 (1.14)
+
+149
+3.30 (1.26)
+
+143
+3.29 (1.28)
+
+119
+2.92 (1.31)
+
+1–7
+
+.67–.74
+
+2.99 (1.00)
+
+2.96 (0.95)
+
+2.98 (1.00)
+
+2.95 (1.03)
+
+1–7
+
+.62–.76
+
+1.77 (0.73)
+
+1.81 (0.81)
+
+1.73 (0.91)
+
+1.41 (0.62)
+
+1–7
+
+.80–.91
+
+1.58 (0.68)
+
+1.53 (0.65)
+
+1.64 (0.88)
+
+1.45 (0.66)
+
+1–7
+
+.76–.87
+
+2.06 (0.92)
+
+2.03 (1.08)
+
+2.00 (1.03)
+
+2.00 (0.92)
+
+1–4
+
+.66–.72
+
+25.74 (5.70)
+
+24.99 (6.14)
+
+25.13 (5.79)
+
+24.32 (5.92)
+
+Scale
+N
+Procrastination
+Unhealthy food
+Poor time management
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Excess spending
+Emotion-regulation
+failure
+Forecasted self-regulatory
+demands
+
+the next seven days” (1 ⫽ not at all, 2 ⫽ a little, 3 ⫽ somewhat,
+4 ⫽ very much). These ratings thus allowed us to summarize
+diverse anticipated self-regulatory demands to create a single index for each student.2
+Academic performance and course load. Students’ college
+academic records provided measures of (a) their GPA during the
+term the study was conducted and the previous term, and (b) their
+course load, that is, the number of units students enrolled in each
+term.
+
+Trait Self-Control
+If we find the hypothesized relationship between a nonlimited
+theory and fewer self-regulatory failures, a potential alternative
+explanation involves trait self-control: perhaps people with a nonlimited theory about willpower show better self-regulatory outcomes simply because they have greater self-control to begin with.
+To examine this possibility, we administered the brief Trait SelfControl Scale (Tangney, Baumeister, & Boone, 2004) at the end of
+the T2 questionnaire. Participants indicated on a 5-point scale (1 ⫽
+not at all, 5 ⫽ very much) how well each of 13 statements about
+self-control described their typical behavior (e.g., “I’m good at
+resisting temptation,” “I am lazy”) (␣ ⫽ .88).
+
+Results
+After reporting descriptive statistics and zero-order correlations,
+the results are divided into two main sections. First, we analyzed
+everyday self-regulation with a multilevel approach. Our primary
+focus was on between-participants differences in self-regulatory
+demands—whether students who faced high demands during the
+term self-regulated better or more poorly as a function of their
+implicit theory of willpower. We focused on this question because we
+expected self-regulatory demands and behavior to vary more betweenthan within-participants over this relatively short time period (i.e., five
+consecutive weeks within a term). However, we also examined
+within-participant (i.e., week-to-week) changes in self-regulatory
+demands to determine whether students showed differences in
+self-regulation, as a function of their theories about willpower, on
+
+weeks they had previously predicted would pose high versus low
+demands.
+Second, we examined students’ end-of-term GPA. A series of
+regression analyses tested the hypothesis that theories about willpower would predict GPA, that this relationship would be moderated by academic work-load, and that it would be mediated by
+procrastination.
+
+Descriptive Statistics
+Means and standard deviations of self-regulatory behaviors and
+self-regulatory demands for each week are presented in Table 1.
+Over the course of the five measurement times, levels of procrastination and time-management failure dropped: linear withinparticipant contrasts F(1, 93) ⫽ 16.19, p ⫽ .001 and F(1, 93) ⫽
+25.32, p ⬍ .001, respectively. As the end of the term and final
+exams approached, students procrastinated less and managed their
+time better.
+Table 2 reports the means, standard deviations, and zero-order
+correlations of theories about willpower, course load in the current
+term, GPA in the current and previous term, as well as trait
+self-control. There were no significant zero-order correlations
+among willpower theories, course load, and GPA. As expected,
+current- and prior-term GPA were highly correlated and there was
+no mean difference between the two, t ⬍ 1. There was also a
+significant correlation between theories about willpower and trait
+self-control. Participants low in trait self-control agreed more with
+2
+An important question concerns how self-regulatory demands change
+over the course of an academic term. In past research, we theorized that
+demands increase as finals week approaches (Job et al., 2010). The present
+data allow a test of this assumption. This was the case for academic
+demands. Specifically, participants’ ratings of how much they would have
+to deal with tests increased over the four weeks as indicated by a significant
+linear within-participant contrast, F(1, 128) ⫽ 59.20, p ⬍ .001. There was
+no such increase for nonacademic demands; indeed, social stressors (e.g.,
+social obligations) declined as the end of the term approached, F(1, 128) ⫽
+5.67, p ⫽ .04. A strength of the present study is that, rather than assuming
+that all students are facing high or low demands at certain times, we
+assessed the level of demands each student anticipated week by week over
+the second half of the term.
+
+WILLPOWER-THEORIES PREDICT SELF-REGULATION AND GRADES
+
+641
+
+Table 2
+Descriptive Statistics and Correlations for Participants-Level Variables
+Variable
+
+2
+
+Willpower theory
+Course loada
+Current term GPA
+Previous term GPA
+Trait self-control
+Age
+
+⫺.07
+
+3
+⫺.13
+⫺.01
+
+4
+
+5
+
+⫺.01
+.02
+.68ⴱⴱ
+
+ⴱ
+
+⫺.17
+⫺.16⫹
+.23ⴱⴱ
+.17ⴱ
+
+6
+
+M
+
+SD
+
+.10
+⫺.39ⴱⴱ
+.25ⴱⴱ
+.28ⴱⴱ
+⫺.10
+
+3.88
+14.60
+3.57
+3.60
+3.07
+20.58
+
+.88
+3.64
+.46
+.42
+.72
+1.74
+
+Note. N ⫽ 149.
+Units taken in the current term.
+⫹
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .001 (two-tailed).
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+a
+
+a limited-resource theory. As will be seen, however, this difference
+did not account for the effect of theories about willpower on
+self-regulation and performance.
+
+Everyday Self-Regulation Failure and Self-Regulatory
+Demands
+Our data on students’ weekly self-regulation failure and selfregulatory demands conform to a two-level hierarchical structure
+(repeated measures nested within individuals). Therefore, we used
+hierarchical linear modeling (HLM 6.2 statistical software package, Raudenbush, Bryk, Cheong, Congdon, & du Toit, 2004) to
+analyze between- and within-person differences in self-regulation
+as our dependent variable. We first estimated an unconditional
+model with no predictors at either level of the hierarchy, to see
+how much variation in weekly self-regulation lay between- versus
+within-participants. This analysis revealed that, as might be expected, most of the variance in self-regulation was betweenparticipants (81%) (␶00 ⫽ 0.35); only 19% was within-participants
+(␴2 ⫽ 0.08). Similarly, an unconditional model predicting forecasted demands showed that more of the variance was betweenparticipants (62%) than within-participants (38%) (␴2 ⫽ 0.12,
+␶00 ⫽ 0.08).
+To estimate effects of self-regulatory demands at both the
+between-participants and the within-participants levels of analysis
+we ran a compositional model including the aggregated score for
+mean demands across weeks as a participant-level predictor, as
+well as weekly scores of demands (group-centered) as the weeklevel predictor (Enders & Tofighi, 2007; Raudenbush & Bryk,
+2002). This is the full model:
+
+Self-Regulationij ⫽ B0j ⫹ B1j Demands ⫹ Rij
+B0j ⫽ G00 ⫹ G01 WillpowerTheory ⫹ G02MeanDemands
+⫹ G03Theory ⫻ Demands ⫹ u0j
+B1j ⫽ G10 ⫹ G11WillpowerTheory ⫹ u1j
+G00 is the intercept. G01 and G02 represent the main effects of
+willpower theories and mean demands on participants’ mean selfregulation failure reports. G03 represents the interaction between
+willpower theory and demands, which tests our hypothesis at the
+between-participants level. G10 represents the main withinparticipant effect of week-to-week changes in predicted selfregulatory demands on week-to-week self-regulation reports. Finally, G11 represents the cross-level interaction between willpower
+theory and self-regulatory demands, which tests effects at the
+within-participant level.
+Table 3 contains the coefficients for this model predicting the
+composite self-regulation failure index as well as each measure of
+self-regulation failure. There was a highly significant main effect
+of mean demands (G02): High demands were associated with more
+self-regulation failure. The main effect of willpower theories (G01)
+(irrespective of self-regulatory demands) was significant for procrastination: The more students endorsed a limited-resource theory, the more they procastinated. Most importantly, the interaction
+between willpower theories and mean demands (G03) was significant for both the composite index and each measure of selfregulation failure except poor time management. These results
+support our hypothesis: a limited theory about willpower predicted
+
+Table 3
+Unstandardized Coefficients From a Multilevel Linear Model of Self-Regulation and Affect
+Predictor
+G00
+G01
+G02
+G03
+G10
+G11
+
+intercept
+willpower theory (WT)
+mean demands
+WT ⫻ mean demands
+weekly demands
+WT ⫻ weekly demands
+
+Composite self-regulation
+failure
+
+Procrastination
+
+Unhealthy food
+
+Poor time
+management
+
+Excess
+spending
+
+Emotion-regulation
+failure
+
+2.31 (0.04)ⴱⴱⴱ
+0.08 (0.04)⫹
+0.95 (0.10)ⴱⴱⴱ
+0.17 (0.04)ⴱⴱⴱ
+0.05 (0.06)
+⫺0.07 (0.7)
+
+3.26 (0.08)ⴱⴱⴱ
+0.23 (0.09)ⴱ
+1.18 (0.22)ⴱⴱⴱ
+0.33 (0.09)ⴱⴱ
+0.28 (0.14)ⴱ
+⫺0.01 (0.18)
+
+3.00 (0.07)ⴱⴱⴱ
+0.04 (0.08)
+0.55 (0.19)ⴱⴱ
+0.18 (0.08)ⴱ
+⫺0.03 (0.10)
+⫺0.17 (0.12)
+
+1.71 (0.05)ⴱⴱⴱ
+0.11 (0.06)⫹
+0.92 (0.13)ⴱⴱⴱ
+0.05 (0.05)
+0.32 (0.10)ⴱⴱ
+0.09 (0.12)
+
+1.56 (0.04)ⴱⴱⴱ
+0.02 (0.05)
+0.73 (0.12)ⴱⴱⴱ
+0.12 (0.06)ⴱ
+⫺0.04 (0.10)
+⫺0.00 (0.12)
+
+2.03 (0.06)ⴱⴱⴱ
+⫺0.02 (0.06)
+1.27 (0.15)ⴱⴱⴱ
+0.13 (0.06)ⴱ
+⫺0.23 (0.14)
+⫺0.25 (0.17)
+
+Note. WT ⫽ willpower theory; standard errors are given in parentheses.
+⫹
+p ⬍ .10. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+642
+
+JOB, WALTON, BERNECKER, AND DWECK
+
+more self-regulation failure among students who experienced
+greater self-regulatory demands than their peers.
+Figure 1 depicts predicted values of the composite index for
+students with a limited-resource (⫹1 SD) and a nonlimited theory
+(⫺1 SD) who dealt with high (⫹1 SD) or low (⫺1 SD) mean
+self-regulatory demands. Among students who generally faced
+high demands, those with a limited-resource theory reported significantly more self-regulatory failures than those with a nonlimited theory, b ⫽ 0.27, se ⫽ 0.07, t(152) ⫽ 3.98, p ⬍ .001.
+Among students who faced lower demands, self-regulatory
+failures were far less frequent. Interestingly, however, among
+these students those with a nonlimited theory showed marginally worse self-regulation than those with a limited-resource
+theory, b ⫽ ⫺0.12, se ⫽ 0.07, t(152) ⫽ ⫺1.81, p ⫽ .072. We
+return to this interesting effect later.
+Next, we tested the key contrast for each index of self-regulation
+failure. Among students who faced high demands, those with a
+limited-resource theory, relative to those with a nonlimited theory,
+procrastinated more (b ⫽ 0.61, se ⫽ 0.14, t(152) ⫽ 4.20, p ⬍
+.001), consumed more unhealthy foods (b ⫽ 0.24, se ⫽ 0.12,
+t(152) ⫽ 1.99, p ⫽ .048), managed their time marginally more
+poorly (b ⫽ 0.16, se ⫽ 0.09, t(152) ⫽ 1.91, p ⫽ .058), and spent
+more excessively (b ⫽ 0.16, se ⫽ 0.08, t(152) ⫽ 2.06, p ⫽ .041).
+For emotion regulation there was a weak trend in the same direction (b ⫽ 0.14, se ⫽ 0.10, t(152) ⫽ 1.39, p ⫽ .17). To illustrate the
+interactions, Figure 2 depicts procrastination and unhealthy eating
+behavior for participants with a limited or nonlimited theory who
+faced high versus low demands.
+For students who faced low demands, willpower theories were
+not significantly related to procrastination (b ⫽ ⫺0.15, se ⫽ 0.14,
+t(152) ⫽ ⫺1.06, p ⫽ .29), unhealthy eating (b ⫽ ⫺0.16, se ⫽
+0.12, t(152) ⫽ ⫺1.35, p ⫽ .18), bad time management (b ⫽ 0.03,
+se ⫽ 0.08, t(152) ⫽ 0.38, p ⫽ .70), or excess spending
+(b ⫽ ⫺0.11, se ⫽ 0.07, t(152) ⫽ ⫺1.52, p ⫽ .13). Students with
+a nonlimited theory, however, reported marginally worse emotion
+regulation when demands were low (b ⫽ ⫺0.18, se ⫽ 0.10,
+t(152) ⫽ ⫺1.86, p ⫽ .064).
+
+Figure 1. Mean self-regulation failure (composite index) as a function of
+forecasted self-regulatory demands and willpower theory. The limited and
+nonlimited-resource theory groups represent participants 1 SD above and
+below the mean on the willpower-theories measure. High versus low
+demands represents ⫾ 1 SD from the grand mean.
+
+Figure 2. Mean procrastination and unhealthy eating (1 ⫽ never, 2 ⫽ 1
+time per week, 3 ⫽ 2 times per week, 4 ⫽ 3– 4 times per week, 5 ⫽ 5– 6
+times per week, 6 ⫽ 1 time per day, 7 ⫽ two or more times per day) as a
+function of self-regulatory demands and willpower theory. The limited and
+nonlimited-resource theory groups represent participants 1 SD above and
+below the mean on the willpower-theories measure. High versus low
+demands represents ⫾ 1 SD from the grand mean.
+
+We have suggested that a limited-resource theory undermines
+self-regulation when self-regulatory demands are high. A potential
+alternative explanation is that students with a limited theory anticipate and have more self-regulatory demands than students with
+a nonlimited theory. This was not the case. We ran an HLM
+analysis on students’ anticipated self-regulatory demands with
+theories about willpower as a participant-level predictor. This
+analysis showed no relationship between implicit theories and
+anticipated demands, b ⫽ ⫺0.01, se ⫽ 0.02, t(552) ⫽ ⫺0.40, p ⫽
+.69. Furthermore, the correlation between theories about willpower
+and mean self-regulatory demands was not significant, r ⫽ ⫺.026,
+p ⫽ .75. Students with a limited and a nonlimited theory anticipated similar self-regulatory demands. But only students with a
+limited theory responded to high demands with more selfregulation failures.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WILLPOWER-THEORIES PREDICT SELF-REGULATION AND GRADES
+
+A second potential alternative explanation, as noted earlier,
+involves trait self-control: perhaps students who endorse a limited
+willpower theory self-regulate less effectively in the face of selfregulatory challenges simply because they have less trait selfcontrol. This was not the case. We ran an HLM-model predicting
+the composite index of self-regulation failure from theories about
+willpower, mean demands, and their interaction, as well as trait
+self-control and its interaction with mean demands as participantlevel predictors. There was a significant main effect for trait
+self-control, b ⫽ ⫺0.39, se ⫽ 0.05, t(146) ⫽ ⫺7.92, p ⬍ .001:
+students lower in trait self-control reported more self-regulatory
+failures. The interaction between trait self-control and demands
+was also significant, b ⫽ ⫺0.07, se ⫽ 0.03 t(146) ⫽ ⫺2.20, p ⫽
+.030: When demands were high, students low in trait self-control
+reported the most self-regulatory failures. However, importantly,
+in this analysis the interaction between theories about willpower
+and mean demands remained significant, b ⫽ 0.09, se ⫽ 0.04,
+t(146) ⫽ 2.43, p ⫽ .017. The effect of theories of willpower is not
+accounted for by differences in trait self-control.
+In contrast to these between-participants results, withinparticipant results were not significant (see Table 3). First, withinparticipant (week-to-week) changes in demands (G10) predicted
+only procrastination and time management failure. They were not
+related to the composite index of self-regulation failure. Second,
+there was no cross-level interaction between willpower theories
+and within-participant changes in demands (G11). That is, there
+was no conjoint effect of participants’ week-to week changes in
+demands, corrected for their mean level of demands, and theories
+about willpower on weekly reports of self-regulation. We suspect
+that a longitudinal study with more intervals over a longer period
+of time might be able to better detect conjoint effects of willpower
+theories and within-person changes in demands on participants’
+self-regulation. Another reason for the lack of within-person effects could be that the cumulative estimate of mean demands
+provides a more reliable measure of the demands a student faces
+than week-by-week predictions. For example, on the Monday of
+one week a student might predict low demands for the upcoming
+week, but then might accomplish less over the next few days and
+end up having high demands the rest of the week. Or a student
+might predict that the week will be a high-demand week but then
+an instructor grants the class an extension on an assignment and
+the week becomes lower in demands. If so, the anticipation of
+demands on a week-by week basis may be less accurate than
+cumulative estimates of demands over several weeks.
+
+643
+
+trolled for standardized GPA in the prior term, R2 ⫽ .47, F(1,
+146) ⫽ 128.01, p ⬍ .001. Second, we added standardized willpower theories, which was significant, ␤ ⫽ ⫺.12, b ⫽ ⫺.06, se ⫽
+.03, ⌬R2 ⫽ .02, F(1, 145) ⫽ 4.18, p ⫽ .04. Thus, even controlling
+for prior GPA, the more students endorsed a limited-resource
+theory, the lower was their end-of-term GPA.
+Next, we tested whether this was especially the case among
+students taking a heavy course load. We added course load and the
+willpower theories by course load interaction (willpower theories
+and course load were independent, r ⫽ ⫺.06, ns). In the final
+model (⌬R2 ⫽ .04, F(1, 143) ⫽ 10.74, p ⫽ .001), the main effect
+of willpower theories was marginally significant, ␤ ⫽ ⫺.11,
+b ⫽ ⫺.05, se ⫽ .03, t(143) ⫽ ⫺1.80, p ⫽ .08. There was no main
+effect of course load, ␤ ⫽ ⫺.04, b ⫽ ⫺.02, se ⫽ .03, t ⬍ 1.
+However, the willpower theories by course load interaction was
+significant, ␤ ⫽ ⫺.19, b ⫽ ⫺.09, se ⫽ .03, t(143) ⫽ ⫺3.28, p ⫽
+.001. As shown in Figure 3, willpower theories did not predict
+GPA among students taking a light course load (1 SD below the
+mean, or 10.96 units out of a possible 20), ␤ ⫽ .12, b ⫽ .04, se ⫽
+.12, t(144) ⫽ 1.01, p ⫽ .31. But among students taking a heavy
+course load (1 SD above the mean, or 18.14 units), those with a
+limited-resource theory earned lower GPAs (Mest ⫽ 3.41) than
+those with a nonlimited theory about willpower (Mest ⫽ 3.69),
+␤ ⫽ ⫺.41, b ⫽ ⫺.14, se ⫽ .11, t(144) ⫽ ⫺3.77, p ⬍ .001. In
+addition, a heavy course load was associated with worse performance only for students with a limited-resource theory, ␤ ⫽ ⫺.32,
+b ⫽ ⫺.11, se ⫽ .12, t(144) ⫽ ⫺2.81, p ⫽ .006. Students with a
+nonlimited theory actually performed slightly better when they had
+a heavy course load, ␤ ⫽ .21, b ⫽ .07, se ⫽ .11, t(144) ⫽ 1.81,
+p ⫽ .07.
+We also tested whether a limited theory predicted worse grades
+on a longitudinal basis—that is, when students’ course load increased from one term to the next. We examined students’ currentterm GPA, with prior-term GPA controlled, and tested the effects
+of willpower theories, change in course load (difference between
+current term course load and previous term course load,
+
+Academic Performance and Course Load
+The self-report measures provide nuanced insight into how
+willpower theories predict everyday self-regulation in the face of
+self-regulatory demands. Next, we tested whether willpower theories also predict an objective (nonself-reported) and cumulative
+index of successful self-regulation over time: students’ end-ofterm GPA calculated from official school records. If this shows the
+same pattern, it would extend the self-reported indices of selfregulation and further illustrate the implications of theories about
+willpower for students’ lives.
+Willpower theories and academic performance. To test
+whether willpower theories predicted students’ end-of-term GPA,
+we conducted a hierarchical regression analysis. First, we con-
+
+Figure 3. Mean GPA as a function of academic demands (units taken)
+and willpower theory (⫾ 1 SD on the willpower theory measure). High
+versus low demands represent ⫾ 1 SD from the grand mean. Means are
+adjusted for prior-term GPA, age, and sex.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+644
+
+JOB, WALTON, BERNECKER, AND DWECK
+
+Mchange ⫽ ⫺0.76 units, SD ⫽ 3.26 units) from the prior term to the
+current term, and the willpower theories by change-in-course-load
+interaction. The interaction was significant, ␤ ⫽ ⫺.13, b ⫽ ⫺.06,
+se ⫽ .03, t(143) ⫽ ⫺2.17, p ⫽ .03. Among students whose
+decrease in course load was high (Mchange ⫺ 1 SD ⫽ ⫺0.76 –
+3.26 ⫽ decrease of 4.02 units), there was no effect of willpower
+theories on grades, t ⬍ 1. But among students whose course load
+highly increased (Mchange ⫹ 1 SD ⫽ ⫺0.76 ⫹ 3.26 ⫽ increase of
+2.5 units), those with a limited theory earned worse grades than
+those with a nonlimited theory, ␤ ⫽ ⫺.35, b ⫽ ⫺.12, se ⫽ .12,
+t(144) ⫽ ⫺2.95, p ⫽ .004. These findings confirm that GPA varies
+with students’ implicit theories about willpower and their changing
+course load.
+As was the case for everyday self-regulation, the effect of
+willpower theories on GPA was not accounted for by trait selfcontrol. We conducted a hierarchical regression predicting GPA
+from previous-term GPA (block 1), theories about willpower,
+course load, and trait self-control (block 2), as well as the interactions between course load and trait self-control and between
+course load and willpower theories (block 3). In the final model
+(⌬R2 ⫽ .54, F(6, 124) ⫽ 24.04, p ⬍ .01) the main effects for trait
+self-control and willpower theories were both nonsignificant, ␤ ⫽
+.10, b ⫽ .04, se ⫽ .03, t(124) ⫽ 1.49, p ⫽ .14, and, ␤ ⫽ ⫺.08,
+b ⫽ ⫺.04, se ⫽ .03, t(124) ⫽ ⫺1.31, p ⫽ .19, respectively. The
+course load by trait self-control interaction was also not significant, ␤ ⫽ ⫺.07, b ⫽ ⫺.03, se ⫽ .03, t(124) ⫽ ⫺1.08, p ⫽ .28.
+However, the course load by willpower theory interaction remained significant, ␤ ⫽ ⫺.23, b ⫽ ⫺.10, se ⫽ .03,
+t(124) ⫽ ⫺3.71, p ⬍ .01. In the face of a heavy course load,
+willpower theories predict GPA above and beyond trait selfcontrol.
+Mediation. Finally, we tested whether greater procrastination
+explained the relationship between a limited willpower theory and
+GPA. Past research shows that procrastination leads to lower
+grades (Steel, 2007). Likewise, in the present research mean procrastination (averaged over five weeks) predicted GPA controlling
+for previous-term GPA [partial r(145) ⫽ ⫺.32, p ⬍ .001]. Since
+the previous analysis showed that theories about willpower affect
+students’ procrastination, we tested whether students’ mean procrastination mediated the effect of willpower theories on GPA
+controlling for previous-term GPA (Figure 4). We did so using the
+INDIRECT macro (Preacher & Hayes, 2008), which uses boot-
+
+Figure 4. Mediation model testing the indirect effect of willpower theory
+on GPA through procrastination. ⴱ p ⬍ .05. ⴱⴱ p ⬍ .001.
+
+strapping to estimate the indirect effect of an independent variable
+(i.e., willpower theories) on a dependent variable (i.e., GPA)
+through a mediator (i.e., procrastination). Because the macro provides only unstandardized path coefficients all variables were
+z-standardized prior to using the macro to generate standardized
+coefficients. The mediational model was significant, R2 ⫽ .53,
+F(3, 144) ⫽ 52.71, p ⬍ .001. As reported earlier, there was a main
+effect for willpower theories predicting procrastination; a limited
+theory predicted greater procrastination, ␤ ⫽ .18, se ⫽ .07,
+t(144) ⫽ 2.60, p ⫽ .01. The direct effect of procrastination on
+GPA was also significant, ␤ ⫽ ⫺.11, se ⫽ .03, t(144) ⫽ ⫺3.75,
+p ⬍ .001. The more students procrastinated the lower was their
+end-of-term GPA. The bootstrapped indirect effect was different
+from zero, 95% CI (⫺.005, ⫺.047), and the direct effect of
+willpower theories on GPA was no longer significant, ␤ ⫽ ⫺.03,
+se ⫽ .03, t(144) ⫽ ⫺1.30, p ⫽ .20. The other indicators of
+self-regulatory failure did not show this meditational pattern. The
+results suggest that the more students endorsed a limited-resource
+theory of willpower, the more they procrastinated and the lower
+the GPA they earned.
+
+General Discussion
+The present research shows that students who think that willpower is limited and easily depleted—the view of willpower
+suggested by the strength model of self-control—self-regulate less
+well in their everyday lives when they face high self-regulatory
+demands. Far from conserving their resources and showing strong
+self-regulation when needed, students who endorsed the limited
+theory and who faced high demands over the term, procrastinated
+more (e.g., watching TV instead of studying), ate more junk food,
+and reported more excessive spending as compared to students
+with a nonlimited theory about willpower. This was the case even
+though students with a limited and a nonlimited theory faced
+similar self-regulatory demands. By measuring students’ selfregulatory demands, the present study provides the first direct
+evidence that it is precisely in the face of consistently high demands that a nonlimited theory of willpower predicts better everyday self-regulation.
+Importantly, we found the same pattern for students’ term
+grades, an objective and inherently important variable resulting
+from successful self-regulation. Among students who took a heavy
+course load, students with the limited theory earned lower grades
+than students with the nonlimited theory. They did so, a mediation
+analysis suggested, because they were more likely to procrastinate
+in completing their work. By contrast, the nonlimited theory led
+people to deploy their resources more effectively when they were
+needed most. Notably, the effects of willpower theories on everyday self-regulation and on GPA did not arise because students with
+a limited theory had lower trait self-control. The patterns remained
+significant controlling for trait self-control.
+Our findings contradict the hypothesis that a nonlimited theory
+about willpower undermines self-regulation and does so especially
+when demands are high. Relying on a laboratory experiment, Vohs
+and colleagues (2012) suggested that the belief that willpower is
+nonlimited might counteract ego depletion only in cases of mild or
+moderate demands but not when self-control demands are “severe.” They speculated that this belief could even amplify ego
+depletion and worsen self-regulation by undermining people’s
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WILLPOWER-THEORIES PREDICT SELF-REGULATION AND GRADES
+
+“normal tendency” to conserve their resources and then deploy
+them when they were needed. To the contrary, examining students’
+success and failure self-regulating in a highly demanding academic
+environment, we found that the nonlimited theory was most predictive of better outcomes among students who faced the greatest
+demands on their self-regulation.
+In fact, it was only among students who faced low demands—
+when self-regulation lapses may be less costly—that students with
+a nonlimited theory “wasted” their self-regulatory resources relative to those with a limited theory. Under these conditions, they
+reported giving in to impulses and pursuing nonacademic activities
+at least as much as, if not more than, students with a limited theory.
+Thus, students with a nonlimited theory are not self-control super
+heroes who never give in to temptations; nor are they unwilling to
+admit self-regulatory failure. This view is further supported by the
+rather low correlation between theories about willpower and trait
+self-control (⫺.17), suggesting that those with a nonlimited theory
+are not simply natural self-regulators or people with outsized
+self-control abilities. Rather, those with a nonlimited theory are
+people who lean in when demands on self-regulation are high.
+This pattern was replicated in the analysis of students’ academic
+performance, where a nonlimited versus limited willpower theory
+predicted higher GPA among students who took heavy course
+loads. It was also interesting to find that participants with a
+nonlimited theory tended to earn even higher grades when they
+were dealing with a heavy course load than when they were taking
+a light course load. These latter findings suggest that people with
+a nonlimited theory may even profit from challenging circumstances. Indeed, it is possible that in situations where they are not
+sufficiently challenged (e.g., in a boring job), people with a nonlimited theory might be the ones to show lower performance. For
+them, boredom or lack of challenge may be depleting! In short,
+people with a nonlimited theory about willpower look strong when
+high demands require effective self-regulation but do not perform
+better when demands are low.
+Why did Vohs and colleagues (2012) find a different pattern in
+a laboratory study—that the benefits of a nonlimited theory for
+self-control performance disappeared as the number of self-control
+tasks increased? As a laboratory session wears on, many other
+factors beyond participants’ self-control capacity may affect their
+willingness to exert further self-control on laboratory tasks. For
+instance, participants may simply decide that they have done
+enough and/or that the tasks are no longer interesting or consequential. A nonlimited theory about willpower would not be functional if it led people to engage on a high level with every task that
+came along regardless of its value or purpose. Future laboratory
+research may decompose the capacity to exert self-control from the
+value or meaning of a task to the self.
+In Vohs and colleagues’ (2012) research as well as in other
+recent theorizing on ego depletion (Inzlicht & Schmeichel, 2012;
+Inzlicht, Schmeichel, & Macrae, 2014) the effects of willpower
+theories are grouped together with those of other “motivational”
+factors such as monetary incentives. It is often assumed that both
+counteract ego depletion through enhanced motivation. Research
+on theories about willpower, however, proposes a different perspective. A nonlimited theory does not just motivate people to
+regulate themselves better; instead, it removes a process that
+undermines self-regulation. Our previous research suggests that a
+limited-resource theory makes people more sensitive to or more
+
+645
+
+vigilant for cues that signal the availability of mental resources,
+like perceived exhaustion or ingested glucose (Job et al., 2010,
+2013). From this perspective people with a limited-resource theory
+perform worse under high demands because as soon as they
+experience even low-level signs of strain or exhaustion (as soon as
+they perceive any “depletion”) they begin to reduce effort on the
+task at hand. Instead of staying focused on a demanding task they
+turn toward saving and/or replenishing their presumably limited
+resources. Thus, willpower theories are not simply another variable that changes the incentive value of a task. Rather, by affecting
+the fundamental assumptions people make about the nature and
+workings of willpower, they can change how people approach and
+enact self-regulation itself.
+The present results suggest that a nonlimited theory of willpower is functional in a student sample facing high demands and
+likely in other populations facing self-regulation challenges. But if
+so, why do many people believe that willpower is limited? Vohs
+and colleagues (2012) argued that if a nonlimited theory were
+beneficial, these benefits would have led the theory to spread
+across individuals and cultures. But a belief need not be functional
+to spread. It just has to be simple and appealing (Bangerter &
+Heath, 2004; Dawkins, 2006; Wagner, Kronberger, & Seifert,
+2002). A fixed mindset about intelligence (the belief that intelligence is fixed not malleable) is a simple and widespread idea that
+can have clear negative effects, for instance, in undermining students’ resilience and academic achievement (Blackwell, Trzesniewski, & Dweck, 2007; Dweck & Leggett, 1988; Hong, Chiu,
+Dweck, Lin, & Wan, 1999). Furthermore, both a fixed mindset
+about intelligence and a limited-resource theory about willpower
+can have psychological benefits; for instance, as a justification for
+putting forth low effort in the face of challenging tasks or temptations (see, e.g., Job et al., 2010; Robins & Pals, 2002).
+Although a limited-resource theory might serve some psychological functions, the present research documents its costs.
+The ability to self-regulate successfully is one of the most
+robust predictors of major life outcomes, including health,
+wealth, and well-being (Moffitt et al., 2011). A critical question
+for future research involves better understanding the causal
+effects of willpower beliefs in everyday settings and, if causal,
+how to change these beliefs to increase self-regulatory success.
+Laboratory studies show that implicit theories about willpower
+can be manipulated and that their effects when manipulated
+parallel their effects when measured (Job et al., 2010, 2013;
+Miller et al., 2012). Thus, it seems probable that willpower
+beliefs have causal effects in everyday life settings and, in these
+settings too, they may be changed. Nevertheless, randomized
+field-experiments that manipulate willpower beliefs and examine everyday self-regulatory outcomes are necessary to establish causality. Such field experiments would also test a novel
+means to improve people’s self-regulatory outcomes, a pressing
+issue (Diamond, 2012; Duckworth, Grant, Loew, Oettingen, &
+Gollwitzer, 2011). Previous field experiments show that it is
+possible to change people’s implicit theories about intelligence
+and personality in field settings, with beneficial consequences,
+including for academic performance (Aronson, Fried, & Good,
+2002; Blackwell et al., 2007) and social outcomes (Yeager,
+Trzesniewski, & Dweck, 2013). Such interventions give people
+information (e.g., scientific reports) about the nature of human
+qualities and help them internalize this information using pow-
+
+JOB, WALTON, BERNECKER, AND DWECK
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+646
+
+erful persuasive techniques (e.g., “saying-is-believing” exercises, Aronson, 1999; see also Yeager & Walton, 2011). Could
+this approach change people’s beliefs about the nature of willpower in a relatively enduring way?
+Importantly, it may be essential to pair such learning opportunities with information about effective strategies that can help
+people avoid self-regulatory failures. Although the present research did not examine self-regulation strategies, these strategies may be an important consideration in the development of
+interventions to promote a nonlimited theory of willpower.
+Ironically, simply learning that willpower is stronger than one
+might have supposed could backfire if this encourages people to
+put themselves in situations they are ill-equipped to deal with
+(e.g., keeping temptations close at hand in the belief that they
+will be able to resist them indefinitely). Effective selfregulation strategies may involve formulating plans to cope
+with temptations (e.g., implementation intentions) or structuring one’s environment to avoid temptations (e.g., putting junk
+food in a high cabinet, blocking Facebook while trying to study)
+(Duckworth et al., 2011; Magen & Gross, 2007; Neal, Wood, &
+Drolet, 2013; Stadler, Oettingen, & Gollwitzer, 2010; Webb &
+Sheeran, 2003). Both for broad populations in demanding environments (e.g., students) and for clinical populations (e.g.,
+diabetics), it would be exciting if exercises to teach people a
+nonlimited theory plus effective self-regulatory strategies could
+increase their success as they face stressful demands and strive
+to accomplish their goals.
+
+References
+Aronson, E. (1999). The power of self-persuasion. American Psychologist,
+54, 875– 884. http://dx.doi.org/10.1037/h0088188
+Aronson, J., Fried, C. B., & Good, C. (2002). Reducing the effects of
+stereotype threat on African American college students by shaping
+theories of intelligence. Journal of Experimental Social Psychology, 38,
+113–125. http://dx.doi.org/10.1006/jesp.2001.1491
+Bangerter, A., & Heath, C. (2004). The Mozart effect: Tracking the
+evolution of a scientific legend. British Journal of Social Psychology,
+43, 605– 623. http://dx.doi.org/10.1348/0144666042565353
+Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998).
+Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology, 74, 1252–1265. http://dx.doi.org/10.1037/
+0022-3514.74.5.1252
+Baumeister, R. F., Vohs, K. D., & Tice, D. M. (2007). The strength model
+of self-control. Current Directions in Psychological Science, 16, 351–
+355. http://dx.doi.org/10.1111/j.1467-8721.2007.00534.x
+Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit
+theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. Child Development, 78,
+246 –263. http://dx.doi.org/10.1111/j.1467-8624.2007.00995.x
+Chambers, E. S., Bridge, M. W., & Jones, D. A. (2009). Carbohydrate
+sensing in the human mouth: Effects on exercise performance and brain
+activity. The Journal of Physiology, 587, 1779 –1794. http://dx.doi.org/
+10.1113/jphysiol.2008.164285
+Clarkson, J. J., Hirt, E. R., Jia, L., & Alexander, M. B. (2010). When
+perception is more than reality: The effects of perceived versus actual
+resource depletion on self-regulatory behavior. Journal of Personality
+and Social Psychology, 98, 29 – 46. http://dx.doi.org/10.1037/a0017539
+Dawkins, R. (2006). The selfish gene. New York: Oxford University Press.
+Diamond, A. (2012). Activities and programs that improve children’s
+executive functions. Current Directions in Psychological Science, 21,
+335–341. http://dx.doi.org/10.1177/0963721412453722
+
+Duckworth, A. L., Grant, H., Loew, B., Oettingen, G., & Gollwitzer, P. M.
+(2011). Self-regulation strategies improve self-discipline in adolescents:
+Benefits of mental contrasting and implementation intentions. Educational Psychology, 31, 17–26. http://dx.doi.org/10.1080/01443410.2010
+.506003
+Duckworth, A. L., & Seligman, M. E. P. (2005). Self-discipline outdoes IQ
+in predicting academic performance of adolescents. Psychological Science, 16, 939 –944. http://dx.doi.org/10.1111/j.1467-9280.2005.01641.x
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to
+motivation and personality. Psychological Review, 95, 256 –273. http://
+dx.doi.org/10.1037/0033-295X.95.2.256
+Enders, C. K., & Tofighi, D. (2007). Centering predictor variables in
+cross-sectional multilevel models: A new look at an old issue. Psychological Methods, 12, 121–138. http://dx.doi.org/10.1037/1082-989X.12
+.2.121
+Hagger, M. S., Wood, C., Stiff, C., & Chatzisarantis, N. L. D. (2010). Ego
+depletion and the strength model of self-control: A meta-analysis. Psychological Bulletin, 136, 495–525. http://dx.doi.org/10.1037/a0019486
+Hofmann, W., Vohs, K. D., & Baumeister, R. F. (2012). What people desire,
+feel conflicted about, and try to resist in everyday life. Psychological
+Science, 23, 582–588. http://dx.doi.org/10.1177/0956797612437426
+Hong, Y., Chiu, C., Dweck, C. S., Lin, D. M.-S., & Wan, W. (1999).
+Implicit theories, attributions, and coping: A meaning system approach.
+Journal of Personality and Social Psychology, 77, 588 –599. http://dx
+.doi.org/10.1037/0022-3514.77.3.588
+Inzlicht, M., & Schmeichel, B. J. (2012). What is ego depletion? Toward
+a mechanistic revision of the resource model of self-control. Perspectives on Psychological Science, 7, 450 – 463. http://dx.doi.org/10.1177/
+1745691612454134
+Inzlicht, M., Schmeichel, B. J., & Macrae, C. N. (2014). Why self-control
+seems (but may not be) limited. Trends in Cognitive Sciences, 18,
+127–133. http://dx.doi.org/10.1016/j.tics.2013.12.009
+Job, V., Dweck, C. S., & Walton, G. M. (2010). Ego depletion—Is it all in
+your head? Implicit theories about willpower affect self-regulation.
+Psychological Science, 21, 1686 –1693. http://dx.doi.org/10.1177/
+0956797610384745
+Job, V., Walton, G. M., Bernecker, K., & Dweck, C. S. (2013). Beliefs
+about willpower determine the impact of glucose on self-control. PNAS
+Proceedings of the National Academy of Sciences of the United States
+of America, 110, 14837–14842. http://dx.doi.org/10.1073/pnas
+.1313475110
+Magen, E., & Gross, J. J. (2007). Harnessing the need for immediate
+gratification: Cognitive reconstrual modulates the reward value of temptations. Emotion, 7, 415– 428. http://dx.doi.org/10.1037/1528-3542.7.2
+.415
+Martijn, C., Tenbult, P., Merckelbach, H., Dreezens, E., & De Vries, N. K.
+(2002). Getting a grip on ourselves: Challenging expectancies about loss
+of energy after self-control. Social Cognition, 20, 441– 460. http://dx.doi
+.org/10.1521/soco.20.6.441.22978
+Miller, E. M., Walton, G. M., Dweck, C. S., Job, V., Trzesniewski, K. H.,
+& McClure, S. M. (2012). Theories of willpower affect sustained learning. PLoS ONE, 7(6), e38680. http://dx.doi.org/10.1371/journal.pone
+.0038680
+Moffitt, T. E., Arseneault, L., Belsky, D., Dickson, N., Hancox, R. J.,
+Harrington, H., . . . Caspi, A. (2011). A gradient of childhood selfcontrol predicts health, wealth, and public safety. PNAS Proceedings of
+the National Academy of Sciences of the United States of America, 108,
+2693–2698. http://dx.doi.org/10.1073/pnas.1010076108
+Molden, D. C., Hui, C. M., Scholer, A. A., Meier, B. P., Noreen, E. E.,
+D’Agostino, P. R., & Martin, V. (2012). Motivational versus metabolic
+effects of carbohydrates on self-control. Psychological Science, 23,
+1137–1144. http://dx.doi.org/10.1177/0956797612439069
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+WILLPOWER-THEORIES PREDICT SELF-REGULATION AND GRADES
+Muraven, M., Shmueli, D., & Burkley, E. (2006). Conserving self-control
+strength. Journal of Personality and Social Psychology, 91, 524 –537.
+http://dx.doi.org/10.1037/0022-3514.91.3.524
+Muraven, M., & Slessareva, E. (2003). Mechanisms of self-control failure:
+Motivation and limited resources. Personality and Social Psychology Bulletin, 29, 894 –906. http://dx.doi.org/10.1177/0146167203029007008
+Neal, D. T., Wood, W., & Drolet, A. (2013). How do people adhere to
+goals when willpower is low? The profits (and pitfalls) of strong habits.
+Journal of Personality and Social Psychology, 104, 959 –975. http://dx
+.doi.org/10.1037/a0032626
+Ng, D. M., & Jeffery, R. W. (2003). Relationships between perceived stress
+and health behaviors in a sample of working adults. Health Psychology,
+22, 638 – 642.
+Oaten, M., & Cheng, K. (2005). Academic examination stress impairs
+self-control. Journal of Social and Clinical Psychology, 24, 254 –279.
+http://dx.doi.org/10.1521/jscp.24.2.254.62276
+O’Connor, D. B., Jones, F., Conner, M., McMillan, B., & Ferguson, E.
+(2008). Effects of daily hassles and eating style on eating behavior.
+Health Psychology, 27, S20 –S31. http://dx.doi.org/10.1037/0278-6133
+.27.1.S20
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling
+strategies for assessing and comparing indirect effects in multiple mediator models. Behavior Research Methods, 40, 879 – 891. http://dx.doi
+.org/10.3758/BRM.40.3.879
+Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models:
+Applications and data analysis methods (2nd ed.). Thousand Oaks, CA:
+Sage.
+Raudenbush, S. W., Bryk, A. S., Cheong, Y. F., Congdon, R. T., & du Toit,
+M. (2004). HLM 6: Hierarchical linear and nonlinear modeling. Chicago, IL: Scientific Software International.
+Robins, R. W., & Pals, J. L. (2002). Implicit self-theories in the academic
+domain: Implications for goal orientation, attributions, affect, and selfesteem change. Self and Identity, 1, 313–336. http://dx.doi.org/10.1080/
+15298860290106805
+Stadler, G., Oettingen, G., & Gollwitzer, P. M. (2010). Intervention effects
+of information and self-regulation on eating fruits and vegetables over
+
+647
+
+two years. Health Psychology, 29, 274 –283. http://dx.doi.org/10.1037/
+a0018644
+Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological
+Bulletin, 133, 65–94. http://dx.doi.org/10.1037/0033-2909.133.1.65
+Steptoe, A., Lipsey, Z., & Wardle, J. (1998). Stress, hassles and variations
+in alcohol consumption, food choice and physical exercise: A diary
+study. British Journal of Health Psychology, 3, 51– 63. http://dx.doi.org/
+10.1111/j.2044-8287.1998.tb00555.x
+Tangney, J. P., Baumeister, R. F., & Boone, A. L. (2004). High self-control
+predicts good adjustment, less pathology, better grades, and interpersonal success. Journal of Personality, 72, 271–324. http://dx.doi.org/
+10.1111/j.0022-3506.2004.00263.x
+Vohs, K. D., Baumeister, R. F., & Schmeichel, B. J. (2012). Motivation,
+personal beliefs, and limited resources all contribute to self-control.
+Journal of Experimental Social Psychology, 48, 943–947. http://dx.doi
+.org/10.1016/j.jesp.2012.03.002
+Wagner, W., Kronberger, N., & Seifert, F. (2002). Collective symbolic
+coping with new technology: Knowledge, images and public discourse.
+British Journal of Social Psychology, 41, 323–343. http://dx.doi.org/
+10.1348/014466602760344241
+Webb, T. L., & Sheeran, P. (2003). Can implementation intentions help to
+overcome ego-depletion? Journal of Experimental Social Psychology,
+39, 279 –286. http://dx.doi.org/10.1016/S0022-1031(02)00527-9
+Yeager, D. S., Trzesniewski, K. H., & Dweck, C. S. (2013). An implicit
+theories of personality intervention reduces adolescent aggression in
+response to victimization and exclusion. Child Development, 84, 970 –
+988. http://dx.doi.org/10.1111/cdev.12003
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological interventions
+in dducation: They’re not magic. Review of Educational Research, 81,
+267–301. http://dx.doi.org/10.3102/0034654311405999
+
+Received December 27, 2013
+Revision received April 25, 2014
+Accepted May 2, 2014 䡲
+
+

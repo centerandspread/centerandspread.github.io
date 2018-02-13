@@ -1,0 +1,1216 @@
+See	discussions,	stats,	and	author	profiles	for	this	publication	at:	https://www.researchgate.net/publication/317554274
+
+Assessing	interpretations	of	experienced	ease
+and	difficulty	as	motivational	constructs.
+Article	·	June	2017
+DOI:	10.1037/mot0000055
+
+CITATIONS
+
+READS
+
+2
+
+119
+
+2	authors:
+Oliver	Fisher
+
+Daphna	Oyserman
+
+University	of	Southern	California
+
+University	of	Southern	California
+
+5	PUBLICATIONS			3	CITATIONS			
+
+217	PUBLICATIONS			11,582	CITATIONS			
+
+SEE	PROFILE
+
+SEE	PROFILE
+
+Some	of	the	authors	of	this	publication	are	also	working	on	these	related	projects:
+
+Identity-based	motivation	View	project
+
+Social	Issues	and	Policy	Review	View	project
+
+All	content	following	this	page	was	uploaded	by	Daphna	Oyserman	on	18	June	2017.
+The	user	has	requested	enhancement	of	the	downloaded	file.
+
+Interpretation of Experienced Ease and Difficulty 1
+Assessing Interpretations of Experienced Ease and Difficulty as Motivational Constructs
+Oliver Fisher and Daphna Oyserman
+University of Southern California
+
+UNCORRECTED MS for: Fisher, O. & Oyserman, D. (2017). Assessing
+interpretations of experienced ease and difficulty as motivational
+constructs. Motivational Science, 3(2), 133-163. DOI 10.1037/mot0000055
+
+Author note: Corresponding author email: oyserman@usc.edu, mailing address: University of
+Southern California, Dornsife Mind and Society Center, 635 Downey Way
+Verna & Peter Dauterive Hall, Suite 205, Los Angeles, CA 90089-3333. We thank the IBM lab
+for all their helpful comments, Stephen Read and Norbert Schwarz for their comments on earlier
+drafts, the University of Southern California, Mind and Society Center for funding, and all our
+research participants without whom no study is possible.
+
+Interpretation of Experienced Ease and Difficulty 2
+Abstract
+Are people motivated by ease and sapped by difficulty, or the reverse, does ease undermine
+motivation while difficulty bolsters it? Following identity-based motivation theory, whether ease
+or difficulty bolsters or undermines motivation depends on which lay theory of ease or difficulty
+is accessible in the moment. Experienced ease can imply that something is "possible for me" in
+part because the odds of success are high, or that something is "not worth my time" in part
+because the task is of low value. Experienced difficulty can imply that something is "important
+for me" the task is valued, or that something is "impossible for me" as odds of success are low
+for "me" or "us". We developed ease-as-possibility, ease-as-triviality, difficulty-as-importance,
+and difficulty-as-impossibility measures to assess individual differences in endorsement of these
+lay theories (N=963). We tested (N=200) convergent and discriminant validity with other
+measures of motivation: self-efficacy, locus of control, growth, grit, mental toughness,
+prevention and promotion regulatory focus, and construal level. We documented predictive
+validity by showing that performance on a cognitive reasoning task correlates with ease-aspossibility, ease-as-triviality, and difficulty-as-impossibility (N=183). Ease-as-possibility, easeas-triviality, difficulty-as-importance, and difficulty-as-impossibility supplement other measures
+of motivation, yielding new insight into motivational processes. These measures can be used in
+addition to other tools, including priming and implicit assessment.
+Word count = 211
+Key words: Identity-based motivation, motivation, regulatory focus, grit, growth mindset,
+cognitive reflective task, self-efficacy, locus of control, mental toughness
+
+Interpretation of Experienced Ease and Difficulty 3
+Assessing Interpretations of Experienced Ease and Difficulty as Motivational Constructs
+Everyday life, indeed, almost anything a person does, can feel easy or difficult; people may or
+may not infer something from these feelings, but often do. At the same time, since life’s course is
+uncertain and people cannot fully know their capacities at each juncture along the way, what a
+particular experience of ease or difficulty implies for who one is now and for who one might
+become in the future is not certain. Experienced ease might signify that succeeding at a task is
+likely and possible, a “me” thing to do, or that though possible, it is trivial and hence “not worth
+my time, not for me.” Experienced difficulty might signify low odds of success, that succeeding
+at a task is impossible for “me” and hence “just not worth my time” or that no matter the odds,
+the task is an important and valued one, “no pain, no gain” and hence a “me” thing to do.
+Identity-based motivation theory predicts that people’s attributions about what experienced ease
+and difficulty imply are a function of which identities come to mind and what these identities
+seem to imply in context for action and meaning-making (Oyserman, 2007, 2009). Task-related
+motivation could be bolstered or undermined as a consequence of either ease or difficulty
+depending on whether an odds (possible for me, impossible for me) or a value (important for me,
+trivial for me) attribution is brought to bear in making sense of one’s experience. Yet, without
+measures of these attributions of ease (ease-as-possibility, ease-as-triviality) and difficulty
+(difficulty-as-importance, difficulty-as-impossibility), it is not possible to know how these lay
+theories relate to other measures of motivation.
+In the current studies, we address this gap in three steps. First, we develop measures of lay
+theories of what experienced ease and difficulty imply. Then we demonstrate convergent and
+discriminant validity with other measures of motivation and finally we turn to predictive validity.
+We show that how much each lay theory of ease and difficulty is endorsed significantly
+
+Interpretation of Experienced Ease and Difficulty 4
+correlates with performance on a cognitive task requiring noticing that rule-based, systematic
+reasoning is required.
+Metacognition and Identity-based Motivation
+A lay theories formulation implies that thinking involves both content (what is on one’s
+mind) and interpretation of metacognitive experience (the meaning attributed to experienced ease
+and difficulty while thinking). A large body of work demonstrates that people make inferences
+based on their metacognitive experiences unless given reason not to, even if they could draw on
+otherwise relevant content (for reviews, Oppenheimer, 2008; Schwarz, 2015). The lay theories
+that people hold, whether chronically or momentarily activated by situational cues, influence
+how metacognitive experience is interpreted (Oppenheimer, 2008; Reber & Schwarz, 1999;
+Reber, Winkielman, & Schwarz, 1998; Rhodes, 2006; Schwarz, 2015). These lay theories often
+do not feel like theories at all, but rather like spontaneous natural observations of reality itself
+(sometimes termed naïve realism, Griffin & Ross, 1991). Identity-based motivation theory
+provides a theoretical framework for how this works in the domain of identity, predicting that
+people are motivated to act and interpret their experiences in ways that feel congruent with their
+identities (Oyserman, 2007). At the same time, which identities come to mind and what these
+identities are taken to mean and imply for behavior and interpretation of experience is
+dynamically constructed in the moment (Oyserman, 2015).
+Experienced difficulty can imply that one’s odds of success are low, with experienced
+difficulty implying impossibility: “I don’t know this (or cannot learn it), this is not for me.” This
+lay theory seems common. For example, presumably because they cannot shake their lay theory
+of experienced difficulty as implying “not for me,” people are not motivated to use learning
+strategies they experience as difficult even when shown that these difficult strategies are more
+
+Interpretation of Experienced Ease and Difficulty 5
+effective for learning (Karpicke, Butler, & Roediger, 2009; Kornell & Bjork, 2008; Yan, Bjork,
+& Bjork, 2016). Experienced difficulty can also imply that one values the task, with experienced
+difficulty implying importance: “I really care about this, ‘no pain, no gain,’ this is for me.” This
+interpretation is less common, as shown in an analysis of word usage in the English-language
+(Yan & Oyserman, 2017). However, students can be easily guided to adopt this lay theory,
+reporting more centrality of academics in their current self-concept (Smith & Oyserman, 2015)
+and their future possible selves (Aelenei, Lewis, & Oyserman, 2017) after being led to consider
+that difficulty means importance. The opposite is also true: guiding students to imagine their
+academic future selves increases their endorsement of a difficulty-as-importance lay theory
+(Oyserman, Destin, & Novin, 2015).
+It is not just one’s interpretation of experienced difficulty that matters; interpretation of
+experienced ease matters as well. Experienced ease can imply something about one’s high odds
+of success, with experienced ease implying possibility: “I know this (or can know it), I am (or
+can become) good at this”. Indeed, the large body of work on judgments of learning suggests that
+when people experience ease, they typically infer that they know the material or are doing well
+on a test or exam (for a review Bjork, Dunlosky, & Kornell, 2013). At the same time,
+experienced ease can also imply something about value, easy tasks may be of low value and
+interpreted as trivial, just not worth one’s time, even if one is likely to be successful at them: “I
+should not waste my time on this stuff, it is beneath me”. For example, gifted students are at risk
+of disengaging and underperforming if they interpret their experienced ease in learning as
+implying that schoolwork is so easy as to be trivial and not worth their time (Kanevsky &
+Keighley, 2003).
+
+Interpretation of Experienced Ease and Difficulty 6
+However, the evidence that lay theories of what ease and difficulty imply for oneself
+matter for motivation is mostly indirect because lay theories themselves are not directly assessed.
+Instead, researchers have used two indirect routes. One route is to induce an experience of ease
+or difficulty on an unrelated task and show that this carries over to judgments about identity
+(e.g., Oyserman, Fryberg, Yoder, 2007; Oyserman, 2007). The other route is to make a specific
+lay theory of what ease or difficulty implies momentarily accessible and document change in
+identity and task-related motivation (e.g., Elmore, Oyserman, Smith, & Novin, 2016; Lewis &
+Earl, in press; Smith & Oyserman, 2015).
+Consider first studies that induce an unrelated experience of ease or difficulty and test
+downstream consequences for identity. For example, in one study, adults rated themselves as
+more invested in politics after being given easy-to-answer rather than difficult-to-answer
+political knowledge questions (Schwarz & Schuman, 1997). In another study, participants rated
+healthy living strategies as more likely to improve their own longevity after being given an easyto-answer rather than a difficult-to-answer unrelated question about their racial-ethnic group
+(Oyserman et al., 2007). Those induced to experience difficulty on the preceding unrelated
+question rated strategies for healthy living as less effective than those who were not induced to
+experience difficulty. This main effect was moderated by beliefs about in-group identity. Though
+all participants in the difficult condition rated the question as difficult, subsequent judgment of
+the effectiveness of strategies for healthy living for one’s own longevity was only undermined
+among participants who believed that their in-group did not engage in healthy habits (Oyserman
+et al., 2007). The results of these studies suggest that participants take their experience of ease or
+difficulty in answering a prior unrelated question and use their interpretation of their ease or
+difficulty (based on the lay theory they apply) in making subsequent judgments about
+
+Interpretation of Experienced Ease and Difficulty 7
+themselves. Though which lay theory is being used is not assessed, results imply that accessible
+lay theories link task to identity. The problem here is that the author is making an inference about
+the lay theory participants are using and whether or not the inference is correct is not testable.
+This particular limitation is addressed in the other indirect route linking identity and lay
+theory of ease and difficulty, which is making a specific lay theory accessible and documenting
+its consequences for identity and motivation (e.g., Elmore et al., 2016; Lewis & Earl, in press;
+Smith & Oyserman, 2015). This is done by having participants read and rate their agreement or
+disagreement with a biased scale, one that presents only the notion that experienced difficulty
+implies impossibility or only the notion that experienced difficulty implies task importance. The
+effect of bringing the lay theory to mind on subsequent identity and task-related motivation is
+tested by comparing identity, motivation and performance across participants randomized to be
+exposed to one or another of the lay theories. For example, in one set of studies, compared to
+college students guided to use a lay theory that difficulty implies impossibility, college students
+guided to use a lay theory that difficulty implies importance were significantly more likely to
+describe academics as central to their current identity and performed better on a standardized
+intelligence test (Smith & Oyserman, 2015). This effect on performance was replicated with
+middle school students (Elmore et al., 2016). Similarly, Lewis and Earl (in press) showed that
+dieters guided to use a lay theory that difficulty implies importance felt significantly less tempted
+to continue snacking compared to dieters guided to use a lay theory that difficulty implies
+impossibility. Though clear as to which lay theory is on the mind, these studies do not address
+the question of how much each is endorsed or how they relate to one another.
+However, in spite of these limitations, the results of these studies show the consequences
+of lay theories. These results are important because they demonstrate that an upstream
+
+Interpretation of Experienced Ease and Difficulty 8
+experience of ease or difficulty can have downstream consequences on ostensibly separate
+downstream judgments. Moreover, results show that it is not the ease or difficulty itself, but what
+that ease or difficulty is taken to mean that matters. Some lay theories yield an estimate of the
+odds of success, other lay theories yield an estimate of the value of success difficulty-asimportance.
+As detailed next, there are a number of ways in which our lay theories focus is distinct
+from the focus of expectancy-value theory (e.g., Atkinson, 1964; Wigfield & Eccles, 2000).
+First, expectancy-value theory focuses on how objective features of task difficulty translate into
+an expectation of success (Atkinson, 1964; Brehm & Self, 1989). In contrast, our lay theories
+framework focuses instead on interpretation of subjective experience. Results of studies such as
+the ones we summarize above show that sometimes task-related motivation is based on
+interpretation of a metacognitive experience of ease or difficulty that is not related to the task but
+is carried over and used as input as to the value or odds of the task itself. Second, expectancyvalue theory operationalizes motivation as a product of expectancy and value with highest
+motivation when odds (expectations of success) and value are high (Atkinson, 1964; Wigfield &
+Eccles, 2000). In contrast, our lay theories framework focuses on the impact of odds and value
+separately with the implication that motivation is not always a result of the product of
+expectancy x value. Our lay theories framework also predicts that motivation (high or low) is
+based on (high or low) odds sometimes and at other times on (high or low) value. Thus: Ease-aspossibility focuses on odds, difficulty-as-importance focuses on values, yet both are motivating
+lay theories. At the same time: Ease-as-triviality focuses on value and difficulty-as-impossibility
+focuses on odds and both are demotivating. Hence motivation can be the result of productive
+(motivating) or unproductive (demotivating) lay theories of what experienced ease and difficulty
+
+Interpretation of Experienced Ease and Difficulty 9
+implies. Motivational consequences do not require that ease and difficulty be objective features
+of the task or that a product of expectancy and value be obtained1.
+
+Motivation, Motivational Style and Identity-based Motivation
+A few studies directly measure endorsement of the lay theory that experienced difficulty
+signals task importance and the lay theory that experienced difficulty signals task impossibility
+(Aelenei et al., 2017; Oyserman, Novin, Elmore, & Smith, 2017). In these studies, how much
+people endorse one lay theory is not very correlated with how much they endorse another,
+implying that each is a separate lay theory rather than be two sides of a single theory. Moreover,
+these studies find that on average, people agree with the difficulty-as-importance lay theory and
+disagree with the difficulty-as-impossibility lay theory. There is also some indication that low
+place in social hierarchy (e.g., minority status, low education) is associated with less
+endorsement of the difficulty-as-importance lay theory that experienced difficulty implies task
+importance (Aelenei et al., 2017).
+However, the broader question of how lay theories relate to other measures of motivation
+and motivational style and whether assessed lay theories yield the same pattern of effects as
+priming studies has not yet been addressed. To make the task more manageable, in the current
+study we parsed measures of motivation and motivational style to three groups, which we termed
+
+1
+
+For different reasons, Brehms’ Motivational Intensity (e.g., Brehm & Self, 1989) and Higgins’
+Regulatory Focus (e.g., Higgins & Cornwell, 2016) also make this point. Brehms’ Motivational
+Intensity Theory predicts and shows that lowering odds of success, as operationalized by
+increasing difficulty, increases rather than decreases motivation up to the point that the task
+becomes impossible or that effort is no longer justified (e.g., Brehm & Self, 1989; Richter, et al.,
+2016). Higgins’ Regulatory Focus Theory predicts and shows that sometimes low odds are
+irrelevant to motivation --when one is obligated to act (ought self-focus) or is focused on
+preventing failures (prevention focus), then motivation is not undermined by low odds of success
+(e.g., Higgins & Cornwell, 2016; Scholer, et al., 2010).
+
+Interpretation of Experienced Ease and Difficulty 10
+measures of ‘motivation as experienced control’, measures of ‘motivation as resilient character’,
+and measures of ‘motivation as goal formulation’. Below we articulate our predictions about the
+relationship between measures in each group and lay theories of experienced ease and difficulty.
+For clarity, we first describe the measures we clustered in each group and prior research showing
+predictive, convergent and discriminant validity (inter-correlations) of measures of each group.
+To interpret correlations, we used three rules-of-thumb: Cohen’s (1988) correlational size ruleof-thumb (.1=small, .3=moderate, .5=large); Campbell and Fiske’s (1959) convergent validity
+rule-of-thumb (correlations significantly different from zero); and Kline’s (2011) discriminant
+validity rule-of-thumb (correlations below .85). In each case, cut off refers to absolute value of a
+correlation (e.g., it could be positive or negative). For ease of recall, we also briefly summarize
+the predicted strength and direction of relationship between of our four lay theories of experience
+and each of the other measures of motivation in Table 1.
+Measures of motivation as experienced control (self-efficacy and locus of control).
+Implicit in the idea of motivation is the notion that one could succeed if one tries enough
+and in that sense, that desired outcomes are within one’s control – that if one tries, then one can
+succeed. This idea is central to the concepts of self-efficacy (Bandura, 2006; 2012) and internal
+locus of control (Rotter, 1966). Empirically, efficacy and locus of control are distinct but highly
+associated (in meta-analyses, r=.56; Judge, Erez, Bono, & Thoresen, 2002). Theoretically, both
+should be associated with more persistent task engagement since both focus on the likelihood of
+success given engagement. Evidence supports this prediction in the domains of work and school;
+work self-efficacy (Alessandri, Borgogni, Schaufeli, Caprara, & Consiglio, 2015), school selfefficacy (Bouffard-Bouchard, Parent, & Larivee, 1991; Komarraju & Nadler, 2013), and locus of
+control (Judge & Bono, 2001) are each associated with better outcomes.
+
+Interpretation of Experienced Ease and Difficulty 11
+We draw on the definition of efficacy and locus of control as one’s belief that one has
+what it takes to attain an outcome (Bandura, 2006; Rotter, 1966), to make the following
+straightforward predictions about the relationship with lay theories of ease and difficulty. We
+predict that efficacy and locus of control will be positively associated with motivation-increasing
+lay theory scores (difficulty-as-importance, ease-as-possibility) and negatively associated with
+motivation-undermining lay theories scores (difficulty-as-impossibility, ease-as-triviality). In
+terms of the strength of these associations, we predict weak associations with difficulty-asimportance and ease-as-triviality and moderate associations with difficulty-as-impossibility and
+ease-as-possibility lay. Our rationale is that efficacy and locus of control do not necessarily
+imply anything about the value of a task, and would therefore be weakly related to these lay
+theories (difficulty-as-importance, ease-as-triviality). However, lay theories that emphasize the
+odds of success (difficulty-as-impossibility, ease-as-possibility) would be moderately related to
+belief that if one tries one could succeed, as this implies high odds of success.
+Motivation as resilient character (grit, mental toughness, growth).
+Just as self-efficacy and internal locus of control focus on one’s ability to change one’s
+outcomes if one tries, growth mindset focuses on the belief that abilities can change as a result of
+effort (e.g., Chiu, Hong, & Dweck, 1997; Dweck, 2000; Dweck, Chiu, & Hong, 1995; Job,
+Dweck, & Walton, 2010). While grit (Crede, Tynan, & Harms, 2016; Duckworth, Peterson,
+Matthews, & Kelly, 2007) and mental toughness (Andrews & Chen, 2014; Gucciardi, Hanton,
+Gordon, Mallett, & Temby, 2015; Mahoney, Gucciardi, Ntoumanis, & Mallet, 2014) focus on
+ability to stick with a goal. Theoretically as well as empirically, grit, mental toughness, and
+growth mindset are associated but distinct constructs. Grit and mental toughness are moderately
+positively correlated, r=.46 (Crede et al., 2016); correlations between grit and growth vary from
+
+Interpretation of Experienced Ease and Difficulty 12
+small to medium sized (r=.18, West et al., 2016; r=.16, Yeager et al., 2016; r=.35, Myers, Wang,
+Black, Bugescu & Hoeft, 2016). Each is associated with better goal-focused attainment (e.g.,
+Grit: Duckworth & Gross, 2014; Eskries-Winkler, Schulman, Beal, & Duckworth, 2014; Mental
+Toughness: Nicholls, Polman, Levy, & Blackhouse, 2008; Gucciardi et al., 2015; Growth
+mindset: Burnette, O’Boyle, VanEpps, Pollack, & Finkel, 2013; Dweck, 2000; Job et al., 2010).
+We draw on the definition of growth mindsets as belief that one is able to change
+(Dweck, 2000) to make the following straightforward predictions about the relationships with lay
+theories of ease and difficulty. We predict that growth mindsets will be positively associated
+with motivation-increasing lay theory scores (difficulty-as-importance, ease-as-possibility) and
+negatively associated with motivation-undermining lay theory scores (difficulty-as-impossibility,
+ease-as-triviality). As regards to strength of associations, we predict weak associations with
+difficulty-as-importance, ease-as-possibility, and ease-as-triviality and a moderate association
+with difficulty-as-impossibility. Our rationale is that growth mindset does not address ease or
+difficulty explicitly, therefore most associations will be weak with the exception of a moderate
+predicted relationship between growth and difficulty-as-impossibility scores. We predict a
+moderate correlation in this case because difficulty-as-impossibility implies that one should
+disengage in response to difficulty, which is incongruent with the growth mindset belief that one
+can change and overcome difficulty.
+We draw on the definition of grit and mental toughness as valuing stick-to-it-ness and
+sustained effort towards goals (Duckworth et al., 2007; Gucciardi et al., 2015) to make the
+following straightforward predictions about the relationships with lay theories of ease and
+difficulty. We predict that grit and mental toughness will be weakly positively associated with
+motivation-bolstering lay theory scores (difficulty-as-importance, ease-as-possibility) and
+
+Interpretation of Experienced Ease and Difficulty 13
+moderately negatively associated with motivation-undermining lay theories scores (difficulty-asimpossibility, ease-as-triviality). Regarding strength of associations, our rationale for predicting
+a weak association is that grit and mental toughness focus on stick-to-it-ness, which does not
+necessarily mean that difficulty would imply importance or that ease would imply possibility.
+Our rationale for predicting that any association no matter if weak will be positive is that higher
+scores on each of these constructs are associated with positive outcomes. Hence, any relationship
+that is found would likely be positive. With regard to our prediction of a moderate association
+between difficulty-as-impossibility, ease-as-triviality lay theories and measures of grit or mental
+toughness, the latter scores operationalize valuing stick-to-it-ness, which implies that one should
+persevere towards goals, even when they feel difficult or are trivial. This is incongruent with
+difficulty-as-impossibility and ease-as-triviality lay theories and would therefore suggest a
+moderate negative relationship.
+Motivation as goal formulation (regulatory focus and construal level).
+Rather than focus on ability to make change and sustain effort, regulatory focus (Higgins,
+1998) and construal-level (Trope & Liberman, 2010) theories examine the relationship between
+motivation and how goals are formulated. Regulatory focus includes promotion-focus -motivation to move eagerly toward successes, and prevention-focus -- motivation to vigilantly
+avoid failures (Frietas, Liberman, Salovey, & Higgins, 2002; Lanaj, Change, & Johnson, 2012).
+Which regulatory focus works better depends on the situation; prevention-focused participants
+start taking action sooner and are better able to attain goals if avoiding temptations is necessary
+(Freitas et al., 2002). In contrast, promotion-focused participants are better able to attain goals if
+distractions are not present (Freitas, Salovey, & Liberman, 2001). Construal level theory
+distinguishes behaviors instantiated abstractly in terms of the value of the outcome (e.g.,
+
+Interpretation of Experienced Ease and Difficulty 14
+studying as learning the material) from behaviors instantiated concretely in terms of the specific
+steps (e.g., studying as taking notes) involved to attain an outcome (Trope & Lieberman, 2003).
+Research has shown that both abstract and concrete construal can improve motivation and
+performance; a concrete construal is more effective for simpler tasks and an abstract construal is
+more effective for more complex tasks or those that involve task switching (Freund & Hennecke,
+2015; Schmeichel, Vohs, & Duke, 2011). Empirically regulatory focus and construal level are
+linked; motivation increases when abstract construal is paired with promotion-framing and when
+concrete construal is paired with prevention-framing (Lee, Keller, & Sternthal, 2010; White,
+MacDonnel, & Dahl, 2011). In terms of measures, we did not find published studies correlating
+construal level and regulatory focus scores, and the extent that promotion and prevention scores
+correlate depends on the actual measures used (Haws, Dholakia, & Bearden, 2010; meta-analytic
+r=.08; Lanaj, Chang, & Johnson, 2012).
+We draw on the definition of promotion focus as eager focus on successfully attaining
+means (Higgins, 1998) to make the following straightforward predictions about the relationships
+with lay theories of ease and difficulty. We predict that promotion focus will be positively
+associated with motivation-increasing lay theory scores (difficulty-as-importance, ease-aspossibility) and negatively associated with motivation-undermining lay theories scores
+(difficulty-as-impossibility, ease-as-triviality). With regard to strength of association, we predict
+weak associations with lay theories of difficulty and moderate association with lay theories of
+ease. Our rationale is that promotion focus does not address experienced difficulty, hence we
+predict weak associations with lay theories of experienced difficulty. We expect moderate
+associations between promotion focus and lay theories of experienced ease as detailed next. We
+predict a positive association between promotion focus and ease-as-possibility since eagerness to
+
+Interpretation of Experienced Ease and Difficulty 15
+attain success (promotion) and increased engagement after experiencing ease (ease-aspossibility) both should encourage engagement. We predict a negative association between
+promotion focus and ease-as-triviality since eagerness to attain success (promotion) should
+increase engagement and devaluing ease (ease-as-triviality) should decrease engagement after
+experiencing ease, respectively.
+We draw on the definition of prevention focus as vigilant guarding from failures
+(Higgins, 1998) to make the following straightforward predictions. Prevention focus will be
+positively associated with motivation-increasing lay theory scores (difficulty-as-importance,
+ease-as-possibility) and negatively associated with motivation-undermining lay theories scores
+(difficulty-as-impossibility, ease-as-triviality). We predict a weak association with difficulty-asimportance and ease-as-possibility and a moderate association with difficulty-as-impossibility
+and ease-as-triviality. Our rationale is that prevention focus is about vigilance, which is
+necessary no matter the odds of success and hence prevention focus should be associated with
+rejecting those lay theories implying that engagement might not be worthwhile (difficulty-asimpossibility, ease-as-triviality). In contrast, prevention is less associated with concerns about
+value and self-relevance (difficulty-as-importance, ease-as-possibility) since vigilance is not
+contingent. Our predictions are in line with research showing that prevention focused individuals
+prefer vigilant means to goal pursuit (Idson & Higgins, 2000; for a review Higgins & Cornwell,
+2016), though we have no direct measure of this match and found none in the literature.
+We draw on the definition of construal level as a focus on essential goals or on peripheral
+means (Trope & Liberman, 2010) to make the following straightforward predictions. An abstract
+construal will be moderately associated with difficulty-as-importance and with ease-as-triviality
+scores, while a concrete construal will be moderately associated with difficulty-as-impossibility
+
+Interpretation of Experienced Ease and Difficulty 16
+and ease-as-possibility scores. We make these predictions because abstract construal focuses on
+the essence and value of a task, therefore an abstract construal is likely to be associated with lay
+theories that emphasize value (i.e. difficulty-as-importance; ease-as-triviality). In contrast,
+concrete construal is concerned with the means needed to attain an outcome and would therefore
+be associated with lay theories that emphasize odds of success (difficulty-as-impossibility, easeas-possibility).
+CURRENT STUDIES
+Reliable measures of lay theories of experienced ease and difficulty have not been
+developed; as a consequence, convergent and discriminant validity with measures of motivation
+and motivational style have not been assessed. Hence, in the current studies, we had three goals:
+First, to develop reliable measures (Studies 1 to 5). Second, to examine convergent and
+discriminant validity of these measures with other measures of motivation (Study 4). Third, to
+place our lay theory measures in context by providing initial evidence of predictive validity. To
+do so, we used a measure of cognitive style (Study 5) to bridge between our lay theory measures
+and prior evidence from studies documenting indirectly that interpretation of experience matters
+for cognitive performance (e.g., Elmore, et al., 2016; Smith & Oyserman, 2015).
+As a first step, we revised existing lay theories of experienced difficulty measures
+(Aelenei et al, 2017; Elmore et al., 2016; Oyserman, et al., 2015) to develop a set of items for lay
+theories of experienced ease and difficulty. From this base, we developed 6-item measures (see
+Table 2), verified factor structure and reliability, developed short form (4-item) measures,
+verified reliability, and used the short form measures to assess convergent and discriminant
+validity. We detail sample, procedure, and analyses plan next.
+Samples
+
+Interpretation of Experienced Ease and Difficulty 17
+Sample information for Studies 1 to 5 is presented in Table 3. We chose our planned
+sample size (N=200) for each study using the rule of thumb for factor analytic studies; that is that
+there should be at least 10 times the number of subjects as the number of items (Everitt, 1975).
+We maintained this sample size goal for our convergent, discriminant, and predictive validity
+studies. We met our sample size goal (Study1 N=244, Study 2 N=204, Study 3 N=178, Study 4
+N=200, Study 5 N=183) except when our subject pool allotment was somewhat under our goal
+of 200 (Study 3 and 5). Participants from Amazon Mechanical Turk (mTurk) Workers were
+compensated $0.45 (Studies 1, 2) or $1.20 (Study 4, due to longer time request). Participants
+from subject pool were undergraduates and compensated with half an hour of participation credit
+(Studies 3 and 5).
+Procedure
+Studies were programmed in Qualtrics. Participants were welcomed to “Answer a short
+survey (~15 minutes) about how you interpret your daily experiences,” informed of the voluntary
+and anonymous nature of the study, provided consent, rated their endorsement of statements, and
+gave demographic information.
+Lay theory of experienced ease and difficulty In Studies 1, 2, and 4 items were
+presented first in two randomized blocks --one block included difficulty-as-importance and easeas-triviality items and the other block included difficulty-as-impossibility and ease-as-possibility
+items. Items were randomized within blocks. To reduce rote responding, in Studies 1, 2, and 4
+the two blocks were separated by a filler that included four unrelated statements about the future.
+Filler items and a correlation matrix of all items are presented in the Supplemental Materials,
+Table S1 and S2.2 In Studies 3 and 5, participants were in the subject pool so we did not add the
+
+2
+
+Fillers were not intended to correlate with experienced ease and difficulty and do not.
+
+Interpretation of Experienced Ease and Difficulty 18
+interleaved filler blocks and instead randomized items across all four lay theories. In Study 5, the
+predictive validity measure (performance task) preceded the lay theory items as detailed below.
+Demographics were age, gender, race, education, and income (in that order). There were
+two exceptions. First, in Study 1 a handling error meant that no demographics were collected.
+Second, in Studies 3 and 5, participants were undergraduates –so we omitted questions about
+their own education level (which would be invariant) and income (which would be meaningless).
+Hence, we could explore demographics associates of responses to lay theories in Studies 2 and 4.
+We combined the data from both studies in our descriptive analyses presented in Supplemental
+Materials, Table S3.
+Other measures of motivation (Study 4) were presented in randomized blocks after the
+lay theory items, following the same method of randomizing items within blocks. Response
+scales followed the original measures. Measures of motivation as experienced control were
+Bandura’s work self-efficacy (8 items α= .93, Bandura, 2006) and Rotter’s locus of control (10
+items α= .82, Rotter, 1966). Measures of motivation as resilient character were Duckworth’s
+short-form grit (8 items, α= .89, Duckworth & Quinn, 2009), Gucciardi’s mental toughness (8
+items, α= .89, Gucciardi et al., 2015), and Dweck’s growth mindset (8 items, α= .94, Dweck,
+2000). Measures of motivation as goal formulation measures were: Lockwood, Jordan, and
+Kunda’s (2002) operationalization of Higgins’ regulatory focus, promotion (6 items α= .75) and
+prevention (6 items α= .92), and Vallacher and Wegner’s (1989) concrete vs. abstract construal
+of goals (25 item Behavioral Identification Form α= .93).
+Predictive validity was assessed through a performance task presented prior to the lay
+theories of ease and difficulty measures. Prior studies showed effects of primed lay theory of
+difficulty on various measures of academic performance (Elmore et al., 2016; Horowitz,
+
+Interpretation of Experienced Ease and Difficulty 19
+Sorensen, Yoder, & Oyserman, 2017; Oyserman et al., 2017; Smith & Oyserman; 2015) and
+various measures of identity (Aelenei et al., 2017 et al., 2017; Oyserman et al., 2017; Smith &
+Oyserman; 2015). Therefore, we assessed association with a general measure of sensitivity to
+rule-based reasoning. We used a 12-item version of the Cognitive Reflective Task (Ackerman,
+2014; Beaman, 2002; Frederick, 2005; Primi, Morsani, Ciesi, & Donati, 2015; Thompson &
+Oppenheimer, 2016). The full set of items (percentage correct M=44.89, SD=22.88, α= .74) used
+can be found in Table S4 the supplemental materials.
+Analysis Plan
+Measure development. We used exploratory (Study 1) and then confirmatory (Studies 25) factor analyses to address our first goal of developing brief measures of lay theories of
+experienced ease and difficulty. Before conducting exploratory factor analysis, we tested for
+factorability using the Kaiser-Meyer-Olkin Measure of Sampling Adequacy and Bartlett’s Test
+of Sphericity (Bartlett, 1950; Kaiser, 1970). In Study 1 we chose maximum likelihood with an
+oblique rotation (direct oblimin) as our exploratory factor analytic model (Fabrigar, Wegener,
+MacCallum, & Strahan, 1999). This method allowed any factor structure to emerge and allowed
+for correlations among factors. In Studies 2 to 5 we chose confirmatory factor analyses to test the
+four-factor result of Study 1, using fixed factor scaling, setting the variance of each factor to 1,
+and testing the extent each item loaded onto its respective factor. We contrasted a four-factor
+solution (difficulty-as-importance, difficulty-as-impossibility, ease-as-triviality, ease-aspossibility) to the fit of a two-factor solution (likelihood –ease-as-possibility and difficulty-asimpossibility, and value –ease-as-triviality and difficulty-as-importance).
+After establishing factor structure, we created lay theory scores and examined these
+scores as follows. First, we examined whether each lay theory was measured with adequate
+
+Interpretation of Experienced Ease and Difficulty 20
+reliability, using George and Mallery’s (2003) rule of thumb that scale reliability is adequate at
+Cronbach’s alpha >.70. Second, we examined whether each lay theory was endorsed (mean score
+was significantly above the neutral point) or rejected (mean score was significantly below the
+neutral point) on average, using single sample t-tests comparing response to neutral point. Third,
+we examined the correlations among our lay theories of experienced ease and difficulty,
+conducting a mini-meta analysis combining data across the five studies and using as a rule of
+thumb Cohen’s (1988) cut offs. Finally, although our samples were not designed to provide a full
+test of demographic associates, we conducted exploratory multiple regression analyses of
+potential demographic associates of each lay theory score (presented in the Supplemental
+Materials).
+Convergent and discriminant validity. We used correlational analyses to address our
+second goal of verifying convergent and discriminant validity (Campbell & Fiske, 1959; Kline,
+2011). Convergent validity involves finding overlap in theoretically linked measures,
+operationalized as a correlation significantly different from zero (Campbell & Fiske, 1959).
+Discriminant validity involves finding that theoretically novel measures are distinct from related
+ones, operationalized as correlations below .85 in absolute magnitude (Kline, 2011). We
+followed recent construct development work (‘Grit’ Duckworth et al., 2007; ‘Internal-External
+Motivation to Avoid Prejudice’, Major, Sawyer, & Kunstman, 2013) to set up our analyses. At
+step one we calculated two mean absolute correlations, tested for the difference between these
+correlations by examining their confidence intervals, and compared them using the above rules
+of thumb for size of effect, convergent and discriminant validity. The first mean absolute
+correlation was among the measures of motivation (i.e. self-efficacy, locus of control, grit,
+mental toughness, growth mindset, regulatory focus, and construal level) and the second was
+
+Interpretation of Experienced Ease and Difficulty 21
+between our lay theory of experience measures and each of the measures of motivation. Having
+completed this initial test, we replicated this comparison within each of the three groups of
+measures of motivation and motivational style (‘motivation as experienced control’, ‘motivation
+as resilient character’, and ‘motivational as goal formulation’). Step one analyses address the
+core question of validity, which focuses on the absolute magnitude of correlation.
+At step two, we shifted attention to distinctness of lay theories, addressed by examining
+the relative magnitude of correlation. These analyses examine the distinctness of lay theories
+from other measures of motivation by asking if the size of correlation between lay theories and
+other measures of motivation differs from the size of correlation of measures of motivation with
+one another. To address this question, we used Fisher’s r-to-z transformation with Steiger’s
+(1980) correction for correlations coming from the same sample.
+Predictive validity. We used correlational analyses to address our third goal of providing
+initial evidence of predictive validity. Predictive validity involves finding a significant
+correlation between predictor and proposed outcome variables (Cronbach & Meehl, 1955).
+According to Cronbach and Meel (1955), predictive validity “is adequately described by the
+coefficient, and a statement of the experimental and sampling conditions” (p. 283). We chose
+academic performance (cognitive reflexive task) so that our correlational analyses would be
+interpretable in light of prior experimental results using indirect assessment of the lay theory
+measures being validated (e.g., Ravens Progressive Matrices, Smith & Oyserman, 2015).
+RESULTS AND DISCUSSION
+Scale Development
+Exploratory factor analyses Sampling adequacy score of .886 (above .5 suggests
+factorability) and significant Sphericity score at p < .000 showed that data were factorable
+
+Interpretation of Experienced Ease and Difficulty 22
+(Bartlett, 1950; Kaiser, 1970). Kaiser’s Guttman retention criteria (Kaiser, 1960) and Cattell’s
+scree plot test (Cattell, 1966) revealed a four-factor solution explaining 66% of total variance
+(see Table 2). Each factor included items from one lay theory of experienced ease or difficulty
+and item loading (partial regression coefficient) was always above .66. No items from one lay
+theory factor loaded onto another lay theory factor (cross-loading was never above .20).
+Exploratory Factor results support the use of four lay theory measures.
+Confirmatory factor analyses In Studies 2 to 5 we replicated Study 1’s four-factor
+solution (for factor loadings see Table 5 and for fit indices see Table 6). The four-factor solution
+was a good fit across recommended indices of fit; Root Mean Square Error of Approximation
+(RMSEA good fit is < .05), the Comparative Fit Index (CFI good fit is > .95), and the TuckerLewis Index (TLI good fit is > .95; Jackson, Gillaspy, & Purc-Stephenson, 2009; Hu & Bentler,
+1999). As shown in Table 6, the two-factor solution was not an adequate fit to the data; none of
+the fit indices reached criterion. Hence, results support the notion that people have four lay
+theories relating to difficulty-as-importance, difficulty-as-impossibility, ease-as-triviality, and
+ease-as-possibility. We allowed for but did not find alternative factor structures, for example we
+did not find a lay theory about likelihood (ease-as-possibility and difficulty-as-impossibility) and
+a lay theory about value (ease-as-triviality and difficulty-as-importance).
+Scale reliability, means, and patterns of endorsement Scale reliabilities ranged from
+0.76 to 0.95, above George and Mallery’s (2003) threshold for adequate reliability (Table 7 for
+full descriptive information). We compared participant responses to a neutral score of 3.5.
+Participants agreed that experienced difficulty implies importance (composite Study 1 to 5
+M=4.10, SD=0.94; t(962)=19.73, p<0.000, 95% CI of difference [0.54, 0.66]) and that
+experienced ease implies possibility (composite Study 1 to 5 M=4.93, SD=0.77; t(962)=57.46,
+
+Interpretation of Experienced Ease and Difficulty 23
+p<0.000, 95% CI of difference [1.37, 1.47]). They disagreed that experienced difficulty implies
+impossibility (composite Study 1 to 5 M=2.59, SD=1.07; t(962)=-26.25, p<0.000, 95% CI of
+difference [-0.98, -0.84]) and that experienced ease implies triviality (composite Study 1 to 5
+M=2.61, SD=.95; t(962)=-29.06, p<0.000, 95% CI of difference [-0.95, -0.83]).
+Scale correlations In addition to factor analyses, as summarized in Table 8, we
+examined the correlation among the four lay theories of ease and difficulty and conducted a fixed
+effects mini meta-analysis, using Comprehensive Meta-Analysis version 3 (Biostat) to examine
+the pattern of correlations. Correlations are not necessarily significant in each study (Table 8 left
+panel), but synthesized across studies (Table 8 right panel) are significant (ps< .000) and small in
+size, except for the moderate-sized correlation between the lay theory that experienced ease
+means triviality and the lay theory that experienced difficulty means impossibility. Correlations
+are graphically displayed (Figure 1) as diamonds whose edges represent the lower and upper
+bounds (95% confidence interval) and center represents the mean correlation. Results suggest
+that each lay theory can be separately assessed and yields a distinct measure. The moderate sized
+correlation between ease-as-triviality lay theory and difficulty-as-impossibility lay theory
+suggests a possible unproductive interpretation pair in which both ease and difficulty is
+demotivating.
+Convergent and Discriminant Validity: Using Rules of Thumb
+Across measures of motivation and motivational style We examined the absolute
+mean correlation among self-efficacy, locus of control, grit, mental toughness, growth mindset,
+promotion focus, prevention focus, and construal level (r(200)=0.39, 95% CI [0.27, 0.55]) and
+the absolute mean correlation between these measures of motivation and the four lay theories
+measures (r(200)=0.21, 95% CI [0.07, 0.35]). In each case, the lower bound of the confidence
+
+Interpretation of Experienced Ease and Difficulty 24
+interval provides evidence for convergent (> 0) validity and the upper bound of the confidence
+interval provides evidence for discriminant (< .85) validity. Moreover, the confidence intervals
+overlap, implying that the correlations among measures of motivation and between these
+measures of motivation and lay theory measures are of the same magnitude. Hence, lay theories
+of experienced ease and difficulty measures can be considered additions to other measures of
+motivation rather than redundant with them – since these measures are not considered redundant
+with one another.
+Correlations across measures of motivation as experienced control Next we turned to
+the correlations among the measures of motivation as experienced control, finding a medium-tolarge sized correlation between work self-efficacy and locus of control, r(200)=0.49, p<0.01,
+95% CI [0.40, 0.68]. As presented in Table 9, all correlations between these measures and our
+lay theory measures met criteria for discriminant and convergent validity, with two exceptions.
+Locus of control is distinct from both difficulty-as-importance (r(200)=-0.01, p>0.05, 95% CI [0.15, 0.13]) and ease-as-possibility (r(200)=0.08, p>0.05, 95% CI [-0.06, 0.22]). In each case,
+confidence intervals include 0 hence the criteria of r > 0 is not met, implying that difficulty-asimportance and ease-as-possibility lay theories do not have a common link with locus of control.
+Correlations across measures of motivation as resilient character With regard to
+correlations among measures of motivation as resilient character, we found a large-sized
+correlation between grit and mental toughness (r(200)=0.68, p<0.01, 95% CI [0.60, 0.75]), and a
+small-to-moderate-sized correlation between grit and growth mindset (r(200)=0.27, p<0.01, 95%
+CI [0.14, 0.39]), and between mental toughness and growth mindset (r(200)=0.31, p<0.01, 95%
+CI [0.18, 0.43]). As presented in Table 10, all correlations between these measures and our lay
+theory measures met criteria for discriminant and convergent validity, with two exceptions.
+
+Interpretation of Experienced Ease and Difficulty 25
+Growth mindset is distinct from difficulty-as-importance (r(200)=0.07, p>0.05, 95% CI [-0.07,
+0.21]). Grit is distinct from ease-as-possibility (r(200)=0.09, p>0.05, 95% CI [-0.05, 0.22]). In
+each case, confidence intervals include 0 hence the criteria of r > 0 is not met, implying that
+difficulty-as-importance lay theory does not have a common link with growth mindset and that
+ease-as-possibility lay theory does not have a common link with grit as measures of motivation.
+Correlations across measures of motivation as goal formulation We examined
+correlations among measures of motivation as goal formulation, finding a small-sized correlation
+between prevention focus and construal level (r(200) = -0.13, p > 0.05, 95% CI [=-0.26, -0.01]),
+and medium-sized correlations between promotion focus and construal level (r(200) = 0.36, p <
+0.01, 95% CI [0.23, 0.48]), and between promotion and prevention focus (r(200) = -0.33, p <
+0.01, 95% CI [-0.45, -0.20]). As presented in Table 11, correlations between these measures and
+our lay theory measures met criteria for discriminant and convergent validity, with five
+exceptions. Promotion focus is distinct from ease-as-triviality (r(200)=-0.08, p>0.05, 95% CI [0.22, 0.06]). Prevention focus is distinct from difficulty-as-importance (r(200)=0.03, p>0.05,
+95% CI [-0.11, 0.17]) and ease-as-possibility (r(200)=0.00, p>0.05, 95% CI [-0.14, 0.14]).
+Construal level is distinct from ease-as-possibility (r(200)=0.11, p>0.05, 95% CI [-0.03, 0.24])
+and ease-as-triviality (r(200)=0.01, p>0.05, 95% CI [-0.13, 0.15]). In each case, confidence
+intervals include 0 hence the criteria of r > 0 is not met, implying that ease-as-triviality lay
+theory does not have a common link with promotion focus; difficulty-as-importance and ease-aspossibility lay theories do not have a common link with prevention focus, that ease-as-possibility
+and ease-as-triviality lay theories do not have a common with construal level.
+Convergent and Discriminant Validity: Differences in Magnitude of Correlations
+
+Interpretation of Experienced Ease and Difficulty 26
+Motivation as experienced control Results are presented graphically in the top panels of
+Figures 2 and 3, and detailed in Table S5 in the Supplemental Materials. As can be seen, each of
+the four lay theories of experienced ease and difficulty were each significantly less or as
+correlated with efficacy and with locus of control than efficacy and locus of control were with
+each other. This means that lay theories of ease-as-possibility, ease-as-triviality, difficulty-asimportance and difficulty-as-impossibility are both theoretically and likely also empirically
+distinct from locus of control and efficacy, adding meaningfully to variance explained over and
+above efficacy or locus of control.
+Motivation as resilient character As presented graphically in the middle panels of
+Figures 2 and 3, and detailed in Table S6 in the Supplemental Materials, ease-as-triviality, easeas-possibility and difficulty-as-importance were each significantly less or as correlated with
+measures of motivation as resilient character as they were with each other. Findings differed
+somewhat with regard to difficulty-as-impossibility. Difficulty-as-impossibility was significantly
+more correlated with grit (r(200)=-0.54, p<0.01, 95% CI [-0.63, -0.43]) and with mental
+toughness (r(200)=-0.47, p<0.01, 95% CI [-0.57, -0.36]) than growth mindset was with grit
+(Z=2.16, p<0.01) or with mental toughness (Z=3.78, p<0.01).
+This means that lay theories of ease-as-possibility, ease-as-triviality, and difficulty-asimportance are not only theoretically distinct but likely are also empirically distinct from grit,
+growth, and mental toughness, adding meaningfully to variance explained over and above
+growth, grit, and mental toughness. Difficulty-as-impossibility is both theoretically distinct and
+also empirically distinct from growth mindset. While meeting criteria for discriminant validity, it
+is less empirically distinct from lack of grit or lack of mental toughness.
+
+Interpretation of Experienced Ease and Difficulty 27
+Motivation as goal formulation As presented graphically in the bottom panels of
+Figures 2 and 3, and detailed in Table S7 in the Supplemental Materials, ease-as-triviality, easeas-possibility and difficulty-as-importance were each significantly less or as correlated with
+measures of motivation as goal formulation as they were with each other. Findings differed
+somewhat with regard to difficulty-as-impossibility. Here the correlation with prevention focus
+(r(200)=0.49, p < 0.01, 95% CI [0.38, 0.59]) was greater in magnitude than the correlation
+between prevention and promotion focus (Z = 2.22, p <0.05) and the correlation between
+prevention focus and construal level (Z=4.40, p < 0.01).
+This means that lay theories of ease-as-possibility, ease-as-triviality, and difficulty-asimportance are not only theoretically distinct but likely are also empirically distinct from
+regulatory focus and construal level, adding meaningfully to variance explained over and above
+these measures of goal formulation. While meeting criteria for discriminant validity, difficultyas-impossibility is less empirically distinct prevention focus than it is from promotion focus and
+construal level.
+Predictive Validity: Patterns of Correlation
+Lastly we examined the predictive validity of our lay theories of ease and difficulty
+measures by examining patterns of correlation with a performance on a cognitive reflexive task
+and mean endorsement of ease-as-possibility, ease-as-triviality, difficulty-as-importance, and
+difficulty-as-impossibility lay theories. Better performance on the cognitive-reflective task was
+associated with higher ease-as-possibility (r(183)=0.20, p<0.01, 95% CI [0.06, 0.36]), lower
+difficulty-as-impossibility (r(183)=-0.29, p<0.01, 95% CI [-0.49, -0.15]), and lower ease-astriviality (r(183)=-0.26, p<0.01, 95% CI [-0.39, -0.12]) lay theory endorsement. Cognitive
+
+Interpretation of Experienced Ease and Difficulty 28
+reflective task scores were not associated with endorsement of difficulty-as-importance (r(183)=-0.03, p>0.05, 95% CI [-0.17, 0.12]).
+GENERAL DISCUSSION
+Almost anything a person does can feel easy or difficult; people may or may not infer
+something from these feelings, but they often do. To date, research has documented effects of the
+lay theories people hold about what ease and difficulty imply indirectly by creating an
+experience of ease or difficulty or by guiding participants to use a particular lay theory. To test
+the effects of lay theories of what ease and difficulty imply directly requires a way to measure
+lay theory endorsement. In the current studies, we developed short reliable measures of lay
+theories of ease and difficulty and showed that each is a separate indicator. People separately
+experience ease as implying possibility and as implying triviality; they separately experience
+difficulty as implying importance and as implying impossibility. A meta-analysis across the five
+studies showed that the correlations among the lay theories were of small size except for a
+moderate correlation between difficulty-as-impossibility and ease-as-triviality lay theories,
+implying that in some conditions, both ease and difficulty can undermine motivation.
+We compared the correlation between each lay theory and other measures of motivation
+and motivational style using rules of thumb for convergent and discriminant validity. We also
+looked at the relative size of the correlation between each lay theory and measures of motivation
+within three domains, which we labeled motivation as experienced control, motivation as
+resilient character, and motivation as goal formulation. These analyses showed that lay theories
+of ease and difficulty can be used in addition to other measures of motivation, adding to variance
+explained. Two lay theories stood out as particularly distinct from other measures of motivation
+– ease-as-possibility and difficulty-as-importance.
+
+Interpretation of Experienced Ease and Difficulty 29
+We explored demographic associates of endorsing lay theories of ease and difficulty
+finding three: age, social status, and race. Older and younger participants showed the same
+pattern of endorsing lay theories of ease-as-possibility and difficulty-as-importance and rejecting
+lay theories of ease-as-triviality and difficulty-as-impossibility. However, older participants
+agreed more with the ease-as-possibility lay theory and less with difficulty-as-importance,
+difficulty-as-impossibility and difficulty-as-triviality lay theories. In addition, lower social status
+was associated with more endorsement of difficulty-as-impossibility and stigmatized minority
+racial-ethnic group membership was associated with higher endorsement of difficulty as
+importance and ease as triviality.
+To begin to establish predictive validity, we examined the correlations between our lay
+theory measures and a measure academic performance. We picked academic performance
+because effects found in studies that guided students to consider difficulty-as-importance or
+difficulty-as-impossibility (e.g., Smith & Oyserman, 2015). We generally found the predicted
+associations; endorsing ease-as-possibility and rejecting difficulty-as-impossibility and ease-astriviality were associated with better performance on the cognitive reflective task, a task
+requiring noticing that a rule is required to solve a problem and correctly applying it. Since prior
+studies did not include priming of ease lay theories, our current results provide important initial
+evidence that interpreting ease matters for academic performance. However, prior studies
+showed a positive effect of priming difficulty-as-importance on cognitive performance and
+centrality of academics in identity (e.g., Smith & Oyserman, 2015). Yet when measured in the
+current studies, we found no correlation between endorsing difficulty-as-importance and
+performance. One possibility is that these differences are due to differences in the specific
+performance and identity measures we used in this study compared to the prior studies.
+
+Interpretation of Experienced Ease and Difficulty 30
+Implications and Connections
+Each lay theory (ease-as-possibility, ease-as-triviality, difficulty-as-importance,
+difficulty-as-impossibility) measure met criteria for discriminant validity and was less or no
+more correlated with measures of motivation than these measures were with each other. Thus,
+lay theories of experienced ease and difficulty add to research on efficacy, locus of control,
+growth, grit, mental toughness, prevention focus, promotion focus, and construal level. This is
+the case even for difficulty-as-impossibility, which, though meeting criteria for discriminant
+validity, had relatively higher correlations with lack of grit, lack of mental toughness, and with
+higher prevention focus. The implication is that one way in which lack of grit and lack of mental
+toughness matter is via a difficulty-as-impossibility lay theory, if something is impossible, there
+is no point persisting after all. With regard to prevention focus, the implication is that one way
+that vigilant guarding against failure might be attained is by being sensitive to the possibility that
+difficulty implies impossibility. Beyond value from fit explanations (Higgins, 2005; Mann,
+Sherman, & Updegraff, 2004), the association of prevention focus with difficulty-asimpossibility beliefs might explain why prevention focus has been found to be helpful in risky
+contexts (e.g., Scholer, Stroessner, & Higgins, 2008; Scholer et al., 2010; for a review Scholer &
+Higgins, 2013). Risky contexts may be failure-likely settings, knowing when to switch attention
+to something else could be useful in these settings – for example when the cost of switching is
+low and the cost of staying on task is high.
+By developing and validating short reliable measures of ease-as-possibility, ease-astriviality, difficulty-as-importance, and difficulty-as-impossibility, we set the stage for research
+examining when experiences of ease and difficulty are motivating and when they are
+demotivating. Having brief measures is likely to be helpful in understanding seemingly
+
+Interpretation of Experienced Ease and Difficulty 31
+conflicting findings about experienced ease and difficulty. For example, having measures of
+ease-as-possibility and ease-as-triviality allows for studies to understand why experienced ease is
+associated both with feelings of mastery (Koriat, Ma’ayan, & Nussinson, 2006) and with feelings
+of boredom and disengagement from schoolwork (Kanevsky & Keighley, 2003). Similarly,
+having brief measures is likely to be helpful in understanding parallel effects of experienced
+difficulty as implying both importance and impossibility. The small negative correlation between
+the measures implies that on average, people hold both lay theories in mind. This is consistent
+with evidence that people can focus on one lay theory or the other depending on contextual cues
+(Aelenei et al., 2017; Elmore et al., 2016; Smith & Oyserman, 2015). Moreover, having
+measures adds to the research toolkit, complementing priming methods and implicit association
+methods (O’Donnell & Oyserman, 2017). For some purposes, explicit endorsement may be
+useful, for other purposes, salient lay theory may matter, separate from its endorsement (e.g.,
+Oyserman et al., 2017).
+Our results are important for research on the motivational consequences of lay theories of
+experienced ease and difficulty for learning, judgment and identity-based motivation. With
+regard to learning and judgment, previous research has focused on creating conditions in which
+ease or difficulty while thinking is likely to be experienced and inferred from results what the
+likely inferences might have been (Bjork et al. 2013; Schwarz, 2015). In the context of research
+on judgments of learning for example, people often use experienced ease and difficulty to infer
+the likelihood of remembering some information that has been studied for a future test (for a
+review Bjork et al., 2013). Following an ease-as-possibility lay theory, ease is often incorrectly
+interpreted as meaning that one has already learned or mastered the work (Koriat et al., 2006;
+Bjork et al., 2013). Following a difficulty-as-impossibility lay theory, students often reject
+
+Interpretation of Experienced Ease and Difficulty 32
+attempts to teach them to use more difficult but more effective study strategies (Yan et al., 2016).
+By adding measures of ease-as-triviality and difficulty-as-importance, learning researchers can
+expand their focus.
+More generally, by providing measures of lay theories of experienced ease and difficulty,
+our work provides tools to test the circumstances in which experienced ease and difficulty are
+likely to lead to better task-related motivation and outcomes. Research to date highlights two
+possible venues for future research. The first venue focuses on difference in the structure of
+tasks. Thus, rule-based tasks such as many tasks in academic contexts are likely to benefit from
+not interpreting experienced difficulty as impossibility but instead as importance and hence
+increasing effort in the form of more time on task, when the task feels difficult. In contrast,
+insight-based tasks such as creativity tasks or associative reasoning task may not benefit from
+spending more time and may be more efficiently handled when experienced difficulty is
+understood as meaning impossibility and attention shifted to something else (for relevant
+research, see Ackerman, 2014). The second venue focuses on lifespan and other forces
+influencing the relative benefits of sticking to a self-relevant goal vs. changing course. While
+researchers typically focus on the ability to stick to a goal, age, physical and mental health,
+among other factors may make letting go of a self-relevant goal a necessity (e.g., King & Raspin,
+2004; Pizzolato, 2007). By freeing one’s energy to develop a new goal, a difficulty-asimpossibility lay theory may be productive in situations in which goals are actually impossible or
+unattainable (for a review Wrosch, 2010).
+Limitations and Future Directions
+We developed brief reliable measures of lay theories of what ease and difficulty imply
+and examined their convergent and discriminant validity, showing that people hold four lay
+
+Interpretation of Experienced Ease and Difficulty 33
+theories which seem distinct from one another. Our participants were the groups commonly used
+in psychological research using measures of motivation -- MTurk and college students. This was
+a reasonable place to start. That said, understanding how our lay theories of ease and difficulty
+measures function across a broader range of age, economic status, and cultural backgrounds is an
+important next step. More research involving economically and socially diverse groups and other
+measures of social status (e.g. Piff, Kraus, Cote, Cheng, & Keltner, 2010) is needed to obtain a
+better estimate of the relationship between chronic endorsement of motivating (ease-aspossibility, difficulty-as-importance) and demotivating (ease-as-triviality, difficulty-asimpossibility) lay theories of experienced ease and difficulty and socio-economic status.
+Similarly, we used one set of common theories of motivation and one set of measures to
+operationalize each; future research could test links to other motivating frames and could use
+other measures of the theories we currently used since each might be limited (e.g. Haws et al.,
+2010 on our measures of regulatory focus).
+Rather than a single lay theory of ease versus difficulty or a set of lay theories of value
+and of expectancy, we found evidence that people hold four distinct lay theories, ease-aspossibility, ease-as-triviality, difficulty-as-importance, and difficulty-as-impossibility.
+Endorsement of one lay theory had only small overlap with endorsement of another (correlations
+were small in magnitude), with the exception of a moderate-sized correlation between endorsing
+difficulty-as-impossibility and ease-as-triviality lay theories. There are a number of implications
+of the finding that people hold four separate lay theories about their experienced ease and
+difficulty and each is worthy of future research. The first implication of finding four separate lay
+theories is that at least in some circumstances, both ease and difficulty can be demotivating, just
+as both can be motivating. That difficulty can be motivating is consistent with Motivation
+
+Interpretation of Experienced Ease and Difficulty 34
+Intensity Theory, which states that increased difficulty leads to increased motivation until the
+difficulty becomes overwhelming or the value of engagement is no longer worth the effort (for
+reviews Brehm & Self, 1989; Richter et al., 2016). Indeed, as summarized by Richter and
+colleagues, difficulty does show this pattern, when motivation is assessed as cardiovascular
+physiological arousal, but not always when motivation is measured by performance or behavior
+(for a review Richter et al., 2016). Our lay theory framework suggests that this variability is due
+to (unassessed) differences in what experienced difficulty is taken to mean, performance effects
+may be due to endorsing difficulty-as-importance or to rejecting difficulty-as-impossibility (e.g.,
+Elmore et al., 2016; Horowitz et al., 2017). Cardiovascular arousal may also be compatible with
+rejecting difficulty-as-importance or accepting difficulty-as-impossibility cues, resulting in no
+necessarily consistent link from behavior to arousal. Which lay theory comes to mind in the
+moment may be driving whether difficulty bolsters performance and not just arousal, but lay
+theories are not assessed in these studies so it is hard to know.
+The second implication of finding four separate lay theories of ease and difficulty is that
+when one lay theory of experienced ease or difficulty is reinforced by experience, other lay
+theories are unlikely to be influenced. Hence, even if a person is routinely reinforced for
+interpreting difficulty as importance, that will not make them invulnerable to cues that difficulty
+means impossibility. Reinforcement that ease means possibility does not make one invulnerable
+to cues that ease means triviality. Indeed, identity-based motivation theory predicts a
+bidirectional relationship between salient identities and salient lay theories of ease and difficulty
+and assumes that what a salient identity implies is dynamically constructed in context
+(Oyserman, 2015).
+
+Interpretation of Experienced Ease and Difficulty 35
+A third implication of finding four separate lay theories of ease and difficulty is that
+whether a productive or unproductive interpretation of ease or of difficulty comes to mind is
+likely to be function of the fit between accessible lay theory and experience. Just as fit between
+how means and ends are framed matters within a regulatory focus frame (e.g. Higgins, 2005),
+some form of fit may matter for whether experienced ease and difficulty are motivating or
+demotivating. Strong adherence to the Protestant Ethic (Mirels & Garrett, 1971) might make it
+more likely that ease will be dismissed as triviality for example, so that if difficulty is valued as
+character building, people may be demotivated by ease, even when it could help them attain their
+goals. Our correlational finding that performance is associated with endorsing ease-as-possibility
+and rejecting ease-as-triviality is interesting, but in the moment, an easy task may or may not
+evoke both lay theories.
+A fourth implication of finding four separate lay theories of ease and difficulty is that
+they can be added to other measures of motivation to better understand underlying processes. For
+example, given the literature on the positive consequences of efficacy (Bandura, 2006), it would
+be useful to examine the relative explanatory power of lay theories of ease and difficulty and
+other measures of motivation, including grit and growth mindset on feelings of efficacy. Other
+mediational analyses also are possible given our lay theory measures. For example, interventions
+using growth mindset highlight that believing that ability can change influences outcomes
+(Yeager & Dweck, 2012). While not yet tested, it is possible that positive effects of such
+interventions are mediated by change in lay theories of experienced difficulty away from the
+difficulty-as-impossibility lay theory (for detailed development of this idea, see Lewis &
+Oyserman, in press; Oyserman & Lewis, 2017; Oyserman & Fisher, in press).
+
+Interpretation of Experienced Ease and Difficulty 36
+A final implication comes from our initial test of predictive validity. We found some
+evidence that performance is associated with a particular pattern of endorsement of lay theories
+of ease and difficulty: that ease means possibility (so one should “get going”) and not triviality
+(“too easy to care”) and that difficulty does not mean impossibility (“do not quit”). We did not
+find evidence that performance is associated with endorsing difficulty-as-importance in spite of
+prior priming studies suggesting that guiding people to use this lay theory promotes performance
+on difficult academic tasks (Aelenei et al., 2017; Elmore et al., 2016; Oyserman et al, 2017;
+Smith & Oyserman, 2015). Perhaps our current task was not difficult enough for difficulty-asimportance to matter, or perhaps because people’s implicit and explicit beliefs about what
+difficulty implies are not related (O’Donnell & Oyserman, 2017), theory on the mind matters.
+This is a future venue of research deserving of further attention. Because a difficulty-asimportance lay theory has little overlap with other measures of motivation, focusing on this lay
+theory can be of both theoretical and applied significance.
+
+Interpretation of Experienced Ease and Difficulty 37
+References
+Ackerman, R. (2014). The diminishing criterion model for metacognitive regulation of time
+investment. Journal of Experimental Psychology: General, 143(3), 1349-1368.
+Aelenei, C., Lewis, N. A., Jr., & Oyserman, D. (2017). No pain, no gain? Social demographic
+correlates and identity consequences of interpreting experienced difficulty as
+importance. Contemporary Educational Psychology.
+http://dx.doi.org/10.1016/j.cedpsych.2016.08.004
+Alessandri, G., Borgogni, L., Schaufeli, W. B., Caprara, G. V., & Consiglio, C. (2015). From
+positive orientation to job performance: The role of work engagement and self-efficacy
+beliefs. Journal of Happiness Studies, 16, 767-788.
+Andrews, P., & Chen, M. A. (2014). Gender differences in mental toughness and coping with
+injury in runners. Journal of Athletic Enhancement 3, 1-5.
+Atkinson, J. W. (1964). An introduction to motivation. Princeton, NJ: D. Van Nostrand.
+Bandura, A. (2006). Guide for constructing self-efficacy scales. In F. Pajares & T. Urdan (Eds.),
+Self-Efficacy Beliefs of Adolescents (pp. 307-337). Greenwich, CT: Information Age
+Publishing.
+Bandura, A. (2012). On the functional properties of perceived self-efficacy revisited. Journal of
+Management, 38, 9-44.
+Bartlett, M. S. (1950). Tests of significance in factor analysis. British Journal of Statistical
+Psychology, 3, 77-85.
+Beaman, C. P. (2002). Why are we good at detecting cheaters? A reply to Fodor. Cognition,
+83(2), 215-220.
+
+Interpretation of Experienced Ease and Difficulty 38
+Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques,
+and illusions. Annual Review of Psychology, 64, 417-444.
+Bouffard-Bouchard, T., Parent, S., & Larivee, S. (1991). Influence of self-efficacy on selfregulation and performance among junior and senior high-school age students.
+International Journal of Behavioral Development, 14, 153-164.
+Brehm, J. W., & Self, E. A. (1989). The intensity of motivation. Annual Review of Psychology,
+40, 109-131.
+Burnette, J. L., O'Boyle, E. H., VanEpps, E. M., Pollack, J. M., & Finkel, E. J. (2013). Mind-sets
+matter: A meta-analytic review of implicit theories and self-regulation. Psychological
+Bulletin, 139, 655-701.
+Campbell, D. T. & Fiske, D. W. (1959). Convergent and discriminant validation by the
+multitrait-multimethod matrix. Psychological Bulletin, 56, 81-105.
+Cattell, R. B. (1966). The scree test for the number of factors. Multivariate Behavioral Research,
+1, 245-276.
+Chiu, C., Hong, Y., & Dweck, C. S. (1997). Lay dispositionism and implicit theories of
+personality. Journal of Personality and Social Psychology, 73, 19-30.
+Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences (2nd ed.). Hillsdale, NJ:
+Lawrence Erlbaum Associates.
+Comprehensive Meta-Analysis (Version 3) [Computer software]. Englewood, NJ: Biostat.
+Crede, M., Tynan, M. C., & Harms, D. (2016). Much ado about grit: A meta-analytic synthesis
+of the grit literature. Journal of Personality and Social Psychology.
+http://dx.doi.org/10.1037/pspp0000102
+
+Interpretation of Experienced Ease and Difficulty 39
+Cronbach, L. J., & Meehl, P. E. (1995). Construct validity for psychological tests. Psychological
+Bulletin, 52, 281-302.
+Duckworth, A., & Gross, J. J. (2014). Self-control and grit related but separable determinants of
+success. Current Directions in Psychological Science, 23(5), 319-325.
+Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007). Grit: Perseverance and
+passion for long-term goals. Journal of Personality and Social Psychology, 97, 10871101.
+Duckworth, A. L. & Quinn, P. D. (2009). Development and validation of the short grit scale
+(Grit-S). Journal of Personality Assessment,91(2), 166-174.
+Dweck, C. S. (2000). Self-theories: Their Role in Motivation, Personality, and Development.
+Edward Brothers: Lillington, NC.
+Dweck, C. S., Chiu, C., & Hong, Y. (1995). Implicit theories and their role in judgments and
+reactions: A word from two perspectives. Psychological Inquiry, 6, 267-285.
+Elmore, K., Oyserman, D., Smith, G., & Novin., S. (2016). When the going gets tough:
+Implications of reactance for interpretations of experienced difficulty in the classroom.
+American Education Research Association Open. doi: 10.1177/2332858416664714
+Eskreis-Winkler, L., Shulman, E. P., Beal, S. A., & Duckworth, A. L. (2014). The grit effect:
+Predicting retention in the military, the workplace, school and marriage. Frontiers in
+Psychology, 5, 1-12.
+Everitt, S. (1975). Multivariate analysis: The need for data, and other problems. British Journal
+of Psychiatry, 126, 237-240.
+
+Interpretation of Experienced Ease and Difficulty 40
+Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999). Evaluating the use
+of exploratory factor analysis in psychological research. Psychological Methods, 4, 272299.
+Frederick, S. (2005). Cognitive reflection and decision making. Journal of Economic
+Perspectives, 19(4), 25-42.
+Freitas, A. L., Liberman, N., Salovey, P., & Higgins, E. T. (2002). When to begin? Regulatory
+focus on initiating goal pursuit. Personality and Social Psychology Bulletin, 28, 121-130.
+Freitas, A. L., Salovey, P., & Liberman, N. (2001). Abstract and concrete self-evaluative goals.
+Journal of Personality and Social Psychology, 80, 410-412.
+Freund, A. M., & Hennecke, M. (2015). On means and ends: The role of goal focus in successful
+goal pursuit. Current Directions in Psychological Science, 24, 149-153.
+George, D., & Mallery, P. (2003). SPSS for Windows Step by Step: A Simple Guide and
+Reference. 11.0 update (4th ed.). Boston, MD: Allyn & Bacon.
+Griffin, D. W., & Ross, L. (1991). Subjective construal, social inference, and human
+misunderstanding. Advances in Experimental Social Psychology, 24, 319-359.
+Gucciardi, D. F., Hanton, S., Gordon, S., Mallett, C. J., & Temby, P. (2015). The concept of
+mental toughness: Tests of dimensionality, nomological network and traitness. Journal of
+Personality, 83, 26-44.
+Haws, K. L., Dholakia, U. M., & Bearden, W. O. (2010). An assessment of chronic regulatory
+focus measures. Journal of Marketing Research, 47, 967-982.
+Higgins, E. T. (1998). Promotion and prevention: Regulatory focus as a motivational principle.
+Advances in Experimental Social Psychology, 30, 1-46.
+
+Interpretation of Experienced Ease and Difficulty 41
+Higgins, E. T. (2005). Value from regulatory fit. Current Directions In Psychological
+Science, 14(4), 209-213.
+Higgins, E. T., & Cornwell, J. F. M. (2016). Securing foundations and advancing frontiers:
+Prevention and promotion effects on judgment and decision making. Organizational
+Behavior and Human Decision Processes, 136, 56-67.
+Horowitz, E., Sorensen, N., Yoder, N., & Oyserman, D. (2017). Creating a pathway to success:
+teachers can change their students’ identity-based motivation. Manuscript under editorial
+review.
+Hu, L.-T. & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis:
+Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1-55.
+Idson, L. C., & Higgins, E. T. (2000). How current feedback and chronic effectiveness influence
+motivation: Everything to gain versus everything to lose. European Journal of Social
+Psychology, 30, 583-592.
+Jackson, D. L., Gillaspy, J. A., & Purc-Stephenson, R. (2009). Reporting practices in
+confirmatory factor analysis: An overview and some recommendations. Psychological
+Methods, 14, 6-23.
+Job, V., Dweck, C. S., & Walton, G. M. (2010). Ego-depletion- Is it all in your head? Implicit
+theories about willpower affect self-regulation. Psychological Science, 21, 1686-1693.
+Judge, T. A., & Bono, J. E. (2001). Relationship of core self-evaluations traits—self-esteem,
+generalized self-efficacy, locus of control, and emotional stability—with job satisfaction
+and job performance: A meta-analysis. Journal of Applied Psychology, 86, 80-92.
+
+Interpretation of Experienced Ease and Difficulty 42
+Judge, T.A., Erez, A., Bono, J. E., & Thoresen, C. J. (2002). Are measures of self-esteem,
+neuroticism, locus of control, and generalized self-efficacy indicators of a common core
+construct? Journal of Personality and Social Psychology, 83, 693-710.
+Kaiser, H. F. (1960). The application of electronic computers to factor analysis. Educational and
+Psychological Measurement, 20, 141-151.
+Kaiser, H. F. (1970). A second generation little jiffy. Psychometrika, 35, 401-415.
+Kanevsky, L. & Keighley, T. (2003). To produce or not to produce? Understanding boredom and
+the honor in underachievement. Roeper Review, 26, 20-28.
+Karpicke, J. D., Butler, A. C., & Roediger, H. (2009). Metacognitive strategies in student
+learning: Do students practice retrieval when they study on their own? Memory, 17, 471479.
+King, L. A., & Raspin, C. (2004). Lost and found possible selves, subjective well-being, and ego
+development in divorced women. Journal of Personality, 72(3), 603-632.
+Kline, R. B. (2011). Principles and Practice of Structural Equation Modeling. New York, NY:
+Guilford Press.
+Komarraju, M., & Nadler, D. (2013). Self-efficacy and academic achievement: Why do implicit
+beliefs, goals, and effort regulation matter? Learning and Individual Differences, 25, 6772.
+Koriat, A., Ma’ayn, H., & Nussinson, R. (2006). The intricate relationship between monitoring
+and control in metacognition: Lessons for the cause-and-effect relation between
+subjective experience and behavior. Journal of Experimental Psychology: General, 135,
+36-69.
+
+Interpretation of Experienced Ease and Difficulty 43
+Kornell, N., & Bjork, R. A. (2008). Learning concepts and categories: Is spacing the “enemy of
+induction”? Psychological Science, 19, 585-592.
+Lanaj, K., Chang, C.-H. “D.”, & Johnson, R. E. (2012). Regulatory focus and work-related
+outcomes: A review and meta analysis. Psychological Bulletin, 5, 998-1034.
+Lee, A. Y., Keller, P. A., & Sternthal, B. (2010). Value from regulatory construal fit: The
+persuasive impact of fit between consumer goals and message concreteness. Journal of
+Consumer Research, 36, 735-747.
+Lewis Jr., N. & Oyserman, D. (in press). Using identity-based motivation to reduce health gaps
+and disparities. Behavioral Science & Policy
+Lewis, N. A., Jr., & Earl, A. (in press). Seeing more and eating less: effects of information
+granularity on the perception and regulation of food consumption. Journal of Personality
+and Social Psychology.
+Lockwood, P., Jordan, C. H., & Kunda, Z. (2002). Motivation by positive or negative role
+models: Regulatory focus determines who will best inspire us. Journal of Personality and
+Social Psychology, 83, 854-864.
+Mahoney, J. W., Gucciardi, D. F., Ntoumanis, N., & Mallet, C. J. (2014). Mental toughness in
+sport: Motivational antecedents and associations with performance and psychological
+health. Journal of Sport and Exercise Psychology, 36, 281-292.
+Major, B., Sawyer, P. J., & Kunstman, J. W. (2013). Minority perceptions of whites’ motives for
+responding without prejudice: The perceived internal and external motivation to avoid
+prejudice scales. Personality and Social Psychology Bulletin, 39, 401-414.
+Mann, T., Sherman, D., & Updegraff, J. (2004). Dispositional motivations and message framing:
+A test of the congruency hypothesis in college students. Health Psychology, 23, 330-334.
+
+Interpretation of Experienced Ease and Difficulty 44
+Mirels, H. L., & Garrett, J. B. (1971). The Protestant ethic as a personality variable. Journal of
+Consulting and Clinical Psychology, 36, 40-44.
+Myers, C. A., Wang, C., Black, J. M., Bugescu, N., & Hoeft, F. (2016). The matter of
+motivation: Striatal resting-state connectivity is dissociable between grit and growth
+mindset. Social Cognitive and Affective Neuroscience, 11, 1521-1527.
+Nicholls, A. R., Polman, R. C., Levy, A. R., & Backhouse, S.H. (2008). Mental toughness,
+optimism, pessimism, and coping among athletes. Personality and Individual
+Differences, 644, 1182-1192.
+Oppenheimer, D. M. (2008). The secret life of fluency. Trends in Cognitive Sciences, 12, 237241.
+O’Donnell, S. C. & Oyserman, D. (2017). Assessing interpretations of experienced ease and
+difficulty as motivational constructs: An Implicit Measure. Manuscript in preparation.
+Oyserman, D. (2007). Social identity and self-regulation. In A. W. Kruglanski & E. T. Higgins
+(Eds.), Social Psychology: Handbook of Basic Principles (pp. 432-453). New York, NY:
+Guilford.
+Oyserman, D. (2009). Identity-based motivation: Implications for action-readiness, proceduralreadiness, and consumer behavior. Journal of Consumer Psychology, 19, 250-260.
+Oyserman, D. (2015). Pathways to Success through Identity-Based Motivation. New York, NY:
+Oxford University Press.
+Oyserman, D., Destin, M., & Novin, S. (2015). The context-sensitive future self: Possible selves
+motivate in context, not otherwise, Self and Identity, 14(2), 173-188.
+
+Interpretation of Experienced Ease and Difficulty 45
+Oyserman, D. & Fisher, O. (in press). Identity-based motivation and health: An identity-based
+motivation and social stigma approach. In B. Major, J. F. Dovidio, and B. G. Link. The
+Oxford Handbook of Discrimination, Stigma and Health, NY: Oxford University Press.
+Oyserman, D., Fryberg, S. A., & Yoder, N. (2007). Identity-based motivation and health.
+Journal of Personality and Social Psychology, 93, 1011-1027.
+Oyserman, D. & Lewis, N. (2017). Seeing the destination and the path: using identity-based
+motivation to understand and reduce racial disparities in academic achievement. Social
+Issues and Policy Review, 11, 159-194.
+Oyserman, D., Novin, S., Elmore, K., & Smith, G. C. (2017). Interpretation of experienced
+difficulty shapes identity, motivation, and performance. Manuscript under editorial
+review.
+Piff, P. K., Kraus, M. W., Cote, S., Cheng, B. H., & Keltner, D. (2010). Having less, giving
+more: The influence of social class on prosocial behavior. Journal of Personality and
+Social Psychology, 99, 771-784.
+Pizzolato, J. E. (2007). Impossible selves investigating students’ persistence decisions when their
+career-possible selves border on impossible. Journal of Career Development, 33, 201223.
+Primi, C., Morsanyi, K., Ciesi, F., Donati, M. A., & Hamilton, J. (2015). The development and
+testing of a new version of the cognitive reflection test applying item response theory
+(IRT). Journal of Behavioral Decision Making.
+Reber, R., & Schwarz, N. (1999). Effects of perceptual fluency on judgments of truth.
+Consciousness and Cognition, 8, 338-342.
+
+Interpretation of Experienced Ease and Difficulty 46
+Reber, R., Winkielman, P., & Schwarz, N. (1998). Effects of perceptual fluency on affective
+judgments. Psychological Science, 9, 45-48.
+Rhodes, G. (2006). The evolution of facial attractiveness. Annual Review of Psychology, 57, 199226.
+Richter, M., Gendolla, G. H. E., & Wright, R. A. (2016). Three decades of research on
+motivational intensity theory: What we have learned about effort and what we still don’t
+know. In A. J. Elliot (Ed.), Advances in Motivation Science, 149-186.
+Rotter, J. B. (1966). Generalized expectances for internal versus external control of
+reinforcement. Psychological Monographs, 80, 1-28.
+Schmeichel, B. J., Vohs, K. D., & Duke, S. C. (2010). Self-control at high and low levels of
+mental construal, Social Psychology and Personality Science, 2, 182-189.
+Scholer, A. A., & Higgins, E. T. (2013). Dodging monsters and dancing with dreams: Success
+and failure at different levels of approach and avoidance. Emotion Review, 5, 254-258.
+Scholer, A. A., Stroessner, S. J., & Higgins, E. T. (2008). Responding to negativity: How a risky
+tactic can serve a vigilant strategy. Journal of Experimental Social Psychology, 44, 767–
+774.
+Scholer, A. A., Zou, X., Fujita, K., Stroessner, S. J., & Higgins, E. T. (2010). When risk seeking
+becomes a motivational necessity. Journal of Personality and Social Psychology, 99,
+215–231.
+Schwarz, N. (2015). Metacognition. In M. Mikulincer & P.R. Shaver, (Eds.) APA Handbook of
+Personality and Social Psychology: Attitudes and Social Cognition (Vol.1, pp. 203-229).
+Washington, DC: American Psychological Association.
+
+Interpretation of Experienced Ease and Difficulty 47
+Schwarz, N. & Schuman, H. (1997). Political knowledge, attribution, and inferred interest in
+politics: The operation of buffer items. International Journal of Public Opinion
+Research, 9, 191-195.
+Smith, G. C. & Oyserman, D. (2015). Just not worth my time? Experienced difficulty and time
+investment. Social Cognition, 33, 1-18.
+Song, H., & Schwarz, N. (2008). If it’s hard to read, it’s hard to do: Processing fluency affects
+effort prediction and motivation. Psychological Science, 19, 986-988.
+Steiger, J. H. (1980). Tests for comparing elements of a correlation matrix. Psychological
+Bulletin, 87, 245-251.
+Thompson, K. S. & Oppenheimer, D. M. (2016). Investigating an alternate form of the cognitive
+reflection test, Judgment and Decision Making, 11(1), 99-113.
+Trope, Y. & Liberman, N. (2003). Temporal construal. Psychological Review, 110, 403-421.
+Trope, Y. & Liberman, N. (2010). Construal-level theory of psychological distance.
+Psychological Review, 117, 440-463.
+West, M. R., Kraft, M. A., Finn, A. S., Martin, R. E., Duckworth, A. L., Gabrieli, C. F. O., &
+Gabrieli, J. D. E. (2016). Promise and paradox: Measuring students’ non-cognitive skills
+and the impact of schooling. Educational Evaluation and Policy Analysis, 38, 148-170.
+Wigfield, A. & Eccles, J. S. (2000). Expectancy-value theory of motivation. Contemporary
+Educational Psychology, 25, 68-81.
+White, K., Macdonnell, R., & Dahl, D. W. (2011). It’s the mind-set that matters: The role of
+construal level and message framing in influencing consumer efficacy and conservation
+behaviors. Journal of Marketing Research, 11, 472-485.
+
+Interpretation of Experienced Ease and Difficulty 48
+Wrosch, C. (2010). The self-regulation of unattainable goals and pathways to quality of life. In S.
+Folkman (Ed.), The Oxford Handbook of Stress, Health, and Coping (pp. 319-333). New
+York, NY: Oxford University Press.
+Vallacher, R. R., & Wegner, D. M. (1989). Levels of personal agency: Individual variation in
+action identification. Journal of Personality and Social Psychology, 57, 660-671.
+Yan, V. X., Bjork, E. L., & Bjork, R. A. (2016). On the difficulty of mending metacognitive
+illusions: A priori theories, fluency effects, and misattributions of interleaving benefit.
+Journal of Experimental Psychology: General, 145, 918-933.
+Yan, V. X. & Oyserman, D. (2017). Linking mindsets with toolsets: interpretations of
+experienced difficulty matter for knowing how to learn. Manuscript under editorial
+review.
+Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience: When students believe
+that personal characteristics can be developed. Educational Psychologist, 47(4), 302-314.
+Yeager, D. S., Romero, C., Paunesku, D., Hulleman, C. S., Schneider, B., Hinojosa, C., …
+Dweck, C. S. (2016). Using design thinking to improve psychological interventions: The
+case of the growth mindset during the transition to high school. Journal of Educational
+Psychology, 108, 374-391.
+
+Interpretation of Experienced Ease and Difficulty 49
+Tables
+Table 1.
+Predicted Associations Between Lay Theories of Experience and Other Motivational Constructs
+Difficulty-asEase-asMotivational Construct
+Importance Impossibility Possibility Triviality
+Efficacy, Locus of Control
++
++
+Growth Mindset
++
++
+Grit, Mental Toughness
+
++
+
+-
+
++
+
+Promotion Focus
+
++
+
+-
+
++
+
+Prevention Focus
+
++
+
+-
+
++
+
+a
+
+Construal Level
+
++
+
+-
+
++
+
+Note: Direction of association is represented by a plus sign ‘+’ for positive and a minus sign ‘-’
+for negative associations. Magnitude of association is represented by the size and color of the
+plus ‘+’ or minus ‘-’ sign. Small size and grey color for small predicted magnitude; moderate
+size and black color for moderate predicted magnitude We use Cohen’s (1988) rules of thumb
+
++,-
+
+quantify predicted weak (r <.1; + , -), moderate (r <.3; + , -), and large (r <.5;
+)
+associations. Note that we predict no large associations between our lay theories and other
+motivational constructs. aConstrual level is represented such that lower values are concrete and
+larger values are abstract, such that a positive association implies that high lay theory scores
+would be associated with a more abstract construal.
+
+View publication stats
+
+

@@ -1,0 +1,2380 @@
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Annual Review of Psychology
+
+Improving Student Outcomes
+in Higher Education: The
+Science of Targeted
+Intervention
+Judith M. Harackiewicz and Stacy J. Priniski
+Department of Psychology, University of Wisconsin–Madison, Madison, Wisconsin 53706;
+email: jmharack@wisc.edu, spriniski@wisc.edu
+
+Annu. Rev. Psychol. 2018. 69:409–35
+
+Keywords
+
+First published as a Review in Advance on
+September 20, 2017
+
+intervention, achievement gaps, belonging, utility value, values affirmation
+
+The Annual Review of Psychology is online at
+psych.annualreviews.org
+
+Abstract
+
+https://doi.org/10.1146/annurev-psych-122216011725
+c 2018 by Annual Reviews.
+Copyright 
+All rights reserved
+
+ANNUAL
+REVIEWS
+
+Further
+
+Click here to view this article's
+online features:
+• Download ﬁgures as PPT slides
+• Navigate linked references
+• Download citations
+• Explore related articles
+• Search keywords
+
+Many theoretically based interventions have been developed over the past
+two decades to improve educational outcomes in higher education. Based
+in social-psychological and motivation theories, well-crafted interventions
+have proven remarkably effective because they target specific educational
+problems and the processes that underlie them. In this review, we evaluate
+the current state of the literature on targeted interventions in higher education with an eye to emerging theoretical and conceptual questions about
+intervention science. We review three types of interventions, which focus
+on the value students perceive in academic tasks, their framing of academic
+challenges, and their personal values, respectively. We consider interventions that (a) target academic outcomes (e.g., grades, major or career plans,
+course taking, retention) in higher education, as well as the pipeline to college, and (b) have been evaluated in at least two studies. Finally, we discuss
+implications for intervention science moving forward.
+
+409
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Contents
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+THREE TYPES OF INTERVENTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SCOPE OF REVIEW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+TASK VALUE INTERVENTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Course-Specific Task Value Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Field-Specific Task Value Interventions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Task Value Interventions: Summary and Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FRAMING INTERVENTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+College-General Framing Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Field-Specific Framing Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Framing Interventions: Summary and Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PERSONAL VALUES INTERVENTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Course-Specific Values Affirmation Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+College-General Values Affirmation Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Values Affirmation Interventions: Summary and Discussion . . . . . . . . . . . . . . . . . . . . . . .
+IMPLICATIONS FOR INTERVENTION SCIENCE . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Replication and Beyond . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Implementation: How and Where? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Implementation: Who and Why? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+410
+411
+412
+417
+418
+419
+420
+421
+422
+424
+424
+425
+425
+426
+427
+428
+428
+430
+431
+
+INTRODUCTION
+Many theoretically based interventions have been developed over the past two decades to improve educational outcomes in higher education, and there has been great interest and excitement
+about the potential of these brief and cost-effective interventions to address important societal
+issues (Wilson 2011). Researchers have found that targeted interventions can have powerful and
+long-lasting effects when they address specific motivational processes at crucial time points in
+the educational process. Some have called these targeted interventions motivation interventions
+(Lazowski & Hulleman 2016) or social-psychological interventions (Wilson 2006, Yeager & Walton 2011), reflecting their theoretical grounding. Walton (2014) has referred to them as wise
+interventions because they are theoretically precise and address basic psychological processes that
+can interfere with optimal academic functioning. Indeed, these three labels all capture a critical
+feature of targeted interventions—a basis in theory that identifies the most powerful levers of
+change in academic settings. The theories that underlie these interventions take into account the
+context, the person, and person × context interactions to address real-world problems and are
+thus inherently social psychological. We refer to these social-psychological interventions as targeted because they target a specific problem, the psychological process underlying the problem,
+the students who should benefit from intervention, and the specific academic outcomes that should
+reveal those benefits.
+Targeted interventions address specific educational problems, such as closing achievement
+gaps for underrepresented racial/ethnic minority (URM) students; promoting science, technology, engineering, and mathematics (STEM) career pursuit among women; increasing interest and
+engagement in gateway science courses; or helping first-year students cope with the college transition. With a well-defined problem, interventions can target the psychological processes most
+410
+
+Harackiewicz
+
+·
+
+Priniski
+
+PS69CH17-Harackiewicz
+
+ARI
+
+Assessment of:
+problem,
+population,
+context
+
+14 November 2017
+
+Intervention
+design
+
+8:28
+
+Intervention
+
+Targeted
+processes
+
+Targeted
+outcomes
+
+Recursive
+processes
+
+Distal
+outcomes
+
+Figure 1
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Conceptual model of targeted interventions.
+
+relevant to the problem. Students can struggle in college or lose motivation in fields of study for
+many reasons. They may lack a strong preparatory background for college or financial resources,
+and we would not expect social-psychological interventions to address these structural factors.
+However, students may also struggle for more psychological reasons: They may lack interest in
+certain topics and become disengaged in classes, or they may lack confidence in their abilities.
+They may experience identity threat in certain fields and wonder if an academic discipline is right
+for them, or they may doubt whether they belong in college. They may experience a cultural
+mismatch between institutional norms and their own values. All of these psychological processes
+are critical for academic outcomes, and all can be targeted by social-psychological interventions.
+In addition to identifying the specific problem targeted by an intervention, it is important to
+consider the implications for measurement of academic outcomes. Some interventions focus on
+promoting motivation and performance in particular courses, where measures would thus be course
+specific, such as engagement, interest, and course grades. Others focus on promoting motivation in
+a field or broader domain, such as STEM fields or engineering, in which case the outcome measures
+would be field specific, such as course taking, retention in those fields, or interest in a discipline.
+Many interventions are even more general, targeting academic adjustment and performance in
+college, in which case the outcome measures would be college general, such as college adjustment
+and fit, overall grade point average (GPA), and graduation rate. The primary outcomes targeted
+by an intervention serve as a measure of intervention efficacy, but they can also trigger positive
+recursive processes that drive longer-term impacts. For example, if a student gets a good grade in
+a critical gateway science course, they may become more interested in the field, take more science
+courses, and eventually pursue a STEM career. Figure 1 shows our conceptual model.
+
+THREE TYPES OF INTERVENTIONS
+In this review, we consider a wide range of targeted interventions that have been tested in higher
+education and distinguish between three types of intervention: those that focus on how students
+perceive value in academic tasks (task value interventions), those that change the way students
+frame academic challenges (framing interventions), and those that focus on students’ personal
+values (personal values interventions). These interventions are all student-centered and share
+some core features: All convey some information hypothesized to affect a psychological process
+and engage the student in a process of active reflection that often involves conversation or writing.
+There are important differences, however, in their domain specificity and the behaviors, thought
+processes, and academic outcomes they target. In short, the primary difference is in where they
+focus students’ attention and reflection.
+Task value interventions focus on the task at hand, which can be defined as a specific topic in
+a class or a field of study, but the emphasis is always on academic content. These interventions
+communicate the value or importance of the content, either by providing examples of the relevance
+or usefulness of academic tasks for personal goals or by encouraging students to think about task
+www.annualreviews.org • The Science of Targeted Intervention
+
+411
+
+ARI
+
+14 November 2017
+
+8:28
+
+value for themselves through writing exercises. For example, in a utility-value intervention (a type
+of task value intervention) implemented in a college biology class, students wrote about how course
+topics were relevant to their own lives or useful for themselves or others (Harackiewicz et al. 2016a).
+In a communal utility-value intervention, Brown et al. (2015) provided students with information
+about how biomedical research could address communal goals (helping others, working with
+others). Such task value interventions focus on how students perceive their coursework or fields of
+study, which can then be connected with personal goals through a process of reflection. Because
+of their task specificity, these interventions may be most relevant for stimulating engagement and
+performance in specific courses or promoting interest in particular fields.
+Framing interventions focus on the challenges that students may face during academic transitions and help students cope with adversity by framing challenges as common and improvable.
+They include a broad range of interventions designed to address a variety of common concerns,
+such as doubts about belonging, doubts about ability, or group-specific challenges (e.g., coming
+to college as a URM student), by helping students adopt a more adaptive outlook or mindset. For
+example, Walton & Cohen’s (2007) social belonging intervention provided statistics and quotes
+from more senior students illustrating the fact that challenges of adjustment to college are common and can be overcome. These interventions focus on influencing how students think about
+challenges, whereas task value interventions focus on the task at hand. Framing interventions
+may be most relevant for promoting adjustment during critical academic transitions, such as the
+transition to college, and for academic performance at a general level across courses or domains.
+Personal values interventions focus on students’ core values. Like framing interventions, these
+interventions center on the student, but they work more indirectly by reinforcing personal values
+rather than the academic tasks at hand. For example, in their seminal values affirmation intervention with middle school students, Cohen and colleagues (2006) asked students to choose their
+most important values from a list and then write about why those values were important to them.
+The same intervention has been used in college physics classes (Miyake et al. 2010). These values are broad (e.g., friends and family, independence, sense of humor), and writing about them
+reinforces a student’s sense of identity and self-worth, providing a buffer against threats so that
+they can cope with adversity in college. As such, this may be the most general of the three types
+of intervention considered in this review, and personal values interventions may be particularly
+relevant for promoting academic adjustment and performance at a general level, across courses or
+domains and over time.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+SCOPE OF REVIEW
+In this review, we consider interventions that (a) target academic outcomes (e.g., grades, major or
+career plans, course taking, retention) in higher education, as well as the pipeline to college, and
+(b) have been evaluated in at least two studies.1 Those that meet our criteria are summarized in
+Tables 1–3. Many of the interventions covered in this review have also been tested in middle school
+or high school contexts, but because we focus on interventions that target educational issues in
+college, we focus our review on experimental studies conducted in college and university settings
+
+1
+Several other promising interventions have not (yet) been tested in multiple studies and are therefore not included: Acee &
+Weinstein’s (2010) and Yeager and colleagues’ (2014) task value interventions; Landau and colleagues’ (2014), Jamieson and
+colleagues’ (2016), and Browman & Destin’s (2016) framing interventions; and Kizilcec and colleagues’ (2017) intervention,
+which is a hybrid of task value and personal values interventions. In addition, two studies in our review also contain tests of
+interventions not (yet) tested in multiple studies: Yeager and colleagues’ (2016) critical feedback and cultural fit interventions
+and Walton and colleagues’ (2015) affirmation training intervention are not included in this review.
+
+412
+
+Harackiewicz
+
+·
+
+Priniski
+
+PS69CH17-Harackiewicz
+
+Table 1
+
+ARI
+
+14 November 2017
+
+8:28
+
+Summary of task value interventions in higher education
+
+Study
+
+Problem
+
+Context and sample
+
+Intervention
+
+Primary findings
+
+Task value interventions
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Course specific
+Hulleman
+et al. (2010,
+study 2)a
+
+Promoting
+engagement for
+low performers
+
+One section of
+introductory psychology
+at a public university
+(n = 318)
+
+Utility value: two
+writing assignments,
+completed as
+homework
+
+Increased interest in the
+course and intention to major
+in psychology for students
+with low initial exam grades
+
+Hulleman
+et al. (2017,
+study 2)a
+
+Promoting
+engagement for
+low performers
+
+Two sections of
+introductory psychology
+at a public university
+(n = 357)
+
+Utility value: two
+writing assignments,
+completed as an online
+homework activity
+
+Increased interest in the field
+of psychology and final exam
+performance for all students
+and particularly for students
+with low initial exam scores,
+especially men
+
+Harackiewicz
+et al. (2016a)b
+
+Racial and social
+class achievement
+gaps
+
+Eight sections of
+introductory biology for
+STEM majors at a public
+university (n = 1,040)
+
+Utility value: three
+writing assignments,
+completed as
+homework
+
+Increased course performance
+for all students and
+particularly for firstgeneration underrepresented
+minority students, as well as
+students with low prior
+GPAs and students with high
+motivation to help others
+
+Canning et al.
+(2018)a
+
+Promoting
+persistence in
+STEM
+
+Majority students in three
+sections of introductory
+biology for STEM majors
+at a public university
+(n = 577)
+
+Utility value: one to
+three writing
+assignments, completed
+as homework
+
+Increased course performance,
+enrollment in another
+biology course, and STEM
+major persistence
+
+Brown et al. (2015,
+studies 1–3)
+
+Promoting
+interest in
+biomedical
+research careers
+
+Three laboratory studies
+with undergraduates
+from public universities
+(n = 55, 140, 160);
+studies 1 and 2 took place
+at a Hispanic-serving
+institution
+
+Utility value: an article
+read by students
+describing how a
+faculty’s biomedical
+research project could
+help others
+
+Increased interest in pursuing
+a career in biomedical
+research
+
+Harackiewicz
+et al. (2012)
+and Rozek
+et al. (2017)
+
+Promoting STEM
+motivation
+
+High school students and
+their parents from the
+longitudinal Wisconsin
+Study of Families and
+Work and a five-year
+follow-up (n = 181
+families)
+
+Utility value: two
+brochures and a website
+sent to parents in their
+teens’ tenth- and
+eleventh-grade years,
+highlighting the
+usefulness of STEM
+courses and strategies
+for talking about
+STEM courses with
+their teens
+
+Increased STEM course
+taking among the teens in
+high school, increased math
+and science scores on ACT
+college preparatory exam;
+indirectly increased college
+STEM course taking, career
+aspirations, and likelihood of
+declaring a STEM major in
+college through the high
+school STEM outcomes
+
+Field specific
+
+a
+
+Measured a combination of course-specific, field-specific, and college-general outcomes.
+Tested interventions from two different categories.
+Abbreviations: GPA, grade point average; STEM, science, technology, engineering, and mathematics.
+b
+
+www.annualreviews.org • The Science of Targeted Intervention
+
+413
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+and discuss studies from other contexts only if they were critical in the development of interventions
+tested in higher education contexts (e.g., Cohen et al. 2006, Hulleman & Harackiewicz 2009) or if
+the intervention was implemented in high school with a follow-up in college (e.g., Harackiewicz
+et al. 2012, Yeager et al. 2016).
+The intervention studies we review are diverse. They range in scope from small-scale
+field studies, with interventions administered in labs or single classes, to large-scale field trials. Some interventions were integrated into classes, but others were administered outside of
+classes, in prematriculation activities, special orientation projects, or laboratory studies. We
+focus on the context and sample for the research, the educational problem targeted, the
+specific intervention tested, and the outcome measures assessed, examining whether targeted
+
+Table 2
+
+Summary of framing interventions in higher education
+
+Study
+
+Problem
+
+Context and sample
+
+Intervention
+
+Primary findings
+
+Gender gap in
+engineering
+
+First-year engineering
+students at a public
+university; activities were
+completed one on one or
+in small groups in
+engineering classrooms, as
+a research study (n = 228)
+
+Social belonging: reading
+materials framing
+belonging concerns in the
+engineering program,
+saying-is-believing essay
+
+Increased first-year engineering
+GPAs for women in
+male-dominated engineering
+majors
+
+Wilson &
+Linville
+(1982, 1985)
+
+Promoting
+performance
+for first-year
+students
+
+Three laboratory studies
+with first-year
+undergraduates who
+reported being concerned
+about their first-semester
+grades (n = 31; 37; 36)
+
+Attributional reframing:
+booklet and video framing
+GPA concerns,
+saying-is-believing essay
+
+Increased overall GPAs in the
+semester after the intervention
+was implemented, especially
+for men
+
+Walton &
+Cohen (2007,
+study 2; 2011)
+
+Racial
+achievement
+gap
+
+First-year students (second
+semester) at a selective
+private university, in a
+laboratory setting
+(n = 37; 92)
+
+Social belonging: reading
+materials framing
+belonging concerns,
+saying-is-believing essay
+and video
+
+Increased overall GPAs in the
+semester after the intervention
+was implemented (Walton &
+Cohen 2007) and through
+senior year (Walton & Cohen
+2011) for African American
+students
+
+Yeager et al.
+(2016,
+study 1)
+
+Promoting
+persistence in
+college
+
+High school seniors from
+five urban charter schools
+who had been admitted to
+two- or four-year colleges
+(primarily African
+American and FG
+students); activities
+completed online in high
+school computer labs in
+May of their senior year
+(n = 584)
+
+Social belonging: reading
+materials framing
+belonging concerns,
+saying-is-believing essays
+Mindset: reading materials
+framing intelligence,
+saying-is-believing essays
+Combined: both
+interventions, received one
+week apart
+
+Social belonging: increased
+percentage of students who
+stayed enrolled full-time
+through their first year of
+college
+Mindset: no effect
+Combined: increased college
+persistence to the same degree
+as social belonging alone
+
+Framing interventions
+Field specific
+Walton et al.
+(2015)
+
+College general
+
+(Continued )
+
+414
+
+Harackiewicz
+
+·
+
+Priniski
+
+PS69CH17-Harackiewicz
+
+Table 2
+
+ARI
+
+14 November 2017
+
+8:28
+
+(Continued )
+
+Study
+
+Problem
+
+Context and sample
+
+Intervention
+
+Primary findings
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+College general
+Yeager
+et al. (2016,
+study 2)
+
+Racial
+persistence
+gap
+
+Incoming students at a
+public university; activities
+completed as part of
+prematriculation tasks
+online in the summer
+before college (n = 7,335)
+
+Social belonging: reading
+materials framing
+belonging concerns,
+saying-is-believing essays
+Mindset: reading materials
+framing intelligence,
+saying-is-believing essays
+Combined: shortened
+versions of both
+interventions, received in
+one session
+
+Social belonging: increased
+percentage of
+underrepresented (FG and
+URM) students who stayed
+enrolled full-time through
+their first year of college
+Mindset: increased college
+persistence among
+underrepresented students to
+the same degree as social
+belonging alone
+Combined: increased college
+persistence among
+underrepresented students to
+the same degree as either
+intervention alone
+
+Yeager
+et al. (2016,
+study 3)
+
+Racial
+achievement
+gap
+
+Incoming students at a
+selective private university;
+activities completed as part
+of prematriculation tasks
+online in the summer
+before college (n = 1,592)
+
+Social belonging: reading
+materials framing
+belonging concerns,
+saying-is-believing essays
+
+Increased first-year GPAs for
+underrepresented (FG and
+URM) students
+
+Stephens et al.
+(2014, 2015)
+
+Social class
+achievement
+gap
+
+First-year students at a
+selective private university;
+activities completed as part
+of a research study in the
+first month of the semester
+(n = 168)
+Two-year follow-up
+laboratory study (n = 133)
+
+Difference education: a
+discussion panel framing
+diverse backgrounds and
+adjustment to college,
+saying-is-believing video
+
+Increased first-year GPAs for
+FG college students; increased
+psychosocial adjustment
+during the first year of college
+for all students
+Improved coping in stressful
+situations for FG students two
+years later
+
+Aronson et al.
+(2002)
+
+Racial
+achievement
+gap
+
+Undergraduates at a
+selective private university;
+activities completed in
+small-group laboratory
+sessions (n = 79)
+
+Mindset: video framing
+intelligence,
+saying-is-believing essays
+
+Increased overall GPAs for the
+quarter after the intervention
+for all students, especially for
+African American students
+
+Abbreviations: FG, first-generation; GPA, grade point average; URM, underrepresented racial minority.
+
+outcomes are course or field specific (e.g., course grades, STEM grades) or college general
+(e.g., overall GPA), as well as longer-term effects, such as course taking over time or career
+choices.
+Our goal is to assess the state of the intervention research literature, with an eye to theoretical
+and conceptual questions about intervention science more generally. What makes these interventions so powerful? How replicable are the effects obtained to date? When possible, we evaluate
+evidence for targeted intervention processes, i.e., whether the researchers identified processes
+that help us understand how the intervention works and whether they tested for mediation
+www.annualreviews.org • The Science of Targeted Intervention
+
+415
+
+PS69CH17-Harackiewicz
+
+Table 3
+
+ARI
+
+14 November 2017
+
+8:28
+
+Summary of values affirmation interventions in higher education
+
+Study
+
+Problem
+
+Context and sample
+
+Intervention
+
+Primary findings
+
+Values affirmation interventions
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Course specific
+Miyake et al.
+(2010)
+
+Gender gap in
+physics
+
+Two sections of
+introductory physics for
+STEM majors at a public
+university (n = 399)
+
+Values affirmation:
+students wrote about their
+most important values,
+once as an in-class practice
+writing exercise and once
+as an online homework
+assignment
+
+Increased performance for
+women on course exams
+and a standardized physics
+test
+
+Harackiewicz
+et al. (2014a)a
+
+Social class
+achievement
+gap in biology
+
+Three sections of
+introductory biology for
+STEM majors at a public
+university (n = 798)
+
+Values affirmation: twice
+during the semester,
+students wrote about their
+most important values as
+an in-class practice writing
+exercise
+
+Increased course
+performance, enrollment
+in another biology course,
+and overall semester GPAs
+for first-generation college
+students
+
+Harackiewicz
+et al. (2016a)b
+
+Social class
+achievement
+gap in biology
+
+Eight sections of
+introductory biology for
+STEM majors at a public
+university (n = 1,040)
+
+Values affirmation: twice
+during the semester,
+students wrote about their
+most important values as
+an in-class practice writing
+exercise
+Utility value: see Table 1
+
+No effect
+
+Layous et al.
+(2017)
+
+Promoting
+performance for
+students with
+low belonging
+
+First- and second-year
+undergraduates at a public
+university; activities
+completed in small groups
+in a laboratory setting
+(n = 105)
+
+Values affirmation:
+students ranked a list of
+values and wrote about
+their most important value
+
+Increased overall GPAs for
+all students and
+particularly for students
+with low sense of
+belonging and for men
+
+Brady et al.
+(2016)
+
+Racial
+achievement
+gap for Latino
+students
+
+First- and second-year
+undergraduates; activities
+completed in a laboratory
+setting
+Follow-up two years later
+(n = 183)
+
+Values affirmation:
+students ranked a list of
+values and wrote about
+their most important value
+
+Increased postintervention
+GPAs for Latino students;
+decreased postintervention
+GPAs for White students
+
+Tibbetts et al.
+(2016a)
+
+Social class
+achievement
+gap
+
+Three-year follow-up of an
+intervention completed in
+three sections of
+introductory biology for
+STEM majors at a public
+university (n = 788)
+
+Values affirmation: twice
+during the semester,
+students wrote about their
+most important values as
+an in-class practice writing
+exercise
+
+Increased postintervention
+GPAs for first-generation
+college students
+
+College general
+
+a
+
+Measured a combination of course-specific, field-specific, and college-general outcomes.
+Tested interventions from two different categories.
+Abbreviation: STEM, science, technology, engineering, and mathematics.
+b
+
+416
+
+Harackiewicz
+
+·
+
+Priniski
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Task value
+
+Framing
+
+Personal values
+
+Course specific
+e.g., engagement,
+interest, course grades
+
+Utility-value intervention (4)
+
+X
+
+Values affirmation
+intervention (3)
+
+Field specific
+e.g., course taking,
+interest in field,
+career choices
+
+Communal utility-value
+intervention (3)
+Parent utility-value
+intervention (2)
+
+Social belonging
+intervention (1)
+
+X
+
+School general
+e.g., enrollment rates,
+retention, overall GPA
+
+X
+
+Attributional reframing (3)
+Mindset intervention (3)
+Difference education
+intervention (2)
+Social belonging
+intervention (5)
+
+Values affirmation
+intervention (3)
+
+Figure 2
+Targeted interventions in higher education can be divided into three types (task value, framing, and personal
+values) targeting outcomes at three levels (course specific, field specific, and school general). This figure
+summarizes the interventions that have been tested in each category of this classification system, as well as
+the number of experimental studies conducted (in parentheses).
+
+of intervention effects. In addition, we consider whether intervention effects extended across
+contexts or over time through recursive processes. Figure 2 shows our classification system, the
+specific interventions tested, and the number of experimental studies evaluated in each category.
+
+TASK VALUE INTERVENTIONS
+Of the task value interventions reviewed in this article, the utility-value intervention is supported
+by the highest number of randomized controlled trials (Harackiewicz et al. 2016b, Tibbetts et al.
+2016b). This intervention is grounded in Eccles and colleagues’ (Eccles et al. 1983, Eccles &
+Wigfield 2002) expectancy value model, which posits that the most proximal predictors of achievement and achievement-related choices (e.g., which courses to take, how hard to study for an exam)
+are students’ expectations that they can succeed and the extent to which they value the task or
+topic. Thus, the students who are most likely to struggle in a given course are those with low
+expectations of success (due to either a history of poor performance or a lack of confidence) and
+those who do not see the value in what they are learning. The hypothesis driving the utility-value
+intervention is that if educators can help their students find value in the course material, this
+will give students a reason, and thus the motivation, to engage with the material and ultimately
+improve their performance. Specifically, the intervention targets utility value, the value perceived
+in a task or topic as a result of its usefulness for achieving short- or long-term goals. For example,
+students might perceive utility value in a physiology course because they can use what they learn
+to make their workouts safer and more effective.
+There are two basic strategies by which educators can promote perceptions of value: They
+can tell students that course topics are useful and important (i.e., educators communicate value
+directly), or they can task their students with discovering that value for themselves (i.e., students
+generate value), most often through a writing exercise in which students relate course topics
+to their own lives (Canning & Harackiewicz 2015, Durik et al. 2015, Gaspard et al. 2015).
+Both strategies were tested first with several laboratory studies and then in the field, although
+self-generated utility-value interventions are more common in the field (for a review, see
+Harackiewicz & Hulleman 2010, Harackiewicz et al. 2014b). Because these interventions target
+www.annualreviews.org • The Science of Targeted Intervention
+
+417
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+value in particular content, most are course-level interventions. However, it is important to note
+that engaging students with the content of a course also engages them with the content of that
+field. This is one avenue by which these seemingly granular, content-focused interventions could
+have far-reaching consequences, such as impacting students’ educational and career choices.
+
+Course-Specific Task Value Interventions
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+The course-specific task value interventions tested to date have been self-generated utility-value
+interventions. In a prototypical self-generated utility-value intervention, students complete a series
+of course writing assignments in which they choose a topic covered in the current unit of the
+course and either discuss the relevance and utility value of the topic (the intervention condition)
+or summarize the topic (the control condition). This intervention provides students opportunities
+to make concrete connections between what they are learning and things that they care about,
+fostering perceptions of value as well as engagement with the course content. The first field test
+of this intervention was in high school science classes (Hulleman & Harackiewicz 2009). The
+utility-value intervention was particularly effective for students with low expectations of success,
+improving their grades in the science course and increasing their interest in science more broadly.
+Since this initial high school study, the intervention has been tested in a variety of college courses,
+with promising results.
+Hulleman et al. (2010) administered a utility-value intervention twice during the second half
+of the semester in one large section of a college introductory psychology course. Among students
+who performed poorly on early exams, the utility-value intervention increased interest in the field
+of psychology, as well as intention to major in psychology. Furthermore, Hulleman and colleagues
+found that the mechanism driving these effects was the targeted process of perceived utility value.
+In other words, for students who were initially struggling, the intervention increased perceptions
+of value for the material they were learning, which, in turn, increased their interest in the field
+and their intention to major in psychology.
+Another study, conducted in two large sections of an introductory psychology course, found that
+the utility-value intervention increased final exam scores and interest in psychology for all students
+on average and for students who performed poorly on initial exams in particular (Hulleman et al.
+2017). In addition, they found that the utility-value intervention had the strongest positive effects
+for the students who were most at risk in this context, males who performed poorly on initial
+exams. They examined intervention mechanisms and found that, for students with low grades on
+early exams, the intervention increased their confidence (i.e., performance expectations) and that
+this confidence, in turn, explained higher final exam grades.
+Hulleman and colleagues’ (2010, 2017) work in large introductory psychology courses demonstrates that the utility-value intervention can be effective for struggling students, including groups
+of students who tend to underperform. This raises the possibility that the utility-value intervention can address achievement gaps. Harackiewicz and colleagues (2016a) tested this possibility
+with a large-scale field trial in eight sections of an introductory biology course for STEM majors
+(over four semesters). Their approach was novel in two ways. First, they used an intersectional
+analysis to examine achievement gaps for first-generation (FG) college students (i.e., those for
+whom neither parent has a four-year college degree) and URM students, as well as students at
+the intersection of these groups, who are both FG and URM (FG-URM). Second, they examined
+students’ motivational profiles to understand the characteristics of different groups that might
+influence their receptivity to the intervention.
+Harackiewicz and colleagues (2016a) found that FG-URM students had a unique motivational
+profile: They were least confident about their background in biology and were uncertain about
+their belonging in college more generally. However, they were also highly motivated to perform
+418
+
+Harackiewicz
+
+·
+
+Priniski
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+well in the course and to use their education to give back to society and help others, especially
+their families and communities. Harackiewicz and colleagues hypothesized that the utility-value
+intervention might give FG-URM students opportunities to connect course material to their
+positive motivations (i.e., their desire to use their education to help others), which could make
+the intervention particularly powerful for this group. Indeed, the intervention increased grades
+for all students on average and for FG-URM students in particular, reducing the achievement
+gap between FG-URM and majority students by 61%. Interestingly, the intervention was also
+effective for students with low prior GPAs (above and beyond the FG-URM intervention effect),
+replicating prior work by Hulleman and colleagues (2010), and for any students with higher levels
+of helping motives (not just FG-URM students).
+Harackiewicz and colleagues (2016a) examined intervention mechanisms and found that the
+intervention effect for FG-URM students was mediated by engagement. Students in the utilityvalue condition, and FG-URM students in particular, wrote longer essays, indicating that they
+engaged more with the material than did students in the control condition. This engagement, in
+turn, explained increases in course performance. To explore how this played out in the content
+of the essays, Harackiewicz and colleagues analyzed the essays using text analysis (Pennebaker
+et al. 2007). Utility-value essays contained more personal pronouns and more words related to
+social relationships, especially family, which is concordant with FG-URM students’ desire to
+give back to their families and communities. Furthermore, these essays contained more words
+indicative of cognitive engagement and insight. This is consistent with experimental work showing
+that task value interventions increase engagement and conceptual change ( Johnson & Sinatra
+2013). Beigman Klebanov and colleagues (2017) analyzed these same essays using natural language
+processing techniques. They found that utility-value writing was characterized by argumentative
+and narrative elements, suggesting that students were both providing personal narratives and
+building arguments and claims (e.g., about why biology is valuable). Together, these analyses reveal
+some of the ways that writing about utility value can increase engagement and promote learning.
+Canning and colleagues (2018) tested the utility-value intervention in three sections of an
+introductory biology class for STEM majors but varied the number of utility-value assignments
+(from zero to three) to examine the effects of intervention dosage on performance. They also
+followed students to see whether they enrolled in the second course in the biology sequence
+and whether they abandoned plans to major in STEM (93% of students entered the course with
+plans to major in a STEM field), as measures of STEM persistence. They found that students
+who received at least one utility-value assignment earned higher grades in the course, were more
+likely to enroll in the second biology course, and were less likely to abandon their STEM major.
+However, students assigned the maximum dosage (three assignments) earned the highest grades
+and were most likely to take the next biology course, suggesting that students benefited from
+multiple doses of the intervention. Moreover, the intervention’s positive effect on continuation to
+the second course (a distal outcome) was mediated by grades in the first course. In other words,
+students who performed better as a result of the utility-value intervention were more likely to take
+another biology course, suggesting one mechanism by which a course-specific intervention can
+influence field-specific outcomes through recursive processes.
+
+Field-Specific Task Value Interventions
+Many studies of course-specific task value interventions also found effects on field-level outcomes,
+such as interest in the field (Hulleman et al. 2017), intention to major in the field (Hulleman et al.
+2010), retention in a STEM major, or course taking in a field (Canning et al. 2018). In addition,
+some task value interventions targeted field-level outcomes directly. Brown and colleagues (2015)
+developed an intervention designed to promote interest in biomedical careers by helping students
+www.annualreviews.org • The Science of Targeted Intervention
+
+419
+
+ARI
+
+14 November 2017
+
+8:28
+
+perceive the value of biomedical research for achieving communal (i.e., helping-oriented) goals.
+They communicated utility value directly by giving students an article that described how a research project could help others. Across three laboratory studies, they found that the communal
+utility-value intervention increased students’ interest in pursuing a career in biomedical research,
+relative to a control group, and that these effects were mediated by the perceived communal value
+of biomedical research (Brown et al. 2015).
+In an experimental field study, Harackiewicz and colleagues (2012) tested a directly communicated utility-value intervention to help parents of high school students see the value of math
+and science course taking and share that value with their teens. They hypothesized that giving
+parents tools (two brochures and a website) to help them talk about the importance of math and
+science would influences their teens’ perceptions of value and elective course choices. Indeed,
+teens whose parents received the utility-value intervention took, on average, an extra semester of
+math or science in their last two years of high school, relative to a control group whose parents
+did not receive the intervention.
+A five-year follow-up of these students found that the intervention had also increased students’
+math and science scores on college preparatory exams (i.e., the ACT) by 12 percentile points
+(Rozek et al. 2017). Importantly, these short-term outcomes (course taking and ACT scores in
+high school) had long-term consequences. Rozek and colleagues found indirect effects of the
+intervention such that students whose parents had received the utility-value intervention took
+more math and science courses in high school and earned higher ACT scores, and that these
+targeted high school outcomes were predictive of students’ college STEM course taking, majors,
+and career aspirations. Thus, even when an intervention is not expected to directly influence longterm outcomes—this intervention targeted parental involvement and high school course taking—
+short-term intervention effects can initiate recursive processes that impact students’ long-term
+trajectories.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+Task Value Interventions: Summary and Discussion
+Together, these studies show that task value interventions can be a powerful tool for engaging students in thinking and writing about the why of learning, giving them a platform for exploring how
+their coursework can help them achieve important personal goals. A consistent pattern of results
+has emerged across a variety of contexts and modes of intervention delivery; these interventions
+have proven most effective for students who struggle in courses. However, there is also evidence
+of main effects in almost all of these studies; in other words, some utility-value interventions have
+had positive effects for all students on average (Harackiewicz et al. 2012, 2016a; Brown et al. 2015;
+Canning et al. 2018; Hulleman et al. 2017), and it will be important to clarify when and why
+task value interventions should work for all students versus only for those who struggle (Schwartz
+et al. 2016). Careful attention has been paid in these studies to targeted motivational processes
+in these studies, with evidence for mediation of intervention effects by the targeted process of
+perceived utility value and other processes such as positive expectancies and engagement. Finally,
+the results of Canning et al. (2018) and Rozek et al. (2017) document some recursive effects from
+the targeted outcomes (course grades and high school course taking) to more distal outcomes,
+illuminating important pathways for the long-term effects of utility-value interventions.
+Perhaps unsurprisingly given the theoretical grounding of these interventions, they most often
+focus on single courses or particular fields. Indeed, we did not find any task value interventions
+targeting college-general outcomes (e.g., cumulative GPA). However, the evidence indicates that
+task value interventions can increase motivation at the field level both directly, in a single-session
+laboratory study (Brown et al. 2015) and a semester-long biology course (Canning et al. 2018), and
+420
+
+Harackiewicz
+
+·
+
+Priniski
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+indirectly, over a span of five years, by promoting STEM course taking and test performance in
+high school (Rozek et al. 2017). Furthermore, recent work (Brown et al. 2015, Harackiewicz et al.
+2016a) suggests connecting specifically to helping-oriented goals might be a powerful intervention
+technique (Thoman et al. 2015, 2017). In fact, Yeager and colleagues (2014) and Paunesku et al.
+(2015) have developed a task value intervention for high school students that focuses students on
+self-transcendent (helping-oriented) goals for learning. Like other task value interventions, the
+purpose intervention has shown positive effects on grades for low-performing students. Although
+there have not been enough studies testing the purpose intervention at the college level for inclusion in this review, initial work is promising. In sum, current research suggests that task value
+interventions can have broad implications for educational trajectories.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+FRAMING INTERVENTIONS
+Framing interventions include a diverse set of interventions to counteract the maladaptive ways
+students might interpret challenges. Drawing on attribution theory (Weiner 1974, Ross & Nisbett
+2011), these interventions tap into processes by which students make sense of their academic
+experiences. For example, a student who receives bad grades in their first semester might attribute
+their poor performance to a lack of intelligence (a maladaptive attribution) or to the steep learning
+curve of adjusting to college, which they will overcome in time (an adaptive attribution). Thus,
+framing interventions target common maladaptive beliefs by providing students with alternate
+frames. Two messages are key: that challenge is a normal or natural experience (i.e., not exclusively
+attributable to an individual’s own shortcomings) and that students can exercise control over their
+academic outcomes through personal growth (i.e., challenges can be overcome with effort). These
+messages are particularly important in the transition to college for underrepresented students (e.g.,
+URM students, FG students, women in STEM) who may experience adversity as evidence that the
+college environment is unwelcoming or even discriminatory, posing major threats to their sense of
+belonging (Walton 2014). Therefore, almost all of the studies in this category are college-general
+interventions targeting students’ framing of challenge in the transition to college.
+Early work by Wilson & Linville (1982, 1985) tested an intervention using this attributional
+approach. They showed struggling first-year students statistics and interviews indicating that most
+students’ grades were lower than anticipated their first semester but improved over time. Some
+participants also wrote an essay explaining to high school students how initial low grades were
+attributable to temporary factors (e.g., not knowing how to take college exams). Such saying-isbelieving exercises are designed to increase internalization of the intervention message by having
+students convey it in their own words (often through writing) to benefit students who will face
+similar challenges in the future (Aronson 1999). Across three studies, the intervention improved
+students’ performance on GRE problems immediately after the intervention and improved students’ college GPAs in the following semester, although both effects were stronger for men than
+for women (Wilson & Linville 1985). These strategies have informed the design of interventions
+in more recent work. In fact, a research group in Canada has implemented a very similar treatment
+protocol, called attributional retraining (AR), with introductory psychology students (for a review,
+see Perry & Hamm 2017, Perry et al. 2014),2 and all the interventions reviewed below draw, at
+least in part, on the methods developed by Wilson & Linville.
+
+2
+There are many studies of AR (see, e.g., Hall et al. 2007, Haynes et al. 2006, Perry et al. 2010), but we do not include
+these studies in our review because they employ different methodology. AR treatment interventions have been studied with
+longitudinal quasi-experimental designs with treatment not randomized at the student level, whereas all the studies included
+in our review conducted randomization at the student level.
+
+www.annualreviews.org • The Science of Targeted Intervention
+
+421
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+College-General Framing Interventions
+Our review identified three types of framing interventions that were tested at the college-general
+level and met our inclusion criteria. These interventions include social belonging interventions,
+difference education interventions, and mindset interventions.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Social belonging interventions. The seminal work on the social belonging intervention was
+conducted by Walton & Cohen (2007, 2011) to address achievement gaps for African American
+students at a selective college. Second-semester students read statistics and quotes from more
+senior students indicating that most students worry about whether they belong in college during
+their first year but that these concerns lessen over time. Participants then wrote an essay about
+why that would be the case, using examples from their own experiences, and recorded a video
+testimonial for future students. Control activities were similar but focused on adjusting to the
+physical environment in college (e.g., the architecture, weather). This intervention improved
+African American students’ GPAs the semester after the intervention (Walton & Cohen 2007) as
+well as their overall GPAs, measured at a postgraduation follow-up (Walton & Cohen 2011). Daily
+diary measures collected in the week after the intervention revealed that, for African Americans in
+the intervention condition, experiences of adversity no longer influenced their sense of belonging,
+and this decoupling process mediated the intervention effects on GPA (Walton & Cohen 2011).
+In addition, Walton & Cohen found that African American students in the intervention condition
+reported engaging in more adaptive academic behaviors (e.g., emailing professors, spending more
+time studying) in the week following the intervention (Walton & Cohen 2007) and reported
+higher levels of a sense of belonging, health, and well-being in the postgraduation survey (Walton
+& Cohen 2011).
+Yeager and colleagues (2016) adapted this social belonging intervention so that it could be
+delivered online and tested at scale to address three different goals: to increase rates of college
+enrollment among charter high school students (study 1), to address persistence gaps for disadvantaged (URM and FG) students at a public flagship university (study 2), and to address
+performance gaps for disadvantaged students at a highly selective private university (study 3). In
+all three studies, the intervention materials conveyed the same messages as Walton & Cohen’s
+(2007) belonging intervention, but the student quotes were customized for each context. The
+intervention delivered during senior year at charter high schools increased the percentage of students who stayed enrolled full-time through their first year of college (32% in the control group
+versus 45% in the intervention group), and this effect was mediated by a measure of students’ social
+and academic involvement behaviors on campus (e.g., living on campus, using academic support
+services).
+In studies 2 and 3, the intervention was delivered as part of the online orientation process in
+the summer before college. In study 2, the intervention increased the percentage of disadvantaged
+students who stayed enrolled full-time through their first year of college (69% in the control
+group versus 73% in the intervention group). This effect was mediated by a survey measure of
+social and academic involvement. In study 3, the intervention increased first-year GPA among
+disadvantaged students, as well as these students’ social and academic involvement behaviors (e.g.,
+having a mentor, using academic support services). Together, these studies demonstrate that the
+social belonging intervention can be adapted to target students’ framing of belonging concerns
+across a variety of contexts, with impressive results (Yeager et al. 2016).
+Difference education interventions. Stephens and colleagues (2014) developed the difference
+education intervention to provide a more adaptive frame for FG college students in the transition to
+422
+
+Harackiewicz
+
+·
+
+Priniski
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+college. These students are less likely to have the procedural knowledge needed to take advantage
+of campus resources and less likely to feel a sense of belonging or fit in the college environment
+due to a cultural mismatch between their values and institutional norms (Stephens et al. 2012). In
+the difference education intervention (Stephens et al. 2014), first-year students attended a onehour panel in which a diverse group of students discussed how their backgrounds were sources of
+both challenge and strength and described strategies they used to navigate challenges and become
+a successful student. Participants then recorded a video testimonial for future students. Control
+participants attended a similar panel, but the panelists did not discuss their backgrounds. All
+students in the intervention condition reported more academic and social engagement at the end
+of the first year of college, and FG students in the intervention condition earned higher first-year
+GPAs than FG students in the control condition, an effect that was mediated by their increased use
+of campus resources (e.g., emailing professors, attending office hours). In a follow-up study two
+years later, students from the difference education intervention condition mentioned more aspects
+of their background in a speech about their college experience, indicating that they retained the
+intervention message and were more comfortable talking about the role of background. In addition,
+FG students from the intervention condition showed higher levels of anabolic balance reactivity, a
+measure of physiological striving, compared to FG students from the control condition. Stephens
+and colleagues (2015) concluded that the difference education intervention initiated recursive
+processes that helped FG students view their backgrounds as a source of strength and cope more
+effectively with stressful tasks.
+Mindset interventions. Mindset interventions are based on Dweck’s (1999) work on lay theories
+of intelligence, wherein a maladaptive theory would be that intelligence cannot be changed (a fixed
+mindset), whereas an adaptive theory would be that intelligence is malleable and can be increased
+with effort (a growth mindset). The prototypical mindset intervention is an eight-week program to
+teach middle school students about brain plasticity and how they could develop their intelligence
+by exercising their brain like a muscle (e.g., Blackwell et al. 2007). Whereas this method is not
+practical in college contexts, a few studies have tried to distill this message into a briefer intervention
+for college students.
+Aronson and colleagues (2002) developed an intervention to combat stereotype threat, with
+the idea that the stereotype that African Americans have a fixed lack of intelligence could be
+rendered powerless if one holds the belief that intelligence is malleable. The mindset intervention, delivered in a laboratory setting, involved a brief video explaining how researchers have
+found that the brain can grow and develop new neuronal connections and a saying-is-believing
+exercise. This intervention closed gaps between African American and White students’ GPAs in
+the semester after the intervention, and this effect was mediated by students’ growth mindset
+beliefs.
+Yeager and colleagues (2016) also tested mindset interventions in studies 1 and 2 of their
+social belonging research, described above. Participants read an article summarizing the scientific
+research supporting the idea that intelligence is malleable and then wrote an essay expressing this
+message to future students who might be struggling in school. In both studies, some students were
+randomly assigned to receive both the social belonging intervention and the mindset intervention,
+which allowed a test of combined intervention. In study 1, the mindset intervention had no effect on
+college enrollment, and the combined intervention was no more effective than the social belonging
+intervention alone. In study 2, all three interventions increased enrollment among disadvantaged
+students; there were no differences in the effectiveness of the mindset intervention, the social
+belonging intervention, and the combined intervention.
+www.annualreviews.org • The Science of Targeted Intervention
+
+423
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Field-Specific Framing Interventions
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Only one study has adapted a framing intervention to address a field-specific problem: Walton and
+colleagues (2015) adapted Walton and Cohen’s (2007) original social belonging intervention (a
+college-general intervention) to address the gender achievement gap in an engineering program.
+First-semester engineering students in the intervention condition were given statistics and quotes
+from senior engineering students and wrote a letter to a future engineering student conveying the
+intervention messages in their own words. Women in male-dominated engineering majors (e.g.,
+mechanical engineering) who received the social belonging intervention earned higher first-year
+engineering GPAs, perceived adversity as more manageable, had more friendships with their male
+colleagues, and, by the second semester, were more confident that they could succeed in the field,
+compared to women in the control group.
+
+Framing Interventions: Summary and Discussion
+The framing interventions reviewed above target an impressive number of educational problems,
+but they share a common goal: improving students’ academic experiences by providing adaptive frames for common challenges, from belonging concerns, to beliefs about performance and
+intelligence, to cultural mismatch. They can have far-reaching benefits for students’ academic
+adjustment and long-term outcomes. Across a variety of contexts and modes of intervention delivery, the pattern of results indicates that these interventions have improved important academic
+outcomes for students adjusting to college. The targeted populations have varied from students
+struggling in school (Wilson & Linville 1982) to African American students (Aronson et al. 2002),
+first-generation students (Stephens et al. 2014), women in engineering (Walton et al. 2015), and
+disadvantaged students in general (Yeager et al. 2016), and this impressive diversity suggests the
+great potential of the framing approach for a number of educational problems.
+However, as with task value interventions, there is also some evidence of positive effects for all
+students on average (Stephens et al. 2014, 2015; Yeager et al. 2016), and it will be important to
+clarify when and why framing interventions work for all students. Some results are more consistent
+than they first appear, once the problem is clearly defined. For example, Yeager et al. (2016) noted
+that almost all students in their study 1 were either URM or FG students and, thus, predicted a
+main effect for the belonging and mindset interventions. Other findings are inconsistent; Yeager
+et al. (2016, study 1) failed to find an effect of the mindset intervention, and Stephens et al. (2014)
+found a main effect of the difference education intervention that specifically targeted FG students.
+Overall, however, the consistency of findings is impressive, and we anticipate that the pattern of
+results will become increasingly clear as more work is done to replicate these findings within the
+same contexts (Wilson & Linville 1985, Walton & Cohen 2011) and between contexts (Yeager
+et al. 2016).
+Exploration of targeted processes in these studies has focused less on the specific cognitive
+processes hypothesized to drive intervention effects (with the exception of Aronson et al. 2002)
+and more on the academic behaviors that students report in academic transitions. These behaviors
+are typically assessed with surveys and represent adaptive behaviors such as emailing professors,
+making friends, and attending office hours. Such measures capture an approach orientation consistent with a positive framing of challenge, but they vary widely across studies. It will be important
+to standardize such measures so that results can be compared across studies. However, the mediation analyses reported by Stephens et al. (2014) and Yeager et al. (2016) clearly suggest that
+such measures are key to understanding how framing interventions work in college transitions.
+Less attention has been paid to recursive processes in the framing studies reviewed above, in part
+424
+
+Harackiewicz
+
+·
+
+Priniski
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+because these studies are more recent, with less opportunity for follow-up over time. However,
+there is some evidence that physical health processes may be implicated over time (Walton &
+Cohen 2011, Stephens et al. 2015), and this is a promising direction. Surprisingly, scant attention
+has been paid to the content and style of students’ writing in these interventions, and this might
+be a missed opportunity for extending the study of these intervention dynamics. Continued exploration of targeted and recursive processes over time will be essential for understanding how
+framing interventions work to improve student outcomes.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PERSONAL VALUES INTERVENTIONS
+The values affirmation intervention is based in self-affirmation theory (Steele 1988), which argues
+that individuals are motivated to maintain an overall sense of self-integrity. If a student experiences
+identity threat in an important academic domain (e.g., a woman taking a physics test), then their
+self-integrity is called into question. Self-affirmation interventions give people an opportunity
+to reflect on sources of self-worth in other domains. Writing about personal values affirms selfintegrity on a broader level and thereby diminishes the negative impact of identity threats in a
+particular situation. This intervention is not specific to threats in particular domains and has been
+implemented in a variety of contexts (e.g., health, relationships, sports; see Cohen & Sherman
+2014 for a review).
+Cohen and colleagues (2006, 2009) were the first to implement this intervention in an academic
+context. They found that, when three cohorts of seventh graders completed a values affirmation
+exercise in class, African American students performed better and had higher overall GPAs for the
+term than African American students in the control group, and that their GPAs in core courses
+remained higher over two years, especially among those with lower initial GPAs. They argued
+that early improvements in performance initiated recursive processes that disrupted the negative
+performance trajectory observed in the control condition. Indeed, the intervention effects on
+GPA in year 2 (distal outcome) were mediated by GPA in year 1 (targeted outcome). These
+effects have been replicated in several middle school studies (e.g., Bowen et al. 2013, Sherman
+et al. 2013, Borman et al. 2016), and more recent work at the middle school level has focused on
+understanding the mediators, moderators, and boundary conditions for these effects. For example,
+Shnabel and colleagues (2013) examined the values affirmation essays from the original Cohen
+studies (Cohen et al. 2006) and found that all students wrote more about social belonging in the
+values affirmation condition, and that this improved grades for African American students. Thus,
+recent work provides strong evidence that values affirmation can have both immediate and longterm benefits for underrepresented students, but it is also important to note that there have been
+some failures to replicate these findings in middle school contexts (Dee 2015, Protzko & Aronson
+2016, Hanselman et al. 2017).
+
+Course-Specific Values Affirmation Interventions
+Miyake and colleagues (2010) conducted the first test of a values affirmation intervention in
+college to address gender gaps in an introductory physics course. To make the values affirmation
+exercise fit seamlessly in a college science course, the instructor told students that the exercise was
+a chance to practice their writing skills. It was implemented as an in-class activity in the first week
+of the semester and as an online homework assignment in the fourth week (just prior to the first
+midterm exam). Thus, in contrast to the social belonging or difference education interventions,
+the values affirmation intervention was fully integrated into the class and presented as a course
+www.annualreviews.org • The Science of Targeted Intervention
+
+425
+
+ARI
+
+14 November 2017
+
+8:28
+
+assignment. It improved women’s exam grades and scores on a standardized physics exam, reducing
+achievement gaps between women and men in the course.
+Harackiewicz and colleagues (2014a) implemented the values affirmation intervention in an
+introductory biology course for STEM majors, using the same basic methods as Miyake et al.
+(2010). However, this intervention was targeted for a different problem, the social class achievement gap between FG and continuing-generation (CG) students. FG students in the intervention
+condition earned higher grades in the biology course as well as higher overall GPAs that semester,
+reducing the social class achievement gap. In addition, FG students in the intervention condition
+were more likely to enroll in the next course in the biology sequence. This effect was mediated
+by course grades: The intervention improved FG students’ grades in the biology course, which,
+in turn, increased their likelihood of continuing in biology. Together, these two studies suggest
+that the values affirmation intervention can be integrated into college science classes with positive
+effects.
+In the Harackiewicz et al. (2016a) utility-value intervention study, discussed above, the researchers also tested a values affirmation intervention crossed with the utility-value intervention
+in a 2 × 2 design. The values affirmation intervention was implemented exactly as it was by Harackiewicz et al. (2014a), but the positive effect for FG students was not replicated, and there were no
+significant interactions with the utility-value intervention. The researchers discussed a number of
+factors that might have accounted for this nonreplication, most notably that the social class achievement gap was larger in the semester that the Harackiewicz et al. (2014a) study was conducted.
+Indeed, previous research suggests that values affirmation is more effective when achievement
+gaps are larger (Hanselman et al. 2014). Another possibility is that the addition of the utility-value
+intervention (which involved three more writing assignments) dampened the effects of the values
+affirmation intervention. This analysis suggests that it may not work to combine different types of
+writing interventions in a single semester. Although the values affirmation intervention can have
+powerful effects, it is sensitive to contextual and sample differences in ways that we do not yet
+fully understand. More research is needed to identify factors that moderate the effectiveness of
+the values affirmation intervention in college contexts.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+College-General Values Affirmation Interventions
+Self-affirmation interventions are designed to combat identity threats on a broad level. When
+groups are threatened by stereotypes about intelligence or ability, their identity threat is not limited
+to a single course. Therefore, it is not surprising that interventions implemented in a single course
+can have downstream college-general effects (e.g., on overall GPA), as was the case in Cohen
+et al.’s (2009) original study and Harackiewicz and colleagues’ (2014a) study in college biology.
+However, the interventions we review in this section target college-general effects as the primary
+outcomes. Furthermore, like much of the more recent work on values affirmation interventions
+in middle school contexts, each of these studies has a particular focus on the moderators and
+mediators of intervention effects.
+Whereas other work focused on demographic moderators, such as gender, social class, or race,
+Layous and colleagues (2017) examined psychological moderators of values affirmation intervention effects. They noted a common theme for all the groups that have benefited from values
+affirmation: threats to a sense of belonging. Thus, in a sample of primarily White undergraduates,
+Layous and colleagues administered the values affirmation exercise in a laboratory setting and
+tested whether the intervention would be effective for students with a low sense of belonging.
+They found no effects of the intervention on a math test administered immediately after the intervention. However, when they examined students’ grades over two semesters, they found that
+426
+
+Harackiewicz
+
+·
+
+Priniski
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+the values affirmation intervention improved GPAs for all students on average compared to the
+control condition, and that this effect was stronger for men and for students with low levels of
+belonging.
+Brady and colleagues (2016) implemented the values affirmation intervention in a laboratory
+study and then followed students over time. They found a positive effect on postintervention GPAs
+for Latino students at a two-year follow-up, but the effect was negative for White students. In the
+fourth semester after the intervention, participants returned to the lab and completed a stressful
+academic task (making a list of everything they had to get done before the end of the semester),
+after which they were given a blank piece of paper to write about whatever was on their mind.
+Brady and colleagues analyzed these essays and found that Latino students who had received a
+values affirmation intervention two years earlier showed spontaneous self-affirmations in their
+writing. In other words, they focused on personal values and positive sources of worth. Furthermore, Latino students from the affirmation condition reported more confidence in their ability
+to cope with all the tasks they needed to complete, compared to those in the control condition.
+Brady and colleagues tested whether these spontaneous self-affirmations mediated the effects of
+the intervention on confidence and GPA. They found that among Latino students, the intervention increased their tendency to self-affirm, which improved their confidence in their coping
+ability, leading to better grades that semester. These results provide insight into the recursive
+processes through which the values affirmation intervention influenced academic performance
+over a two-year period.
+Tibbetts and colleagues (2016a) conducted a follow-up study of the Harackiewicz et al. (2014a)
+sample and found that the values affirmation intervention improved FG students’ overall postintervention GPAs over the course of three years. They used text analyses to investigate the mechanisms
+of these long-term effects. Their analysis was grounded in cultural mismatch theory (Stephens
+et al. 2012), which states that, although everyone holds both independent and interdependent
+values to some degree, FG students face a mismatch because university culture places more emphasis on independence, whereas FG students have more interdependent backgrounds. Therefore,
+Tibbetts and colleagues coded for both independent and interdependent writing. They found that
+the effects of the values affirmation intervention on course grades, academic belonging, and overall
+GPA three years later were all mediated by independent themes. In other words, for FG students,
+writing about independence in their values affirmation essays led to higher grades in the biology
+course, higher levels of academic belonging, and higher GPAs over a three-year period. Although
+most FG students who wrote about independence also wrote about interdependent themes (95%),
+it was affirming their independent values (which match the academic context) that proved most
+beneficial in this context.
+
+Values Affirmation Interventions: Summary and Discussion
+Like the framing intervention studies, the values affirmation intervention studies reviewed above
+targeted an impressive number of educational problems, from gender gaps in a physics course
+(Miyake et al. 2010) and the social class achievement gap in a biology course (Harackiewicz et al.
+2014a) to performance among students with low belonging (Layous et al. 2017). However, the
+number of tests of values affirmation in college contexts is small, and the results have not been consistent (e.g., Harackiewicz et al. 2016a). This inconsistency highlights the urgency for researchers
+to demonstrate how this intervention works in college contexts and for whom. Recent studies have provided insights into the psychological moderators of values affirmation interventions
+(Layous et al. 2017), as well as the proximal and distal mediators of intervention effects. Work by
+Tibbetts and colleagues (2016a) demonstrated that the content of the values affirmation essays
+www.annualreviews.org • The Science of Targeted Intervention
+
+427
+
+ARI
+
+14 November 2017
+
+8:28
+
+can provide important clues about their proximal mechanisms, revealing that, for FG students
+experiencing identity threat due to a cultural mismatch, the benefits of the intervention were mediated by themes of independence. Finally, Brady and colleagues’ (2016) work illuminated a more
+distal mechanism, that values affirmation interventions can improve long-term outcomes through
+recursive processes involving students’ propensity to self-affirm under threat.
+Values affirmation interventions were first tested in middle schools, administered by teachers
+in small classes. In contrast, introductory college classes are large and impersonal, and it may be
+difficult to administer a personal writing exercise in this context. However, it is not clear that
+the implementation of the intervention needs to be the same across contexts. Indeed, some of the
+work at the college level has been implemented in laboratory settings, rather than classrooms, with
+positive results (Brady et al. 2016, Layous et al. 2017). Given the recent work showing that the
+content of values affirmation essays works differently for middle school minority students and FG
+college students (Shnabel et al. 2013, Tibbetts et al. 2016a), it is clear that more work is needed
+to understand how values affirmation works in different contexts and for different groups.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+IMPLICATIONS FOR INTERVENTION SCIENCE
+The studies reviewed above reveal the power of a targeted approach to intervention research
+in higher education. The interventions evaluated in these studies were grounded in theory and
+developed through laboratory research and small-scale field studies, culminating in the field trials
+considered in this review. As we survey the progress to date, it seems clear that intervention
+scientists have made great strides over the past 15 years. The interventions are well crafted and
+the research methods are rigorous, with careful attention paid to intervention mechanisms and
+recursive processes.
+Conducting randomized controlled field trials is a complicated process. It requires close collaboration with teaching faculty or university administrators, first to adapt the intervention for
+the particular context and student population and then to implement interventions in courses or
+academic advising contexts. Well-powered studies require large samples (especially if the intervention is targeted to help underrepresented minority groups) such that these studies can take
+years to run. The current body of intervention research in higher education spans a wide array
+of problems, ranging from achievement gaps in college courses, to promoting STEM career pursuit, to facilitating transitions to college for underrepresented students. However, these studies
+represent the first wave of a new science, and there were too few studies in any category of our
+classification system to permit a more quantitative review. In fact, the impressive range of problems targeted by these interventions proved to be a limitation for our review—there were very
+few studies targeting the same problems with comparable measures. Although there was strong
+empirical support for each of the three types of intervention in general, more research is needed
+to address critical questions of replication and generalizability of findings.
+
+Replication and Beyond
+Given that the interventions reviewed above are contextually specific interventions, how should
+we conceptualize the question of replication? In some ways, the interventions literature represents
+an ideal case for thinking about the replication issues currently facing the field—hypotheses are
+straightforward and well specified (and often preregistered), and the studies are typically well
+powered, but direct replication is almost never possible. What kind of precision should we expect,
+and how should we think about conceptual replications and extension of interventions to different
+populations? How should we interpret nonreplications?
+428
+
+Harackiewicz
+
+·
+
+Priniski
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Our review reveals impressive patterns of consistent findings for each type of intervention but
+also reveals some inconsistencies across studies and some failures to replicate findings. We would
+not expect each intervention to be equally effective across every implementation, of course; in
+fact, the pattern of inconsistent findings may help identify areas for future research and qualify
+conclusions until we have more data in hand. In the case of task value interventions, for example,
+there was a consistent pattern of findings that the interventions had positive effects for students
+who struggle in classes [with some internal replications across sections of courses or semesters (e.g.,
+Harackiewicz et al. 2016a)], but there are inconsistencies in the mediators between studies (e.g.,
+perceived values, expectancies, engagement) that raise important questions about intervention
+mechanisms. In the case of framing interventions, there was a consistent pattern of findings that
+framing interventions promoted positive outcomes in academic transitions, but some evidence of
+nonreplication of growth mindset effects (Yeager et al. 2016, study 2). More critically, no two
+studies in the framing category examined the exact same problem, making it difficult to assess
+the question of direct replication [however, some studies had internal replications with multiple
+cohorts (e.g., Walton & Cohen 2011)].
+We found more evidence of nonreplication for values affirmation, in part because the foundational studies were conducted earlier (Cohen et al. 2006, Miyake et al. 2010), allowing more time
+for replication studies to emerge. Indeed, future reviews may contend with more nonreplications
+of task value and framing interventions, and we expect that the field of intervention science will
+be all the better for it. As is the case with values affirmation, each replication and nonreplication
+can tell us something about the intervention, its mechanisms, and the conditions under which it
+is most effectively implemented. For example, replication studies in middle school have revealed
+that intervention effects may be moderated by context (Hanselman et al. 2014) and by timing of
+implementation (Cook et al. 2012).
+In addition to questions about the replicability of intervention effects, it is important to think
+about the generalizability of the mechanism. For example, values affirmation interventions were
+successfully implemented to address achievement gaps for underrepresented minority students in
+middle school, then for women in college physics, and then for FG students in college biology
+classes. Should we expect the intervention to work the same way in all three cases? If a social
+belonging intervention works for African American students in a selective university, will it work
+the same way for women in engineering programs or for underrepresented students starting college
+at their state university? And if a utility-value intervention promotes interest and performance for
+struggling students in a psychology class, will we expect this to work in the same way that utilityvalue interventions help minority students perform better in college biology classes?
+On the one hand, the theories behind these interventions provide hypotheses about general
+mechanisms that should apply across contexts and populations. For example, if struggling students
+in psychology and minority students in biology both fail to see any value in what they are learning, a
+utility-value intervention might work for both groups. On the other hand, our application of theory
+needs to be more context dependent; we might implement the intervention differently or invoke
+different mechanisms for how the intervention works in particular contexts. In the Harackiewicz
+et al. (2016a) study, FG minority students believed that biology was valuable (the vast majority had
+biology-related majors), but they benefited from the utility-value intervention because it allowed
+them to connect course content to their helping goals. This particular mechanism is likely not
+generalizable to all populations. These questions become even more complicated when considering
+recursive processes, which interact with natural processes in the environment (e.g., performing
+well in a biology course may catch the attention of faculty, who invite the student to join their
+lab, which increases the likelihood that the student will pursue a career in that field, etc.), and are
+thus context dependent, at least to some degree. Thus, our theories will need to be informed and
+www.annualreviews.org • The Science of Targeted Intervention
+
+429
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+revised by what we learn from testing interventions in multiple contexts. Moving forward, it will
+be important to consider these issues as we design and evaluate intervention research.
+
+Implementation: How and Where?
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+There are four ways that these interventions have been implemented in randomized controlled
+trials: (a) in laboratory sessions, with assessment of academic outcomes (e.g., Aronson et al. 2002,
+Brown et al. 2015); (b) in orientation or advising sessions outside of class (Stephens et al. 2014,
+Walton et al. 2015); (c) in preorientation activities, included as part of the prematriculation process
+(Yeager et al. 2016); or (d ) in classes, integrated into the class structure (e.g., Harackiewicz et al.
+2016a, Miyake et al. 2010). There are methodological trade-offs associated with each mode of
+delivery. Lab studies offer the greatest control and opportunity for in-depth assessment of targeted processes. For example, Brady and colleagues (2016) were able to explore self-affirmation
+and recursive processes by bringing participants back into the lab two years after participating in
+a laboratory-based values affirmation study. Similarly, Stephens et al. (2015) were able to collect
+physiological data to examine recursive processes two years after a differences education intervention. However, any time participants are brought back to the lab for follow-up, researchers must
+contend with attrition and problems of self-selection that undercut the power of randomization
+at the original point of implementation. Selection bias may also apply when students are recruited
+for advising or orientation sessions scheduled outside of classes. Although randomization within
+these contexts allows evaluation of treatment effects within the sample, the generalizability of the
+studies is unclear. In these cases, it is imperative that researchers describe recruitment procedures
+and characterize their sample relative to the targeted population. The inclusion of campus-wide
+control groups (e.g., Walton & Cohen 2011, Stephens et al. 2014) can be helpful in this process.
+When interventions are embedded in prematriculation activities or incorporated into class
+curricula, samples are more representative of the targeted population, with fewer concerns about
+selection bias. However, it is essential to track whether all students complete prematriculation
+and required course assignments to evaluate treatment compliance and fidelity (O’Donnell 2008,
+Hulleman & Cordray 2009). Implementation in these contexts requires close collaboration with
+course instructors or deans to ensure that materials are appropriate for the context and that
+randomization is carried out properly. Moreover, when working in these contexts, it is important
+to design control conditions that are plausible, i.e., that have pedagogical value (in the case of
+course-based interventions) or make sense as prematriculation orientation activities. For example,
+in control conditions of the utility-value intervention study in biology classes (Harackiewicz et al.
+2016a), students were asked to write essays summarizing course material, whereas students in the
+intervention condition were asked to summarize information and then explain the relevance and
+utility value of that information. Thus, the intervention had pedagogical value for all students,
+which could justify its inclusion in curricula. The major disadvantage of these approaches is that it
+is much more difficult to examine targeted processes. There are limited opportunities to administer
+questionnaires, let alone measure physiological data. Even when possible, there are risks: The more
+that data collection is added to the course or orientation, the more that it will be experienced as a
+research study, reducing the authenticity and potential generalizability of the findings.
+Thus, all delivery methods have benefits and disadvantages. Intervention scientists must consider the goals of their study. A study that aims to test process questions is perhaps best conducted
+in the laboratory. However, a study that aims to test how the intervention works in the field
+will need to be embedded in the educational context (i.e., the course, prematriculation activities,
+orientation, or advising sessions, depending on the intervention). Indeed, there is an important
+interplay between laboratory and context-embedded studies: Interventions tested in the lab are
+430
+
+Harackiewicz
+
+·
+
+Priniski
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+scaled up for field tests, which then suggest additional process questions to be tested in the lab,
+so that the intervention can be refined. For example, after their analyses of values affirmation
+essays from field studies, Shnabel et al. (2013) and Tibbetts et al. (2016a) returned to the lab to
+manipulate writing themes to test their field-driven hypotheses.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Implementation: Who and Why?
+In the range of intervention studies reviewed above, researchers have targeted different groups
+of students in different contexts—women in physics classes and engineering programs, African
+American students at a selective university, students who struggle on early exams in psychology
+classes, etc.—as well as broader groups of students. For example, Yeager et al. (2016) targeted
+disadvantaged students, defined differently in each of three studies, based on historical achievement data in each context: In study 1, all participants were either URM or FG students; in
+study 2, the disadvantaged group included all African American, Latino, and FG students; in
+study 3, the disadvantaged group included all African American, Latino, Native, Pacific Islander,
+and FG students. Harackiewicz et al. (2012) targeted all parents and teens with their directly communicated utility-value intervention. Other researchers targeted narrower groups of students at
+the intersection of two dimensions—i.e., low-performing males in psychology classes (Hulleman
+et al. 2017) and FG-URM students in biology classes (Harackiewicz et al. 2016a). The dizzying
+array of populations targeted in the studies reviewed above indicates how differently problems
+have been conceptualized and how difficult it is to compare results across studies.
+Given that targeted interventions focus on specific educational problems for particular groups
+of students, it is important to consider the individual characteristics that may predispose students
+to benefit from a given intervention. For example, framing and values affirmation interventions
+have proven to alleviate belonging concerns, thus promoting academic performance for underrepresented students (e.g., African American students in college, women in physics) and students
+with a low sense of belonging. Utility-value interventions have been powerful in improving performance for students who struggle in a class and for students with strong helping motives by
+increasing their engagement with course content and helping them to connect the material to
+their own lives and goals. In order to implement an intervention with maximum effectiveness, it
+is important to consider the specific processes that social-psychological interventions target and
+how those processes vary across different populations.
+If interventions target a general process, such as belonging concerns in the transition to college,
+it may be theoretically consistent to target all disadvantaged students in that context. With other
+interventions, however, hypotheses may be more specific. We recommend that researchers (continue to) conduct pilot work and use focus groups (e.g., Walton et al. 2015) to assess the problem,
+population, and context. This process has two major benefits. First, baseline assessment and focus
+groups can help identify which type of intervention might be appropriate in a given context and
+which groups might be most responsive that intervention (e.g., Harackiewicz et al. 2016a). Second,
+a deeper understanding of the context will provide insight into the ways in which intervention
+materials can be customized to be most resonant with students. When assessing students’ motivational profiles, it is important to remember that students’ identities overlap and intersect, with
+implications for intervention. For example, an intervention that benefits women may not benefit
+FG students, and FG women may have a unique set of needs that would not be well addressed by
+either interventions for women or interventions for FG students (Cole 2009).
+In addition to the intersectionality of demographic categories (e.g., race and gender), it may be
+fruitful to consider overlap between demographic categories and psychological variables. Layous
+and colleagues’ (2017) work suggests that values affirmation interventions can be effective for
+www.annualreviews.org • The Science of Targeted Intervention
+
+431
+
+ARI
+
+14 November 2017
+
+8:28
+
+any student with belonging concerns. Does this fully explain the benefits of values affirmation for
+underrepresented minorities or FG students? Likewise, interventions that target achievement gaps
+may be working primarily through benefits for low performers or through other characteristics
+of the group. For example, Yeager and colleagues’ (2016) definition of disadvantaged students
+as groups with a history of poor performance raises the interesting possibility that the positive
+effects of social belonging interventions could be indicative of positive effects for poor performers
+more generally.
+As a final note, we think it will be important in future work to conduct more fine-grained analyses of intervention mechanisms for different groups. Much of the work in this review investigates
+mechanism in terms of psychological processes or behaviors affected by the intervention, and this
+work is crucial. However, there is another, more proximal layer of mechanism that has been gaining attention in recent work. Nearly all of the interventions in this review involve some amount
+of writing, and text analysis of students’ essays may offer new insights into how different groups
+internalize intervention messages and what types of writing interventions have the greatest benefits for students. Indeed, work by Harackiewicz and colleagues (2016a), Beigman Klebanov and
+colleagues (2017), Shnabel and colleagues (2013), and Tibbetts and colleagues (2016a) demonstrates that these words, direct from students’ pens or keyboards, can reveal underlying intervention
+mechanisms.
+In sum, our review suggests that targeted interventions can be powerful in improving student
+outcomes in higher education. However, there are many theoretical and methodological issues
+to address as we continue to build a toolbox of interventions that target critical problems in
+education. We recommend that researchers and practitioners proceed with cautious optimism and
+continue the arduous but crucial work of understanding how, when, and for whom motivational
+interventions can improve educational outcomes.
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+DISCLOSURE STATEMENT
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that
+might be perceived as affecting the objectivity of this review.
+
+ACKNOWLEDGMENTS
+We thank Jilana Boston, Cameron Hecht, and Yoi Tibbetts for helpful comments on earlier versions of this manuscript. This research was supported by the National Institutes of Health (grant
+R01GM102703). This research was also supported by the the Institute of Education Sciences,
+US Department of Education, through award R305B15003 to the University of Wisconsin–
+Madison. The opinions expressed are those of the authors and do not represent the views of
+the US Department of Education or the National Institutes of Health.
+LITERATURE CITED
+Acee TW, Weinstein CE. 2010. Effects of a value-reappraisal intervention on statistics students’ motivation
+and performance. J. Exp. Educ. 78:487–512
+Aronson E. 1999. The power of self-persuasion. Am. Psychol. 54:875–84
+Aronson J, Fried CB, Good C. 2002. Reducing the effects of stereotype threat on African American college
+students by shaping theories of intelligence. J. Exp. Soc. Psychol. 38:113–25
+Beigman Klebanov B, Burstein J, Harackiewicz JM, Priniski SJ, Mulholland M. 2017. Reflective writing about
+the utility value of science as a tool for increasing STEM motivation and retention—can AI help scale
+up? Int. J. Artif. Intell. Educ. In press
+432
+
+Harackiewicz
+
+·
+
+Priniski
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Blackwell LS, Trzesniewski KH, Dweck CS. 2007. Implicit theories of intelligence predict achievement across
+an adolescent transition: a longitudinal study and an intervention. Child Dev. 78:246–63
+Borman GD, Grigg J, Hanselman P. 2016. An effort to close achievement gaps at scale through self-affirmation.
+Educ. Eval. Policy Anal. 38:21–42
+Bowen NK, Wegmann KM, Webber KC. 2013. Enhancing a brief writing intervention to combat stereotype
+threat among middle-school students. J. Educ. Psychol. 105:427–35
+Brady ST, Reeves SL, Garcia J, Purdie-Vaughns V, Cook JE, et al. 2016. The psychology of the affirmed
+learner: spontaneous self-affirmation in the face of stress. J. Educ. Psychol. 108:353–73
+Browman AS, Destin M. 2016. The effects of a warm or chilly climate toward socioeconomic diversity on
+academic motivation and self-concept. Personal. Soc. Psychol. Bull. 42:172–87
+Brown E, Smith J, Thoman D, Allen J, Muragishi G. 2015. From bench to bedside: a communal utility value
+intervention to enhance students’ biomedical science motivation. J. Educ. Psychol. 107:1116–35
+Canning EA, Harackiewicz JM. 2015. Teach it, don’t preach it: the differential effects of directlycommunicated and self-generated utility-value information. Motiv. Sci. 1:47–71
+Canning EA, Harackiewicz JM, Priniski SP, Hecht CA, Tibbetts Y, Hyde JS. 2018. Improving performance
+and retention in introductory biology with a utility-value intervention. J. Educ. Psychol. In press
+Cohen GL, Garcia J, Apfel N, Master A. 2006. Reducing the racial achievement gap: a social-psychological
+intervention. Science 313:1307–10
+Cohen GL, Garcia J, Purdie-Vaughns V, Apfel N, Brzustoski P. 2009. Recursive processes in self-affirmation:
+intervening to close the minority achievement gap. Science 324:400–3
+Cohen GL, Sherman DK. 2014. The psychology of change: self-affirmation and social psychological intervention. Annu. Rev. Psychol. 65:333–71
+Cole ER. 2009. Intersectionality and research in psychology. Am. Psychol. 64:170–80
+Cook JE, Purdie-Vaughns V, Garcia J, Cohen GL. 2012. Chronic threat and contingent belonging: protective
+benefits of values affirmation on identity development. J. Personal. Soc. Psychol. 102:479–96
+Dee TS. 2015. Social identity and achievement gaps: evidence from an affirmation intervention. J. Res. Educ.
+Eff. 8:149–68
+Durik AM, Hulleman CS, Harackiewicz JM. 2015. One size fits some: Instructional enhancements to promote interest don’t work the same for everyone. In Interest in Mathematics and Science Learning, ed. KA
+Renninger, M Nieswandt, S Hidi, pp. 49–62. Washington, DC: Am. Educ. Res. Assoc.
+Dweck CS. 1999. Self-Theories: Their Role in Motivation, Personality, and Development. Philadelphia: Psychol.
+Press
+Eccles J, Adler T, Futterman R, Goff S, Kaczala C, Meece J. 1983. Expectations, values and academic behaviors.
+In Perspective on Achievement and Achievement Motivation, ed. JT Spence, pp. 75–146. San Francisco:
+W. H. Freeman
+Eccles JS, Wigfield A. 2002. Motivational beliefs, values, and goals. Annu. Rev. Psychol. 53:109–32
+Gaspard H, Dicke A-L, Flunger B, Brisson BM, Häfner I, et al. 2015. Fostering adolescents’ value beliefs for
+mathematics with a relevance intervention in the classroom. Dev. Psychol. 51:1226–40
+Hall NC, Perry RP, Goetz T, Ruthig JC, Stupnisky RH, Newall NE. 2007. Attributional retraining and elaborative learning: improving academic development through writing-based interventions. Learn. Individ.
+Differ. 17:280–90
+Hanselman P, Bruch SK, Gamoran A, Borman GD. 2014. Threat in context: school moderation of the impact
+of social identity threat on racial/ethnic achievement gaps. Sociol. Educ. 87:106–24
+Hanselman P, Rozek CS, Grigg J, Borman GD. 2017. New evidence on self-affirmation effects and theorized
+sources of heterogeneity from large-scale replications. J. Educ. Psychol. 109:405–24
+Harackiewicz JM, Canning EA, Tibbetts Y, Giffen CJ, Blair SS, et al. 2014a. Closing the social class achievement gap for first-generation students in undergraduate biology. J. Educ. Psychol. 106:375–89
+Harackiewicz JM, Canning EA, Tibbetts Y, Priniski SJ, Hyde JS. 2016a. Closing achievement gaps with a
+utility-value intervention: disentangling race and social class. J. Personal. Soc. Psychol. 111:745–65
+Harackiewicz JM, Hulleman CS. 2010. The importance of interest: the role of achievement goals and task
+values in promoting the development of interest. Soc. Personal. Psychol. Compass 4:42–52
+Harackiewicz JM, Rozek CS, Hulleman CS, Hyde JS. 2012. Helping parents to motivate adolescents in
+mathematics and science: an experimental test of a utility-value intervention. Psychol. Sci. 23:899–906
+www.annualreviews.org • The Science of Targeted Intervention
+
+433
+
+ARI
+
+14 November 2017
+
+8:28
+
+Harackiewicz JM, Smith JL, Priniski SJ. 2016b. Interest matters: the importance of promoting interest in
+education. Policy Insights Behav. Brain Sci. 3:220–27
+Harackiewicz JM, Tibbetts Y, Canning EA, Hyde JS. 2014b. Harnessing values to promote motivation in
+education. In Advances in Motivation and Achievement, ed. SA Karabenick, TC Urden, pp. 71–105. Bingley,
+UK: Emerald Group Publ. Ltd.
+Haynes TL, Ruthig JC, Perry RP, Stupnisky RH, Hall NC. 2006. Reducing the academic risks of overoptimism: the longitudinal effects of attributional retraining on cognition and achievement. Res. High.
+Educ. 47:755–79
+Hulleman CS, Cordray DS. 2009. Moving from the lab to the field: the role of fidelity and achieved intervention
+strength. J. Res. Educ. Eff. 2:88–110
+Hulleman CS, Godes O, Hendricks BL, Harackiewicz JM. 2010. Enhancing interest and performance with a
+utility value intervention. J. Educ. Psychol. 102:880–95
+Hulleman CS, Harackiewicz JM. 2009. Promoting interest and performance in high school science classes.
+Science 326:1410–12
+Hulleman CS, Kosovich JJ, Barron KE, Daniel DB. 2017. Making connections: replicating and extending the
+utility value intervention in the classroom. J. Educ. Psychol. 109:387–404
+Jamieson JP, Peters BJ, Greenwood EJ, Altose AJ. 2016. Reappraising stress arousal improves performance
+and reduces evaluation anxiety in classroom exam situations. Soc. Psychol. Personal. Sci. 7:579–87
+Johnson ML, Sinatra GM. 2013. Use of task-value instructional inductions for facilitating engagement and
+conceptual change. Contemp. Educ. Psychol. 38:51–63
+Kizilcec RF, Saltarelli AJ, Reich J, Cohen GL. 2017. Closing global achievement gaps in MOOCs: Brief
+interventions address social identity threat at scale. Science 355:251–52
+Landau MJ, Oyserman D, Keefer LA, Smith GC. 2014. The college journey and academic engagement: how
+metaphor use enhances identity-based motivation. J. Personal. Soc. Psychol. 106:679–98
+Layous K, Davis EM, Garcia J, Purdie-Vaughns V, Cook JE, et al. 2017. Feeling left out, but affirmed:
+protecting against the negative effects of low belonging in college. J. Exp. Soc. Psychol. 69:227–31
+Lazowski RA, Hulleman CS. 2016. Motivation interventions in education: a meta-analytic review. Rev. Educ.
+Res. 86:602–40
+Miyake A, Kost-Smith LE, Finkelstein ND, Pollock SJ, Cohen GL, et al. 2010. Reducing the gender achievement gap in college science: a classroom study of values affirmation. Science 330:1234–37
+O’Donnell CL. 2008. Defining, conceptualizing, and measuring fidelity of implementation and its relationship
+to outcomes in K-12 curriculum intervention research. Rev. Educ. Res. 78:33–84
+Paunesku D, Walton GM, Romero C, Smith EN, Yeager DS, Dweck CS. 2015. Mind-set interventions are
+a scalable treatment for academic underachievement. Psychol. Sci. 26:784–93
+Perry RP, Chipperfield JG, Hladkyj S, Pekrun R, Hamm JM. 2014. Attribution-based treatment interventions
+in some achievement settings. Adv. Motiv. Achiev. 18:1–35
+Perry RP, Hamm JM. 2017. An attribution perspective on competence and motivation: theory and treatment
+interventions. In Handbook of Competence and Motivation: Theory and Application, ed. AJ Elliot, CS Dweck,
+DS Yeager, pp. 61–84. New York: Guilford Press. 2nd ed.
+Perry RP, Stupnisky RH, Hall NC, Chipperfield JG, Weiner B. 2010. Bad starts and better finishes: attributional retraining and initial performance in competitive achievement settings. J. Soc. Clin. Psychol.
+29:668–700
+Pennebaker JW, Booth RJ, Francis ME. 2007. Linguistic inquiry and word count: LIWC. Software.
+http://liwc.wpengine.com/
+Protzko J, Aronson J. 2016. Context moderates affirmation effects on the ethnic achievement gap. Soc. Psychol.
+Personal. Sci. 7:500–7
+Ross L, Nisbett RE. 2011. The Person and the Situation: Perspectives of Social Psychology. London: Pinter &
+Martin
+Rozek CS, Svoboda RC, Harackiewicz JM, Hulleman CS, Hyde JS. 2017. Utility-value intervention with
+parents increases students’ STEM preparation and career pursuit. PNAS 114:909–14
+Schwartz DL, Cheng KM, Salehi S, Wieman C. 2016. The half empty question for socio-cognitive interventions. J. Educ. Psychol. 108:297–404
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+434
+
+Harackiewicz
+
+·
+
+Priniski
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+PS69CH17-Harackiewicz
+
+ARI
+
+14 November 2017
+
+8:28
+
+Sherman DK, Hartson KA, Binning KR, Purdie-Vaughns V, Garcia J, et al. 2013. Deflecting the trajectory and
+changing the narrative: how self-affirmation affects academic performance and motivation under identity
+threat. J. Personal. Soc. Psychol. 104:591–618
+Shnabel N, Purdie-Vaughns V, Cook JE, Garcia J, Cohen GL. 2013. Demystifying values-affirmation interventions: Writing about social belonging is a key to buffering against identity threat. Personal. Soc. Psychol.
+B 39:663–76
+Steele CM. 1988. The psychology of self-affirmation: sustaining the integrity of the self. Adv. Exp. Soc. Psychol.
+21:261–302
+Stephens NM, Fryberg SA, Markus HR, Johnson CS, Covarrubias R. 2012. Unseen disadvantage:
+how American universities’ focus on independence undermines the academic performance of firstgeneration college students. J. Personal. Soc. Psychol. 102:1178–97
+Stephens NM, Hamedani MG, Destin M. 2014. Closing the social-class achievement gap: A differenceeducation intervention improves first-generation students’ academic performance and all students’ college
+transition. Psychol. Sci. 25:943–53
+Stephens NM, Townsend SS, Hamedani MG, Destin M, Manzo V. 2015. A difference-education intervention
+equips first-generation college students to thrive in the face of stressful college situations. Psychol. Sci.
+26:1556–66
+Thoman DB, Brown ER, Mason AZ, Harmsen AG, Smith JL. 2015. The role of altruistic values in motivating
+underrepresented minority students for biomedicine. BioScience 65:183–88
+Thoman DB, Muragishi GA, Smith JL. 2017. Research microcultures as socialization contexts for underrepresented science students. Psychol. Sci. 28:760–73
+Tibbetts Y, Harackiewicz JM, Canning EA, Boston JS, Priniski SJ, et al. 2016a. Affirming independence: exploring mechanisms underlying a values affirmation intervention for first-generation students. J. Personal.
+Soc. Psychol. 110:635–59
+Tibbetts Y, Harackiewicz JM, Priniski SJ, Canning EA. 2016b. Broadening participation in the life sciences
+with social-psychological interventions. CBE Life Sci. Educ. 15:es4
+Walton GM. 2014. The new science of wise psychological interventions. Curr. Dir. Psychol. Sci. 23:73–82
+Walton GM, Cohen GL. 2007. A question of belonging: race, social fit, and achievement. J. Personal. Soc.
+Psychol. 92:82–96
+Walton GM, Cohen GL. 2011. A brief social-belonging intervention improves academic and health outcomes
+among minority students. Science 331:1447–51
+Walton GM, Logel C, Peach JM, Spencer SJ, Zanna MP. 2015. Two brief interventions to mitigate a “chilly
+climate” transform women’s experience, relationships, and achievement in engineering. J. Educ. Psychol.
+107:468–85
+Weiner B. 1974. Achievement Motivation and Attribution Theory. Morristown, NJ: General Learning Press
+Wilson TD. 2006. The power of social psychological interventions. Science 313:1251–52
+Wilson TD. 2011. Redirect: The Surprising New Science of Psychological Change. New York: Little, Brown
+Wilson TD, Linville PW. 1982. Improving the academic performance of college freshmen: attribution therapy
+revisited. J. Personal. Soc. Psychol. 42:367–76
+Wilson TD, Linville PW. 1985. Improving the performance of college freshmen with attributional techniques.
+J. Personal. Soc. Psychol. 49:287–93
+Yeager DS, Henderson MD, Paunesku D, Walton GM, D’Mello S, et al. 2014. Boring but important: A selftranscendent purpose for learning fosters academic self-regulation. J. Personal. Soc. Psychol. 107:559–80
+Yeager DS, Walton GM. 2011. Social-psychological interventions in education: They’re not magic. Rev. Educ.
+Res. 81:267–301
+Yeager DS, Walton GM, Brady ST, Akcinar EN, Paunesku D, et al. 2016. Teaching a lay theory before
+college narrows achievement gaps at scale. PNAS 113:E3341–48
+
+www.annualreviews.org • The Science of Targeted Intervention
+
+435
+
+ANNUAL REVIEWS
+Connect With Our Experts
+
+New From Annual Reviews:
+
+ONLINE NOW!
+
+Annual Review of Cancer Biology
+
+cancerbio.annualreviews.org • Volume 1 • March 2017
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Co-Editors: Tyler Jacks, Massachusetts Institute of Technology
+Charles L. Sawyers, Memorial Sloan Kettering Cancer Center
+The Annual Review of Cancer Biology reviews a range of subjects representing important and emerging areas in the field of cancer
+research. The Annual Review of Cancer Biology includes three broad themes: Cancer Cell Biology, Tumorigenesis and Cancer
+Progression, and Translational Cancer Science.
+
+TABLE OF CONTENTS FOR VOLUME 1:
+
+•	 How Tumor Virology Evolved into Cancer Biology and
+Transformed Oncology, Harold Varmus
+•	 The Role of Autophagy in Cancer, Naiara Santana-Codina,
+Joseph D. Mancias, Alec C. Kimmelman
+•	 Cell Cycle–Targeted Cancer Therapies, Charles J. Sherr,
+Jiri Bartek
+•	 Ubiquitin in Cell-Cycle Regulation and Dysregulation
+in Cancer, Natalie A. Borg, Vishva M. Dixit
+•	 The Two Faces of Reactive Oxygen Species in Cancer,
+Colleen R. Reczek, Navdeep S. Chandel
+•	 Analyzing Tumor Metabolism In Vivo, Brandon Faubert,
+Ralph J. DeBerardinis
+•	 Stress-Induced Mutagenesis: Implications in Cancer
+and Drug Resistance, Devon M. Fitzgerald, P.J. Hastings,
+Susan M. Rosenberg
+•	 Synthetic Lethality in Cancer Therapeutics,
+Roderick L. Beijersbergen, Lodewyk F.A. Wessels,
+René Bernards
+•	 Noncoding RNAs in Cancer Development, Chao-Po Lin,
+Lin He
+•	 p53: Multiple Facets of a Rubik’s Cube, Yun Zhang,
+Guillermina Lozano
+•	 Resisting Resistance, Ivana Bozic, Martin A. Nowak
+•	 Deciphering Genetic Intratumor Heterogeneity
+and Its Impact on Cancer Evolution, Rachel Rosenthal,
+Nicholas McGranahan, Javier Herrero, Charles Swanton
+
+•	 Immune-Suppressing Cellular Elements of the Tumor
+Microenvironment, Douglas T. Fearon
+•	 Overcoming On-Target Resistance to Tyrosine Kinase
+Inhibitors in Lung Cancer, Ibiayi Dagogo-Jack,
+Jeffrey A. Engelman, Alice T. Shaw
+•	 Apoptosis and Cancer, Anthony Letai
+•	 Chemical Carcinogenesis Models of Cancer: Back
+to the Future, Melissa Q. McCreery, Allan Balmain
+•	 Extracellular Matrix Remodeling and Stiffening Modulate
+Tumor Phenotype and Treatment Response,
+Jennifer L. Leight, Allison P. Drain, Valerie M. Weaver
+•	 Aneuploidy in Cancer: Seq-ing Answers to Old Questions,
+Kristin A. Knouse, Teresa Davoli, Stephen J. Elledge,
+Angelika Amon
+•	 The Role of Chromatin-Associated Proteins in Cancer,
+Kristian Helin, Saverio Minucci
+•	 Targeted Differentiation Therapy with Mutant IDH Inhibitors:
+Early Experiences and Parallels with Other Differentiation
+Agents, Eytan Stein, Katharine Yen
+•	 Determinants of Organotropic Metastasis, Heath A. Smith,
+Yibin Kang
+•	 Multiple Roles for the MLL/COMPASS Family in the
+Epigenetic Regulation of Gene Expression and in Cancer,
+Joshua J. Meeks, Ali Shilatifard
+•	 Chimeric Antigen Receptors: A Paradigm Shift
+in Immunotherapy, Michel Sadelain
+
+ANNUAL REVIEWS | CONNECT WITH OUR EXPERTS
+650.493.4400/800.523.8635 (us/can)
+www.annualreviews.org | service@annualreviews.org
+
+PS69-FrontMatter
+
+ARI
+
+30 November 2017
+
+20:46
+
+Annual Review of
+Psychology
+Volume 69, 2018
+
+Contents
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+The Properties and Antecedents of Hedonic Decline
+Jeff Galak and Joseph P. Redden p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 1
+How We Hear: The Perception and Neural Coding of Sound
+Andrew J. Oxenham p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p27
+The Psychology of Music: Rhythm and Movement
+Daniel J. Levitin, Jessica A. Grahn, and Justin London p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p51
+Multistable Perception and the Role of Frontoparietal Cortex
+in Perceptual Inference
+Jan Brascamp, Philipp Sterzer, Randolph Blake, and Tomas Knapen p p p p p p p p p p p p p p p p p p p p p p77
+Ensemble Perception
+David Whitney and Allison Yamanashi Leib p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 105
+Neuro-, Cardio-, and Immunoplasticity: Effects of Early Adversity
+Eric Pakulak, Courtney Stevens, and Helen Neville p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 131
+Prefrontal Cortex and Neurological Impairments of Active Thought
+Tim Shallice and Lisa Cipolotti p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 157
+Infant Statistical Learning
+Jenny R. Saffran and Natasha Z. Kirkham p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 181
+How Children Solve the Two Challenges of Cooperation
+Felix Warneken p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 205
+Linking Language and Cognition in Infancy
+Danielle R. Perszyk and Sandra R. Waxman p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 231
+Cognitive Foundations of Learning from Testimony
+Paul L. Harris, Melissa A. Koenig, Kathleen H. Corriveau, and Vikram K. Jaswal p p p 251
+Gender Stereotypes
+Naomi Ellemers p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 275
+Attitudes and Attitude Change
+Dolores Albarracin and Sharon Shavitt p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 299
+
+vi
+
+PS69-FrontMatter
+
+ARI
+
+30 November 2017
+
+20:46
+
+Persuasion, Influence, and Value: Perspectives from Communication
+and Social Neuroscience
+Emily Falk and Christin Scholz p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 329
+Social Mobilization
+Todd Rogers, Noah J. Goldstein, and Craig R. Fox p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 357
+
+Annu. Rev. Psychol. 2018.69:409-435. Downloaded from www.annualreviews.org
+Access provided by University of Texas - Austin on 01/19/18. For personal use only.
+
+Developmental Origins of Chronic Physical Aggression:
+A Bio-Psycho-Social Model for the Next Generation of Preventive
+Interventions
+Richard E. Tremblay, Frank Vitaro, and Sylvana M. Côté p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 383
+Improving Student Outcomes in Higher Education: The Science
+of Targeted Intervention
+Judith M. Harackiewicz and Stacy J. Priniski p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 409
+Why Social Relationships Are Important for Physical Health: A Systems
+Approach to Understanding and Modifying Risk and Protection
+Julianne Holt-Lunstad p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 437
+Principles and Challenges of Applying Epigenetic Epidemiology
+to Psychology
+Meaghan J. Jones, Sarah R. Moore, and Michael S. Kobor p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 459
+Psychology, Science, and Knowledge Construction: Broadening
+Perspectives from the Replication Crisis
+Patrick E. Shrout and Joseph L. Rodgers p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 487
+Psychology’s Renaissance
+Leif D. Nelson, Joseph Simmons, and Uri Simonsohn p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 511
+Indexes
+Cumulative Index of Contributing Authors, Volumes 59–69 p p p p p p p p p p p p p p p p p p p p p p p p p p p 535
+Cumulative Index of Article Titles, Volumes 59–69 p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 540
+Errata
+An online log of corrections to Annual Review of Psychology articles may be found at
+http://www.annualreviews.org/errata/psych
+
+Contents
+
+vii
+
+

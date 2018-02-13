@@ -1,0 +1,1803 @@
+Clinical Psychological Science
+http://cpx.sagepub.com/
+
+Preventing Symptoms of Depression by Teaching Adolescents That People Can Change: Effects of a
+Brief Incremental Theory of Personality Intervention at 9-Month Follow-Up
+Adriana Sum Miu and David Scott Yeager
+Clinical Psychological Science published online 15 September 2014
+DOI: 10.1177/2167702614548317
+The online version of this article can be found at:
+http://cpx.sagepub.com/content/early/2014/09/15/2167702614548317
+
+Published by:
+http://www.sagepublications.com
+
+On behalf of:
+
+Association for Psychological Science
+
+Additional services and information for Clinical Psychological Science can be found at:
+Email Alerts: http://cpx.sagepub.com/cgi/alerts
+Subscriptions: http://cpx.sagepub.com/subscriptions
+Reprints: http://www.sagepub.com/journalsReprints.nav
+Permissions: http://www.sagepub.com/journalsPermissions.nav
+
+>> OnlineFirst Version of Record - Sep 15, 2014
+What is This?
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+548317
+
+research-article2014
+
+CPXXXX10.1177/2167702614548317Miu, YeagerImplicit Theories and Depression
+
+Empirical Article
+
+Preventing Symptoms of Depression by
+Teaching Adolescents That People Can
+Change: Effects of a Brief Incremental
+Theory of Personality Intervention at
+9-Month Follow-Up
+
+Clinical Psychological Science
+﻿1­–18
+© The Author(s) 2014
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/2167702614548317
+cpx.sagepub.com
+
+Adriana Sum Miu1 and David Scott Yeager2
+1
+
+Department of Psychology, Emory University, and 2Department of Psychology, University of Texas at Austin
+
+Abstract
+The transition to high school coincides with an increase in the prevalence of depressive symptoms. Could this be
+due in part to increasing beliefs about the fixedness of personal traits at a time of frequent social setbacks? And
+could teaching adolescents that people can change help prevent the increase in depressive symptoms? A longitudinal
+intervention experiment involved three independent samples of students entering high school (N = 599). A brief selfadministered reading and writing activity taught an incremental theory of personality—the belief that people’s socially
+relevant characteristics have the potential to change. The intervention reduced the incidence of clinically significant
+levels of self-reported depressive symptoms 9 months postintervention by nearly 40% among adolescents assigned
+to the intervention condition, compared with control participants. Analyses of symptom clusters, measures of selfesteem, and measures of natural language use explored the outcomes that did and did not show treatment effects.
+Moderation analyses confirmed theoretical expectations. Among adolescents assigned to the control condition, those
+who endorsed more of an entity theory of personality—believing people cannot change—showed greater increases in
+depressive symptoms during the year. The effect of this risk factor was eliminated by the intervention.
+Keywords
+cognitive theories of depression, implicit theories, universal prevention, developmental psychopathology,
+psychological interventions
+Received 12/3/13; Revision accepted 7/16/14
+
+Major depressive disorder (MDD) is a serious publichealth and human-capital problem (Kessler, Chiu,
+Demler, & Walters, 2005; Mathers, Fat, & Boerma, 2008).
+Many lifelong cases have their origins in midadole­
+scence, when the prevalence of depression rises
+­substantially (Merikangas et al., 2010). Indeed, adolescence is a developmental period characterized by
+school transitions filled with social adversity (Barber &
+Olsen, 2004; Benner, 2011; Newman, Newman, Griffen,
+O’Connor, & Spas, 2007) as well as by pubertal and
+cognitive changes (Avenevoli & Steinberg, 2002). These
+factors may contribute to the onset of depressive symptoms as well as eventual diagnoses of MDD (Newman
+et al., 2007).
+
+Many programs have attempted to prevent increases in
+the prevalence of MDD and other internalizing symptoms
+during adolescence (Muñoz, Cuijpers, Smit, Barrera, &
+Leykin, 2010; Stice, Shaw, Bohon, Marti, & Rohde, 2009).
+Selective and indicated preventative interventions lasting
+many weeks and requiring intensive training have had
+small to medium effect sizes on average (Garber et  al.,
+2009; Gillham, Hamilton, Freres, Patton, & Gallop, 2006;
+Horowitz & Garber, 2006). Yet universal preventative
+Corresponding Author:
+David Scott Yeager, Department of Psychology, University of Texas at
+Austin, 108 E. Dean Keeton Stop A8000, Austin, Texas 78712
+E-mail: dyeager@utexas.edu
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+2	
+interventions—those delivered to large groups of adolescents regardless of level of risk—have so far yielded a
+disappointing meta-analytic average (d = 0.02; Stice et al.,
+2009). For example, Spence, Sheffield, and Donovan
+(2003) delivered a universal preventative intervention lasting eight classroom sessions to more than 1,000 high
+school students. The intervention unfortunately increased
+the incidence of clinically significant levels of depressive
+symptoms a year later by 2 percentage points (also see
+Sheffield et al., 2006; Wong et al., 2012). This type of result
+raises the possibility that there are underlying causes of
+adolescence-onset depression that are not fully understood or successfully targeted by existing universal prevention approaches (see McLaughlin, 2011). A crucial
+scientific and public-health objective is to close this gap in
+knowledge (see Muñoz et al., 2010).
+To do this, we build on cognitive theories of depression (Beck, 1976, 2008; Disner, Beevers, Haigh, & Beck,
+2011; Gotlib & Joormann, 2010; Lakdawalla, Hankin, &
+Mermelstein, 2007). These theories emphasize that the
+hopelessness and despair that feed into depression can
+result in part from the belief that one’s social adversities
+are likely to be a fixed, stable part of one’s future
+(Abramson, Seligman, & Teasdale, 1978; Janoff-Bulman,
+1979; also see Graham & Juvonen, 1998; Tangney,
+Stuewig, & Mashek, 2007). We propose that if despair has
+its basis in a worldview that negative events cannot
+change, then perhaps teaching adolescents about the
+potential for change could provide a foundation for hope.
+This might prevent adolescents from developing symptoms of depression during times of social adversity, such
+as the 1st year of high school (see Benner, 2011; Crosnoe,
+2011).
+Indeed, a large amount of past research has focused
+on implicit theories of personality, which are people’s
+underlying assumptions about the malleability of personal characteristics (Chiu, Hong, & Dweck, 1997; Dweck,
+1999; Erdley, Loomis, Cain, & Dumas-Hines, 1997; Yeager,
+Trzesniewski, Tirri, Nokelainen, & Dweck, 2011). Past
+research has consistently shown that if adolescents or
+adults hold a theory that people’s traits are fixed and
+unchangeable—called an entity theory of personality—
+then they are more likely to show helpless responses to
+peer victimization or exclusion (saying, for instance,
+“Maybe I’m just not a likable person”; Erdley et al., 1997;
+Yeager al., 2011; also see Rudolph, 2010; Yeager, Miu,
+Powers, & Dweck, 2013). However, if adolescents are
+taught a theory that people’s traits have the potential to
+change and be developed—called an incremental theory
+of personality—then helplessness is less likely to follow
+(Yeager et  al., 2011; Yeager, Trzesniewski, & Dweck,
+2013). It stands to reason then that an intervention that
+teaches an incremental theory of personality—by providing teens with a belief system that facilitates their ability
+
+to see negative social events as changeable—might prevent or slow the onset of symptoms of depression.
+
+Implicit Theories Are Meaning Systems
+That Shape Responses to Adversity
+Research on implicit theories grows out of a long line of
+experiments reaching back to early research on learned
+helplessness in humans (Diener & Dweck, 1978; Dweck,
+1975; Dweck & Leggett, 1988). Implicit theories have
+been applied to understanding helpless responses to
+social situations (Beer, 2002; Chiu et  al., 1997; Yeager
+et al., 2011) as well as to academic situations (e.g., Dweck
+& Leggett, 1988). Looking broadly across these findings,
+implicit theories are known to operate as schemas for
+understanding the world, acting as a “lens” for focusing
+attention on fixed versus changeable causes of events
+(Chiu et al., 1997; Dweck & Leggett, 1988; Molden, Plaks,
+& Dweck, 2006). Following an adverse event, this focus
+can lead to a corresponding set of helpless versus resilient causal attributions, emotions, and behaviors (e.g.,
+Dweck, 1999; Molden & Dweck, 2006; Yeager & Dweck,
+2012; for a meta-analysis of effects on motivation and
+behavior, see Burnette, O’Boyle, Vanepps, Pollack, &
+Finkel, 2013).
+Although the current research looks directly at the
+impact of implicit theories of personality on symptoms of
+depression during the transition to high school and does
+not explore the psychological processes that might contribute to this effect, here we present a background on
+proximal social-cognitive consequences of implicit theories. Research on implicit theories of intelligence provides a helpful analogy (see, e.g., Dweck & Elliott-Moskwa,
+2010). Specifically, an entity theory of intelligence—­the
+belief that “smartness” is a fixed trait that you either have
+or do not have—has been associated with maladaptive
+explanations for failures in school (Ahmavaara &
+Houston, 2007; Blackwell, Trzesniewski, & Dweck, 2007;
+Hong, Chiu, Dweck, Lin, & Wan, 1999; Robins & Pals,
+2002). This includes self-talk, such as “I’m failing because
+I’m stupid” (Robins & Pals, 2002) or “I guess I’m not very
+smart” (Dweck & Leggett, 1988; see Dweck, 1999).
+Individuals with more of an entity theory, compared with
+those with less, also show more helpless patterns of
+behavior, such as avoiding challenges, hiding deficiencies, or just giving up (Blackwell et al., 2007). Moreover,
+interventions that teach students an incremental, malleable theory of intelligence allow students to show greater
+resilience when making a difficult school transition. In
+one study, students who participated in an incremental
+theory workshop in school showed a clear rebound in
+their declining academic achievement roughly 3 months
+posttreatment, which signified greater resilience
+(Blackwell et al., 2007; see Yeager & Dweck, 2012).
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Implicit Theories and Depression	
+
+3
+
+Implicit Theories of Personality
+Analogously, a number of past investigations have suggested that it may be possible for an implicit theory of
+personality to increase risk for depression. First, implicit
+theories measured on a questionnaire reliably predict
+adverse responses to a social conflict. Yeager et al. (2011,
+Study 1) measured an entity theory of personality and
+asked adolescents to write about a time during which
+they felt left out or excluded by an acquaintance.
+Individuals with more of an entity theory were significantly more likely to say that they “felt bad about” themselves. Similarly, Yeager et al. (2014) found that an entity
+theory of personality predicted greater negative emotionality (negative self-feelings, stress, and anxiety) after an
+experience of peer exclusion—that is, ostracism by peers
+during the Web-based game Cyberball (Williams & Jarvis,
+2006).
+Short-term experimental studies have confirmed a
+causal role for implicit theories of personality. Yeager
+et al. (2011, Study 3) showed that a brief “teen self-help”
+article that had an incremental theory of personality
+embedded within it could alter adolescent participants’
+implicit theories and reduce helpless responses to a bullying scenario, including fewer reports of shame. Yeager,
+Miu, et al. (2013, Study 2) used a slightly more elaborate
+manipulation. Teens read a scientific article that conveyed the possibility of personality change, which was
+followed by quotes from older students who endorsed
+the same message. Participants then wrote a brief essay
+reiterating the incremental theory. This changed implicit
+theories of personality and attributions in response to a
+hypothetical peer conflict. Furthermore, Yeager et  al.
+(2014) showed that this incremental theory intervention
+could reduce negative affect (negative self-feelings, stress,
+and anxiety) after an experience of peer exclusion.
+Finally, incremental theory interventions have induced
+changes in responses to social difficulties up to 1 month
+later. Yeager, Trzesniewski, and Dweck (2013) implemented a face-to-face school-based incremental theory
+workshop that lasted six classroom sessions during a
+3-week period. As expected, at a 2-week follow-up, the
+incremental theory group changed their implicit theories,
+whereas the control group did not. One month later, adolescents completed a seemingly unrelated activity in
+which they were excluded by a peer (again, via Cyberball).
+Compared with control participants, incremental theory
+participants reacted less negatively and more prosocially.
+Furthermore, the six-session classroom intervention
+reduced depressive symptoms among victimized adolescents at a 2-week follow-up (Yeager, Trzesniewski, &
+Dweck, 2013).
+In sum, individual differences in an entity theory of
+personality consistently predict negative affect and
+
+helpless behavior during social adversities. Furthermore,
+teaching its opposite—an incremental theory of personality—can improve short-term reactions to a peer conflict, including behavioral and self-reports of depressive
+symptoms. The present research builds on this and
+focuses on whether the single-session intervention used
+in our earlier study (Yeager, Miu, et al., 2013) could alter
+levels of depressive symptoms many months later across
+the socially difficult transition to high school.
+
+Implicit Theories During the
+Transition to High School
+Implicit theories may be particularly important during a
+sensitive developmental period, such as high school transition. Adolescents entering high school think more about
+peer relationships (e.g., Richards, Crowe, Larson, & Swarr,
+1998) and are more likely to face uncertainty in peer
+relationships, given that 50% of casual friendships change
+during each month of freshmen year of high school
+(Chan & Poulin, 2007). Without a stable social network in
+a new environment, freshmen are more likely to feel anxious about the possibility of being socially excluded,
+which threatens their social status ( Juvonen & Graham,
+2014). In response to potential social conflicts, high
+school students, compared with younger children, are
+more likely to interpret social attributes as fixed and
+unchangeable (e.g., Killen, Kelly, Richardson, & Jampol,
+2010), which means that they are more likely to believe
+social adversities or setbacks to be stable. Given the
+increase of uncertainty in peer relationships and the
+belief in fixed attributes, implicit theories can be especially relevant in interpreting social uncertainties during
+high school transition. Building on this idea, we propose
+that one helpful strategy for preventing the onset of
+depressive symptoms might be to teach an incremental
+theory of personality.
+
+Brief Psychological Interventions
+Somewhat in contrast to the nonsignificant effects of
+comprehensive and time-intensive universal preventative
+interventions for adolescents (Stice et al., 2009), the literature has produced many examples of brief but theoretically precise psychological interventions that have
+affected mental and physical health or academic achievement over time (for reviews, see Cohen & Sherman, 2014;
+Walton, 2014; Yeager & Walton, 2011). For instance,
+research by Pennebaker (1997) and Petrie, Booth, and
+Pennebaker (1998) has shown that expressive writing
+exercises that last just a few minutes can affect reports of
+stress and health weeks or months later and improve
+immune functioning. Walton and Cohen (2011) found
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+4	
+that a 1-hr attributional retraining intervention conducted
+in the 1st year of college could improve minority students’ health, happiness, and grade point averages 3.5
+years later at the end of senior year (for many other
+examples, see Wilson, Damiani, & Shelton, 2002). Even
+though the mediating mechanisms for these psychological interventions are not fully understood, they have an
+important status in clinical and social psychological theory (Pennebaker, 2004; Walton, 2014).
+Informed by these past studies, the present research is
+the first to test the effect of a brief implicit-theories-ofpersonality intervention on longer-term depressive symptoms. This is critical to test because it is a scientific priority
+to identify scalable, brief, and low-cost preventative interventions for depression (Muñoz et al., 2010). Even modest preventative effects, occurring during a critical
+developmental juncture, can have important psychological and policy implications. Such effects can slow or stop
+depression from gaining momentum, thus preventing
+long-term losses in wages or human-capital development
+(e.g., Frieden, 2010; Glasgow, Lichtenstein, & Marcus,
+2003; also see Abelson, 1985; Cohen, Garcia, PurdieVaughns, Apfel, & Brzustoski, 2009). In many cases, this
+possibility justifies the economic cost of even time- and
+labor-intensive preventative interventions. However, the
+marginal cost of teaching an incremental theory to an
+adolescent over the Internet approaches zero. This means
+that if the present brief intervention produced even modest treatment effects, it would have important implications for public health and human capital.
+
+Overview of Present Research
+The present research used a longitudinal, randomized
+intervention experiment to test the causal effect of an
+incremental theory of personality on levels of depressive
+symptoms. Because the incidence of adolescent depression approximately doubles during the high school transition (Costello, Mustillo, Erkanli, Keeler, & Angold, 2003;
+Lewinsohn, Rohde, & Seeley, 1998; Merikangas et  al.,
+2010), we recruited ninth graders at the beginning of the
+school year, before increases in depressive symptoms
+were likely to occur. We hypothesized that adolescents
+who did not receive the treatment would show the typical increase in depressive symptoms but that those who
+learned, in the 1st few weeks of the school year, that
+people can change, might be protected.
+The present research involves nearly identical experiments carried out in three independent samples totaling
+roughly 600 adolescents. The first experiment was small,
+involving just 77 adolescents. The second, a replication,
+was larger, involving 143 students. Both of these were
+conducted to test other research hypotheses. However,
+both included measures of depressive symptoms that
+
+have not been reported elsewhere. Wishing to confirm
+these results, we conducted another experiment, this
+time involving more students (n = 379). We aggregated
+the data from these three studies in what was, in effect, a
+raw-data meta-analysis of original experiments. Thus,
+more reliable effect size estimates were possible (for
+descriptions of raw-data meta-analysis, see Cooper &
+Patall, 2009; Schimmack, 2012).
+These studies used a strict, active-placebo control
+group. In past research, we have compared an incremental theory group with a group receiving no message or
+with a group receiving a more conventional treatment,
+such as a coping-skills treatment (Yeager et  al., 2011;
+Yeager, Trzesniewski, & Dweck, 2013). Thus, in those
+past studies, it was not possible to rule out the alternative
+hypothesis that observed differences between the treatment and control groups were due to the possible benefits of receiving any optimistic message about growth
+and improvement from senior and junior students. To
+overcome this limitation, in some research, we have used
+control conditions that taught an optimistic message
+about change but not specifically about traits relevant to
+peer exclusion or victimization (e.g., study skills or athletic ability; Yeager et al., 2014; Yeager, Miu, et al., 2013).
+In the present study, we did this as well.
+
+Method
+Participants
+Participants came from three schools in Northern
+California (N = 599; 48% female, 52% male). Two schools
+(providing Samples 1 and 3) were in upper-middle-class
+neighborhoods and were generally high performing.
+Students were predominately White (43%) or Asian
+American (46%). Only 6% of these students were eligible
+for free or reduced-price lunch, an indicator of low socioeconomic status. A third school (providing Sample 2) was
+one of the lowest-income and poorest-performing
+schools in the San Francisco Bay Area. Of these students,
+80% were Hispanic/Latino, and 73% were eligible for free
+or reduced-price lunch.1
+Despite these differences in the samples, social adversities were common across samples; on a survey we conducted in the 3rd week of the school year, many students
+(75%) reported being the victim of at least some physical, verbal, or social aggression, and this was not significantly different across schools. Even those students who
+did not experience victimization might be aware of the
+possibility that they could be “next.” Indeed, of the
+minority of students reporting no victimization at baseline, nearly half reported at least some victimization at
+the 9-month follow-up. Thus, there were ample opportunities for all students to experience—or at least worry
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Implicit Theories and Depression	
+
+5
+ll
+
+l
+l
+
+l
+l
+
+l
+
+l
+l
+
+l
+
+n
+
+l
+l
+
+l
+l
+
+l
+
+ll
+
+n
+l I
+
+l
+
+l
+
+n
+
+l
+
+l
+l
+l
+
+Fig. 1.  Flowchart of experimental procedures. CDI = Children’s Depression Inventory.
+
+about experiencing—social adversity involving peers
+(also see Crosnoe, 2011), which could contribute to
+depression in the absence of our intervention (Newman
+et al., 2007).
+Sample 1 was the first study we conducted. We
+recruited all of the students in Algebra 1 in the school,
+which is a lower-performing math class. All provided
+consent: 82 students provided baseline data, and 77 provided follow-up depressive-symptoms data and constituted the analytic sample. Sample 2 was a replication and
+involved all of the students in Algebra 1 at a different,
+lower-performing school; 95% provided consent. Of the
+161 students who completed the baseline survey, 143
+also provided depressive-symptoms data in May. In Study
+3, students entering ninth grade—regardless of math
+placement—were recruited, and 96% provided consent;
+427 provided baseline data and of these, 379 provided
+longitudinal data. Nearly all of the students who did not
+provide longitudinal data were either chronically truant
+or had dropped out of high school or moved. Across
+studies, 66 students did not complete both the baseline
+and the follow-up studies; these students were excluded
+from analyses, but the statistical significance of the results
+was no different when we imputed values and included
+them. A chart that details all data included or excluded
+from analysis is presented in Figure S1 in the Supplemental
+Material available online.
+
+Procedure
+In the 1st week of the school year, in September, parental
+consent was obtained for all students. In the 3rd week,
+students assented and completed an initial survey that
+measured baseline characteristics (e.g., demographics
+and levels of depressive symptoms). One week later, students were randomly assigned to the intervention. In
+May, at the end of the school year, roughly 9 months
+later, students were again surveyed to assess depressive
+
+symptoms (see Fig. 1 for a flowchart of experimental procedures). Some of the students in Sample 2 had poor
+English skills, so we provided them the option of reading
+the intervention in Spanish (which had been translated
+by native Spanish speakers); 7% of Sample 2 participants
+chose to read the intervention in Spanish, and this did
+not differ by condition and did not have an effect on
+experimental outcomes.
+In the current, early stage investigation of the incremental theory intervention, the primary outcome was
+self-reported symptoms of depression—consistent with
+many universal prevention evaluations (Stice et al., 2009).
+Advantages of this approach involve the reduced possibility of sample attrition due to burdens of study participation and the resulting increase in statistical power.
+Disadvantages, of course, involve the need to rely on
+only one measure—for example, meeting a clinical
+threshold on a self-reported measure—to assess the presence of problematic levels of depressive symptoms, as
+well as an inability to assess impact within clinically diagnosed subgroups.
+The intervention procedure is described in greater
+detail in our previous studies (e.g., Yeager, Trzesniewski,
+& Dweck, 2013) and in the Detail on the Experimental
+Intervention section in the Supplemental Material. A brief
+overview follows.
+In the 3rd week of the school year, using a true random-number generator (www.Random.org), researchers
+randomly assigned participants within classrooms—that
+is, at the individual level—into intervention or control
+groups. During normal class time, participants in each
+group completed either an experimental intervention or
+a control activity on paper (Sample 1) or computer
+(Samples 2 and 3) quietly for one class period. The average completion time for the intervention was approximately 25 min. Research assistants who administered the
+interventions were different from those who administered the surveys, and all members of the research team
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+6	
+were blind to participants’ assigned condition throughout
+the study. Teachers were blind to study hypotheses and
+students’ assigned experimental conditions.2 All that was
+required of the teachers or research assistants was to
+keep the class working quietly. No staff person who
+interacted with students (research assistants, teachers)
+was briefed on any of the content of the intervention.
+The treatment intervention taught an incremental theory of personality by presenting evidence that individuals
+have the potential to change. It conveyed that (a) if you
+are excluded or victimized, it is not due to a fixed, personal deficiency on your part; and (b) people who
+exclude or victimize you are not fixed, bad people but,
+instead, have complicated motivations that are subject to
+change. Participants were then asked to read a brief article on actual neuroscience studies that showed that
+behaviors are controlled by “thoughts and feelings in
+their brains” and that such pathways in the brain can be
+changed. This was done to provide adolescents with a
+scientific basis for believing in the potential for change
+(rather than telling adolescents the platitude that “people
+can change”). Afterward, participants read two quotes
+purportedly written by senior and junior students who
+had previously read the same article and endorsed its
+conclusions. As with the scientific summaries, the testimonials were designed to bring credibility to the incremental theory via admired role models (i.e., seniors and
+juniors in one’s high school).
+Finally, participants were asked to write their own version of such a narrative to share with future ninth graders
+by drawing on the examples they had just read from the
+seniors and juniors or on their own experiences in high
+school or middle school. This “saying-is-believing” activity has been shown to facilitate the internalization of the
+intervention message (see Aronson, 1999; Walton &
+Cohen, 2011) and has been implemented before (e.g.,
+Yeager, Trzesniewski & Dweck, 2013). After this one-time
+activity, the intervention was not mentioned again to students by researchers or teachers.
+The control condition was designed to be exactly parallel to the experimental condition, except that the control condition focused on malleability of athletic ability, a
+nonpersonality domain that was never linked directly to
+responses to exclusion or victimization, as the treatment
+was. Nevertheless, athletic ability was also thought to be
+important to adolescents, thus eliminating the possibility
+that simple optimism about the potential for growth in
+any important domain might account for our results. And,
+of course, an entity-theory-of-personality control group
+would have been unethical and, furthermore, would not
+have allowed us to separate the negative effects of learning an entity theory from the positive effects of learning
+an incremental theory.
+
+Measures
+Depressive symptoms. To measure depressive symptoms, we administered the 10-item short form of the Children’s Depression Inventory (CDI:S; Kovacs, 1992) on
+the September and May surveys.3 Each CDI:S item asked
+participants which of three levels of a symptom described
+them best (e.g., 2 = I feel like crying every day, 1 = I feel
+like crying many days, 0 = I feel like crying once in a
+while). The 10 items were summed and showed adequate internal consistency (preintervention α = .82, postintervention α = .87). CDI:S scores were first analyzed
+dichotomously; participants were categorized into clinically significant and nonsignificant symptom levels. We
+selected a cut point of 6 out of 20 points, which corresponds to the 81st to 87th percentile of depressive symptoms (for boys and girls, respectively; Kovacs, 1992),4
+because it best approximates the cut point identified by
+past research as striking the optimal balance between
+false positives and false negatives (Timbremont, Braet, &
+Dreessen, 2004). Dichotomization of continuous measures can sometimes result in misleading conclusions if
+the results are not robust to different cut points and if
+they do not replicate across multiple independent samples (MacCallum, Zhang, Preacher, & Rucker, 2002).
+Therefore, sensitivity analyses were conducted with a cut
+point of 7 out of 20 points, and we present results for all
+three replication samples in Table 1.
+To supplement this primary analysis, we conducted continuous depressive-symptom analyses on each of the subscales of the CDI:S. These subscales were based on factor
+analyses of the full CDI scale reported in the literature (e.g.,
+Helsel & Matson, 1984; Kovacs, 1992; Saylor, Finch, Spirito,
+& Bennett, 1984; Weiss & Weisz, 1988; Weiss et al., 1991).
+Kovacs (1992) reported five factors, including negative
+mood (e.g., I am sad all the time), ineffectiveness (e.g., I do
+everything wrong), anhedonia (e.g., I feel alone all the
+time), and negative self-esteem (e.g., I hate myself). The
+fifth factor (Kovacs, 1992), interpersonal problems, had no
+items on the CDI:S. We aggregated the relevant items corresponding to the four factors following standard procedures, thereby producing four separate subscales, each of
+which ranged from 0 to 2. Exact items for each of the four
+subscales are presented in the Depressive Symptoms section in the Supplemental Material.
+Self-esteem. Supplementing the CDI:S items, two selfesteem items were administered on the September and
+May surveys: “I feel that I am a person of worth, at least
+on an equal basis with others” and “I feel that I have a
+number of good qualities”; responses were made using a
+scale from 1 (strongly disagree) to 7 (strongly agree).
+Items were averaged and, as expected, were negatively
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+7
+
+49
+16
+304
+
+295
+
+304
+
+295
+
+75
+25
+
+42
+14
+
+54
+18
+
+Control Intervention
+
+7.90
+
+2.24
+
+χ2
+
+.005
+
+.134
+
+p
+
+36
+
+13
+36
+
+36
+
+13
+36
+
+χ2
+p
+
+Baseline (September)
+5
+12
+6.12 .013
+41
+Follow-up (May)
+6
+15
+4.76 .029
+41
+
+Control Intervention
+
+Sample 1
+
+73
+
+18
+25
+
+73
+
+13
+18
+
+70
+
+10
+14
+
+70
+
+12
+17
+
+Control Intervention
+
+Sample 2
+
+2.44
+
+0.01
+
+χ2
+
+.118
+
+.917
+
+p
+
+186
+
+44
+24
+
+186
+
+28
+15
+
+193
+
+33
+17
+
+193
+
+25
+13
+
+Control Intervention
+
+Sample 3
+
+2.5
+
+0.35
+
+χ2
+
+ 
+ 
+.113
+ 
+
+ 
+ 
+.556
+ 
+
+p
+
+Note: The table presents raw data. To designate status as meeting clinically significant levels of depressive symptoms, we used a cut point of 6 out of 20 points on the short form of the
+Children’s Depression Inventory; this corresponds to the 81st to 87th percentile for boys and girls, respectively (Kovacs, 1992).
+
+n above cut point
+% above cut point
+ 
+Total n
+
+n above cut point
+% above cut point
+ 
+Total n
+
+Measure
+
+All participants
+
+Table 1.  Participants Who Met the Threshold for Clinically Significant Levels of Depressive Symptoms at Baseline and 9 Months Postintervention by Condition and
+Sample
+
+Miu, Yeager
+
+8	
+correlated with the negative self-esteem CDI:S subscale
+(September: r = –.47, p < .001). In Sample 1, self-esteem
+was assessed in May only. Sample 1 data could not be
+used in the analyses of change scores but were used in
+analyses of year-end levels.
+Textual analysis of self-descriptions. In Samples 2
+and 3 only, the first question on the September and May
+surveys was “In general, what do people in your grade at
+school think about you? Type as many or as few words
+that people in general might think about you in the box
+below.” Responses to this question were first spellchecked to correct common errors and increase match
+rates for the Linguistic Inquiry and Word Count software
+(LIWC; Pennebaker, Booth, & Francis, 2007). Next, the
+default LIWC dictionaries were applied to each response.
+At each time point, we averaged three categories to create an index of linguistic styles that signal maladaptive
+self-views: negative emotion or trait words (hurt, ugly,
+nasty), past tense (went, ran, had), and discrepant thinking (should, would, could). It was predicted that thinking
+of the self in terms of negative emotions or traits, dwelling on the past, and engaging in counterfactual thinking
+about what one should or could be would signal maladaptive self-views (and the latter category, discrepant
+thinking, has been correlated with poorer mental and
+physical health in much past research; Higgins, Vookles,
+& Tykocinski, 1992; Pennebaker & King, 1999). Supporting this theory, in the present research, the composite
+negative self-views index from the September preintervention survey was significantly correlated with preintervention levels of depressive symptoms, r = .16, p < .001,
+and self-esteem, r = –.17, p < .001.
+Covariates and moderators. On the September preintervention survey, participants reported sex, race/­
+ethnicity, entity theories of personality (Yeager et  al.,
+2011), and self-reported frequency of bullying (for details
+on the two measures, see the Implicit Theories of Personality and Peer Victimization sections in the Supplemental
+Material). From school records, we obtained test scores
+earned the prior year, in eighth grade.
+
+Results
+Analytic plan
+All analyses were intent to treat and did not drop participants who wrote brief or incomplete summaries of the
+intervention materials. Thus, the results are conservative.
+Our primary interest was in a person-centered analysis
+of whether the intervention prevented clinically significant levels of depressive symptoms. Treatment effects on
+the incidence of serious depressive symptoms are one
+
+policy-­
+relevant analysis (Muñoz et  al., 2010) because
+real-world diagnosis and treatment of MDD involves
+individuals, not variables (Farrington & Loeber, 2000;
+Rutter, 2003). Obtaining effect sizes that are relevant to
+the real-world use of a measure is one of the rare cases
+when dichotomization of continuous variables is appropriate (DeCoster, Iselin, & Gallucci, 2009).5 Treatment
+effects on incidence rates are also essential for estimating the cost-­effectiveness of an intervention.
+Our secondary interest was in developing theory about
+the generality or specificity of effects of implicit theories
+on different groupings of depressive symptoms. Thus, we
+conducted variable-centered analyses of which symptom
+subgroups were most affected by the incremental theory
+intervention. We extended these analyses by conducting
+analyses of explicit and implicit measures of individuals’
+construals of themselves: explicit self-esteem and linguistic categories that signal implicit negative self-views.
+Third, we carried out moderation analyses to understand the predicted mechanisms for the results. We
+examined whether, as expected, the incremental theory
+of personality intervention had its effects by preventing
+those individuals with more of an entity theory at baseline from developing higher levels of depressive symptoms during the year. Results for all outcomes are
+presented in Table 2, which presents the raw means and
+proportions as well as statistical tests from models with
+a number of covariates (see Tables S2 through S5 for full
+regression models with and without covariates, see the
+Supplemental Material).
+
+Preliminary analyses
+Randomization was effective. There were no significant
+main effects of condition on covariates measured at baseline, including sex, race/ethnicity, academic test scores,
+depressive symptoms (coded continuously), implicit theories, or bullying (see Table S1 in the Supplemental
+Material). However, an examination of the incidence of
+clinically significant depressive symptoms yielded a significant baseline difference in Sample 1 but not Samples
+2 and 3 (see Table 1). Therefore, we also carried out
+supplemental analyses that excluded Sample 1 (see the
+Supplementary Analyses section in the Supplemental
+Material).
+Next, students did in fact appear to learn the incremental theory. Two coders, who were blind to experimental hypotheses and to participant identities and
+characteristics, independently and reliably judged
+whether participants’ responses appeared to answer the
+writing prompts in the intervention materials sufficiently.
+The interrater reliability was adequate (Krippendorff’s
+α = .85), and inconsistencies were resolved by consensus. More than 94% of responses were judged to have
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Implicit Theories and Depression	
+
+9
+
+Table 2.  Effects of a Brief Implicit-Theories-of-Personality Intervention on Depressive Symptoms and Self-Views at 9-Month
+Follow-Up
+Treatment
+Outcome at 9-month follow-up
+
+Raw %
+
+Clinically significant depressive
+symptom
+Continuous depressive symptom
+Negative mood
+Anhedonia
+Ineffectiveness
+Negative self-esteem
+Self-esteem
+Negative self-view
+
+16
+
+Control
+M
+
+Statistical test from model with covariates
+M
+
+Raw %
+25
+
+2.89
+0.26
+0.31
+0.17
+0.32
+5.72
+0.91
+
+(3.54)
+(0.42)
+(0.47)
+(0.43)
+(0.40)
+(1.24)
+(2.46)
+
+z
+
+t(df)
+
+2.67
+3.44
+0.35
+0.34
+0.26
+0.36
+5.56
+1.86
+
+(4.02)
+(0.50)
+(0.48)
+(0.53)
+(0.45)
+(1.35)
+(5.19)
+
+p
+.008
+
+1.77
+2.44
+1.00
+2.01
+1.43
+2.51
+2.60
+
+(581)
+(579)
+(577)
+(574)
+(578)
+(577)
+(504)
+
+.077
+.015
+.317
+.044
+.154
+.012
+.009
+
+Note: Standard deviations shown in parentheses. Effects estimated in separate regressions that controlled for a number of variables predicted to
+reduce error variance in the outcome: sample, baseline values of the outcome, sex, state test scores, race/ethnicity, baseline victimization, and
+baseline entity theories. For full regression models that assess treatment effects with and without covariates, see Tables S2 through S5 in the
+Supplemental Material. Negative self-views only available for Samples 2 and 3.
+
+sufficiently answered the prompt and referred to a belief
+in the potential for change.
+Sample responses in the treatment condition include
+People can change and be a better person then [sic]
+before and I think those people just try to do that
+because they used to get picked on in school.
+They all have a different personality and it could
+change as they go on in school. For example, a
+bully that is always picking on kids can be doing
+that because he’s having trouble with his grades,
+but if he gets help and gets better grades he can
+realize what he’s done and change the way he is.
+I knew that they would one day change but I didn’t
+know when. I always thought . . . maybe they were
+going through a hard time.
+People could change over time. Maybe they had a
+bad day or something.
+Seeing that individuals wrote about the incremental theory as expected, we proceeded to test our primary
+hypotheses concerning long-term depressive symptoms
+(for other sample excerpts, see the Additional Unedited
+Written Samples From Treated Students section in the
+Supplemental Material).
+
+Preventing the incidence rates of
+clinically significant depressive
+symptoms
+In the control group, the incidence of clinically significant levels of depressive symptoms rose from September
+
+to May by roughly 39% (September raw data: 18% above
+the clinically significant cut point of 6; May: 25%), a significant increase (test of equality of proportions: z = 2.07,
+p = .038). This is similar to the proportional increase typically seen for adolescents across the transition to high
+school (Merikangas et  al., 2010). However, among students assigned to the incremental theory intervention
+condition—who learned at the beginning of the year that
+people’s socially relevant characteristics are not fixed but
+have the potential for change—there was no significant
+increase during the year in the prevalence of clinical levels of depressive symptoms (September: 14%; May: 16%;
+z = 0.54, p = .592). As a result, at the May follow-up,
+participants assigned to the incremental theory condition
+were roughly 40% less likely to report clinical levels of
+depressive symptoms than were participants assigned to
+the control condition (16% vs. 25%), χ2(1, N = 599) =
+7.90, p = .005, odds ratio = 0.55 (see Table 1). Logistic
+regressions that controlled for baseline depressive symptoms and a number of additional covariates supported
+this significant effect, z = 2.67, p = .008, odds ratio = 0.50
+(see Table 2). The treatment effect remained even after
+we excluded from analysis those participants who met
+clinical levels of depressive symptoms at baseline (see
+Table S8 in the Supplemental Material). Treatment effects
+were significant (at p < .05) when we analyzed a cut
+point of 7 out of 20 points as opposed to 6 out of 20 or
+when we limited analyses to Samples 2 and 3 only (see
+Table S7 in the Supplemental Material). It is interesting
+that the treatment effect was not significantly moderated
+by sample, level of victimization, sex, or race (all interaction effect ps > .10; exact tests are reported in Table S6 in
+the Supplemental Material).
+Note that the incremental theory intervention did not
+reduce depressive symptoms so much as it statistically
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+10	
+halted age-related increases in depressive symptoms.
+This is consistent with existing theory that brief psychological interventions affect long-term outcomes by slowing negative, self-reinforcing processes before they gain
+momentum (e.g., Cohen et al., 2009; Walton, 2014; Yeager
+& Walton, 2011).
+
+Effects on specific symptom clusters
+To provide a more theoretically precise understanding of
+these overall treatment effects, we next tested for treatment effects on subscales assessing symptom groups,
+with each analyzed as continuous variables. There was a
+marginally significant omnibus effect of the incremental
+theory intervention on the full, continuous CDI:S, b =
+−0.44, t(581) = 1.77, p = .077, d = −0.15 (see Table 2 and
+Fig. S2 in the Supplemental Material). However, this marginal effect masked important heterogeneity across
+symptom clusters.
+In separate linear regression analyses predicting continuous subscales, there was a significant treatment effect
+on May values of negative mood (I am sad all the time; I
+feel like crying everyday; Things bother me all the time),
+b = −0.08, t(579) = 2.44, p = .015, d = −0.20, and ineffectiveness (I do everything wrong), b = −0.08, t(574) = 2.01,
+p = .044, d = −0.17 (see Table 2). The treatment effect on
+May values of anhedonia (I feel alone all the time; I do not
+have any friends) was not close to significant, b = −0.04,
+t(577) = 1.00, p = .317, d = −0.08. The nonsignificant treatment effect on anhedonia is perhaps unsurprising because
+anhedonia has a genetic and temperamental component
+(Hasler, Drevets, Manji, & Charney, 2004; Loas, 1996).
+Finally, the effect on negative self-esteem (Nothing will
+ever work out for me; I hate myself; I look ugly; Nobody
+really loves me) approached but did not reach significance, b = −0.04, t(578) = 1.43, p = .154, d = −0.12 (see
+Table 2 and Fig. S3 in the Supplemental Material).
+The nonsignificant finding regarding negative selfesteem was surprising. Fortunately, however, it was possible to use an additional measure of September and May
+self-esteem to directly test the notion that negative selfesteem was unaffected by the intervention (recall that
+self-esteem was assessed at both waves only in Samples
+2 and 3). Participants assigned to the control condition
+reported significantly lower self-esteem in May as compared with September (September: M = 6.11, SD = 1.02;
+May: M = 5.66, SD = 1.35), t(253) = 4.89, p < .001, d =
+−0.61. This signals a strong loss of self-esteem during the
+year. But for participants assigned to the treatment condition, the decrease in self-esteem during the year was
+present but did not reach significance at a .05 level
+(September: M = 6.00, SD = 1.13; May: M = 5.83, SD =
+1.24), t(262) = −1.78, p = .08, d = −0.22 (see Fig. S4 in the
+Supplemental Material). A comparison of change scores
+
+(May values minus September values) showed that the
+incremental theory intervention was in fact more effective
+at warding off a decline in self-esteem during the year, b =
+0.26, t(514) = 2.44, p = .015, d = 0.22. Confirming this,
+using data from all three samples and imputing baseline
+values for Sample 1, we found a significant main effect of
+the intervention on higher self-esteem in May, b = 0.24,
+t(577) = 2.51, p = .012, d = 0.21 (see Table 2). Thus, the
+nonsignificant finding for negative self-esteem in the
+CDI:S subscale did not capture an effect that became
+more apparent using this supplemental measure.
+
+Linguistic indicators of maladaptive
+self-views
+Analyses of more indirect negative self-views assessed
+through subtle features of language mirrored the selfreported self-esteem results. Prior to the intervention, in
+September, there were no differences between participants assigned to the treatment and control conditions on
+the linguistic indicators of maladaptive self-views (i.e.,
+negative emotion words, talking in the past tense, and
+talking in terms of what “could” or “should” have been;
+raw data, incremental theory condition: M = 1.10, SD =
+3.00; raw data, control condition: M = 1.35, SD = 3.50),
+t(505) = 0.89, p = .374, d = 0.08 (recall that self-views
+were assessed in Samples 2 and 3 only). However, in
+May, at the end of the year, treated students described
+themselves in significantly less maladaptive ways (raw
+data, incremental theory condition: M = 0.91, SD = 2.46;
+raw data, control condition: M = 1.86, SD = 5.19), t(520) =
+2.60, p = .009, d = 0.23. In an ordinary least squares
+regression predicting May self-views and controlling for
+September self-views and a number of additional covariates (i.e., those reported in Table S2 and Fig. S5 in the
+Supplemental Material), the condition effect remained
+significant, b = −0.90, t(504) = 2.60, p = .009, d = 0.23.
+Thus, the finding that the intervention prevented a worsening of negative self-views was confirmed by using this
+more indirect assessment: nonconscious use of linguistic
+categories that signal negative self-construals.
+
+Moderation by baseline implicit
+theories?
+Our theory leads to the expectation that the incremental
+theory intervention should have its effect chiefly by preventing an entity theory from undermining resilience and
+fueling depressive symptoms. Therefore, individuals with
+more of an entity theory at baseline should benefit most
+(Yeager et  al., 2014, Study 3; also see Blackwell et  al.,
+2007). Moderation analyses tested this possibility using
+the full, continuous measure of depressive symptoms to
+increase statistical precision.
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Implicit Theories and Depression	
+
+Number of Depressive Symptoms Reported
+on the CDI:S (Range: 0 to 20)
+
+5
+
+11
+Control: Baseline Entity Theory
+Treatment: Baseline Entity Theory
+Control: Baseline Incremental Theory
+Treatment: Baseline Incremental Theory
+
+4.5
+4.16
+
+4
+3.5
+3
+2.5
+2
+
+3.12
+3.03
+
+3.09
+2.80
+2.78
+
+2.32
+2.07
+
+1.5
+1
+
+September
+
+May
+
+Assessment Occasion
+Fig. 2. Results: changes in depressive symptoms from September to May of ninth grade, by
+baseline implicit theories and experimental condition. Baseline implicit theories correspond to
+estimated values at 1 SD above or below the mean for that scale, from models removing fixed
+effects for sample. Error bars represent standard errors. CDI:S = short form of Children’s Depression Inventory.
+
+Within the control group, an entity theory in September
+was correlated with significantly more depressive symptoms at the May follow-up, b = 0.60, t(292) = 2.67, p =
+.008, β = 0.14. This relation was eliminated in the treatment group, b = 0.12, t(301) = 0.68, p = .500, β = 0.04, and
+the difference in correlations was significant, evidenced
+by a significant Incremental Intervention × Baseline Entity
+Theory interaction, b = −0.51, t(590) = 2.14, p = .033, β =
+−0.10, in a model controlling for September levels of
+depressive symptoms and with fixed effects for sample.
+Figure 2 illustrates this interaction using values estimated at 1 SD above and below the mean in terms of
+baseline theories, adjusting for sample fixed effects. It
+shows that in September, before the intervention, treatment and control participants did not differ in terms of
+their depressive symptoms. Furthermore, Figure 2 shows
+that baseline implicit theories were a strong predictor of
+baseline depressive symptoms (i.e., symptoms differed as
+a function of theories in September). Next, among individuals with more of an entity theory at baseline who
+participated in the control activity, there were also marked
+increases in levels of depressive symptoms during the
+year. Yet among adolescents with an entity theory at
+baseline who were assigned to the incremental theory
+intervention condition, levels were flat over time; the
+
+intervention statistically halted the normative increase in
+depressive symptoms during the freshman year (see
+Fig. 2). Thus, by May, there was a treatment effect on the
+continuous measure of depressive symptoms among students who began the year with more of an entity theory
+(+1 SD), simple effect b = −0.93, t(590) = 2.58, p = .010,
+d  = 0.21. Those students who began the year with an
+incremental theory did not differ as a function of whether
+they were assigned to the treatment or control condition
+(see Fig. 2).
+Note that the intervention did not seem to treat
+depression—­that is, depressive symptoms did not appear
+to decrease in any group of students over time. Instead,
+the incremental theory intervention seems to have had its
+effects by neutralizing a risk factor’s effects, thereby preventing an entity theory from increasing risk for depression over time.
+
+Discussion
+If the seed of depression is the belief that negative events
+cannot improve, then one way to prevent depressive
+symptoms from growing might be to teach the idea that
+people can change. This might prevent depression from
+taking root in a way that, absent timely intervention, can
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+12	
+be difficult to reverse during the ensuing decades of life.
+To investigate this possibility, we used a double-blind,
+active-placebo-controlled, individual-level, universal, preventative experimental design. Across three replications
+that included nearly 600 adolescents, a one-time intervention teaching an incremental theory of personality in
+September of participants’ ninth-grade year appeared to
+reduce the prevalence of clinical levels of depressive
+symptoms in May of that school year by approximately
+40%. This finding was robust to a number of sensitivity
+analyses (see Tables S2 through S8 in the Supplemental
+Material). Analyses of self-esteem mirrored these findings.
+Finer-grained examinations of CDI:S symptom subscales
+showed significant treatment effects on negative mood
+and ineffectiveness but not on anhedonia.
+Textual analyses (Pennebaker et  al., 2007) further
+explored the psychological impact of the intervention on
+adolescents’ self-views. Assessing subtle linguistic clues
+in response to an open-ended writing prompt, we found
+that treated teens were less likely to use negative emotion and trait words, to talk about the past, and to talk
+about discrepancies (linguistic indicators of maladaptive
+counterfactual thinking) in their self-descriptions during
+the May follow-up. This index was also correlated with
+depressive symptoms at baseline and at follow-up. This
+means that the intervention may have influenced individuals’ self-schemata, perhaps even changing their
+unconscious perceptions about themselves during times
+of difficulty. This finding opens up new avenues for
+research on the effects of implicit theories as well as on
+mechanisms that sustain treatment effects on depressive
+symptoms.
+Furthermore, moderation analyses supported our theoretical account for these effects. Adolescents with more
+of an entity theory of personality at baseline showed
+marked increases in depressive symptoms during the
+year if they were assigned to the control group. However,
+those individuals who were assigned to the incremental
+theory of personality intervention showed no such
+increase, which suggests that the intervention was particularly effective for people with an entity belief.
+Conversely, the current study did not find a significant
+sex moderation of the treatment effect on depressive
+symptoms or depression subscales, even though past
+research has shown that females develop adolescent
+depression at a higher rate than do males, possibly as a
+result of greater peer stressors and stress reactivity among
+females (Cyranowski, Frank, Young, & Shear, 2000;
+Hankin et  al., 1998; Hankin, Mermelstein, & Roesch,
+2007). Nevertheless, regardless of sex, the intervention
+precisely targeted one contributor to the onset of depressive symptoms during the transition to high school—an
+entity theory of personality—and reduced its impact on
+depressive symptoms.
+
+Limitations
+There are clear limitations to this research. First, these
+studies did not show that teaching adolescents that people can change treats depression. We found no evidence
+that levels of depressive symptoms decreased for any
+group of students. Instead, the intervention seemed to
+slow the normative increase in depressive symptoms,
+especially among students with an entity theory at
+baseline.
+Next, the current research does not speak to the issue
+of whether an incremental theory intervention would be
+helpful in therapy. Our intervention was, very intentionally, quite “stealthy” (Yeager & Walton, 2011). That is, we
+did not directly tell students that it is in their best interest
+to believe people can change or that it would help them
+be less stressed or depressed. Instead, the intervention
+asked students to author the intervention content by writing notes to future students, avoiding the implication that
+they were getting treatment for depression. This sayingis-believing tactic can be helpful for promoting deeper
+processing of the material and avoiding stigma (Aronson,
+1999; Walton, 2014; Yeager & Walton, 2011).
+Moreover, it is unknown whether individuals who are
+currently depressed or who are at high risk for depression—for example, individuals who have a mother with a
+history of MDD (Goodman & Gotlib, 1999)—will benefit
+from an incremental theory intervention. Furthermore, we
+have not documented whether pubertal timing can interact with the treatment effects on depressive symptoms.
+Relatedly, it is crucial to emphasize the context dependency and developmental dependency of the present
+intervention strategy. We do not expect that an incremental theory of personality would prevent risk for depression in all contexts or during all developmental periods.
+Our study was built on a precise theory of the role of
+social-cognitive interpretations of social adversity in spurring recursive thoughts that increase the risk for depression during high school. We predicted that if social
+difficulties, such as peer exclusion, rumormongering, and
+other forms of social aggression, are nearly ubiquitous—
+as in the transition to high school (Barber & Olsen, 2004;
+Crosnoe, 2011)—then there will be a greater tendency for
+many teens to engage in thoughts that could increase
+vulnerability to depression. During those times, students
+may be more likely to develop depression unless they are
+given a framework for understanding social events that
+prevents them from engaging in those thoughts. An
+implication of this account is that, potentially, the present
+intervention might have little or no effect on depression
+if the timing were different, perhaps even if it were delivered just a few weeks later in the first semester of high
+school when negative thinking may have already taken
+root (see Cook, Purdie-Vaughns, Garcia, & Cohen, 2012).
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Implicit Theories and Depression	
+
+13
+
+As with other brief psychological interventions that are
+a part of the canon of strategies available to clinical psychologists (see Pennebaker, 2004), the mechanisms that
+produced a sustained effect of this brief intervention are
+not fully understood. For instance, did teens clearly
+remember the specific content of the incremental theory
+message during the year, or did they forget it but only
+after it affected their self-schemata and began to provide
+a new lens for interpreting social adversity? Or did the
+intervention have the short-term effect of causing teens
+to make more friends, thereby buffering them from
+depressive symptoms and maladaptive self-schemas in
+the long run? The intervention may also have been effective as a result of biological mechanisms, such as stress
+reactivity, a predictor of higher rates of depression (e.g.,
+Gotlib, Joormann, Minor, & Hallmayer, 2008). Indeed,
+Yeager et al. (2014) found that ninth graders who received
+an incremental theory intervention reported less stress in
+response to peer ostracism. These possibilities and others
+warrant further investigation (see Walton, 2014; Yeager &
+Walton, 2011).
+Another limitation is our use of only a brief self-report
+measure of depressive symptoms. This is, of course, common in large-scale, light-touch studies like the present
+research, in part because the CDI has shown convergent
+validity with a clinical diagnostic interview despite its
+convenience and efficiency (Timbremont et  al., 2004).
+Yet it is possible that adolescents may not have full insight
+into their depressive symptoms. Future research would
+greatly benefit from additional measures, such as a clinical diagnostic interview or a parent report of depressive
+symptoms, which would reduce false positive and false
+negative rates. Although we found treatment effects 8
+months later, it is always possible that the intervention
+requires a booster session for even longer-term effects.
+Administering booster sessions and engaging in a longerterm follow-up may be informative about treatment
+effects on depressive diagnoses over time.
+A final set of limitations is analytic rather than theoretical. First, the smallest of our three samples (Sample 1),
+which represented 13% of our data, happened to show
+significant baseline condition differences, by chance, but
+only for the dichotomized measure of depressive symptoms and not for the continuous measure of depressive
+symptoms. We did not exclude that sample entirely from
+the present report because systematically omitting data
+on the basis of the findings can lead to publication bias.
+Instead, we used a number of analytic methods to show
+that our conclusions did not depend on that baseline difference. Next, the treatment effect on continuous depressive symptoms in the full sample was marginally
+significant (p = .07), whereas there were significant effects
+(at p < .05) on the dichotomized clinically significant
+
+symptoms variable, two of the four symptom clusters,
+and the continuous depressive symptoms among students with an entity theory at baseline. Of course, a CDI:S
+measure would produce greater measurement error than
+would the full long-form CDI; thus, some inconsistency
+across analyses should be expected as a result of random
+variability alone. However, this result highlights the more
+general need to replicate the present study’s results and
+to more fully understand their boundary conditions
+before it would be responsible to apply them broadly in
+clinical or educational settings.
+
+Implications
+Although we acknowledge the limitations of this research,
+it is important to emphasize a number of potential implications of this study for mental-health policy. First, the
+intervention appears to have been effective at reducing
+the overall percentage of students with significant levels
+of depressive symptoms. Although it may be more effective to have a targeted treatment for students with an
+entity theory, researchers may have difficulty in categorizing students into entity theorists reliably, given that our
+study measured implicit theory on a continuous scale.
+Moreover, students with an entity theory may feel stigmatized if they are pulled from class to receive the intervention. Instead, our past studies have shown that the
+intervention helps reduce aggression, stress, and health
+for students regardless of baseline theories (Yeager et al.,
+2014; Yeager, Trzesniewski, & Dweck, 2013). Thus, the
+intervention appears to be best used as a “universal prevention” for all students—something that has been very
+difficult to accomplish in past studies (Stice et al., 2009).
+In fact, Stice et al. (2009) stated, “It may be prudent to . . .
+discontinue evaluation of universal prevention programs”
+(p. 499). The potential suggested by the present early
+stage research will hopefully breathe new life into universal prevention efforts.
+Second, the present intervention was cost-effective
+and highly scalable. In the two larger samples—Samples
+2 and 3—the intervention was delivered via the Internet
+in the school computer lab with no specialized training
+of school staff. It involved only one class period (although
+some students also received a background session about
+the brain that, as noted, did not seem to enhance treatment effects). This does not mean that the intervention
+had zero cost. In fact, a great deal of work was done in
+the piloting phase to customize the intervention for the
+given populations—for instance, changing the normative
+quotes from peers to match local colloquialisms and programming the intervention to seem like a normal survey
+that students would complete in the course of everyday
+schooling (see Yeager & Walton, 2011). Effort also went
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+14	
+into designing procedures that fit within the fabric of the
+school day so that the experimental session could be carried out with high treatment fidelity. Nevertheless, the
+intervention had near-zero marginal cost. That is, after
+initial customization, there was little or no additional cost
+of giving the intervention to more students within the
+school. Given the relatively small investment of time and
+effort, and the possibility of saving many tens of thousands of dollars in lost productivity over a lifetime for a
+person who is prevented from depression in adolescence, the present intervention (or an improved version
+of it) may, after replication and extension, eventually
+prove to be a cost-effective option for educators and
+policymakers.
+The present research also has a number of theoretical
+implications. First, this research reinforces social-cognitive theories of development (Olson & Dweck, 2008).
+Historical data have suggested that dramatic increases in
+depression during the transition to high school are inevitable (e.g., the control group in the present study; see
+Benner et  al., 2011; Merikangas et  al., 2010; Newman
+et al., 2007). Yet the present research confirms the classic
+notion that adversities in life do not have a direct effect
+on poor mental health but, instead, are filtered through a
+person’s social-cognitive style (Beck, 1976). This provides
+an important opportunity for intervention. It suggests that
+it can be possible to weaken the effect of an environmental risk on mental health by precisely targeting relevant
+social-cognitive factors before negative, self-reinforcing
+patterns of thinking have an opportunity to gain momentum (Cohen & Sherman, 2014). In the present research,
+we attempted to alter an implicit theory that, in much
+past research, has been shown to give rise to negative
+responses to social adversity, and we did it at a time
+known to be laden with difficulties, such as exclusion
+and victimization.6 We showed that when this was done,
+the typical increases in depressive symptoms during
+freshman year were slowed substantially.
+Second, this research adds to a growing number of
+experimental studies that have shown that, when
+attempts are made to address important social problems
+that have a psychological component, sometimes “less is
+more.” For example, in some cases, 2 to 5 min of expressive writing exercises can be more effective than extensive counseling sessions for individuals coping with
+trauma (Pennebaker, 2004), and a 7-min writing exercise
+can halt the year-over-year decrease in marital satisfaction (Finkel, Slotter, Luchies, Walton, & Gross, 2013; for
+many more examples, see Walton, 2014, or Wilson,
+2011). It is interesting that the Stice et al. (2009) metaanalysis of depression prevention programs showed that
+briefer programs were more effective than longer
+
+programs at preventing depression and that programs
+that involved homework—requiring individuals to write
+at home—were more effective than those that did not.
+Coincidentally, the present implicit-theories intervention
+involved expressive writing and was brief. Viewed from
+that perspective, the present findings are quite consistent with existing best practices.
+
+Conclusion
+It is important to replicate and extend these findings to
+deepen our understanding of the moderating and mediating mechanisms of the specific symptom clusters that
+are affected. Doing so is the most responsible next step
+before broader application. Nonetheless, it is encouraging that the present theoretically informed strategy of
+intervening to teach an incremental theory of personality
+appears to have made some headway on a seemingly
+intractable issue—universal prevention for depressive
+symptoms during adolescence.
+Author Contributions
+D. S. Yeager developed the study concept and study design and
+supervised all data collection, entry, and coding. A. S. Miu analyzed the data under the supervision of D. S. Yeager. A. S. Miu
+prepared all tables and figures and drafted the manuscript and
+the Supplemental Material. D. S. Yeager provided critical revisions. Both authors approved the final version of the manuscript for submission.
+
+Acknowledgments
+We are grateful to the students and teachers involved in this
+research for their cooperation. We also thank Cary Catching,
+April House, Ahmad Saleh, Kerry Morrissey, Shannon Morrissey,
+Joseph Powers, Brian Spitzer, Rebecca Johnson, April Scott, and
+Hector Villalpando for their help with data collection and entry.
+We are also grateful to Chris Beevers, David Sherman, James
+Pennebaker, Kali Trzesniewski, Carol Dweck, and Patricia
+Brennan for their feedback or suggestions. All remaining errors
+are the authors’.
+
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with
+respect to their authorship or the publication of this article.
+
+Funding
+This work received funding from the Thrive Foundation for
+Youth, the Spencer Foundation, and the Raikes Foundation.
+
+Supplemental Material	
+Additional supporting information may be found at http://cpx
+.sagepub.com/content/by/supplemental-data
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Implicit Theories and Depression	
+
+15
+
+Notes
+1. Students with school-reported learning disabilities (e.g., dyslexia) or autism spectrum disorders were excluded because
+they were not expected to be able to successfully self-administer the theory-change intervention in the allotted time without
+any support from a teacher or researcher.
+2. Students in Sample 1 and some but not all of the students in
+Samples 2 and 3 participated in a preintervention workshop in
+which teachers taught both the experimental and the control
+groups about how the brain changes with learning. This was
+done to provide a greater basis for the claim that personality lives in the brain and can be changed and to facilitate the
+uptake of the treatment message. However, analyses of the data
+from Samples 2 and 3 showed that participation in the preintervention workshop did not increase treatment effect sizes and
+did not have a measurable impact on depressive symptoms.
+3. The CDI:S was used instead of the long-form CDI because
+in a prior study (Yeager, Trzesniewski, & Dweck, 2013), we
+discovered that the long form was distressing when delivered
+to nonclinical, universal populations of high school students
+and resulted in participant complaints and, ultimately, sample
+attrition. To minimize distress and reduce attrition rates from
+the study, we used the CDI:S (note, however, that the shorter
+form, if anything, should result in greater measurement error
+and make it more difficult to reject the null hypothesis).
+4. There is unfortunately no consensus on the clinical cut point
+for the CDI:S, although a number of analysts have assessed cut
+points for the long form of the CDI. For nonclinical populations, analysts have suggested long-form CDI cut points ranging from 16 to 19 of 44 possible points (Timbremont, Braet,
+& Dreessen, 2004), corresponding roughly to the 80th to 90th
+percentile (depending on gender) for adolescents in our target
+age range (Kovacs, 1992). Our cut points approximated this as
+best as possible.
+5. Indeed, DeCoster et  al. (2009, p. 357) showed that at high
+levels of reliability (above .8), the type of theory-driven dichotomization conducted here can outperform continuous analyses.
+6. For a correlational, mediational analysis of the effects of
+implicit theories on depression through maladaptive social
+cognitions, using baseline survey data, see Figure S6 in the
+Supplemental Material. Unfortunately, the same social-cognitive
+variables were not assessed postintervention.
+
+References
+Abelson, R. P. (1985). A variance explanation paradox: When a
+little is a lot. Psychological Bulletin, 97, 128–132.
+Abramson, L. Y., Seligman, M. E., & Teasdale, J. D. (1978).
+Learned helplessness in humans: Critique and reformulation. Journal of Abnormal Psychology, 87, 49–74.
+Ahmavaara, A., & Houston, D. M. (2007). The effects of selective schooling and self-concept on adolescents’ academic
+aspiration: An examination of Dweck’s self-theory. British
+Journal of Educational Psychology, 77, 613–632.
+Aronson, E. (1999). The power of self-persuasion. American
+Psychologist, 54, 875–884.
+Avenevoli, S., & Steinberg, L. (2002). The continuity of depression across the adolescent transition. Advances in Child
+Development and Behavior, 28, 139–173.
+
+Barber, B. K., & Olsen, J. A. (2004). Assessing the transitions
+to middle and high school. Journal of Adolescent Research,
+19, 3–30.
+Beck, A. T. (1976). Cognitive therapy and the emotional disorders. New York, NY: International Universities Press.
+Beck, A. T. (2008). The evolution of the cognitive model of
+depression and its neurobiological correlates. American
+Journal of Psychiatry, 165, 969–977.
+Beer, J. (2002). Implicit self-theories of shyness. Journal of
+Personality and Social Psychology, 83, 1009–1024.
+Benner, A. (2011). The transition to high school: Current knowledge, future directions. Educational Psychology Review, 23,
+299–328.
+Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007).
+Implicit theories of intelligence predict achievement across
+an adolescent transition: A longitudinal study and an intervention. Child Development, 78, 246–263.
+Burnette, J. L., O’Boyle, E. H., Vanepps, E. M., Pollack, J. M.,
+& Finkel, E. J. (2013). Mind-sets matter: A meta-analytic
+review of implicit theories and self-regulation. Psychological
+Bulletin, 139, 655–701.
+Chan, A., & Poulin, F. (2007). Monthly changes in the composition of friendship networks in early adolescence. MerrillPalmer Quarterly, 53, 578–602.
+Chiu, C. Y., Hong, Y. Y., & Dweck, C. S. (1997). Lay dispositionism and implicit theories of personality. Journal of
+Personality and Social Psychology, 73, 19–30.
+Cohen, G. L., Garcia, J., Purdie-Vaughns, V., Apfel, N., &
+Brzustoski, P. (2009). Recursive processes in self-affirmation: Intervening to close the minority achievement gap.
+Science, 324, 400–403.
+Cohen, G. L., & Sherman, D. K. (2014). The psychology of
+change: Self-affirmation and social psychological intervention. Annual Review of Psychology, 65, 333–371.
+Cook, J. E., Purdie-Vaughns, V., Garcia, J., & Cohen, G. L.
+(2012). Chronic threat and contingent belonging: Protective
+benefits of values affirmation on identity development.
+Journal of Personality and Social Psychology, 102, 479–496.
+Cooper, H., & Patall, E. A. (2009). The relative benefits of metaanalysis conducted with individual participant data versus
+aggregated data. Psychological Methods, 14, 165–176.
+Costello, E. J., Mustillo, S., Erkanli, A., Keeler, G., & Angold,
+A. (2003). Prevalence and development of psychiatric disorders in childhood and adolescence. Archives of General
+Psychiatry, 60, 837–844.
+Crosnoe, R. (2011). Fitting in, standing out: Navigating the
+social challenges of high school to get an education. New
+York, NY: Cambridge University Press.
+Cyranowski, J. M., Frank, E., Young, E., & Shear, M. K. (2000).
+Adolescent onset of the gender difference in lifetime rates
+of major depression: A theoretical model. Archives of
+General Psychiatry, 57, 21–27.
+DeCoster, J., Iselin, A. M. R., & Gallucci, M. (2009). A conceptual and empirical examination of justifications for dichotomization. Psychological Methods, 14, 349–366.
+Diener, C. I., & Dweck, C. S. (1978). An analysis of learned
+helplessness: Continuous changes in performance, strategy,
+and achievement cognitions following failure. Journal of
+Personality and Social Psychology, 36, 940–952.
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+16	
+Disner, S. G., Beevers, C. G., Haigh, E. A., & Beck, A. T. (2011).
+Neural mechanisms of the cognitive model of depression.
+Nature Reviews Neuroscience, 12, 467–477.
+Dweck, C. S. (1975). The role of expectations and attributions in the alleviation of learned helplessness. Journal of
+Personality and Social Psychology, 31, 674–685.
+Dweck, C. S. (1999). Self-theories: Their role in motivation, personality, and development. Philadelphia, PA: Psychology
+Press.
+Dweck, C. S., & Elliott-Moskwa, E. (2010). Self-theories: The
+roots of defensiveness. In J. E. Maddux & J. P. Tangney
+(Eds.), Social psychological foundations of clinical psychology (pp. 136–156). New York, NY: Guilford Press.
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive
+approach to motivation and personality. Psychological
+Review, 95, 256–273.
+Erdley, C. A., Loomis, C. C., Cain, K. M., & Dumas-Hines, F.
+(1997). Relations among children’s social goals, implicit
+personality theories, and responses to social failure.
+Developmental Psychology, 33, 263–272.
+Farrington, D. P., & Loeber, R. (2000). Some benefits of dichotomization in psychiatric and criminological research.
+Criminal Behaviour and Mental Health, 10, 100–122.
+Finkel, E. J., Slotter, E. B., Luchies, L. B., Walton, G. M., & Gross,
+J. J. (2013). A brief intervention to promote conflict reappraisal preserves marital quality over time. Psychological
+Science, 24, 1595–1601.
+Frieden, T. R. (2010). A framework for public health action: The
+health impact pyramid. American Journal of Public Health,
+100, 590–595.
+Garber, J., Clarke, G. N., Weersing, V. R., Beardslee, W. R.,
+Brent, D. A., Gladstone, T. R., . . . Iyengar, S. (2009).
+Prevention of depression in at-risk adolescents: A randomized controlled trial. Journal of the American Medical
+Association, 301, 2215–2224.
+Gillham, J. E., Hamilton, J., Freres, D. R., Patton, K., & Gallop,
+R. (2006). Preventing depression among early adolescents
+in the primary care setting: A randomized controlled study
+of the Penn Resiliency Program. Journal of Abnormal Child
+Psychology, 34, 195–211.
+Glasgow, R. E., Lichtenstein, E., & Marcus, A. C. (2003). Why
+don’t we see more translation of health promotion research
+to practice? Rethinking the efficacy-to-effectiveness transition. American Journal of Public Health, 93, 1261–1267.
+Goodman, S. H., & Gotlib, I. H. (1999). Risk for psychopathology in the children of depressed mothers: A developmental model for understanding mechanisms of transmission.
+Psychological Review, 106, 458–490.
+Gotlib, I. H., & Joormann, J. (2010). Cognition and depression: Current status and future directions. Annual Review of
+Clinical Psychology, 6, 285–312.
+Gotlib, I. H., Joormann, J., Minor, K. L., & Hallmayer, J. (2008).
+HPA axis reactivity: A mechanism underlying the associations among 5-HTTLPR, stress, and depression. Biological
+Psychiatry, 63, 847–851.
+Graham, S., & Juvonen, J. (1998). Self-blame and peer victimization in middle school: An attributional analysis.
+Developmental Psychology, 34, 587–599.
+
+Hankin, B. L., Abramson, L. Y., Moffitt, T. E., Silva, P. A.,
+McGee, R., & Angell, K. E. (1998). Development of depression from preadolescence to young adulthood: Emerging
+gender differences in a 10-year longitudinal study. Journal
+of Abnormal Psychology, 107, 128–140.
+Hankin, B. L., Mermelstein, R., & Roesch, L. (2007). Sex differences in adolescent depression: Stress exposure and reactivity models. Child Development, 78, 279–295.
+Hasler, G., Drevets, W. C., Manji, H. K., & Charney, D. S.
+(2004). Discovering endophenotypes for major depression.
+Neuropsychopharmacology, 29, 1765–1781.
+Helsel, W. J., & Matson, J. L. (1984). The assessment of
+depression in children: The internal structure of the Child
+Depression Inventory (CDI). Behaviour Research and
+Therapy, 22, 289–298.
+Higgins, E. T., Vookles, J., & Tykocinski, O. (1992). Self and
+health: How “patterns” of self-beliefs predict types of emotional and physical problems. Social Cognition, 10, 125–150.
+Hong, Y. Y., Chiu, C. Y., Dweck, C. S., Lin, D. M., & Wan, W.
+(1999). Implicit theories, attributions, and coping: A meaning system approach. Journal of Personality and Social
+Psychology, 77, 588–599.
+Horowitz, J. L., & Garber, J. (2006). The prevention of depressive symptoms in children and adolescents: A meta-analytic
+review. Journal of Consulting and Clinical Psychology, 74,
+401–415.
+Janoff-Bulman, R. (1979). Characterological versus behavioral
+self-blame: Inquiries into depression and rape. Journal of
+Personality and Social Psychology, 37, 1798–1809.
+Juvonen, J., & Graham, S. (2014). Bullying in schools: The
+power of bullies and the plight of victims. Annual Review
+of Psychology, 65, 159–185.
+Kessler, R. C., Chiu, W. T., Demler, O., & Walters, E. E. (2005).
+Prevalence, severity, and comorbidity of 12-month DSM-IV
+disorders in the National Comorbidity Survey Replication.
+Archives of General Psychiatry, 62, 617–627.
+Killen, M., Kelly, M. C., Richardson, C., & Jampol, N. S. (2010).
+Attributions of intentions and fairness judgments regarding
+interracial peer encounters. Developmental Psychology, 46,
+1206–1213.
+Kovacs, M. K. (1992). Children’s Depression Inventory-Short
+Form (CDI). New York, NY: Multi-Health Systems.
+Lakdawalla, Z., Hankin, B. L., & Mermelstein, R. (2007).
+Cognitive theories of depression in children and adolescents: A conceptual and quantitative review. Clinical Child
+and Family Psychology Review, 10, 1–24.
+Lewinsohn, P. M., Rohde, P., & Seeley, J. R. (1998). Major
+depressive disorder in older adolescents: Prevalence,
+risk factors, and clinical implications. Clinical Psychology
+Review, 18, 765–794.
+Loas, G. (1996). Vulnerability to depression: A model centered
+on anhedonia. Journal of Affective Disorders, 41, 39–53.
+MacCallum, R. C., Zhang, S., Preacher, K. J., & Rucker, D. D.
+(2002). On the practice of dichotomization of quantitative
+variables. Psychological Methods, 7, 19–40.
+Mathers, C. D., Fat, D. M., & Boerma, J. (2008). The global burden of disease: 2004 update. Geneva, Switzerland: World
+Health Organization.
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Implicit Theories and Depression	
+
+17
+
+McLaughlin, K. A. (2011). The public health impact of major
+depression: A call for interdisciplinary prevention efforts.
+Prevention Science, 12, 361–371.
+Merikangas, K. R., He, J. P., Burstein, M., Swanson, S. A.,
+Avenevoli, S., Cui, L., . . . Swendsen, J. (2010). Lifetime prevalence of mental disorders in US adolescents: Results from
+the National Comorbidity Survey Replication–Adolescent
+Supplement (NCS-A). Journal of the American Academy of
+Child and Adolescent Psychiatry, 49, 980–989.
+Molden, D. C., & Dweck, C. S. (2006). Finding “meaning” in
+psychology: A lay theories approach to self-regulation,
+social perception, and social development. American
+Psychologist, 61, 192–203.
+Molden, D. C., Plaks, J. E., & Dweck, C. S. (2006). “Meaningful”
+social inferences: Effects of implicit theories on inferential
+processes. Journal of Experimental Social Psychology, 42,
+738–752.
+Muñoz, R. F., Cuijpers, P., Smit, F., Barrera, A. Z., & Leykin, Y.
+(2010). Prevention of major depression. Annual Review of
+Clinical Psychology, 6, 181–212.
+Newman, B., Newman, P., Griffen, S., O’Connor, K., & Spas,
+J. (2007). The relationship of social support to depressive
+symptoms during the transition to high school. Adolescence,
+42, 441–459.
+Olson, K. R., & Dweck, C. S. (2008). A blueprint for social cognitive development. Perspectives on Psychological Science,
+3, 193–202.
+Pennebaker, J. W. (1997). Writing about emotional experiences
+as a therapeutic process. Psychological Science, 8, 162–166.
+Pennebaker, J. W. (2004). Theories, therapies, and taxpayers:
+On the complexities of the expressive writing paradigm.
+Clinical Psychology: Science and Practice, 11, 138–142.
+Pennebaker, J. W., Booth, R. J, & Francis, M. E. (2007). Linguistic
+Inquiry and Word Count: (LIWC2007): A computer-based
+text analysis program [Computer software]. Retrieved from
+http://liwc.net
+Pennebaker, J. W., & King, L. A. (1999). Linguistic styles:
+Language use as an individual difference. Journal of
+Personality and Social Psychology, 77, 1296–1312.
+Petrie, K. J., Booth, R. J., & Pennebaker, J. W. (1998). The
+immunological effects of thought suppression. Journal of
+Personality and Social Psychology, 75, 1264–1272.
+Richards, M. H., Crowe, P. A., Larson, R., & Swarr, A. (1998).
+Developmental patterns and gender differences in the
+experience of peer companionship during adolescence.
+Child Development, 69, 154–163.
+Robins, R. W., & Pals, J. L. (2002). Implicit self-theories in the
+academic domain: Implications for goal orientation, attributions, affect, and self-esteem change. Self and Identity, 1,
+313–336.
+Rudolph, K. D. (2010). Implicit theories of peer relationships.
+Social Development, 19, 113–129.
+Rutter, M. (2003). Categories, dimensions, and the mental
+health of children and adolescents. Annals of the New York
+Academy of Sciences, 1008, 11–21.
+Saylor, C. F., Finch, A. J., Spirito, A., & Bennett, B. (1984). The
+Children’s Depression Inventory: A systematic evaluation
+of psychometric properties. Journal of Consulting and
+Clinical Psychology, 52, 955–967.
+
+Schimmack, U. (2012). The ironic effect of significant results
+on the credibility of multiple-study articles. Psychological
+Methods, 17, 551–556.
+Sheffield, J. K., Spence, S. H., Rapee, R. M., Kowalenko, N.,
+Wignall, A., Davis, A., & McLoone, J. (2006). Evaluation
+of universal, indicated, and combined cognitive-behavioral
+approaches to the prevention of depression among adolescents. Journal of Consulting and Clinical Psychology, 74,
+66–79.
+Spence, S. H., Sheffield, J. K., & Donovan, C. L. (2003).
+Preventing adolescent depression: An evaluation of the
+Problem Solving for Life program. Journal of Consulting
+and Clinical Psychology, 71, 3–13.
+Stice, E., Shaw, H., Bohon, C., Marti, C. N., & Rohde, P. (2009).
+A meta-analytic review of depression prevention programs
+for children and adolescents: Factors that predict magnitude of intervention effects. Journal of Consulting and
+Clinical Psychology, 77, 486–503.
+Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. Annual Review of Psychology,
+58, 345–372.
+Timbremont, B., Braet, C., & Dreessen, L. (2004). Assessing
+depression in youth: Relation between the Children’s
+Depression Inventory and a structured interview. Journal
+of Clinical Child and Adolescent Psychology, 33, 149–157.
+Walton, G. M. (2014). The new science of wise psychological
+interventions. Current Directions in Psychological Science,
+23, 73–82.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging
+intervention improves academic and health outcomes of
+minority students. Science, 331, 1447–1451.
+Weiss, B., & Weisz, J. R. (1988). Factor structure of self-reported
+depression: Clinic-referred children versus adolescents.
+Journal of Abnormal Psychology, 97, 492–495.
+Weiss, B., Weisz, J. R., Politano, M., Carey, M., Nelson, W. M.,
+& Finch, A. J. (1991). Developmental differences in the
+factor structure of the Children’s Depression Inventory.
+Psychological Assessment: A Journal of Consulting and
+Clinical Psychology, 3, 38–45.
+Williams, K. D., & Jarvis, B. (2006). Cyberball: A program for
+use in research on interpersonal ostracism and acceptance.
+Behavior Research Methods, 38, 174–180.
+Wilson, T. D. (2011). Redirect: The surprising new science of
+psychological change. New York, NY: Little, Brown.
+Wilson, T. D., Damiani, M., & Shelton, N. (2002). Improving
+the academic performance of college students with brief
+attributional interventions. In J. Aronson (Ed.), Improving
+academic achievement: Impact of psychological factors on
+education (pp. 88–108). San Diego, CA: Academic Press.
+Wong, P. W., Fu, K. W., Chan, K. Y., Chan, W. S., Liu, P. M.,
+Law, Y. W., & Yip, P. S. (2012). Effectiveness of a universal school-based programme for preventing depression
+in Chinese adolescents: A quasi-experimental pilot study.
+Journal of Affective Disorders, 142, 106–114.
+Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote
+resilience: When students believe that personal characteristics can be developed. Educational Psychologist, 47, 1–13.
+Yeager, D. S., Johnson, R., Spitzer, B. J., Trzesniewski, K. H.,
+Powers, J., & Dweck, C. S. (2014). The far-reaching effects
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+Miu, Yeager
+
+18	
+of believing people can change: Implicit theories of personality shape stress, health, and achievement during adolescence. Journal of Personality and Social Psychology,
+106, 867–884.
+Yeager, D. S., Miu, A. S., Powers, J., & Dweck, C. S. (2013).
+Implicit theories of personality and attributions of hostile
+intent: A meta-analysis, an experiment, and a longitudinal
+intervention. Child Development, 84, 1651–1667.
+Yeager, D. S., Trzesniewski, K. H., & Dweck, C. S. (2013).
+An implicit theories of personality intervention reduces
+
+a­dolescent aggression in response to victimization and
+exclusion. Child Development, 84, 970–988.
+Yeager, D. S., Trzesniewski, K. H., Tirri, K., Nokelainen, P.,
+& Dweck, C. S. (2011). Adolescents’ implicit theories predict desire for vengeance after peer conflicts: Correlational
+and experimental evidence. Developmental Psychology, 47,
+1090–1107.
+Yeager, D. S., & Walton, G. M. (2011). Social-psychological
+interventions in education: They’re not magic. Review of
+Educational Research, 81, 267–301.
+
+Downloaded from cpx.sagepub.com at Stanford University Libraries on September 16, 2014
+
+
